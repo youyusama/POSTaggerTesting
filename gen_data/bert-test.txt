@@ -1,0 +1,2720 @@
+The other cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+other
+0.15648065507411957
+The main cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+main
+0.09147748351097107
+The terrorist cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+terrorist
+0.05007994547486305
+The remaining cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+remaining
+0.049490638077259064
+The rebel cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+rebel
+0.04866508021950722
+The largest cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+largest
+0.04506208375096321
+The two cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+two
+0.033508095890283585
+The armed cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+armed
+0.027866961434483528
+The militant cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+militant
+0.025253059342503548
+The first cells were operating in the Ghazaliyah and al - Jihad districts of the capital .
+2
+first
+0.023886393755674362
+The cells also were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+also
+0.2212003618478775
+The cells reportedly were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+reportedly
+0.14152543246746063
+The cells involved were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+involved
+0.03421611711382866
+The cells initially were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+initially
+0.03374088183045387
+The cells themselves were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+themselves
+0.029120570048689842
+The cells allegedly were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+allegedly
+0.026674946770071983
+The cells that were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+that
+0.02227901853621006
+The cells mainly were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+mainly
+0.018796149641275406
+The cells targeted were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+targeted
+0.018539026379585266
+The cells reported were operating in the Ghazaliyah and al - Jihad districts of the capital .
+3
+reported
+0.01850610040128231
+The cells were also operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+also
+0.42952993512153625
+The cells were mainly operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+mainly
+0.13079138100147247
+The cells were primarily operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+primarily
+0.06739611178636551
+The cells were mostly operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+mostly
+0.05905819684267044
+The cells were reportedly operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+reportedly
+0.05401621386408806
+The cells were found operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+found
+0.025549201294779778
+The cells were already operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+already
+0.024659136310219765
+The cells were initially operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+initially
+0.01656436175107956
+The cells were currently operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+currently
+0.015106827020645142
+The cells were still operating in the Ghazaliyah and al - Jihad districts of the capital .
+4
+still
+0.014768492430448532
+The cells were operating mainly in the Ghazaliyah and al - Jihad districts of the capital .
+5
+mainly
+0.5197028517723083
+The cells were operating primarily in the Ghazaliyah and al - Jihad districts of the capital .
+5
+primarily
+0.220632866024971
+The cells were operating mostly in the Ghazaliyah and al - Jihad districts of the capital .
+5
+mostly
+0.12068463861942291
+The cells were operating principally in the Ghazaliyah and al - Jihad districts of the capital .
+5
+principally
+0.01247432455420494
+The cells were operating simultaneously in the Ghazaliyah and al - Jihad districts of the capital .
+5
+simultaneously
+0.010881192982196808
+The cells were operating only in the Ghazaliyah and al - Jihad districts of the capital .
+5
+only
+0.01053463201969862
+The cells were operating largely in the Ghazaliyah and al - Jihad districts of the capital .
+5
+largely
+0.00811959058046341
+The cells were operating predominantly in the Ghazaliyah and al - Jihad districts of the capital .
+5
+predominantly
+0.0078028165735304356
+The cells were operating also in the Ghazaliyah and al - Jihad districts of the capital .
+5
+also
+0.006813965737819672
+The cells were operating independently in the Ghazaliyah and al - Jihad districts of the capital .
+5
+independently
+0.006646954454481602
+The cells were operating in both the Ghazaliyah and al - Jihad districts of the capital .
+6
+both
+0.9252262115478516
+The cells were operating in mainly the Ghazaliyah and al - Jihad districts of the capital .
+6
+mainly
+0.018810730427503586
+The cells were operating in between the Ghazaliyah and al - Jihad districts of the capital .
+6
+between
+0.009265311993658543
+The cells were operating in all the Ghazaliyah and al - Jihad districts of the capital .
+6
+all
+0.008999530225992203
+The cells were operating in only the Ghazaliyah and al - Jihad districts of the capital .
+6
+only
+0.004232678562402725
+The cells were operating in primarily the Ghazaliyah and al - Jihad districts of the capital .
+6
+primarily
+0.004159882199019194
+The cells were operating in mostly the Ghazaliyah and al - Jihad districts of the capital .
+6
+mostly
+0.004087394569069147
+The cells were operating in respectively the Ghazaliyah and al - Jihad districts of the capital .
+6
+respectively
+0.0022648486774414778
+The cells were operating in in the Ghazaliyah and al - Jihad districts of the capital .
+6
+in
+0.0014987605391070247
+The cells were operating in the the Ghazaliyah and al - Jihad districts of the capital .
+6
+the
+0.0014126936439424753
+The cells were operating in the Al Ghazaliyah and al - Jihad districts of the capital .
+7
+Al
+0.8282987475395203
+The cells were operating in the al Ghazaliyah and al - Jihad districts of the capital .
+7
+al
+0.04683944210410118
+The cells were operating in the Abu Ghazaliyah and al - Jihad districts of the capital .
+7
+Abu
+0.0396721325814724
+The cells were operating in the Ibn Ghazaliyah and al - Jihad districts of the capital .
+7
+Ibn
+0.006791433319449425
+The cells were operating in the northern Ghazaliyah and al - Jihad districts of the capital .
+7
+northern
+0.0031485403887927532
+The cells were operating in the ' Ghazaliyah and al - Jihad districts of the capital .
+7
+'
+0.003056808141991496
+The cells were operating in the eastern Ghazaliyah and al - Jihad districts of the capital .
+7
+eastern
+0.0029274749103933573
+The cells were operating in the El Ghazaliyah and al - Jihad districts of the capital .
+7
+El
+0.00278402934782207
+The cells were operating in the Ad Ghazaliyah and al - Jihad districts of the capital .
+7
+Ad
+0.002761868527159095
+The cells were operating in the central Ghazaliyah and al - Jihad districts of the capital .
+7
+central
+0.002364914398640394
+The cells were operating in the Ghazaliyah , and al - Jihad districts of the capital .
+8
+,
+0.33326882123947144
+The cells were operating in the Ghazaliyah district and al - Jihad districts of the capital .
+8
+district
+0.17793075740337372
+The cells were operating in the Ghazaliyah District and al - Jihad districts of the capital .
+8
+District
+0.04911807179450989
+The cells were operating in the Ghazaliyah neighborhood and al - Jihad districts of the capital .
+8
+neighborhood
+0.046170417219400406
+The cells were operating in the Ghazaliyah area and al - Jihad districts of the capital .
+8
+area
+0.04015136510133743
+The cells were operating in the Ghazaliyah neighbourhood and al - Jihad districts of the capital .
+8
+neighbourhood
+0.03321637958288193
+The cells were operating in the Ghazaliyah Street and al - Jihad districts of the capital .
+8
+Street
+0.01502393651753664
+The cells were operating in the Ghazaliyah North and al - Jihad districts of the capital .
+8
+North
+0.010778983123600483
+The cells were operating in the Ghazaliyah Governorate and al - Jihad districts of the capital .
+8
+Governorate
+0.008738785982131958
+The cells were operating in the Ghazaliyah East and al - Jihad districts of the capital .
+8
+East
+0.008593332953751087
+The cells were operating in the Ghazaliyah and Dar al - Jihad districts of the capital .
+9
+Dar
+0.7670839428901672
+The cells were operating in the Ghazaliyah and Abd al - Jihad districts of the capital .
+9
+Abd
+0.02564423903822899
+The cells were operating in the Ghazaliyah and Ban al - Jihad districts of the capital .
+9
+Ban
+0.024023013189435005
+The cells were operating in the Ghazaliyah and Ain al - Jihad districts of the capital .
+9
+Ain
+0.017015788704156876
+The cells were operating in the Ghazaliyah and Hat al - Jihad districts of the capital .
+9
+Hat
+0.00842611026018858
+The cells were operating in the Ghazaliyah and Jamal al - Jihad districts of the capital .
+9
+Jamal
+0.007800403516739607
+The cells were operating in the Ghazaliyah and Sad al - Jihad districts of the capital .
+9
+Sad
+0.00742688775062561
+The cells were operating in the Ghazaliyah and Ibn al - Jihad districts of the capital .
+9
+Ibn
+0.006080587860196829
+The cells were operating in the Ghazaliyah and the al - Jihad districts of the capital .
+9
+the
+0.005010654218494892
+The cells were operating in the Ghazaliyah and Bat al - Jihad districts of the capital .
+9
+Bat
+0.004958649165928364
+The cells were operating in the Ghazaliyah and al - - Jihad districts of the capital .
+10
+-
+0.6688002347946167
+The cells were operating in the Ghazaliyah and al Qaeda - Jihad districts of the capital .
+10
+Qaeda
+0.10389889031648636
+The cells were operating in the Ghazaliyah and al al - Jihad districts of the capital .
+10
+al
+0.08003242313861847
+The cells were operating in the Ghazaliyah and al ##i - Jihad districts of the capital .
+10
+##i
+0.022468145936727524
+The cells were operating in the Ghazaliyah and al ##a - Jihad districts of the capital .
+10
+##a
+0.021465932950377464
+The cells were operating in the Ghazaliyah and al ##hul - Jihad districts of the capital .
+10
+##hul
+0.012829488143324852
+The cells were operating in the Ghazaliyah and al ##h - Jihad districts of the capital .
+10
+##h
+0.007755052298307419
+The cells were operating in the Ghazaliyah and al Islam - Jihad districts of the capital .
+10
+Islam
+0.0043015507981181145
+The cells were operating in the Ghazaliyah and al Al - Jihad districts of the capital .
+10
+Al
+0.00340939755551517
+The cells were operating in the Ghazaliyah and al ##s - Jihad districts of the capital .
+10
+##s
+0.0029961697291582823
+The cells were operating in the Ghazaliyah and al - Islamic Jihad districts of the capital .
+11
+Islamic
+0.5196312665939331
+The cells were operating in the Ghazaliyah and al - Islam Jihad districts of the capital .
+11
+Islam
+0.17135243117809296
+The cells were operating in the Ghazaliyah and al - Rahman Jihad districts of the capital .
+11
+Rahman
+0.1586723029613495
+The cells were operating in the Ghazaliyah and al - Qaeda Jihad districts of the capital .
+11
+Qaeda
+0.05216941609978676
+The cells were operating in the Ghazaliyah and al - Muslim Jihad districts of the capital .
+11
+Muslim
+0.01749497465789318
+The cells were operating in the Ghazaliyah and al - Arab Jihad districts of the capital .
+11
+Arab
+0.014547535218298435
+The cells were operating in the Ghazaliyah and al - - Jihad districts of the capital .
+11
+-
+0.012887689284980297
+The cells were operating in the Ghazaliyah and al - Rashid Jihad districts of the capital .
+11
+Rashid
+0.011607645079493523
+The cells were operating in the Ghazaliyah and al - Imam Jihad districts of the capital .
+11
+Imam
+0.0046475655399262905
+The cells were operating in the Ghazaliyah and al - Hussein Jihad districts of the capital .
+11
+Hussein
+0.0038289381191134453
+The cells were operating in the Ghazaliyah and al - Jihad ##iya districts of the capital .
+12
+##iya
+0.5351309180259705
+The cells were operating in the Ghazaliyah and al - Jihad ##ah districts of the capital .
+12
+##ah
+0.12442919611930847
+The cells were operating in the Ghazaliyah and al - Jihad ##i districts of the capital .
+12
+##i
+0.07102864235639572
+The cells were operating in the Ghazaliyah and al - Jihad ##a districts of the capital .
+12
+##a
+0.06464635580778122
+The cells were operating in the Ghazaliyah and al - Jihad ##ia districts of the capital .
+12
+##ia
+0.024358626455068588
+The cells were operating in the Ghazaliyah and al - Jihad ##yah districts of the capital .
+12
+##yah
+0.022147901356220245
+The cells were operating in the Ghazaliyah and al - Jihad ##eh districts of the capital .
+12
+##eh
+0.012763378210365772
+The cells were operating in the Ghazaliyah and al - Jihad ##in districts of the capital .
+12
+##in
+0.012337642721831799
+The cells were operating in the Ghazaliyah and al - Jihad ##ih districts of the capital .
+12
+##ih
+0.007880233228206635
+The cells were operating in the Ghazaliyah and al - Jihad ##h districts of the capital .
+12
+##h
+0.007645253092050552
+The cells were operating in the Ghazaliyah and al - Jihad districts north of the capital .
+13
+north
+0.34184977412223816
+The cells were operating in the Ghazaliyah and al - Jihad districts south of the capital .
+13
+south
+0.2647441029548645
+The cells were operating in the Ghazaliyah and al - Jihad districts east of the capital .
+13
+east
+0.14254388213157654
+The cells were operating in the Ghazaliyah and al - Jihad districts west of the capital .
+13
+west
+0.11341375857591629
+The cells were operating in the Ghazaliyah and al - Jihad districts outside of the capital .
+13
+outside
+0.034461621195077896
+The cells were operating in the Ghazaliyah and al - Jihad districts northeast of the capital .
+13
+northeast
+0.024730024859309196
+The cells were operating in the Ghazaliyah and al - Jihad districts northwest of the capital .
+13
+northwest
+0.023902280256152153
+The cells were operating in the Ghazaliyah and al - Jihad districts southwest of the capital .
+13
+southwest
+0.02014477178454399
+The cells were operating in the Ghazaliyah and al - Jihad districts southeast of the capital .
+13
+southeast
+0.018591145053505898
+The cells were operating in the Ghazaliyah and al - Jihad districts out of the capital .
+13
+out
+0.0015845391899347305
+The cells were operating in the Ghazaliyah and al - Jihad districts of Baghdad the capital .
+14
+Baghdad
+0.668476402759552
+The cells were operating in the Ghazaliyah and al - Jihad districts of Damascus the capital .
+14
+Damascus
+0.13949282467365265
+The cells were operating in the Ghazaliyah and al - Jihad districts of Aleppo the capital .
+14
+Aleppo
+0.07618570327758789
+The cells were operating in the Ghazaliyah and al - Jihad districts of Beirut the capital .
+14
+Beirut
+0.018762746825814247
+The cells were operating in the Ghazaliyah and al - Jihad districts of Medina the capital .
+14
+Medina
+0.009259692393243313
+The cells were operating in the Ghazaliyah and al - Jihad districts of Iraq the capital .
+14
+Iraq
+0.008606110699474812
+The cells were operating in the Ghazaliyah and al - Jihad districts of Bahrain the capital .
+14
+Bahrain
+0.007076533976942301
+The cells were operating in the Ghazaliyah and al - Jihad districts of Syria the capital .
+14
+Syria
+0.006923763547092676
+The cells were operating in the Ghazaliyah and al - Jihad districts of Tehran the capital .
+14
+Tehran
+0.004963593557476997
+The cells were operating in the Ghazaliyah and al - Jihad districts of the the capital .
+14
+the
+0.0046824184246361256
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Iraqi capital .
+15
+Iraqi
+0.36854496598243713
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Syrian capital .
+15
+Syrian
+0.1313561350107193
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Saudi capital .
+15
+Saudi
+0.12678657472133636
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Lebanese capital .
+15
+Lebanese
+0.0758802592754364
+The cells were operating in the Ghazaliyah and al - Jihad districts of the provincial capital .
+15
+provincial
+0.07406094670295715
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Egyptian capital .
+15
+Egyptian
+0.05173809081315994
+The cells were operating in the Ghazaliyah and al - Jihad districts of the national capital .
+15
+national
+0.03412248194217682
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Baghdad capital .
+15
+Baghdad
+0.018607815727591515
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Libyan capital .
+15
+Libyan
+0.011958417482674122
+The cells were operating in the Ghazaliyah and al - Jihad districts of the Palestinian capital .
+15
+Palestinian
+0.010035310871899128
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Baghdad .
+16
+Baghdad
+0.6466780304908752
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Beirut .
+16
+Beirut
+0.11075792461633682
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Damascus .
+16
+Damascus
+0.08515046536922455
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital city .
+16
+city
+0.07051759958267212
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Medina .
+16
+Medina
+0.026504214853048325
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Cairo .
+16
+Cairo
+0.020743705332279205
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Tripoli .
+16
+Tripoli
+0.00960266962647438
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Aleppo .
+16
+Aleppo
+0.007246090564876795
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Tehran .
+16
+Tehran
+0.006289517506957054
+The cells were operating in the Ghazaliyah and al - Jihad districts of the capital Jerusalem .
+16
+Jerusalem
+0.004751109983772039
+Although , the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+,
+0.6511393189430237
+Although ... the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+...
+0.038353871554136276
+Although overall the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+overall
+0.021790610626339912
+Although while the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+while
+0.01912117190659046
+Although " the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+"
+0.018837226554751396
+Although that the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+that
+0.013471720740199089
+Although today the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+today
+0.012192095629870892
+Although technically the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+technically
+0.011566727422177792
+Although all the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+all
+0.011553309857845306
+Although acknowledging the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+2
+acknowledging
+0.01004298496991396
+Although the initial announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+initial
+0.10965581238269806
+Although the official announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+official
+0.06533114612102509
+Although the earlier announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+earlier
+0.04091864451766014
+Although the latest announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+latest
+0.019176984205842018
+Although the original announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+original
+0.018576789647340775
+Although the first announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+first
+0.018162941560149193
+Although the BBC announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+BBC
+0.01810084469616413
+Although the news announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+news
+0.017640890553593636
+Although the recent announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+recent
+0.01745656505227089
+Although the last announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+3
+last
+0.01692705973982811
+Although the announcement itself was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+itself
+0.26840123534202576
+Although the announcement today was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+today
+0.2673545777797699
+Although the announcement ##s was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+##s
+0.120252326130867
+Although the announcement here was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+here
+0.04362962022423744
+Although the announcement that was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+that
+0.04263556748628616
+Although the announcement yesterday was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+yesterday
+0.030229801312088966
+Although the announcement ... was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+...
+0.02643982321023941
+Although the announcement above was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+above
+0.01337853167206049
+Although the announcement , was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+,
+0.011753598228096962
+Although the announcement there was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+4
+there
+0.011056383140385151
+Although the announcement was most probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+most
+0.846856415271759
+Although the announcement was very probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+very
+0.05101200193166733
+Although the announcement was quite probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+quite
+0.019954977557063103
+Although the announcement was more probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+more
+0.014571469277143478
+Although the announcement was " probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+"
+0.010662789456546307
+Although the announcement was also probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+also
+0.009632733650505543
+Although the announcement was so probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+so
+0.003073206404224038
+Although the announcement was originally probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+originally
+0.002931629540398717
+Although the announcement was first probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+first
+0.0018924269825220108
+Although the announcement was ... probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+5
+...
+0.0015491461381316185
+Although the announcement was probably only made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+only
+0.3763158619403839
+Although the announcement was probably just made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+just
+0.12193930149078369
+Although the announcement was probably first made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+first
+0.04998025670647621
+Although the announcement was probably deliberately made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+deliberately
+0.0386086031794548
+Although the announcement was probably simply made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+simply
+0.03857974708080292
+Although the announcement was probably also made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+also
+0.035458892583847046
+Although the announcement was probably not made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+not
+0.0352117158472538
+Although the announcement was probably originally made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+originally
+0.030063850805163383
+Although the announcement was probably being made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+being
+0.029996750876307487
+Although the announcement was probably merely made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+6
+merely
+0.01880502887070179
+Although the announcement was probably made just to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+just
+0.11491785198450089
+Although the announcement was probably made partly to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+partly
+0.11365529894828796
+Although the announcement was probably made simply to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+simply
+0.1037418320775032
+Although the announcement was probably made primarily to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+primarily
+0.08447538316249847
+Although the announcement was probably made only to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+only
+0.07949203252792358
+Although the announcement was probably made specifically to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+specifically
+0.04985150694847107
+Although the announcement was probably made purely to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+purely
+0.035726308822631836
+Although the announcement was probably made merely to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+merely
+0.03302804380655289
+Although the announcement was probably made mainly to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+mainly
+0.028513338416814804
+Although the announcement was probably made solely to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+7
+solely
+0.02642918936908245
+Although the announcement was probably made to help show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+help
+0.503744900226593
+Although the announcement was probably made to clearly show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+clearly
+0.06992541253566742
+Although the announcement was probably made to further show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+further
+0.06165878102183342
+Although the announcement was probably made to " show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+"
+0.047424398362636566
+Although the announcement was probably made to simply show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+simply
+0.02120094746351242
+Although the announcement was probably made to publicly show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+publicly
+0.016751732677221298
+Although the announcement was probably made to finally show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+finally
+0.012568599544465542
+Although the announcement was probably made to really show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+really
+0.01205199770629406
+Although the announcement was probably made to just show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+just
+0.01203310489654541
+Although the announcement was probably made to actually show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+8
+actually
+0.010714208707213402
+Although the announcement was probably made to show some progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+some
+0.35297971963882446
+Although the announcement was probably made to show our progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+our
+0.0785931721329689
+Although the announcement was probably made to show Iraqi progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+Iraqi
+0.06304830312728882
+Although the announcement was probably made to show more progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+more
+0.033210087567567825
+Although the announcement was probably made to show significant progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+significant
+0.025945769622921944
+Although the announcement was probably made to show further progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+further
+0.025314612314105034
+Although the announcement was probably made to show recent progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+recent
+0.0219295434653759
+Although the announcement was probably made to show the progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+the
+0.02172100730240345
+Although the announcement was probably made to show Iraq progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+Iraq
+0.02016371488571167
+Although the announcement was probably made to show American progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+9
+American
+0.019245726987719536
+Although the announcement was probably made to show progress made in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+made
+0.9078181385993958
+Although the announcement was probably made to show progress making in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+making
+0.006181077100336552
+Although the announcement was probably made to show progress , in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+,
+0.005000034812837839
+Although the announcement was probably made to show progress here in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+here
+0.0031201872043311596
+Although the announcement was probably made to show progress elsewhere in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+elsewhere
+0.0030249478295445442
+Although the announcement was probably made to show progress ahead in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+ahead
+0.0028711939230561256
+Although the announcement was probably made to show progress both in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+both
+0.002797643421217799
+Although the announcement was probably made to show progress now in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+now
+0.0026182064320892096
+Although the announcement was probably made to show progress immediately in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+immediately
+0.0025859023444354534
+Although the announcement was probably made to show progress done in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+10
+done
+0.0025507889222353697
+Although the announcement was probably made to show progress in systematically identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+systematically
+0.21261531114578247
+Although the announcement was probably made to show progress in both identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+both
+0.10862548649311066
+Although the announcement was probably made to show progress in rapidly identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+rapidly
+0.0737701803445816
+Although the announcement was probably made to show progress in effectively identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+effectively
+0.0626453310251236
+Although the announcement was probably made to show progress in the identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+the
+0.04687517508864403
+Although the announcement was probably made to show progress in actively identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+actively
+0.035271015018224716
+Although the announcement was probably made to show progress in quickly identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+quickly
+0.03222876042127609
+Although the announcement was probably made to show progress in further identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+further
+0.031205175444483757
+Although the announcement was probably made to show progress in successfully identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+successfully
+0.026198022067546844
+Although the announcement was probably made to show progress in " identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+11
+"
+0.02613927610218525
+Although the announcement was probably made to show progress in identifying terrorists and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+terrorists
+0.48780983686447144
+Although the announcement was probably made to show progress in identifying insurgents and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+insurgents
+0.07560640573501587
+Although the announcement was probably made to show progress in identifying threats and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+threats
+0.06760324537754059
+Although the announcement was probably made to show progress in identifying targets and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+targets
+0.054906249046325684
+Although the announcement was probably made to show progress in identifying weaknesses and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+weaknesses
+0.042966973036527634
+Although the announcement was probably made to show progress in identifying suspects and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+suspects
+0.03757641464471817
+Although the announcement was probably made to show progress in identifying militants and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+militants
+0.03200140595436096
+Although the announcement was probably made to show progress in identifying terrorism and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+terrorism
+0.028134390711784363
+Although the announcement was probably made to show progress in identifying criminals and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+criminals
+0.017292644828557968
+Although the announcement was probably made to show progress in identifying enemies and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+12
+enemies
+0.013710352592170238
+Although the announcement was probably made to show progress in identifying and then breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+then
+0.1663721203804016
+Although the announcement was probably made to show progress in identifying and effectively breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+effectively
+0.11865000426769257
+Although the announcement was probably made to show progress in identifying and systematically breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+systematically
+0.08391300588846207
+Although the announcement was probably made to show progress in identifying and eventually breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+eventually
+0.06111360341310501
+Although the announcement was probably made to show progress in identifying and successfully breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+successfully
+0.036919523030519485
+Although the announcement was probably made to show progress in identifying and quickly breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+quickly
+0.02819354087114334
+Although the announcement was probably made to show progress in identifying and possibly breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+possibly
+0.027448926120996475
+Although the announcement was probably made to show progress in identifying and rapidly breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+rapidly
+0.026524409651756287
+Although the announcement was probably made to show progress in identifying and even breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+even
+0.026339160278439522
+Although the announcement was probably made to show progress in identifying and ultimately breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+13
+ultimately
+0.023783059790730476
+Although the announcement was probably made to show progress in identifying and breaking - up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+-
+0.9844270348548889
+Although the announcement was probably made to show progress in identifying and breaking back up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+back
+0.00523903826251626
+Although the announcement was probably made to show progress in identifying and breaking top up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+top
+0.0013804191257804632
+Although the announcement was probably made to show progress in identifying and breaking further up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+further
+0.001338102505542338
+Although the announcement was probably made to show progress in identifying and breaking the up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+the
+0.0011878005461767316
+Although the announcement was probably made to show progress in identifying and breaking these up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+these
+0.0007646917947567999
+Although the announcement was probably made to show progress in identifying and breaking them up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+them
+0.0007639716495759785
+Although the announcement was probably made to show progress in identifying and breaking . up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+.
+0.0002735437301453203
+Although the announcement was probably made to show progress in identifying and breaking ... up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+...
+0.00026065806741826236
+Although the announcement was probably made to show progress in identifying and breaking " up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+14
+"
+0.0001949910947587341
+Although the announcement was probably made to show progress in identifying and breaking up the terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+the
+0.5620750188827515
+Although the announcement was probably made to show progress in identifying and breaking up Iraqi terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+Iraqi
+0.055505767464637756
+Although the announcement was probably made to show progress in identifying and breaking up these terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+these
+0.05064583569765091
+Although the announcement was probably made to show progress in identifying and breaking up Islamic terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+Islamic
+0.030530868098139763
+Although the announcement was probably made to show progress in identifying and breaking up Sunni terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+Sunni
+0.011919468641281128
+Although the announcement was probably made to show progress in identifying and breaking up Kurdish terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+Kurdish
+0.011558443307876587
+Although the announcement was probably made to show progress in identifying and breaking up other terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+other
+0.010788644663989544
+Although the announcement was probably made to show progress in identifying and breaking up local terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+local
+0.01045100949704647
+Although the announcement was probably made to show progress in identifying and breaking up suspected terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+suspected
+0.01026218943297863
+Although the announcement was probably made to show progress in identifying and breaking up ISIL terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+15
+ISIL
+0.009903445839881897
+Although the announcement was probably made to show progress in identifying and breaking up terror cell cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+cell
+0.19343647360801697
+Although the announcement was probably made to show progress in identifying and breaking up terror ##ised cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+##ised
+0.15360935032367706
+Although the announcement was probably made to show progress in identifying and breaking up terror ##ized cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+##ized
+0.12055372446775436
+Although the announcement was probably made to show progress in identifying and breaking up terror armed cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+armed
+0.07103599607944489
+Although the announcement was probably made to show progress in identifying and breaking up terror financing cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+financing
+0.06819039583206177
+Although the announcement was probably made to show progress in identifying and breaking up terror ##ist cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+##ist
+0.062248315662145615
+Although the announcement was probably made to show progress in identifying and breaking up terror - cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+-
+0.043253399431705475
+Although the announcement was probably made to show progress in identifying and breaking up terror terrorist cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+terrorist
+0.019881758838891983
+Although the announcement was probably made to show progress in identifying and breaking up terror bomber cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+bomber
+0.017347034066915512
+Although the announcement was probably made to show progress in identifying and breaking up terror oriented cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+16
+oriented
+0.012323880568146706
+Although the announcement was probably made to show progress in identifying and breaking up terror cells abroad , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+abroad
+0.3012425899505615
+Although the announcement was probably made to show progress in identifying and breaking up terror cells overseas , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+overseas
+0.143715962767601
+Although the announcement was probably made to show progress in identifying and breaking up terror cells worldwide , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+worldwide
+0.12969225645065308
+Although the announcement was probably made to show progress in identifying and breaking up terror cells nationwide , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+nationwide
+0.12536634504795074
+Although the announcement was probably made to show progress in identifying and breaking up terror cells elsewhere , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+elsewhere
+0.03736921772360802
+Although the announcement was probably made to show progress in identifying and breaking up terror cells there , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+there
+0.026259152218699455
+Although the announcement was probably made to show progress in identifying and breaking up terror cells again , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+again
+0.02591201849281788
+Although the announcement was probably made to show progress in identifying and breaking up terror cells everywhere , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+everywhere
+0.020253857597708702
+Although the announcement was probably made to show progress in identifying and breaking up terror cells internationally , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+internationally
+0.01903868094086647
+Although the announcement was probably made to show progress in identifying and breaking up terror cells globally , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+17
+globally
+0.012415495701134205
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , " I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+"
+0.19112439453601837
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , ... I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+...
+0.10095839202404022
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , personally I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+personally
+0.09972225874662399
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , today I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+today
+0.06281533092260361
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , ' I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+'
+0.0428767167031765
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , but I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+but
+0.030529897660017014
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , and I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+and
+0.02897854521870613
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , now I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+now
+0.023773331195116043
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , frankly I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+frankly
+0.023449508473277092
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , unfortunately I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+18
+unfortunately
+0.022016657516360283
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I still do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+still
+0.2944931089878082
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I personally do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+personally
+0.19869565963745117
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I also do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+also
+0.09278079122304916
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I really do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+really
+0.07534922659397125
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I just do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+just
+0.03658818081021309
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I certainly do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+certainly
+0.03236955404281616
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I honestly do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+honestly
+0.01979018561542034
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I generally do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+generally
+0.016542164608836174
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I frankly do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+frankly
+0.012011021375656128
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I sure do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+19
+sure
+0.00981615949422121
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do ' n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+'
+0.9384244680404663
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do have n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+have
+0.0038140369579195976
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do not n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+not
+0.0021265505347400904
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do - n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+-
+0.0021210352424532175
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do . n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+.
+0.0016744490712881088
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do ? n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+?
+0.0015738432994112372
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do go n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+go
+0.0015588377136737108
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+do
+0.0012538000009953976
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do say n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+say
+0.0012429453199729323
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do seem n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+20
+seem
+0.001218905788846314
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't really find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+really
+0.3017963767051697
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't actually find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+actually
+0.08228635787963867
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't necessarily find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+necessarily
+0.07602322846651077
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't personally find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+personally
+0.04644707590341568
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't exactly find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+exactly
+0.04090973362326622
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't always find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+always
+0.03676849603652954
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't particularly find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+particularly
+0.02844320982694626
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't also find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+also
+0.023561837151646614
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't yet find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+yet
+0.016968220472335815
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't myself find the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+21
+myself
+0.016926215961575508
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find in the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+in
+0.31267160177230835
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find all the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+all
+0.12263911962509155
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find that the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+that
+0.11013847589492798
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find on the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+on
+0.06747889518737793
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find hearing the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+hearing
+0.05749531090259552
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find from the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+from
+0.030248908326029778
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find reading the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+reading
+0.027147911489009857
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find making the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+making
+0.020279396325349808
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find even the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+even
+0.013136487454175949
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find by the news that the Baathists continue to penetrate the Iraqi government very hopeful .
+22
+by
+0.00927809625864029
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the recent news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+recent
+0.5327509045600891
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the latest news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+latest
+0.07368235290050507
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the new news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+new
+0.05138268321752548
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the current news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+current
+0.034892190247774124
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the sad news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+sad
+0.01928420551121235
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the shocking news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+shocking
+0.012944742105901241
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the good news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+good
+0.009038015268743038
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the other news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+other
+0.007987149059772491
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the disturbing news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+disturbing
+0.007727086078375578
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the further news that the Baathists continue to penetrate the Iraqi government very hopeful .
+23
+further
+0.006731693167239428
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news report that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+report
+0.14202214777469635
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news reporting that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+reporting
+0.10976222902536392
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news showing that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+showing
+0.07649604976177216
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news reports that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+reports
+0.06404945254325867
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news saying that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+saying
+0.06253109127283096
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news indicating that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+indicating
+0.05365753918886185
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news claiming that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+claiming
+0.03791848570108414
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news now that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+now
+0.023856984451413155
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news today that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+today
+0.02374064363539219
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news stating that the Baathists continue to penetrate the Iraqi government very hopeful .
+24
+stating
+0.02363789640367031
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that suggests the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+suggests
+0.19867362082004547
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that says the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+says
+0.15580424666404724
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that shows the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+shows
+0.09669826179742813
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that claims the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+claims
+0.09527047723531723
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that indicates the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+indicates
+0.06298105418682098
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that that the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+that
+0.04417009279131889
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that confirms the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+confirms
+0.019102582708001137
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that means the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+means
+0.015017474070191383
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that states the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+states
+0.014356816187500954
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that said the Baathists continue to penetrate the Iraqi government very hopeful .
+25
+said
+0.011317797936499119
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the radical Baathists continue to penetrate the Iraqi government very hopeful .
+26
+radical
+0.22519847750663757
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Iraqi Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Iraqi
+0.19160106778144836
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Sunni Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Sunni
+0.10332287847995758
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the militant Baathists continue to penetrate the Iraqi government very hopeful .
+26
+militant
+0.09746608138084412
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Shia Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Shia
+0.04831722006201744
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Iranian Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Iranian
+0.041284576058387756
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Kurdish Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Kurdish
+0.03956853598356247
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Islamic Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Islamic
+0.029960844665765762
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Syrian Baathists continue to penetrate the Iraqi government very hopeful .
+26
+Syrian
+0.018179329112172127
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the alleged Baathists continue to penetrate the Iraqi government very hopeful .
+26
+alleged
+0.013413535431027412
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists will continue to penetrate the Iraqi government very hopeful .
+27
+will
+0.6380260586738586
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists may continue to penetrate the Iraqi government very hopeful .
+27
+may
+0.12927423417568207
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists would continue to penetrate the Iraqi government very hopeful .
+27
+would
+0.08096110820770264
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists might continue to penetrate the Iraqi government very hopeful .
+27
+might
+0.051588840782642365
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists could continue to penetrate the Iraqi government very hopeful .
+27
+could
+0.03406797721982002
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists can continue to penetrate the Iraqi government very hopeful .
+27
+can
+0.022097870707511902
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists still continue to penetrate the Iraqi government very hopeful .
+27
+still
+0.010429727844893932
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists do continue to penetrate the Iraqi government very hopeful .
+27
+do
+0.006208844482898712
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists shall continue to penetrate the Iraqi government very hopeful .
+27
+shall
+0.002176985377445817
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists did continue to penetrate the Iraqi government very hopeful .
+27
+did
+0.0016130146104842424
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue trying to penetrate the Iraqi government very hopeful .
+28
+trying
+0.6853976249694824
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue attempting to penetrate the Iraqi government very hopeful .
+28
+attempting
+0.11568688601255417
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue working to penetrate the Iraqi government very hopeful .
+28
+working
+0.03452924266457558
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue efforts to penetrate the Iraqi government very hopeful .
+28
+efforts
+0.03159423545002937
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue attempts to penetrate the Iraqi government very hopeful .
+28
+attempts
+0.02949884533882141
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue seeking to penetrate the Iraqi government very hopeful .
+28
+seeking
+0.016505980864167213
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue fighting to penetrate the Iraqi government very hopeful .
+28
+fighting
+0.006740035489201546
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue continuing to penetrate the Iraqi government very hopeful .
+28
+continuing
+0.006694462615996599
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue operations to penetrate the Iraqi government very hopeful .
+28
+operations
+0.004878986161202192
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue actively to penetrate the Iraqi government very hopeful .
+28
+actively
+0.004172087647020817
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to illegally penetrate the Iraqi government very hopeful .
+29
+illegally
+0.15652449429035187
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to actively penetrate the Iraqi government very hopeful .
+29
+actively
+0.13610799610614777
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to successfully penetrate the Iraqi government very hopeful .
+29
+successfully
+0.11224312335252762
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to secretly penetrate the Iraqi government very hopeful .
+29
+secretly
+0.09276396036148071
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to systematically penetrate the Iraqi government very hopeful .
+29
+systematically
+0.06331396847963333
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to deeply penetrate the Iraqi government very hopeful .
+29
+deeply
+0.03148400038480759
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to somehow penetrate the Iraqi government very hopeful .
+29
+somehow
+0.027004143223166466
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to slowly penetrate the Iraqi government very hopeful .
+29
+slowly
+0.02538701891899109
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to directly penetrate the Iraqi government very hopeful .
+29
+directly
+0.022229531779885292
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to aggressively penetrate the Iraqi government very hopeful .
+29
+aggressively
+0.015407980419695377
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate into the Iraqi government very hopeful .
+30
+into
+0.8155117034912109
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate within the Iraqi government very hopeful .
+30
+within
+0.07633670419454575
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate inside the Iraqi government very hopeful .
+30
+inside
+0.035185229033231735
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate in the Iraqi government very hopeful .
+30
+in
+0.020306380465626717
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate and the Iraqi government very hopeful .
+30
+and
+0.014742229133844376
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate to the Iraqi government very hopeful .
+30
+to
+0.009236191399395466
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate through the Iraqi government very hopeful .
+30
+through
+0.007929245941340923
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate even the Iraqi government very hopeful .
+30
+even
+0.0025504506193101406
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate under the Iraqi government very hopeful .
+30
+under
+0.002274869242683053
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate beyond the Iraqi government very hopeful .
+30
+beyond
+0.00194253190420568
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the current Iraqi government very hopeful .
+31
+current
+0.6113473176956177
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the present Iraqi government very hopeful .
+31
+present
+0.08759313076734543
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the new Iraqi government very hopeful .
+31
+new
+0.053248949348926544
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the modern Iraqi government very hopeful .
+31
+modern
+0.04040252044796944
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the central Iraqi government very hopeful .
+31
+central
+0.03932451084256172
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the legitimate Iraqi government very hopeful .
+31
+legitimate
+0.025685224682092667
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the existing Iraqi government very hopeful .
+31
+existing
+0.013275837525725365
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the entire Iraqi government very hopeful .
+31
+entire
+0.010788395069539547
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the secular Iraqi government very hopeful .
+31
+secular
+0.009792247787117958
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi Iraqi government very hopeful .
+31
+Iraqi
+0.009354652836918831
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi central government very hopeful .
+32
+central
+0.2812581956386566
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi national government very hopeful .
+32
+national
+0.1196293756365776
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi interim government very hopeful .
+32
+interim
+0.1163979172706604
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi federal government very hopeful .
+32
+federal
+0.05527469515800476
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi civilian government very hopeful .
+32
+civilian
+0.03916233405470848
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi Iraqi government very hopeful .
+32
+Iraqi
+0.030325837433338165
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi military government very hopeful .
+32
+military
+0.02584841288626194
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi transitional government very hopeful .
+32
+transitional
+0.025325236842036247
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi current government very hopeful .
+32
+current
+0.025300808250904083
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi civil government very hopeful .
+32
+civil
+0.01674044504761696
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government , very hopeful .
+33
+,
+0.08482753485441208
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government so very hopeful .
+33
+so
+0.07120056450366974
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government sector very hopeful .
+33
+sector
+0.04370475932955742
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government yet very hopeful .
+33
+yet
+0.04243668541312218
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government ... very hopeful .
+33
+...
+0.034958139061927795
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government any very hopeful .
+33
+any
+0.02983289211988449
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very very hopeful .
+33
+very
+0.029018238186836243
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government ] very hopeful .
+33
+]
+0.025582702830433846
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government system very hopeful .
+33
+system
+0.020376039668917656
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government lobby very hopeful .
+33
+lobby
+0.013765295967459679
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very much hopeful .
+34
+much
+0.49057236313819885
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very very hopeful .
+34
+very
+0.1326296627521515
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very particularly hopeful .
+34
+particularly
+0.08173126727342606
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very ... hopeful .
+34
+...
+0.065038301050663
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very strongly hopeful .
+34
+strongly
+0.013981797732412815
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very highly hopeful .
+34
+highly
+0.009950564242899418
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very truly hopeful .
+34
+truly
+0.009658629074692726
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very well hopeful .
+34
+well
+0.007754882797598839
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very politically hopeful .
+34
+politically
+0.00755712203681469
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very overly hopeful .
+34
+overly
+0.007490650285035372
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful either .
+35
+either
+0.8556338548660278
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful indeed .
+35
+indeed
+0.044789869338274
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful news .
+35
+news
+0.01921016536653042
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful " .
+35
+"
+0.015372676774859428
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful today .
+35
+today
+0.014095249585807323
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful yet .
+35
+yet
+0.008315222337841988
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful though .
+35
+though
+0.002910275710746646
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful anymore .
+35
+anymore
+0.002385606523603201
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful ' .
+35
+'
+0.0023208053316920996
+Although the announcement was probably made to show progress in identifying and breaking up terror cells , I do n't find the news that the Baathists continue to penetrate the Iraqi government very hopeful now .
+35
+now
+0.002166585298255086
+It just reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+just
+0.3411417603492737
+It all reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+all
+0.2955716550350189
+It also reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+also
+0.171260267496109
+It still reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+still
+0.07337263971567154
+It probably reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+probably
+0.022852981463074684
+It almost reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+almost
+0.01263273973017931
+It always reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+always
+0.009642007760703564
+It really reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+really
+0.006205597426742315
+It certainly reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+certainly
+0.005854037590324879
+It only reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+2
+only
+0.004854695405811071
+It reminds even me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+even
+0.5777832269668579
+It reminds of me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+of
+0.26643237471580505
+It reminds to me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+to
+0.06001326069235802
+It reminds ' me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+'
+0.016830068081617355
+It reminds on me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+on
+0.014080580323934555
+It reminds ##s me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+##s
+0.005912097170948982
+It reminds - me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+-
+0.005537147168070078
+It reminds , me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+,
+0.003837350057438016
+It reminds in me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+in
+0.0038324713241308928
+It reminds for me too much of the ARVN officers who were secretly working for the other side in Vietnam .
+3
+for
+0.003580371616408229
+It reminds me all too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+all
+0.4574943482875824
+It reminds me far too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+far
+0.23698057234287262
+It reminds me way too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+way
+0.14585170149803162
+It reminds me entirely too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+entirely
+0.03378282114863396
+It reminds me much too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+much
+0.024478835985064507
+It reminds me almost too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+almost
+0.02108580246567726
+It reminds me only too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+only
+0.016475850716233253
+It reminds me perhaps too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+perhaps
+0.013901527039706707
+It reminds me none too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+none
+0.008198875002563
+It reminds me , too much of the ARVN officers who were secretly working for the other side in Vietnam .
+4
+,
+0.004556403029710054
+It reminds me too - much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+-
+0.30154114961624146
+It reminds me too , much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+,
+0.20743384957313538
+It reminds me too very much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+very
+0.19653381407260895
+It reminds me too damn much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+damn
+0.16425839066505432
+It reminds me too damned much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+damned
+0.05448165535926819
+It reminds me too ... much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+...
+0.020373709499835968
+It reminds me too bloody much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+bloody
+0.009952893480658531
+It reminds me too fucking much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+fucking
+0.005656943656504154
+It reminds me too too much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+too
+0.004216885194182396
+It reminds me too ; much of the ARVN officers who were secretly working for the other side in Vietnam .
+5
+;
+0.002572224708274007
+It reminds me too much , of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+,
+0.38383907079696655
+It reminds me too much now of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+now
+0.16430900990962982
+It reminds me too much ... of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+...
+0.10525157302618027
+It reminds me too much - of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+-
+0.097418874502182
+It reminds me too much ; of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+;
+0.04294910654425621
+It reminds me too much : of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+:
+0.03568679839372635
+It reminds me too much today of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+today
+0.02086067944765091
+It reminds me too much lately of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+lately
+0.01312706246972084
+It reminds me too much because of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+because
+0.012657529674470425
+It reminds me too much sometimes of the ARVN officers who were secretly working for the other side in Vietnam .
+6
+sometimes
+0.009494555182754993
+It reminds me too much of all the ARVN officers who were secretly working for the other side in Vietnam .
+7
+all
+0.9870405793190002
+It reminds me too much of seeing the ARVN officers who were secretly working for the other side in Vietnam .
+7
+seeing
+0.0021293810568749905
+It reminds me too much of watching the ARVN officers who were secretly working for the other side in Vietnam .
+7
+watching
+0.0020997815299779177
+It reminds me too much of killing the ARVN officers who were secretly working for the other side in Vietnam .
+7
+killing
+0.0011305413208901882
+It reminds me too much of al the ARVN officers who were secretly working for the other side in Vietnam .
+7
+al
+0.0005932672647759318
+It reminds me too much of ... the ARVN officers who were secretly working for the other side in Vietnam .
+7
+...
+0.00048644476919434965
+It reminds me too much of meeting the ARVN officers who were secretly working for the other side in Vietnam .
+7
+meeting
+0.0004119055229239166
+It reminds me too much of how the ARVN officers who were secretly working for the other side in Vietnam .
+7
+how
+0.00023956954828463495
+It reminds me too much of losing the ARVN officers who were secretly working for the other side in Vietnam .
+7
+losing
+0.00021559910965152085
+It reminds me too much of half the ARVN officers who were secretly working for the other side in Vietnam .
+7
+half
+0.00021419669792521745
+It reminds me too much of the former ARVN officers who were secretly working for the other side in Vietnam .
+8
+former
+0.20423145592212677
+It reminds me too much of the old ARVN officers who were secretly working for the other side in Vietnam .
+8
+old
+0.06868600845336914
+It reminds me too much of the young ARVN officers who were secretly working for the other side in Vietnam .
+8
+young
+0.06857174634933472
+It reminds me too much of the two ARVN officers who were secretly working for the other side in Vietnam .
+8
+two
+0.04095890372991562
+It reminds me too much of the corrupt ARVN officers who were secretly working for the other side in Vietnam .
+8
+corrupt
+0.03217962384223938
+It reminds me too much of the captured ARVN officers who were secretly working for the other side in Vietnam .
+8
+captured
+0.028885161504149437
+It reminds me too much of the many ARVN officers who were secretly working for the other side in Vietnam .
+8
+many
+0.025318225845694542
+It reminds me too much of the three ARVN officers who were secretly working for the other side in Vietnam .
+8
+three
+0.020476084202528
+It reminds me too much of the dead ARVN officers who were secretly working for the other side in Vietnam .
+8
+dead
+0.019351251423358917
+It reminds me too much of the American ARVN officers who were secretly working for the other side in Vietnam .
+8
+American
+0.01902710646390915
+It reminds me too much of the ARVN intelligence officers who were secretly working for the other side in Vietnam .
+9
+intelligence
+0.23064929246902466
+It reminds me too much of the ARVN military officers who were secretly working for the other side in Vietnam .
+9
+military
+0.10722639411687851
+It reminds me too much of the ARVN army officers who were secretly working for the other side in Vietnam .
+9
+army
+0.09240046888589859
+It reminds me too much of the ARVN liaison officers who were secretly working for the other side in Vietnam .
+9
+liaison
+0.08446521311998367
+It reminds me too much of the ARVN police officers who were secretly working for the other side in Vietnam .
+9
+police
+0.049457743763923645
+It reminds me too much of the ARVN Army officers who were secretly working for the other side in Vietnam .
+9
+Army
+0.04098150506615639
+It reminds me too much of the ARVN staff officers who were secretly working for the other side in Vietnam .
+9
+staff
+0.029777908697724342
+It reminds me too much of the ARVN security officers who were secretly working for the other side in Vietnam .
+9
+security
+0.02634563483297825
+It reminds me too much of the ARVN naval officers who were secretly working for the other side in Vietnam .
+9
+naval
+0.022084809839725494
+It reminds me too much of the ARVN junior officers who were secretly working for the other side in Vietnam .
+9
+junior
+0.020873375236988068
+It reminds me too much of the ARVN officers , who were secretly working for the other side in Vietnam .
+10
+,
+0.9725138545036316
+It reminds me too much of the ARVN officers here who were secretly working for the other side in Vietnam .
+10
+here
+0.008113893680274487
+It reminds me too much of the ARVN officers there who were secretly working for the other side in Vietnam .
+10
+there
+0.004071250557899475
+It reminds me too much of the ARVN officers ... who were secretly working for the other side in Vietnam .
+10
+...
+0.0027251774445176125
+It reminds me too much of the ARVN officers - who were secretly working for the other side in Vietnam .
+10
+-
+0.0025115185417234898
+It reminds me too much of the ARVN officers themselves who were secretly working for the other side in Vietnam .
+10
+themselves
+0.002300344407558441
+It reminds me too much of the ARVN officers ' who were secretly working for the other side in Vietnam .
+10
+'
+0.0011296197772026062
+It reminds me too much of the ARVN officers then who were secretly working for the other side in Vietnam .
+10
+then
+0.00043749288306571543
+It reminds me too much of the ARVN officers overseas who were secretly working for the other side in Vietnam .
+10
+overseas
+0.0003629311395343393
+It reminds me too much of the ARVN officers ; who were secretly working for the other side in Vietnam .
+10
+;
+0.0003601863281801343
+It reminds me too much of the ARVN officers who once were secretly working for the other side in Vietnam .
+11
+once
+0.26368239521980286
+It reminds me too much of the ARVN officers who supposedly were secretly working for the other side in Vietnam .
+11
+supposedly
+0.11056079715490341
+It reminds me too much of the ARVN officers who apparently were secretly working for the other side in Vietnam .
+11
+apparently
+0.06419782340526581
+It reminds me too much of the ARVN officers who actually were secretly working for the other side in Vietnam .
+11
+actually
+0.04504591226577759
+It reminds me too much of the ARVN officers who really were secretly working for the other side in Vietnam .
+11
+really
+0.029785143211483955
+It reminds me too much of the ARVN officers who all were secretly working for the other side in Vietnam .
+11
+all
+0.02738817036151886
+It reminds me too much of the ARVN officers who allegedly were secretly working for the other side in Vietnam .
+11
+allegedly
+0.023339442908763885
+It reminds me too much of the ARVN officers who too were secretly working for the other side in Vietnam .
+11
+too
+0.022961147129535675
+It reminds me too much of the ARVN officers who still were secretly working for the other side in Vietnam .
+11
+still
+0.022383758798241615
+It reminds me too much of the ARVN officers who also were secretly working for the other side in Vietnam .
+11
+also
+0.02064053900539875
+It reminds me too much of the ARVN officers who were still secretly working for the other side in Vietnam .
+12
+still
+0.232895627617836
+It reminds me too much of the ARVN officers who were all secretly working for the other side in Vietnam .
+12
+all
+0.1695413589477539
+It reminds me too much of the ARVN officers who were then secretly working for the other side in Vietnam .
+12
+then
+0.12189371138811111
+It reminds me too much of the ARVN officers who were also secretly working for the other side in Vietnam .
+12
+also
+0.11395546048879623
+It reminds me too much of the ARVN officers who were once secretly working for the other side in Vietnam .
+12
+once
+0.03952402621507645
+It reminds me too much of the ARVN officers who were now secretly working for the other side in Vietnam .
+12
+now
+0.03599280118942261
+It reminds me too much of the ARVN officers who were always secretly working for the other side in Vietnam .
+12
+always
+0.03299051150679588
+It reminds me too much of the ARVN officers who were supposedly secretly working for the other side in Vietnam .
+12
+supposedly
+0.02383098006248474
+It reminds me too much of the ARVN officers who were probably secretly working for the other side in Vietnam .
+12
+probably
+0.02006601355969906
+It reminds me too much of the ARVN officers who were actually secretly working for the other side in Vietnam .
+12
+actually
+0.019158320501446724
+It reminds me too much of the ARVN officers who were secretly secretly working for the other side in Vietnam .
+13
+secretly
+0.35804060101509094
+It reminds me too much of the ARVN officers who were secretly still working for the other side in Vietnam .
+13
+still
+0.21687555313110352
+It reminds me too much of the ARVN officers who were secretly also working for the other side in Vietnam .
+13
+also
+0.05914166942238808
+It reminds me too much of the ARVN officers who were secretly now working for the other side in Vietnam .
+13
+now
+0.028749637305736542
+It reminds me too much of the ARVN officers who were secretly spies working for the other side in Vietnam .
+13
+spies
+0.02311982400715351
+It reminds me too much of the ARVN officers who were secretly killed working for the other side in Vietnam .
+13
+killed
+0.022361835464835167
+It reminds me too much of the ARVN officers who were secretly actually working for the other side in Vietnam .
+13
+actually
+0.02039978839457035
+It reminds me too much of the ARVN officers who were secretly , working for the other side in Vietnam .
+13
+,
+0.014799975790083408
+It reminds me too much of the ARVN officers who were secretly found working for the other side in Vietnam .
+13
+found
+0.014522801153361797
+It reminds me too much of the ARVN officers who were secretly then working for the other side in Vietnam .
+13
+then
+0.014252828434109688
+It reminds me too much of the ARVN officers who were secretly working undercover for the other side in Vietnam .
+14
+undercover
+0.22075088322162628
+It reminds me too much of the ARVN officers who were secretly working together for the other side in Vietnam .
+14
+together
+0.16883303225040436
+It reminds me too much of the ARVN officers who were secretly working secretly for the other side in Vietnam .
+14
+secretly
+0.09407366067171097
+It reminds me too much of the ARVN officers who were secretly working directly for the other side in Vietnam .
+14
+directly
+0.047275468707084656
+It reminds me too much of the ARVN officers who were secretly working hard for the other side in Vietnam .
+14
+hard
+0.04106878489255905
+It reminds me too much of the ARVN officers who were secretly working openly for the other side in Vietnam .
+14
+openly
+0.029714329168200493
+It reminds me too much of the ARVN officers who were secretly working spies for the other side in Vietnam .
+14
+spies
+0.019277669489383698
+It reminds me too much of the ARVN officers who were secretly working illegally for the other side in Vietnam .
+14
+illegally
+0.01877800188958645
+It reminds me too much of the ARVN officers who were secretly working exclusively for the other side in Vietnam .
+14
+exclusively
+0.017181696370244026
+It reminds me too much of the ARVN officers who were secretly working espionage for the other side in Vietnam .
+14
+espionage
+0.016695145517587662
+It reminds me too much of the ARVN officers who were secretly working for on the other side in Vietnam .
+15
+on
+0.43212568759918213
+It reminds me too much of the ARVN officers who were secretly working for the the other side in Vietnam .
+15
+the
+0.06042579188942909
+It reminds me too much of the ARVN officers who were secretly working for to the other side in Vietnam .
+15
+to
+0.03931407630443573
+It reminds me too much of the ARVN officers who were secretly working for ... the other side in Vietnam .
+15
+...
+0.03530212864279747
+It reminds me too much of the ARVN officers who were secretly working for just the other side in Vietnam .
+15
+just
+0.021695038303732872
+It reminds me too much of the ARVN officers who were secretly working for even the other side in Vietnam .
+15
+even
+0.019170477986335754
+It reminds me too much of the ARVN officers who were secretly working for secretly the other side in Vietnam .
+15
+secretly
+0.016504021361470222
+It reminds me too much of the ARVN officers who were secretly working for us the other side in Vietnam .
+15
+us
+0.015451353043317795
+It reminds me too much of the ARVN officers who were secretly working for , the other side in Vietnam .
+15
+,
+0.013590611517429352
+It reminds me too much of the ARVN officers who were secretly working for " the other side in Vietnam .
+15
+"
+0.01312646921724081
+It reminds me too much of the ARVN officers who were secretly working for the whole other side in Vietnam .
+16
+whole
+0.49471068382263184
+It reminds me too much of the ARVN officers who were secretly working for the entire other side in Vietnam .
+16
+entire
+0.11996399611234665
+It reminds me too much of the ARVN officers who were secretly working for the mysterious other side in Vietnam .
+16
+mysterious
+0.06213616207242012
+It reminds me too much of the ARVN officers who were secretly working for the ... other side in Vietnam .
+16
+...
+0.047165144234895706
+It reminds me too much of the ARVN officers who were secretly working for the very other side in Vietnam .
+16
+very
+0.037125423550605774
+It reminds me too much of the ARVN officers who were secretly working for the complete other side in Vietnam .
+16
+complete
+0.023862136527895927
+It reminds me too much of the ARVN officers who were secretly working for the bloody other side in Vietnam .
+16
+bloody
+0.013845780864357948
+It reminds me too much of the ARVN officers who were secretly working for the radical other side in Vietnam .
+16
+radical
+0.008117212913930416
+It reminds me too much of the ARVN officers who were secretly working for the unknown other side in Vietnam .
+16
+unknown
+0.006587922107428312
+It reminds me too much of the ARVN officers who were secretly working for the secret other side in Vietnam .
+16
+secret
+0.00521636800840497
+It reminds me too much of the ARVN officers who were secretly working for the other communist side in Vietnam .
+17
+communist
+0.19902782142162323
+It reminds me too much of the ARVN officers who were secretly working for the other American side in Vietnam .
+17
+American
+0.14526468515396118
+It reminds me too much of the ARVN officers who were secretly working for the other - side in Vietnam .
+17
+-
+0.13845056295394897
+It reminds me too much of the ARVN officers who were secretly working for the other Vietnamese side in Vietnam .
+17
+Vietnamese
+0.07500762492418289
+It reminds me too much of the ARVN officers who were secretly working for the other US side in Vietnam .
+17
+US
+0.06186645105481148
+It reminds me too much of the ARVN officers who were secretly working for the other Chinese side in Vietnam .
+17
+Chinese
+0.04413412883877754
+It reminds me too much of the ARVN officers who were secretly working for the other Communist side in Vietnam .
+17
+Communist
+0.03161957487463951
+It reminds me too much of the ARVN officers who were secretly working for the other political side in Vietnam .
+17
+political
+0.027835365384817123
+It reminds me too much of the ARVN officers who were secretly working for the other rebel side in Vietnam .
+17
+rebel
+0.02152218110859394
+It reminds me too much of the ARVN officers who were secretly working for the other country side in Vietnam .
+17
+country
+0.018338125199079514
+It reminds me too much of the ARVN officers who were secretly working for the other side back in Vietnam .
+18
+back
+0.8450289964675903
+It reminds me too much of the ARVN officers who were secretly working for the other side , in Vietnam .
+18
+,
+0.060789015144109726
+It reminds me too much of the ARVN officers who were secretly working for the other side here in Vietnam .
+18
+here
+0.043781932443380356
+It reminds me too much of the ARVN officers who were secretly working for the other side over in Vietnam .
+18
+over
+0.015695570036768913
+It reminds me too much of the ARVN officers who were secretly working for the other side down in Vietnam .
+18
+down
+0.0071860309690237045
+It reminds me too much of the ARVN officers who were secretly working for the other side up in Vietnam .
+18
+up
+0.004841878078877926
+It reminds me too much of the ARVN officers who were secretly working for the other side - in Vietnam .
+18
+-
+0.0030153633560985327
+It reminds me too much of the ARVN officers who were secretly working for the other side out in Vietnam .
+18
+out
+0.0024345768615603447
+It reminds me too much of the ARVN officers who were secretly working for the other side there in Vietnam .
+18
+there
+0.002209723461419344
+It reminds me too much of the ARVN officers who were secretly working for the other side ... in Vietnam .
+18
+...
+0.00161533965729177
+It reminds me too much of the ARVN officers who were secretly working for the other side in South Vietnam .
+19
+South
+0.49786120653152466
+It reminds me too much of the ARVN officers who were secretly working for the other side in North Vietnam .
+19
+North
+0.4933343231678009
+It reminds me too much of the ARVN officers who were secretly working for the other side in northern Vietnam .
+19
+northern
+0.002070412505418062
+It reminds me too much of the ARVN officers who were secretly working for the other side in north Vietnam .
+19
+north
+0.0016782020684331656
+It reminds me too much of the ARVN officers who were secretly working for the other side in south Vietnam .
+19
+south
+0.0013579443329945207
+It reminds me too much of the ARVN officers who were secretly working for the other side in Northern Vietnam .
+19
+Northern
+0.0009015973191708326
+It reminds me too much of the ARVN officers who were secretly working for the other side in southern Vietnam .
+19
+southern
+0.0005482594715431333
+It reminds me too much of the ARVN officers who were secretly working for the other side in East Vietnam .
+19
+East
+0.00042442360427230597
+It reminds me too much of the ARVN officers who were secretly working for the other side in central Vietnam .
+19
+central
+0.000321595260174945
+It reminds me too much of the ARVN officers who were secretly working for the other side in Central Vietnam .
+19
+Central
+0.0002082917926600203
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam too .
+20
+too
+0.32301637530326843
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam War .
+20
+War
+0.10418989509344101
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam itself .
+20
+itself
+0.07037092000246048
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam before .
+20
+before
+0.03992946073412895
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam war .
+20
+war
+0.02752857096493244
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam days .
+20
+days
+0.022867476567626
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam then .
+20
+then
+0.02133498713374138
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam today .
+20
+today
+0.015759030357003212
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam anyway .
+20
+anyway
+0.01362957339733839
+It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam together .
+20
+together
+0.011729911901056767

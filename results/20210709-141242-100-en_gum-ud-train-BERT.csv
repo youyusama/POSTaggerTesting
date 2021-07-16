@@ -1,0 +1,2266 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+3826,178192,302960,673,947,617,127962
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,"For this reason , institutions may also be slow to investigate accusations of fraud , and they may try to keep their discoveries in-house to protect their reputations ."
+wrong word,in-house 24
+mutation sentence,"For this reason , institutions may also be slow to investigate accusations of fraud , and they may try to better keep their discoveries in-house to protect their reputations ."
+mutation sentence,"For this reason , institutions may also be slow to investigate accusations of fraud , and they may try to keep all their discoveries in-house to protect their reputations ."
+
+original sentence,She wrote relatively little as a result of living a brief life — she died at 24 — but her stories had a large impact on Japanese literature and she is still appreciated by the Japanese public today .
+wrong word,little 4
+mutation sentence,She wrote only relatively little as a result of living a brief life — she died at 24 — but her stories had a large impact on Japanese literature and she is still appreciated by the Japanese public today .
+mutation sentence,She wrote down relatively little as a result of living a brief life — she died at 24 — but her stories had a large impact on Japanese literature and she is still appreciated by the Japanese public today .
+
+original sentence,Kiss anywhere you like and see how long your partner can keep from moving or making any noise .
+wrong word,long 8
+mutation sentence,Kiss anywhere you like and see how long your new partner can keep from moving or making any noise .
+mutation sentence,Kiss anywhere you like and see how long your current partner can keep from moving or making any noise .
+mutation sentence,Kiss anywhere you like and see how long your little partner can keep from moving or making any noise .
+
+original sentence,“ I do n’t know how long we ’ll be . ”
+wrong word,long 7
+mutation sentence,“ I do n’t know how long we all ’ll be . ”
+
+original sentence,She lay tense in the dark .
+wrong word,tense 3
+mutation sentence,She suddenly lay tense in the dark .
+
+original sentence,How much more could you accomplish as an individual if you could learn any activity ?
+wrong word,much 2
+mutation sentence,How much more could not you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could be you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could do you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could all you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could it you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could ever you accomplish as an individual if you could learn any activity ?
+mutation sentence,How much more could you accomplish yourself as an individual if you could learn any activity ?
+mutation sentence,How much more could you accomplish simply as an individual if you could learn any activity ?
+
+original sentence,Then in 2006 we ended up fourth .
+wrong word,fourth 7
+mutation sentence,Then in 2006 we ended it up fourth .
+mutation sentence,Then in 2006 we ended right up fourth .
+mutation sentence,Then in 2006 we ended well up fourth .
+mutation sentence,Then in 2006 we ended just up fourth .
+mutation sentence,Then in 2006 we ended again up fourth .
+mutation sentence,Then in 2006 we ended only up fourth .
+
+original sentence,you 've kept it up this long
+wrong word,long 7
+mutation sentence,you 've kept it up all this long
+
+original sentence,Fort Lee is a small town but is piled high with apartment buildings .
+wrong word,high 10
+mutation sentence,Fort Lee is a small town but is still piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is now piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is already piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is heavily piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is also piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is densely piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is not piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is often piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is well piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is always piled high with apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with large apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with huge apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with beautiful apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with new apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with big apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with expensive apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with modern apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with old apartment buildings .
+mutation sentence,Fort Lee is a small town but is piled high with apartment buildings around .
+
+original sentence,It 's much more fun when there are other people that can understand your language .
+wrong word,more 4
+mutation sentence,It 's much more fun then when there are other people that can understand your language .
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+original sentence,“ Sorry ! ” I say .
+wrong word,Sorry 2
+mutation sentence,“ Sorry ! ? ” I say .
+mutation sentence,“ Sorry ! ” I almost say .
+mutation sentence,“ Sorry ! ” I say again .
+mutation sentence,“ Sorry ! ” I say quickly .
+mutation sentence,“ Sorry ! ” I say loudly .
+mutation sentence,“ Sorry ! ” I say angrily .
+mutation sentence,“ Sorry ! ” I say sarcastically .
+mutation sentence,“ Sorry ! ” I say weakly .
+mutation sentence,“ Sorry ! ” I say quietly .
+mutation sentence,“ Sorry ! ” I say sharply .
+mutation sentence,“ Sorry ! ” I say automatically .
+mutation sentence,“ Sorry ! ” I say softly .
+
+
+
+"pos from 形容 to 名词
+"
+original sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+wrong word,6th 34
+mutation sentence,"In both Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's original study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens only were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens alone were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens each were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens also were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens all were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were not housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were only housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were all housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were initially housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were often housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were each housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were then housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed outside individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were again only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only ever allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only once allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed only to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to do exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to only exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 ¹⁄₂ minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day each , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 full days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 working days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 whole days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per working week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per alternate week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per normal week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per full week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , usually from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , typically from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , normally from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the late 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ) ."
+
+original sentence,"He also designed furniture and houses for the wealthy as well as coins and medals , including the insignia of the Society of the Cincinnati ."
+wrong word,wealthy 9
+mutation sentence,"He also designed furniture and houses for the wealthy as well as designed coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as striking coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as issued coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as silver coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as struck coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as engraved coins and medals , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as coins and medals himself , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as coins and medals themselves , including the insignia of the Society of the Cincinnati ."
+mutation sentence,"He also designed furniture and houses for the wealthy as well as coins and medals , including the insignia of the Society of the Cincinnati ) ."
+
+original sentence,"As of March 2019 , her channel has approximately 3.1 billion video views and 19.5 million subscribers , [ 3 ] and is the 86th most subscribed channel on YouTube and the eighth-most-popular channel operated by a woman . [ 4 ]"
+wrong word,video 12
+mutation sentence,"As of March 2019 , her channel has approximately 3.1 billion video views worldwide and 19.5 million subscribers , [ 3 ] and is the 86th most subscribed channel on YouTube and the eighth-most-popular channel operated by a woman . [ 4 ]"
+mutation sentence,"As of March 2019 , her channel has approximately 3.1 billion video views and about 19.5 million subscribers , [ 3 ] and is the 86th most subscribed channel on YouTube and the eighth-most-popular channel operated by a woman . [ 4 ]"
+mutation sentence,"As of March 2019 , her channel has approximately 3.1 billion video views and around 19.5 million subscribers , [ 3 ] and is the 86th most subscribed channel on YouTube and the eighth-most-popular channel operated by a woman . [ 4 ]"
+
+original sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views . [ 15 ] [ 16 ]"
+wrong word,video 18
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views worldwide . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views globally . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views online . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views overall . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views monthly . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views annually . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views daily . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views alone . [ 15 ] [ 16 ]"
+mutation sentence,"As of January 2019 , Marbles 's YouTube channel had about 19 million subscribers and 2.9 billion video views weekly . [ 15 ] [ 16 ]"
+
+original sentence,"Refusing to work or communicate and demanding a new leader , many of the elder monks completely abandoned any notion of obedience to Horsiesios ."
+wrong word,elder 15
+mutation sentence,"Refusing to work or communicate and demanding a new leader , many of even the elder monks completely abandoned any notion of obedience to Horsiesios ."
+
+original sentence,I used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+wrong word,compound 5
+mutation sentence,I have used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I also used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I had used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I now used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I even used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I later used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I myself used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used exactly that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used almost that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used again that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used precisely that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used just that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used basically that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used essentially that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used roughly that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used in that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that very same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that exact same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope again to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope then to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope later to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope twice to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope now to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope once to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope here to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope also to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope to better look at squashed bits of tissue to see the stinging capsules ( = nematocysts ) .
+mutation sentence,I used that same compound scope to look at squashed bits of tissue to see the stinging capsules ( = nematocysts ? ) .
+
+original sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,eastbound 37
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally on the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+
+original sentence,You do n't need flying broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+wrong word,magic 8
+mutation sentence,You do n't need any flying broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+mutation sentence,You do n't need some flying broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+mutation sentence,You do n't need flying broomsticks or magic balls around to play this version of the game - it 's tailor-made for muggles like us .
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,Replication in Second Language Research :
+wrong word,Second 3
+mutation sentence,Replication in Second Language Research 2014 :
+
+original sentence,"In 2005 , she was awarded with the Stanislavsky Award at the 27th Moscow International Film Festival . [ 9 ]"
+wrong word,27th 13
+mutation sentence,"In 2005 , she was awarded with the Stanislavsky Award at the 27th Moscow Festival International Film Festival . [ 9 ]"
+
+original sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+wrong word,American 17
+mutation sentence,His 1952 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1930 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1931 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1965 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1964 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1932 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1928 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1934 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1929 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His 1962 textbook Morphology : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology II : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology III : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology IV : The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : Being The Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The New Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Scientific Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Experimental Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The General Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Historical Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Mathematical Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Comparative Descriptive Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Philosophical Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Mathematical Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Psychological Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Comparative Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Literary Analysis of Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of English Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Written Words was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words . was one of the major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the earliest major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the early major works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major seminal works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major founding works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major pioneering works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major influential works of American Structuralism .
+mutation sentence,His textbook Morphology : The Descriptive Analysis of Words was one of the major works outside of American Structuralism .
+
+original sentence,It owns the title of the longest-running North American sci-fi series in history . [ 10 ]
+wrong word,North 8
+mutation sentence,It owns now the title of the longest-running North American sci-fi series in history . [ 10 ]
+mutation sentence,It owns the title of the longest-running North American TV sci-fi series in history . [ 10 ]
+mutation sentence,It owns the title of the longest-running North American sci-fi TV series in history . [ 10 ]
+
+original sentence,Why did you decide to use a Creative Commons license ?
+wrong word,Creative 8
+mutation sentence,Why did this you decide to use a Creative Commons license ?
+mutation sentence,Why did you suddenly decide to use a Creative Commons license ?
+mutation sentence,Why did you finally decide to use a Creative Commons license ?
+mutation sentence,Why did you never decide to use a Creative Commons license ?
+mutation sentence,Why did you eventually decide to use a Creative Commons license ?
+mutation sentence,Why did you decide to just use a Creative Commons license ?
+mutation sentence,Why did you decide to instead use a Creative Commons license ?
+mutation sentence,Why did you decide to never use a Creative Commons license ?
+mutation sentence,Why did you decide to first use a Creative Commons license ?
+mutation sentence,Why did you decide to use such a Creative Commons license ?
+mutation sentence,Why did you decide to use a Creative Commons license instead ?
+mutation sentence,Why did you decide to use a Creative Commons license again ?
+mutation sentence,Why did you decide to use a Creative Commons license today ?
+mutation sentence,Why did you decide to use a Creative Commons license then ?
+mutation sentence,Why did you decide to use a Creative Commons license here ?
+mutation sentence,Why did you decide to use a Creative Commons license anyway ?
+mutation sentence,Why did you decide to use a Creative Commons license online ?
+
+original sentence,This exclusive interview features first-hand journalism by a Wikinews reporter .
+wrong word,Wikinews 9
+mutation sentence,This exclusive interview features first-hand journalism by a Wikinews reporter herself .
+
+original sentence,"Stardust @ home is a highly distributed project using a "" Virtual Microscope "" that is written in html and javascript and runs on most browsers — no downloads are required ."
+wrong word,Virtual 12
+mutation sentence,"Stardust @ home is a highly distributed project using a new "" Virtual Microscope "" that is written in html and javascript and runs on most browsers — no downloads are required ."
+
+original sentence,Myanmar is mainly Buddhist and the United Nations rates the Rohingya among the world 's most persecuted groups .
+wrong word,Buddhist 4
+mutation sentence,Myanmar is today mainly Buddhist and the United Nations rates the Rohingya among the world 's most persecuted groups .
+mutation sentence,Myanmar is mainly Buddhist and the 2008 United Nations rates the Rohingya among the world 's most persecuted groups .
+mutation sentence,Myanmar is mainly Buddhist and the United Nations rates with the Rohingya among the world 's most persecuted groups .
+mutation sentence,Myanmar is mainly Buddhist and the United Nations rates against the Rohingya among the world 's most persecuted groups .
+mutation sentence,Myanmar is mainly Buddhist and the United Nations rates among the Rohingya among the world 's most persecuted groups .
+
+original sentence,"Experience Moriori culture , experience Rekohu ."
+wrong word,Moriori 2
+mutation sentence,"Experience Moriori culture Today , experience Rekohu ."
+
+original sentence,"When applying to the Cuban Consulate by post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+wrong word,Cuban 5
+mutation sentence,"When applying to the Cuban Consulate by diplomatic post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by registered post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by courtesy post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by military post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by passport post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by air post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by second post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by post abroad , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by post , then there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by post , UK there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by post , today there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+mutation sentence,"When applying to the Cuban Consulate by post , here there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+
+original sentence,If you can not go to the Cuban Consulate you may consider using VisaCuba ( [ 3 ] ) because it may be cheaper .
+wrong word,Cuban 8
+mutation sentence,If you can not go to the Cuban Consulate then you may consider using VisaCuba ( [ 3 ] ) because it may be cheaper .
+
+original sentence,"Ballet began in royal courts in the early 1600's , and early forms of this elegant and sophisticated art involved long skirts and wooden clogs ."
+wrong word,royal 4
+mutation sentence,"Ballet began in royal courts Europe in the early 1600's , and early forms of this elegant and sophisticated art involved long skirts and wooden clogs ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+original sentence,"St Jude , the patron saint of Lost Causes , comes to mind ."
+wrong word,Lost 8
+mutation sentence,"St Jude himself , the patron saint of Lost Causes , comes to mind ."
+mutation sentence,"St Jude , the patron saint also of Lost Causes , comes to mind ."
+mutation sentence,"St Jude , the patron saint of Lost Causes , comes to mind often ."
+mutation sentence,"St Jude , the patron saint of Lost Causes , comes to mind sometimes ."
+
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,"The enormous forms of the battleships loomed like giants atop a hill , staring down upon a tiny village below ."
+wrong word,down 15
+mutation sentence,"The enormous forms of the battleships loomed like giants atop a low hill , staring down upon a tiny village below ."
+mutation sentence,"The enormous forms of the battleships loomed like giants atop a hill , each staring down upon a tiny village below ."
+mutation sentence,"The enormous forms of the battleships loomed like giants atop a hill , one staring down upon a tiny village below ."
+
+original sentence,And then I had a bit of some time off in 2011 .
+wrong word,off 10
+mutation sentence,And then I had a bit out of some time off in 2011 .
+mutation sentence,And then I had a bit of some free time off in 2011 .
+mutation sentence,And then I had a bit of some extra time off in 2011 .
+mutation sentence,And then I had a bit of some personal time off in 2011 .
+
+original sentence,I was basically hauled in and told that my mum had attacked the church and that I needed to disconnect from her because she was suppressive .
+wrong word,in 5
+mutation sentence,I was basically hauled in and were told that my mum had attacked the church and that I needed to disconnect from her because she was suppressive .
+
+original sentence,""" I smacked them around . """
+wrong word,around 5
+mutation sentence,""" I smacked all them around . """
+mutation sentence,""" I smacked both them around . """
+
+original sentence,"When you have a looming project that 's bogging you down and making you unproductive in other areas , tackle it first ."
+wrong word,down 11
+mutation sentence,"When you have a looming project that 's bogging even you down and making you unproductive in other areas , tackle it first ."
+mutation sentence,"When you have a looming project that 's bogging all you down and making you unproductive in other areas , tackle it first ."
+mutation sentence,"When you have a looming project that 's bogging both you down and making you unproductive in other areas , tackle it first ."
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+wrong word,during 6
+mutation sentence,"Interestingly though , the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly however , the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the observed femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in only our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in just our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in even our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our experimental control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our normal control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our human control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our healthy control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our own control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our upper control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our low control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our large control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our average control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight experimental group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group also resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group somewhat resembles the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles closely the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles well the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles strongly the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles also the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles greatly the results reported in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles the results reported previously in the experimental subjects of Carrano and Biewener ."
+mutation sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles the results reported recently in the experimental subjects of Carrano and Biewener ."
+
+original sentence,"Daniel Bernoulli was described by W. W. Rouse Ball as "" by far the ablest of the younger Bernoullis "" ."
+wrong word,as 10
+mutation sentence,"Daniel Bernoulli was described by W. W. Rouse Ball as "" being by far the ablest of the younger Bernoullis "" ."
+
+original sentence,"One of Fillmore 's most widely noticed works of the time ( with Paul Kay and Cathy O'Connor ) appeared in ' Language ' in 1988 as "" Regularity and Idiomaticity in Grammatical Constructions : The Case of Let Alone "" ."
+wrong word,of 38
+mutation sentence,"One of Fillmore 's most widely noticed works of the time ( with Paul Kay and Cathy O'Connor ) appeared in ' Language ' in 1988 as "" Regularity and Idiomaticity in Grammatical Constructions : The Case of Let Me Alone "" ."
+mutation sentence,"One of Fillmore 's most widely noticed works of the time ( with Paul Kay and Cathy O'Connor ) appeared in ' Language ' in 1988 as "" Regularity and Idiomaticity in Grammatical Constructions : The Case of Let Them Alone "" ."
+
+original sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+wrong word,of 20
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of in the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the general English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English language lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English syntax lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing very much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing so much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing again much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing too much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing fairly much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier had proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier previously proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his earlier theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his early theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his later theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , all while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example language sentences from corpora ."
+
+original sentence,"On the other hand , extant newspaper clippings from only a few days after the duel give a description of his opponent ( identified by the initials "" L. D. "" ) that appear to more accurately apply to one of Galois ' Republican friends , most probably Ernest Duchatelet , who was imprisoned with Galois on the same charges . [ 21 ]"
+wrong word,after 14
+mutation sentence,"On the other hand , extant newspaper clippings from only a few days after the duel clearly give a description of his opponent ( identified by the initials "" L. D. "" ) that appear to more accurately apply to one of Galois ' Republican friends , most probably Ernest Duchatelet , who was imprisoned with Galois on the same charges . [ 21 ]"
+mutation sentence,"On the other hand , extant newspaper clippings from only a few days after the duel apparently give a description of his opponent ( identified by the initials "" L. D. "" ) that appear to more accurately apply to one of Galois ' Republican friends , most probably Ernest Duchatelet , who was imprisoned with Galois on the same charges . [ 21 ]"
+
+original sentence,"Her former professor , Koolhaas , described her at graduation as "" a planet in her own orbit . """
+wrong word,as 11
+mutation sentence,"Her former professor , Koolhaas , described her at graduation as "" being a planet in her own orbit . """
+
+original sentence,"The plots were thin , there was little development of character and they were loaded down by excessive sentiment , especially when compared to what she was writing concurrently in her diary ."
+wrong word,to 24
+mutation sentence,"The plots were thin , there was little development of character and they were loaded down by excessive sentiment , especially when they compared to what she was writing concurrently in her diary ."
+mutation sentence,"The plots were thin , there was little development of character and they were loaded down by excessive sentiment , especially when it compared to what she was writing concurrently in her diary ."
+mutation sentence,"The plots were thin , there was little development of character and they were loaded down by excessive sentiment , especially when she compared to what she was writing concurrently in her diary ."
+
+original sentence,"In addition to acting , Moreau worked behind the camera as a writer , director and producer . [ 2 ]"
+wrong word,to 3
+mutation sentence,"In addition to acting professionally , Moreau worked behind the camera as a writer , director and producer . [ 2 ]"
+
+original sentence,"Retiring to the monastery of Phbow , Pachomius gave Theodorus complete control over Tabennese , though recalled him from the position after witnessing several monks under Theodorus ’ watch violating the monastic rules without reprimand ."
+wrong word,without 34
+mutation sentence,"Retiring to the monastery of Phbow , Pachomius gave Theodorus complete control over Tabennese , though recalled him from the position after witnessing several monks under Theodorus ’ watch violating the monastic rules without reprimand them ."
+
+original sentence,"She tries to sit down , but I just keep on tugging and she follows me , gulping and wailing ."
+wrong word,on 11
+mutation sentence,"She tries to sit down , but I just keep on tugging her and she follows me , gulping and wailing ."
+mutation sentence,"She tries to sit down , but I just keep on tugging and so she follows me , gulping and wailing ."
+
+original sentence,"At the sound of his name , Chalmers felt himself move robotically , his mind screaming in protest against what his legs were doing ."
+wrong word,against 19
+mutation sentence,"At the sound of his name , Chalmers felt himself move robotically , his mind screaming in protest against what only his legs were doing ."
+mutation sentence,"At the sound of his name , Chalmers felt himself move robotically , his mind screaming in protest against what even his legs were doing ."
+mutation sentence,"At the sound of his name , Chalmers felt himself move robotically , his mind screaming in protest against what not his legs were doing ."
+mutation sentence,"At the sound of his name , Chalmers felt himself move robotically , his mind screaming in protest against what his robot legs were doing ."
+
+original sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no reasonable expectation of what it should be like , or what it should n't be like ."
+wrong word,of 30
+mutation sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no longer reasonable expectation of what it should be like , or what it should n't be like ."
+mutation sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no reasonable expectation of what it really should be like , or what it should n't be like ."
+mutation sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no reasonable expectation of what it actually should be like , or what it should n't be like ."
+mutation sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no reasonable expectation of what it truly should be like , or what it should n't be like ."
+
+original sentence,The only way to get at what 's different is to make comparisons with close relatives .
+wrong word,at 6
+mutation sentence,The only way to get at what it 's different is to make comparisons with close relatives .
+mutation sentence,The only way to get at what he 's different is to make comparisons with close relatives .
+mutation sentence,The only way to get at what she 's different is to make comparisons with close relatives .
+
+original sentence,I compared the things I saw under the 'scopes to what had been published on other species in this group .
+wrong word,to 10
+mutation sentence,I compared the things I saw under the 'scopes to what I had been published on other species in this group .
+mutation sentence,I compared the things I saw under the 'scopes to what we had been published on other species in this group .
+
+original sentence,"It varies ; look around Manhattan , look around rents , look around build-outs , look around hiring , look around advertising ..."
+wrong word,around 17
+mutation sentence,"It varies ; look around Manhattan , look around rents , look around build-outs , just look around hiring , look around advertising ..."
+
+original sentence,"What would a question like "" the greatest woman in the world "" reveal to you ?"
+wrong word,like 5
+mutation sentence,"What would a question like "" being the greatest woman in the world "" reveal to you ?"
+
+original sentence,"So even back in the sixties , he was very aware of this part of our culture ."
+wrong word,of 12
+mutation sentence,"So even back in the sixties , he was very aware of this being part of our culture ."
+
+original sentence,Is it always about them ?
+wrong word,about 4
+mutation sentence,Is it always about them fighting ?
+
+original sentence,"Congratulations — by seeking help , you 've already demonstrated more self-awareness than the vast majority of online flirts ."
+wrong word,by 3
+mutation sentence,"Congratulations — by seeking my help , you 've already demonstrated more self-awareness than the vast majority of online flirts ."
+mutation sentence,"Congratulations — by seeking your help , you 've already demonstrated more self-awareness than the vast majority of online flirts ."
+mutation sentence,"Congratulations — by seeking our help , you 've already demonstrated more self-awareness than the vast majority of online flirts ."
+mutation sentence,"Congratulations — by seeking his help , you 've already demonstrated more self-awareness than the vast majority of online flirts ."
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,"The only other Pirates player to have a four-hit game so early in his career was Jack Merson , who went 4-for-5 in his second major league game on September 15 , 1951 . [ 11 ]"
+wrong word,early 12
+mutation sentence,"The only other Pirates player to have a four-hit game so early in on his career was Jack Merson , who went 4-for-5 in his second major league game on September 15 , 1951 . [ 11 ]"
+
+original sentence,I wondered how long it would be before it found reinforcements .
+wrong word,long 4
+mutation sentence,I often wondered how long it would be before it found reinforcements .
+mutation sentence,I wondered exactly how long it would be before it found reinforcements .
+
+original sentence,"She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , four miles uphill to the farm ."
+wrong word,uphill 42
+mutation sentence,"She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , another four miles uphill to the farm ."
+mutation sentence,"She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , four miles uphill to the old farm ."
+
+original sentence,We ’ll hit the mainstream media ’s portrayal of the entertainment world as much as we ’ll hit characters in the entertainment world .
+wrong word,much 14
+mutation sentence,We ’ll hit the mainstream media ’s portrayal of the entertainment world almost as much as we ’ll hit characters in the entertainment world .
+mutation sentence,We ’ll hit the mainstream media ’s portrayal of the entertainment world about as much as we ’ll hit characters in the entertainment world .
+mutation sentence,We ’ll hit the mainstream media ’s portrayal of the entertainment world nearly as much as we ’ll hit characters in the entertainment world .
+
+original sentence,"The only scheduled shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+wrong word,only 2
+mutation sentence,"The only scheduled passenger shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled cargo shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled freight shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled shipping mail service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled shipping service to the Chatham Islands currently remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled shipping service to the Chatham Islands presently remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled shipping service to the Chatham Islands remains the small Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+
+original sentence,"Daily 08:00 - 20:00 , Su 08:00 - 14:00 ."
+wrong word,Daily 1
+mutation sentence,"Daily 08:00 - 20:00 , Su 08:00 * - 14:00 ."
+
+original sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in the world ."
+wrong word,else 30
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found together anywhere else in the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found naturally anywhere else in the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found much anywhere else in the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in all the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in probably the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in most the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in possibly the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in perhaps the world ."
+mutation sentence,"Socotra Island is very rich and is home to many rare spectacular species of reefs , fish , birds , plants , and trees which are not found anywhere else in both the world ."
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+wrong word,around 16
+mutation sentence,"We just sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We still sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat back on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the back porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the small porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching them , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching intently , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching him , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , kids no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , us no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , spirits no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , me no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , then no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer yet daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring ourselves to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring not to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring yet to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring themselves to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring them to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring only to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to instinctively dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to casually dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to actually dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart back out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out back and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out outside and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in between the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops rapidly turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops gradually turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops now turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops outside turned to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned rain to torrents and the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and eventually the staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the rhythmic staccato tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato rhythmic tapping on the roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the slate roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the metal roof climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof had climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof eventually climaxed to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed itself to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed almost to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed eventually to a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to almost a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to nearly a thunderous roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous crashing roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous rhythmic roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous white roar ."
+mutation sentence,"We sat on the porch watching , no longer daring to dart out and leap around in the downfall as drops turned to torrents and the staccato tapping on the roof climaxed to a thunderous final roar ."
+
+original sentence,"We pulled off wet socks and shoes , letting them float away on the tide , before the great worm turned and the wake engulfed the creaking , cracking house ."
+wrong word,away 12
+mutation sentence,"We pulled off wet socks and shoes , letting them gently float away on the tide , before the great worm turned and the wake engulfed the creaking , cracking house ."
+mutation sentence,"We pulled off wet socks and shoes , letting them simply float away on the tide , before the great worm turned and the wake engulfed the creaking , cracking house ."
+
+original sentence,"Title , binding , and covers had been gnawed away ."
+wrong word,away 10
+mutation sentence,"Title , binding , and covers all had been gnawed away ."
+
+original sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at sea ."
+wrong word,out 25
+mutation sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at open sea ."
+
+original sentence,Hold the bird down gently with one hand .
+wrong word,down 4
+mutation sentence,Hold the dead bird down gently with one hand .
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+original sentence,"He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and not yet suspected of heresy ."
+wrong word,yet 41
+mutation sentence,"He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and not yet suspected him of heresy ."
+mutation sentence,"He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and not yet suspected himself of heresy ."
+
+original sentence,"“ Do n’t get much older either , ” Betty said ."
+wrong word,either 7
+mutation sentence,"“ Do n’t get much older either , now ” Betty said ."
+
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+original sentence,The first challenge that we have before can do any kind of analysis of these interstellar dust particles is simply to find them .
+wrong word,before 7
+mutation sentence,The first challenge that we will have before can do any kind of analysis of these interstellar dust particles is simply to find them .
+mutation sentence,The first challenge that we may have before can do any kind of analysis of these interstellar dust particles is simply to find them .
+
+original sentence,Mostly they require tight fitting clothing so they can see that your muscles are working properly and so on .
+wrong word,so 7
+mutation sentence,Mostly they require tight fitting clothing so they can see now that your muscles are working properly and so on .
+mutation sentence,Mostly they require tight fitting clothing so they can see immediately that your muscles are working properly and so on .
+mutation sentence,Mostly they require tight fitting clothing so they can see only that your muscles are working properly and so on .
+mutation sentence,Mostly they require tight fitting clothing so they can see inside that your muscles are working properly and so on .
+mutation sentence,Mostly they require tight fitting clothing so they can see when that your muscles are working properly and so on .
+
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+original sentence,"F-E focuses attention on the message itself , in both form and content ."
+wrong word,both 10
+mutation sentence,"F-E focuses attention on the message itself , in both form and in content ."
+mutation sentence,"F-E focuses attention on the message itself , in both form and its content ."
+mutation sentence,"F-E focuses attention on the message itself , in both form and content itself ."
+mutation sentence,"F-E focuses attention on the message itself , in both form and content respectively ."
+
+original sentence,And afterwards either infected them or not . Then for about two weeks we count every day how many ants died .
+wrong word,either 3
+mutation sentence,And they afterwards either infected them or not . Then for about two weeks we count every day how many ants died .
+
+original sentence,Great care is shown to both guests and the environment .
+wrong word,both 6
+mutation sentence,Great care is being shown to both guests and the environment .
+mutation sentence,Great care is therefore shown to both guests and the environment .
+mutation sentence,Great care is shown here to both guests and the environment .
+mutation sentence,Great care is shown equally to both guests and the environment .
+mutation sentence,Great care is shown also to both guests and the environment .
+mutation sentence,Great care is shown overall to both guests and the environment .
+mutation sentence,Great care is shown especially to both guests and the environment .
+mutation sentence,Great care is shown to both guests themselves and the environment .
+mutation sentence,Great care is shown to both guests and the immediate environment .
+mutation sentence,Great care is shown to both guests and the external environment .
+mutation sentence,Great care is shown to both guests and the environment itself .
+mutation sentence,Great care is shown to both guests and the environment here .
+mutation sentence,Great care is shown to both guests and the environment overall .
+mutation sentence,Great care is shown to both guests and the environment nearby .
+mutation sentence,Great care is shown to both guests and the environment involved .
+
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+original sentence,to give information on both form and content ;
+wrong word,both 5
+mutation sentence,to also give information on both form and content ;
+mutation sentence,to systematically give information on both form and content ;
+mutation sentence,to explicitly give information on both form and content ;
+mutation sentence,to freely give information on both form and content ;
+mutation sentence,to give detailed information on both form and content ;
+mutation sentence,to give additional information on both form and content ;
+mutation sentence,to give information both on both form and content ;
+mutation sentence,to give information on both form and actual content ;
+mutation sentence,to give information on both form and specific content ;
+mutation sentence,to give information on both form and technical content ;
+
+original sentence,"Also , an independent who does not claim to belong to either camp , Edward Yiu of the Architectural , Surveying , Planning and Landscape constituency , defeated his opponents and was elected ."
+wrong word,either 12
+mutation sentence,"Also , an independent who does not claim to belong to either camp proper , Edward Yiu of the Architectural , Surveying , Planning and Landscape constituency , defeated his opponents and was elected ."
+mutation sentence,"Also , an independent who does not claim to belong to either camp though , Edward Yiu of the Architectural , Surveying , Planning and Landscape constituency , defeated his opponents and was elected ."
+
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+original sentence,“ Snap ! ” Pete said .
+wrong word,Snap 2
+mutation sentence,“ Snap ! . ” Pete said .
+mutation sentence,“ Snap ! ” Uncle Pete said .
+mutation sentence,“ Snap ! ” Master Pete said .
+
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and cognition , for the improvement of cognitive functions ."
+wrong word,fun 25
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and human cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and social cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and cognitive cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and rational cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and normal cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and scientific cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and real cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and ordinary cognition , for the improvement of cognitive functions ."
+mutation sentence,"Cognitive games involve a number of different games working aspects of human cognition , while proposing the intersection between the sets of concepts , fun and general cognition , for the improvement of cognitive functions ."
+
+original sentence,"Nonetheless , this does not mean that tail reduction had no effect on CoM displacement , but that it was not the most important factor ."
+wrong word,tail 8
+mutation sentence,"Nonetheless , this does not mean that tail reduction has had no effect on CoM displacement , but that it was not the most important factor ."
+
+original sentence,"Despite his clear potential and popularity , Pachomius refused to grant Theodorus any kind of authority ; though the old man 's failing health soon changed things forever ."
+wrong word,potential 4
+mutation sentence,"Despite his clear potential and great popularity , Pachomius refused to grant Theodorus any kind of authority ; though the old man 's failing health soon changed things forever ."
+
+original sentence,She lay tense in the dark .
+wrong word,dark 6
+mutation sentence,She lay tense in all the dark .
+
+original sentence,Her voice was listless in the dark and she was even harder to understand when I could n't see her properly .
+wrong word,dark 7
+mutation sentence,Her voice was listless in all the dark and she was even harder to understand when I could n't see her properly .
+
+original sentence,"This common black ant eats other insects , and also aphid honeydew ."
+wrong word,aphid 11
+mutation sentence,"This common black ant eats other insects , and often also aphid honeydew ."
+
+original sentence,"In the wild , Formica fusca can encounter similar chemicals in aphids and dead ants ."
+wrong word,wild 3
+mutation sentence,"In the wild , young Formica fusca can encounter similar chemicals in aphids and dead ants ."
+
+original sentence,I do wear a lot of black .
+wrong word,black 7
+mutation sentence,I do wear a lot not of black .
+
+original sentence,"First , people around the world are desperate for high quality how-to information ."
+wrong word,quality 11
+mutation sentence,"First , people around the world are desperate for high quality how-to training information ."
+mutation sentence,"First , people around the world are desperate for high quality how-to education information ."
+
+original sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+wrong word,downtown 33
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to personally witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to peacefully witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to eagerly witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to visually witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+
+original sentence,"Stir-fry , using the quinoa as a substitute for rice ."
+wrong word,Stir-fry 1
+mutation sentence,"Stir-fry , using in the quinoa as a substitute for rice ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+original sentence,"Well that ’s kind of an unending war , so do we want NATO to exist , do we want there to be a Western military alliance that carries out these activities , with no pretense of defense ?"
+wrong word,kind 4
+mutation sentence,"Well that ’s kind of like an unending war , so do we want NATO to exist , do we want there to be a Western military alliance that carries out these activities , with no pretense of defense ?"
+
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+original sentence,"“ That ’s leprechauns , idiot ! ” said the voice from my noise ."
+wrong word,idiot 6
+mutation sentence,"“ That ’s leprechauns too , idiot ! ” said the voice from my noise ."
+mutation sentence,"“ That ’s leprechauns here , idiot ! ” said the voice from my noise ."
+
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,"The central idea is to first apply rules to the smallest applicable unit , then to the smallest unit containing that one , and so on . [ 5 ]"
+wrong word,one 22
+mutation sentence,"The central idea is to first apply rules to the smallest applicable unit , then to the smallest unit containing all that one , and so on . [ 5 ]"
+
+original sentence,"At an elevation of 1100 ft ( 335 m ) , it is situated in the biologically unique Sonoran Desert ."
+wrong word,m 9
+mutation sentence,"At an elevation of 1100 ft ( approximately 335 m ) , it is situated in the biologically unique Sonoran Desert ."
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,"The cars "" will "" be warranted and safe , but they wo n't be exceptionally "" flash "" ."
+wrong word,flash 18
+mutation sentence,"The cars "" will "" be warranted and safe , but they wo n't be exceptionally "" flash "" them ."
+
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+original sentence,"1 Quaffle ( volleyball , Frisbee , soccer ball , etc . )"
+wrong word,1 1
+mutation sentence,"1 Quaffle ! ( volleyball , Frisbee , soccer ball , etc . )"
+
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+original sentence,"His first campaign raised funds for To Write Love On Her Arms , which supports people struggling with depression , addiction , self-injury , and suicide ."
+wrong word,To 7
+mutation sentence,"His first campaign raised foundation funds for To Write Love On Her Arms , which supports people struggling with depression , addiction , self-injury , and suicide ."
+
+
+
+"pos from 功能 to 副词
+"
+original sentence,"So they rescinded their pledge not to use nuclear weapons on first strike , NATO had never rescinded it , but they had and started some remilitarization ."
+wrong word,not 6
+mutation sentence,"So they rescinded their peace pledge not to use nuclear weapons on first strike , NATO had never rescinded it , but they had and started some remilitarization ."
+
+original sentence,It is important not to touch the luminol .
+wrong word,not 4
+mutation sentence,It is very important not to touch the luminol .
+mutation sentence,It is more important not to touch the luminol .
+
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+original sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting bestiality ."
+wrong word,to 20
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing permanent same-sex marriage in the United States to supporting bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting male bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting female bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting legal bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting universal bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting gay bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting Christian bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting domestic bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting voluntary bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting religious bestiality ."
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting bestiality itself ."
+
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins supported Beto O'Rourke for the 2018 Senate election in Texas . [ 19 ]
+wrong word,Supernatural 3
+mutation sentence,Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins have supported Beto O'Rourke for the 2018 Senate election in Texas . [ 19 ]
+mutation sentence,Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins had supported Beto O'Rourke for the 2018 Senate election in Texas . [ 19 ]
+mutation sentence,Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins has supported Beto O'Rourke for the 2018 Senate election in Texas . [ 19 ]
+mutation sentence,Padalecki and Supernatural co-stars Jensen Ackles and Misha Collins supported Beto O'Rourke for the 2018 Senate election in Texas . ] [ 19 ]
+
+original sentence,"The English wikiHow has only 60 admins , compared to the 1000 + on English Wikipedia ."
+wrong word,English 2
+mutation sentence,"The English wikiHow also has only 60 admins , compared to the 1000 + on English Wikipedia ."
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+original sentence,Lao ( Laos ) [ CONV_050815c_03.10 ]
+wrong word,CONV_050815c_03.10 6
+mutation sentence,Lao ( Laos ? ) [ CONV_050815c_03.10 ]
+mutation sentence,Lao ( Laos . ) [ CONV_050815c_03.10 ]
+
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+original sentence,"In this article , we propose the definition of specific mutation operators for testing Geographic Information Systems ."
+wrong word,for 13
+mutation sentence,"In this article , we propose the definition of specific mutation operators for testing in Geographic Information Systems ."
+mutation sentence,"In this article , we propose the definition of specific mutation operators for testing with Geographic Information Systems ."
+
+original sentence,"As her father and one of her brothers had before her , she had caught tuberculosis ."
+wrong word,As 1
+mutation sentence,"As her father and later one of her brothers had before her , she had caught tuberculosis ."
+
+original sentence,"During this period , he seems to have found time for studying and writing ."
+wrong word,for 11
+mutation sentence,"During this period , he seems to have found time for studying and creative writing ."
+mutation sentence,"During this period , he seems to have found time for studying and poetry writing ."
+mutation sentence,"During this period , he seems to have found time for studying and essay writing ."
+
+original sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+wrong word,for 12
+mutation sentence,I hate the half moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I really am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I truly am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I myself am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I especially am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I also am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I always am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I particularly am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I actually am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I even am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of being it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it all - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when outside it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it truly shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines down on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines it on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines out on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines in on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines brightly on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines through on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on so certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on even certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and deeply loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and yet loved it sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it also sometimes makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes just makes them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes on them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes upon them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes in them unfamiliar and hideous .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous again .
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous too .
+
+original sentence,I did n't understand what she 'd said except that they were visiting .
+wrong word,except 9
+mutation sentence,I did n't understand what she 'd said except that maybe they were visiting .
+mutation sentence,I did n't understand what she 'd said except that perhaps they were visiting .
+mutation sentence,I did n't understand what she 'd said except that apparently they were visiting .
+mutation sentence,I did n't understand what she 'd said except that now they were visiting .
+mutation sentence,I did n't understand what she 'd said except that obviously they were visiting .
+mutation sentence,I did n't understand what she 'd said except that clearly they were visiting .
+mutation sentence,I did n't understand what she 'd said except that technically they were visiting .
+mutation sentence,I did n't understand what she 'd said except that sometimes they were visiting .
+
+original sentence,At the age of 40 he was credited with revolutionizing the field of modern linguistics .
+wrong word,with 9
+mutation sentence,At the age of 40 he was credited with revolutionizing in the field of modern linguistics .
+
+original sentence,"It 's portrayed as though it 's dark , black and evil ."
+wrong word,as 4
+mutation sentence,"It 's portrayed as though all it 's dark , black and evil ."
+
+original sentence,Also the language is important in writing and in literature .
+wrong word,in 6
+mutation sentence,Also the language is important in writing and also in literature .
+mutation sentence,Also the language is important in writing and sometimes in literature .
+mutation sentence,Also the language is important in writing and especially in literature .
+mutation sentence,Also the language is important in writing and even in literature .
+
+original sentence,"So instead of documenting the dreams it gradually became also like adding creational elements , and I think that somehow through writing my dreams I gradually came to writing , also poems , but mainly stories ."
+wrong word,through 21
+mutation sentence,"So instead of documenting the dreams it gradually became also like adding creational elements , and I think that somehow through writing in my dreams I gradually came to writing , also poems , but mainly stories ."
+mutation sentence,"So instead of documenting the dreams it gradually became also like adding creational elements , and I think that somehow through writing from my dreams I gradually came to writing , also poems , but mainly stories ."
+
+original sentence,New faces emerge as veteran politicians step down in Hong Kong legislative election
+wrong word,as 4
+mutation sentence,New faces emerge as veteran Labour politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as veteran Beijing politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as veteran Chinese politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as veteran senior politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as veteran politicians step down in 2016 Hong Kong legislative election
+mutation sentence,New faces emerge as veteran politicians step down in 2010 Hong Kong legislative election
+
+original sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a barre for practicing . [ 1 ]"
+wrong word,for 23
+mutation sentence,"A private dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately ) , and a barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately . , and a barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and even a barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and sometimes a barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a small barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a special barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a padded barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a large barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a double barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a portable barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a dance barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a wooden barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a circular barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a central barre for practicing . [ 1 ]"
+mutation sentence,"A dancing studio is equipped with mirrors for correcting your positioning and seeing what you 're doing accurately , and a barre for practicing . [ 1 * ]"
+
+original sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is best for you ."
+wrong word,about 16
+mutation sentence,"You could also keep adjusting your shirt or your own hair , keeping a running dialogue about what look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair again , keeping a running dialogue about what look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair down , keeping a running dialogue about what look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , while keeping a running dialogue about what look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what new look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what certain look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what current look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is really best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is best for you tonight ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is best for you best ."
+
+original sentence,try for a large body of water if you are confident your companion can save you from drowning .
+wrong word,from 17
+mutation sentence,try for a large body of water if you are confident your companion can save both you from drowning .
+mutation sentence,try for a large body of water if you are confident your companion can save only you from drowning .
+mutation sentence,try for a large body of water if you are confident your companion can save all you from drowning .
+mutation sentence,try for a large body of water if you are confident your companion can save you from drowning ) .
+
+original sentence,"For example , list “ take the dog for a walk by 12:30 ” rather than simply “ walk the dog . ”"
+wrong word,than 16
+mutation sentence,"For example , list “ take the dog for a walk by 12:30 ” rather than simply “ walk the dog . ) ”"
+
+original sentence,"Add the quinoa and salt to the saucepan , stirring until completely incorporated ."
+wrong word,until 11
+mutation sentence,"Add the quinoa and salt to the saucepan , stirring until completely oil incorporated ."
+
+
+
+"pos from 从句连词 to 副词
+"
+original sentence,How The Onion writes an issue
+wrong word,How 1
+mutation sentence,How The Daily Onion writes an issue
+mutation sentence,How The Green Onion writes an issue
+mutation sentence,How The Purple Onion writes an issue
+mutation sentence,How The Red Onion writes an issue
+mutation sentence,How The Yellow Onion writes an issue
+mutation sentence,How The Blue Onion writes an issue
+mutation sentence,How The Brown Onion writes an issue
+mutation sentence,How The White Onion writes an issue
+mutation sentence,How The Boston Onion writes an issue
+mutation sentence,How The Pink Onion writes an issue
+mutation sentence,How The Onion first writes an issue
+
+original sentence,How to Annoy People in Elevators
+wrong word,How 1
+mutation sentence,How to Not Annoy People in Elevators
+mutation sentence,How to not Annoy People in Elevators
+
+original sentence,"For example , if you invented the word ' China ' as ' Khinssa ' , ' Drink ' as ' Bever ' , and the word ' Accident ' as ' Casnondelibreaten ' , why not make the word ' tea ' as ' Khincasnonbever ' or ' Bevernondelibreatekin ' or even ' Khinssacasnondelibreatenibever ' !"
+wrong word,why 36
+mutation sentence,"For example , if you invented the word ' China ' as ' Khinssa ' , ' Drink ' as ' Bever ' , and the word ' Accident ' as ' Casnondelibreaten ' , why not make the word ' tea ' as ' Khincasnonbever ' or ' Bevernondelibreatekin ' or even ' Khinssacasnondelibreatenibever ? ' !"
+mutation sentence,"For example , if you invented the word ' China ' as ' Khinssa ' , ' Drink ' as ' Bever ' , and the word ' Accident ' as ' Casnondelibreaten ' , why not make the word ' tea ' as ' Khincasnonbever ' or ' Bevernondelibreatekin ' or even ' Khinssacasnondelibreatenibever ' ? !"
+
+original sentence,How to Pack Your Possessions When Moving
+wrong word,How 1
+mutation sentence,How to Not Pack Your Possessions When Moving
+
+original sentence,How to Cope With a Double Parachute Failure
+wrong word,How 1
+mutation sentence,How to Not Cope With a Double Parachute Failure
+mutation sentence,How to Really Cope With a Double Parachute Failure
+
+original sentence,this is why hooking your arms through the harness is essential .
+wrong word,why 3
+mutation sentence,this is why hooking your arms together through the harness is essential .
+
+original sentence,How to Play a Real-Life Game of Quidditch
+wrong word,How 1
+mutation sentence,How to Not Play a Real-Life Game of Quidditch
+
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+original sentence,Frank Rack got in touch after they returned from Antarctica in hopes that I could help with an identification on the anemone .
+wrong word,that 13
+mutation sentence,Frank Rack got in touch after they returned from Antarctica in hopes that I myself could help with an identification on the anemone .
+
+original sentence,The team was n't so far ahead that we knew .
+wrong word,that 8
+mutation sentence,The team was n't so far out ahead that we knew .
+mutation sentence,The team was n't so far yet ahead that we knew .
+mutation sentence,The team was n't so far straight ahead that we knew .
+
+original sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+wrong word,that 5
+mutation sentence,"Despite all the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the now common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common local perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common popular perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common urban perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common national perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common regional perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common cultural perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland now is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is primarily an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is mostly an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is mainly an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is predominantly an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is largely an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is only an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is essentially an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is just an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is merely an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town proper , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond are the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond is the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , only a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised if you ca n't see the other side , i.e. , Canada ) ."
+
+original sentence,"They compensate for this by creating the impression that they have a lot of friends - they have a ' quantity , not quality ' mentality ."
+wrong word,that 9
+mutation sentence,"They compensate for this by creating the impression that they also have a lot of friends - they have a ' quantity , not quality ' mentality ."
+mutation sentence,"They compensate for this by creating the impression that they do have a lot of friends - they have a ' quantity , not quality ' mentality ."
+mutation sentence,"They compensate for this by creating the impression that they have quite a lot of friends - they have a ' quantity , not quality ' mentality ."
+mutation sentence,"They compensate for this by creating the impression that they have a lot of friends around - they have a ' quantity , not quality ' mentality ."
+
+original sentence,There is a minuscule chance that your impact will result in non-life-threatening injuries ;
+wrong word,that 6
+mutation sentence,There is a minuscule theoretical chance that your impact will result in non-life-threatening injuries ;
+
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+original sentence,"The magician behind the counter was wise enough not to sell it to me , but instead sold me two books which I still own today - "" Scarne on Card Tricks "" and "" Scarne on Magic Tricks "" ."
+wrong word,own 25
+mutation sentence,"The magician behind the counter was wise enough not to sell it to me , but instead sold me two books which are I still own today - "" Scarne on Card Tricks "" and "" Scarne on Magic Tricks "" ."
+
+original sentence,"There are also many nail salons , frozen yogurt shops , coffee shops and gas stations ."
+wrong word,frozen 8
+mutation sentence,"There are also many nail salons too , frozen yogurt shops , coffee shops and gas stations ."
+
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,And then when you do it in an asymptotic way is like you do n't look at the small details .
+wrong word,is 11
+mutation sentence,And then when you do it in an asymptotic way is like if you do n't look at the small details .
+
+original sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a place to be again ."
+wrong word,be 23
+mutation sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making this it a place to be again ."
+mutation sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a fashionable place to be again ."
+mutation sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a beautiful place to be again ."
+mutation sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a place to be again too ."
+mutation sentence,"Recent years are seeing a revival , and trendy hotels , bars , shops and restaurants are making it a place to be again quickly ."
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,The sunlight turned her hair to fire and Carroll found it difficult to look directly at her .
+wrong word,fire 7
+mutation sentence,The sunlight turned her hair back to fire and Carroll found it difficult to look directly at her .
+
+original sentence,"The blog aims to help address "" a gap between scientists and ' the general public ' . """
+wrong word,address 6
+mutation sentence,"The blog aims to be help address "" a gap between scientists and ' the general public ' . """
+
+original sentence,"She also claims that in 1997 and 1998 , she was tasked with removal of asbestos from the ship ."
+wrong word,claims 3
+mutation sentence,"She had also claims that in 1997 and 1998 , she was tasked with removal of asbestos from the ship ."
+
+original sentence,Greek court has ruled that worshippers of the ancient Greek religion may now formally associate and worship at archeological sites .
+wrong word,worship 17
+mutation sentence,Greek court has ruled that worshippers of the ancient Greek religion may now formally be associate and worship at archeological sites .
+
+original sentence,"Old and new meet in Fort Lee , as the Good Shepherd Episcopalian Church is dwarfed by a residential highrise immediately behind it"
+wrong word,meet 4
+mutation sentence,"Old and new meet in Historic Fort Lee , as the Good Shepherd Episcopalian Church is dwarfed by a residential highrise immediately behind it"
+
+original sentence,Living in stimulating environments with new objects may also help .
+wrong word,help 10
+mutation sentence,Living in stimulating environments with new objects may be also help .
+
+original sentence,"If desired , the snitch is able to do whatever he or she wants to avoid capture ."
+wrong word,capture 17
+mutation sentence,"If desired , the snitch is able to do whatever he or she wants just to avoid capture ."
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+original sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or "" tmesis "" ."
+wrong word,tmesis 17
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico ) "" or "" tmesis "" ."
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or simply "" tmesis "" ."
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or from "" tmesis "" ."
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or just "" tmesis "" ."
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or Latin "" tmesis "" ."
+mutation sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or as "" tmesis "" ."
+
+original sentence,He graduated summa cum laude from the University of California in 1936 .
+wrong word,laude 5
+mutation sentence,He was graduated summa cum laude from the University of California in 1936 .
+mutation sentence,He had graduated summa cum laude from the University of California in 1936 .
+mutation sentence,He graduated with summa cum laude from the University of California in 1936 .
+mutation sentence,He graduated in summa cum laude from the University of California in 1936 .
+mutation sentence,He graduated as summa cum laude from the University of California in 1936 .
+mutation sentence,He graduated from summa cum laude from the University of California in 1936 .
+mutation sentence,He graduated law summa cum laude from the University of California in 1936 .
+
+original sentence,You can make the word ' pen ' as ' penn ' or even ' pen ' .
+wrong word,penn 11
+mutation sentence,You can make the word ' pen ' as in ' penn ' or even ' pen ' .
+
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+original sentence,"The team used Formica fusca , an ant species that can form thousand-strong colonies ."
+wrong word,Formica 4
+mutation sentence,"The team used Formica fusca , an aggressive ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an exotic ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an endangered ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an unusual ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an African ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an Australian ant species that can form thousand-strong colonies ."
+mutation sentence,"The team used Formica fusca , an ant tree species that can form thousand-strong colonies ."
+
+original sentence,"In the wild , Formica fusca can encounter similar chemicals in aphids and dead ants ."
+wrong word,Formica 5
+mutation sentence,"In the wild , Formica fusca can still encounter similar chemicals in aphids and dead ants ."
+mutation sentence,"In the wild , Formica fusca can encounter some similar chemicals in aphids and dead ants ."
+
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

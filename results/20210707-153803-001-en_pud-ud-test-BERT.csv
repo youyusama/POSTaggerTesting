@@ -1,0 +1,1385 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+993,40032,81778,433,871,143,43846
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,"Like many people I know , I ’ve spent recent months staying up late , reading polls in terror ."
+wrong word,late
+mutation sentence,"Like many people I know , I ’ve spent recent months staying up late , not reading polls in terror ."
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,"By comparison , it cost $ 103.7 million to build the NoMa infill Metro station , which opened in 2004 ."
+wrong word,infill
+mutation sentence,"By comparison , it cost $ 103.7 million to build the NoMa infill station Metro station , which opened in 2004 ."
+
+original sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with capital investments and skilled workers , modifying the system of forced labour ."
+wrong word,capital
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with foreign capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with French capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with substantial capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with new capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with private capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with increased capital investments and skilled workers , modifying the system of forced labour ."
+mutation sentence,"France integrated the economy of Cameroun with that of France and improved the infrastructure with European capital investments and skilled workers , modifying the system of forced labour ."
+
+original sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the capital city ."
+wrong word,capital
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the Jin capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the imperial capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the Han capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the Tang capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the Chu capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the new capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the Wei capital city ."
+mutation sentence,"In 1072 , Shen was sent to supervise Wang 's program of surveying the building of silt deposits in the Bian Canal outside the eastern capital city ."
+
+original sentence,"Thai birth certificates record the date , month and time of birth , followed by the day of the week , lunar date , and the applicable zodiac animal name ."
+wrong word,zodiac
+mutation sentence,"Thai birth certificates record the date , month and time of birth , followed by the day of the week , lunar date , and the applicable Chinese zodiac animal name ."
+mutation sentence,"Thai birth certificates record the date , month and time of birth , followed by the day of the week , lunar date , and the applicable zodiac / animal name ."
+
+original sentence,"With 71 goals in 137 international matches , he has shot a record number of goals for the DFB ."
+wrong word,record
+mutation sentence,"With 71 goals in 137 international matches , he has shot a national record number of goals for the DFB ."
+mutation sentence,"With 71 goals in 137 international matches , he has shot a personal record number of goals for the DFB ."
+
+original sentence,"The latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+wrong word,latter
+mutation sentence,"The former latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+mutation sentence,"The aforementioned latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+mutation sentence,"The same latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+mutation sentence,"The French latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+mutation sentence,"The new latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+mutation sentence,"The controversial latter is overseeing the Republican primaries , in which Rachida Dati supports Nicolas Sarkozy 's candidacy ."
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,"Instead , they decided that Albania would be under Ottoman suzerainty but with an autonomous government ."
+wrong word,Ottoman
+mutation sentence,"Instead , they decided that Albania would be under Ottoman Empire suzerainty but with an autonomous government ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the old colonies .
+wrong word,back
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back all the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back on the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back over the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back into the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back in the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back again the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back some the old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the lost old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the two old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the three old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the four old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the rebellious old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the troubled old colonies .
+mutation sentence,After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the five old colonies .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,"In addition , its process of gilding copper is technologically noteworthy ."
+wrong word,of
+mutation sentence,"In addition , its process of rapidly gilding copper is technologically noteworthy ."
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+
+
+"pos from 副词 to 介词
+"
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"After some genius surgery and a lot of very tough rehab , I have made a full recovery ."
+wrong word,genius
+mutation sentence,"After some pretty genius surgery and a lot of very tough rehab , I have made a full recovery ."
+mutation sentence,"After some very genius surgery and a lot of very tough rehab , I have made a full recovery ."
+mutation sentence,"After some absolutely genius surgery and a lot of very tough rehab , I have made a full recovery ."
+mutation sentence,"After some incredibly genius surgery and a lot of very tough rehab , I have made a full recovery ."
+
+original sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears nude ."
+wrong word,nude
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears completely nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears fully nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears partially nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears entirely nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears totally nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears mostly nude ."
+mutation sentence,"In June 2012 , the Icelandic band Sigur Rós released a video for the song "" Fjögur Píanó "" , starring LaBeouf , in which he appears nearly nude ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour .
+wrong word,needs
+mutation sentence,The association that represents real estate agents in Ontario says that more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour .
+
+original sentence,"It ’s fair to say that Rocco Catalano works , lives and breathes retro ."
+wrong word,lives
+mutation sentence,"It ’s fair to say that Rocco Catalano works , still lives and breathes retro ."
+
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+wrong word,South
+mutation sentence,"The smaller South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean power company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean electric company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean utility company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean phone company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean electricity company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean electrical company initially thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially mistakenly thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially incorrectly thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially reportedly thought a battery fault was to blame , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame itself , and switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and it switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and therefore switched its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched over its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched on its own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its very own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its entire own component for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component back for a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for such a third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a cheaper third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a replacement third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a compatible third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a smaller third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a normal third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a suitable third - party power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party alternative power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party hybrid power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party hydrogen power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party AA power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party polymer power cell ."
+mutation sentence,"The South Korean company initially thought a battery fault was to blame , and switched its own component for a third - party power storage cell ."
+
+original sentence,"Much of the debate , from the Democratic side this year , has been about white male identity ."
+wrong word,Democratic
+mutation sentence,"Much of the debate , from both the Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from around the Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the white Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the conservative Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the national Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the liberal Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the progressive Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the majority Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the local Democratic side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the Democratic political side this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the Democratic side until this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the Democratic side during this year , has been about white male identity ."
+mutation sentence,"Much of the debate , from the Democratic side before this year , has been about white male identity ."
+
+original sentence,"Many people , including Indigenous groups , argue they trivialize First Nations culture ."
+wrong word,First
+mutation sentence,"Many people , including Indigenous groups , argue they trivialize First Nations cultural culture ."
+mutation sentence,"Many people , including Indigenous groups , argue they trivialize First Nations Indian culture ."
+
+original sentence,"This retreat came as a surprise to the Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+wrong word,Austro
+mutation sentence,"This retreat came as a surprise to the entire Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the whole Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the advancing Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the main Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the retreating Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the remaining Austro - Prussian army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the Austro - Prussian main army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the Austro - Prussian field army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the Austro - Prussian battle army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the Austro - Prussian occupation army , and almost all of the Danish army succeeded in completing the evacuation ."
+mutation sentence,"This retreat came as a surprise to the Austro - Prussian army itself , and almost all of the Danish army succeeded in completing the evacuation ."
+
+original sentence,"From the 16th century , Europeans visiting the Caribbean region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+wrong word,Caribbean
+mutation sentence,"From the 16th century , Europeans visiting the greater Caribbean region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the wider Caribbean region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the entire Caribbean region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the vast Caribbean region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the Caribbean coastal region identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the Caribbean region often identified the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+mutation sentence,"From the 16th century , Europeans visiting the Caribbean region identified only the "" South Sea "" ( the Pacific Ocean , to the south of the isthmus of Panama ) as opposed to the "" North Sea "" ( the Caribbean Sea , to the north of the same isthmus ) ."
+
+original sentence,The Russian Empire was an agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the First World War .
+wrong word,Russian
+mutation sentence,The Russian Empire proper was an agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the First World War .
+mutation sentence,The Russian Empire today was an agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the First World War .
+
+original sentence,The Great Powers did not fulfill the requests for recognition of Albania .
+wrong word,Great
+mutation sentence,The Great Western Powers did not fulfill the requests for recognition of Albania .
+mutation sentence,The Great European Powers did not fulfill the requests for recognition of Albania .
+
+original sentence,The First World War brought about shifts and new developments in colonial politics .
+wrong word,First
+mutation sentence,The First British World War brought about shifts and new developments in colonial politics .
+mutation sentence,The First American World War brought about shifts and new developments in colonial politics .
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+original sentence,"Rather than teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+wrong word,than
+mutation sentence,"Rather than directly teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+mutation sentence,"Rather than merely teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+mutation sentence,"Rather than first teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+mutation sentence,"Rather than initially teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+mutation sentence,"Rather than necessarily teaching the scientific method as a separate unit , for example , students learn science content by applying it ."
+
+original sentence,Was their divine right to the mantle as the world ’s best no longer warranted ?
+wrong word,as
+mutation sentence,Was that their divine right to the mantle as the world ’s best no longer warranted ?
+mutation sentence,Was their divine right to the mantle as perhaps the world ’s best no longer warranted ?
+
+original sentence,He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China .
+wrong word,with
+mutation sentence,He is credited with his helping efforts to tackle the mountain of debt accumulated by local governments in China .
+mutation sentence,He is credited with further helping efforts to tackle the mountain of debt accumulated by local governments in China .
+
+original sentence,"With her appearance finalized , Jasmine became Disney 's first non-white princess as opposed to being of European heritage ."
+wrong word,to
+mutation sentence,"With her appearance finalized , Jasmine became Disney 's first non-white princess as opposed to her being of European heritage ."
+
+original sentence,George was appalled by what he saw as their loose morals .
+wrong word,by
+mutation sentence,George was appalled by the what he saw as their loose morals .
+mutation sentence,George was appalled by their what he saw as their loose morals .
+mutation sentence,George was appalled by both what he saw as their loose morals .
+
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,"This discordance between economic data and political rhetoric is familiar , or should be ."
+wrong word,be
+mutation sentence,"This discordance between economic data and political rhetoric is familiar , or it should be ."
+mutation sentence,"This discordance between economic data and political rhetoric is familiar , or should not be ."
+mutation sentence,"This discordance between economic data and political rhetoric is familiar , or should it be ."
+mutation sentence,"This discordance between economic data and political rhetoric is familiar , or should be so ."
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

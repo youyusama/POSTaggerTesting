@@ -1,0 +1,1546 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+3826,7605,13251,112,157,62,5315
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,"She was described by The Guardian of London as the ' Queen of the curve ' , who "" liberated architectural geometry , giving it a whole new expressive identity . """
+wrong word,whole 27
+mutation sentence,"She was described by The Guardian of London as the ' Queen of the curve ' , who "" liberated architectural geometry , giving it a whole expressive identity . """
+
+original sentence,How much more could you accomplish as an individual if you could learn any activity ?
+wrong word,much 2
+mutation sentence,much more could you accomplish as an individual if you could learn any activity ?
+
+original sentence,you 've kept it up this long
+wrong word,long 7
+mutation sentence,you 've kept it up long
+
+original sentence,"Unlike most other large Polish cities , which have long histories , Łódź was created almost from scratch during the 19th century textile industry boom to house textile mills , their owners and their workers , and rapidly grew to become an important industrial and commerce centre ."
+wrong word,most 2
+mutation sentence,"Unlike most large Polish cities , which have long histories , Łódź was created almost from scratch during the 19th century textile industry boom to house textile mills , their owners and their workers , and rapidly grew to become an important industrial and commerce centre ."
+
+original sentence,You should fit them to where the drawstring is tied slightly loose .
+wrong word,loose 12
+mutation sentence,You should fit them to where the drawstring is tied loose .
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+wrong word,6th 34
+mutation sentence,"experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes , 3 days per week , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days , from the 6th to the 12th week ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th ."
+mutation sentence,"In Carrano & Biewener 's study , experimental chickens were housed individually in smaller cages and were only allowed to exercise 20 minutes per day , 3 days per week , from the 6th to the week ."
+
+original sentence,He was a contemporary and close friend of Leonhard Euler .
+wrong word,contemporary 4
+mutation sentence,He was a contemporary and friend of Leonhard Euler .
+
+original sentence,Pursuant to your business question : we only hire nice people .
+wrong word,Pursuant 1
+mutation sentence,Pursuant : we only hire nice people .
+
+original sentence,"wikiHow is a collaborative effort to build the world 's largest , highest quality how-to manual ."
+wrong word,quality 14
+mutation sentence,"wikiHow is a collaborative effort to build the world 's largest , highest quality manual ."
+
+original sentence,""" As a way to commercialize his work , he would make a blue Marilyn and a pink Marilyn and a yellow Marilyn , and then you could pick your favorite color and buy that ."
+wrong word,pink 18
+mutation sentence,""" As a way to commercialize his work , he would make a blue Marilyn and a pink Marilyn and a Marilyn , and then you could pick your favorite color and buy that ."
+
+original sentence,One of the more interesting of the many highrise residential buildings in Fort Lee
+wrong word,highrise 9
+mutation sentence,One of the more interesting of the many highrise buildings in Fort Lee
+
+original sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,northbound 14
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,eastbound 22
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,northbound 29
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,eastbound 37
+mutation sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound ."
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,It owns the title of the longest-running North American sci-fi series in history . [ 10 ]
+wrong word,North 8
+mutation sentence,It owns the title of the North American sci-fi series in history . [ 10 ]
+
+original sentence,Santa had spent his day opening envelopes from North American children and falling asleep watching the Pittsburgh - Cleveland game in the media room .
+wrong word,North 9
+mutation sentence,Santa had spent his day opening envelopes from North children and falling asleep watching the Pittsburgh - Cleveland game in the media room .
+
+original sentence,Myanmar is mainly Buddhist and the United Nations rates the Rohingya among the world 's most persecuted groups .
+wrong word,Buddhist 4
+mutation sentence,Myanmar is Buddhist and the United Nations rates the Rohingya among the world 's most persecuted groups .
+
+original sentence,"When applying to the Cuban Consulate by post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+wrong word,Cuban 5
+mutation sentence,"When applying to the Cuban Consulate , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,And then I had a bit of some time off in 2011 .
+wrong word,off 10
+mutation sentence,And then I had a bit of some time off .
+
+original sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+wrong word,over 43
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over ) ."
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+wrong word,during 6
+mutation sentence,", the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+
+original sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+wrong word,of 20
+mutation sentence,"There , he started a project called FrameNet , an structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+mutation sentence,"There , he started a project called FrameNet , an on-line structured description of the English lexicon implementing much of what he had earlier proposed theoretically in his theory of Frame semantics , while implementing the idea of emphasizing example sentences from corpora ."
+
+original sentence,"The Straits Times noted what began as individual messages to Mohamed had grown into a "" support movement "" ."
+wrong word,as 7
+mutation sentence,"The Straits Times noted what began as individual messages had grown into a "" support movement "" ."
+
+original sentence,"If you have a strong aversion to this outcome , aiming head-downward before impact in the manner of an Olympic diver may ensure the destruction of your cranium and your immediate demise ."
+wrong word,before 13
+mutation sentence,"If you have a strong aversion to this outcome , aiming head-downward before impact may ensure the destruction of your cranium and your immediate demise ."
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,"She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , four miles uphill to the farm ."
+wrong word,uphill 42
+mutation sentence,"She was nineteen , two years younger than Carroll ; she was a student at Jellicoh College and every weekday she rose at seven and biked four miles into town , and then back again on her bike , four miles uphill ."
+
+original sentence,"The magician behind the counter was wise enough not to sell it to me , but instead sold me two books which I still own today - "" Scarne on Card Tricks "" and "" Scarne on Magic Tricks "" ."
+wrong word,enough 8
+mutation sentence,"The magician behind the counter was wise enough to sell it to me , but instead sold me two books which I still own today - "" Scarne on Card Tricks "" and "" Scarne on Magic Tricks "" ."
+
+original sentence,Do you travel much in your current role ?
+wrong word,much 4
+mutation sentence,Do you travel much ?
+
+original sentence,The team was n't so far ahead that we knew .
+wrong word,far 6
+mutation sentence,The team was so far ahead that we knew .
+
+original sentence,"The only scheduled shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+wrong word,only 2
+mutation sentence,"The only shipping service to the Chatham Islands remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+mutation sentence,"The only scheduled shipping service remains the Black Robin Freighters "" Rangatira "" , an antiquated , slow and small coastal trading vessel ."
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,It stretched the neckhole halfway down to his happy trail .
+wrong word,down 6
+mutation sentence,It stretched the neckhole down to his happy trail .
+
+original sentence,"She was bony and rough-skinned and bent like an old crow , with a blue silk scarf and hanks of hair as black as soot ."
+wrong word,as 22
+mutation sentence,"She was bony and rough-skinned and bent like an old crow , with a blue silk scarf and hanks of hair as black ."
+
+original sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at sea ."
+wrong word,out 25
+mutation sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing out at sea ."
+
+original sentence,Hold the bird down gently with one hand .
+wrong word,down 4
+mutation sentence,Hold the bird down with one hand .
+mutation sentence,Hold the bird down gently .
+
+original sentence,The canopy must be steered away from power lines and similar obstructions ;
+wrong word,away 6
+mutation sentence,The canopy must be steered away ;
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+original sentence,"He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and not yet suspected of heresy ."
+wrong word,yet 41
+mutation sentence,"He seems to have abstained for a considerable time from the study of the classics and to have plunged deeply into that of the Bible , under the impulse of Apollinaris of Laodicea , then teaching in Antioch and yet suspected of heresy ."
+
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+original sentence,""" So far , it 's the Internet : 1 , Scientology : 0 . But it 's a long game . "" - Matthew Ingram"
+wrong word,far 3
+mutation sentence,""" far , it 's the Internet : 1 , Scientology : 0 . But it 's a long game . "" - Matthew Ingram"
+
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+original sentence,"Basil needs warm air and sun to do well , so it 's often easiest to start the seeds indoors instead of risking that they 'll get damaged by frost ."
+wrong word,so 11
+mutation sentence,"Basil needs warm air and sun to do well , so it 's easiest to start the seeds indoors instead of risking that they 'll get damaged by frost ."
+
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+original sentence,My mother 's more particular --
+wrong word,'s 3
+mutation sentence,My mother 's particular --
+
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+original sentence,But it is not that a word can have just any vocal sound .
+wrong word,is 3
+mutation sentence,But it is that a word can have just any vocal sound .
+
+original sentence,These operators reproduce programming errors that are litely to occur during the development of this type of applications .
+wrong word,are 7
+mutation sentence,These operators reproduce programming errors that are to occur during the development of this type of applications .
+
+original sentence,"On the NATO conference , well I mean the obvious question is why should NATO exist ?"
+wrong word,is 12
+mutation sentence,"On the NATO conference , well I mean the obvious question is should NATO exist ?"
+
+original sentence,The first challenge that we have before can do any kind of analysis of these interstellar dust particles is simply to find them .
+wrong word,is 19
+mutation sentence,The first challenge that we have before can do any kind of analysis of these interstellar dust particles is to find them .
+mutation sentence,The first challenge that we have before can do any kind is simply to find them .
+
+original sentence,"However , when you get off that aeroplane , if you have n't pre-organised transport , you will have to walk , and it is a long way into town ."
+wrong word,have 12
+mutation sentence,"However , when you get off that aeroplane , if you have pre-organised transport , you will have to walk , and it is a long way into town ."
+
+original sentence,"Socotra is an eco-tourism system with limited infrastructure and new to the international tourist market , and therefore the hotel accommodations are not quite like other destinations ."
+wrong word,are 22
+mutation sentence,"Socotra is an eco-tourism system with limited infrastructure and new to the international tourist market , and therefore the hotel accommodations are ."
+
+original sentence,"From the south , the quickest route is probably to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+wrong word,is 8
+mutation sentence,"From the south , the quickest route is to take the M1 northbound to junction 32 , then the M18 eastbound to junction 2 , the A1M northbound to junction 44 and finally the A64 eastbound to the York Outer Ring Road ( A1237 ) ."
+
+original sentence,"If you look closely , at the base of every leaf are two tiny little leaves that will grow outwards if the stem growing between them is cut off ."
+wrong word,are 12
+mutation sentence,"If you look closely , are two tiny little leaves that will grow outwards if the stem growing between them is cut off ."
+
+original sentence,"On the other hand , this is n't to say that you should necessarily make jokes at other people 's expense , as this can make you seem mean and petty ."
+wrong word,is 7
+mutation sentence,"On the other hand , this is to say that you should necessarily make jokes at other people 's expense , as this can make you seem mean and petty ."
+
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,Every child knows that much instinctively .
+wrong word,that 4
+mutation sentence,Every child knows that much .
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"During avian evolution , the loss of the CFL and reorganization of the pelvic musculature [ 5 ] , [ 13 ] could have made birds unable to properly carry a postacetabular mass equivalent to that carried by non-avian theropods [ 5 ] , [ 6 ] ."
+wrong word,mass 33
+mutation sentence,"During avian evolution , the loss of the CFL and reorganization of the pelvic musculature [ 5 ] , [ 13 ] could have made birds unable to properly carry a postacetabular mass equivalent carried by non-avian theropods [ 5 ] , [ 6 ] ."
+
+original sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a graphic novel adaptation , several companion books , two rap albums , a 28-city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+wrong word,novel 42
+mutation sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a novel adaptation , several companion books , two rap albums , a 28-city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+
+original sentence,"Holt was drafted by the Pittsburgh Pirates with the club 's ninth round selection in the 2009 Major League Baseball Draft , one pick before his Rice teammate Ryan Berry . [ 7 ]"
+wrong word,round 13
+mutation sentence,"Holt was drafted by the Pittsburgh Pirates with the club 's round selection in the 2009 Major League Baseball Draft , one pick before his Rice teammate Ryan Berry . [ 7 ]"
+
+original sentence,"Padalecki proposed to her in front of their favorite painting , "" Joan of Arc "" , by French realist Jules Bastien-Lepage at New York 's Metropolitan Museum of Art in October 2009 . [ 13 ] [ 14 ] [ 15 ] [ 16 ]"
+wrong word,realist 20
+mutation sentence,"Padalecki proposed to her in front of their favorite painting , "" Joan of Arc "" , by realist Jules Bastien-Lepage at New York 's Metropolitan Museum of Art in October 2009 . [ 13 ] [ 14 ] [ 15 ] [ 16 ]"
+
+original sentence,We are run as a Hybrid Organization - a for-profit company focused on achieving a social good .
+wrong word,good 17
+mutation sentence,We are run as a Hybrid Organization - a for-profit company focused on achieving a good .
+
+original sentence,"First , people around the world are desperate for high quality how-to information ."
+wrong word,quality 11
+mutation sentence,"First , people around the world are desperate for quality how-to information ."
+
+original sentence,Psychology major at University of Texas Arlington Amneh Jafari heard of the incident and wanted to issue her support to Mohamed .
+wrong word,major 2
+mutation sentence,Psychology major Arlington Amneh Jafari heard of the incident and wanted to issue her support to Mohamed .
+
+original sentence,The Polaroids were ready in an instant and immediately displayed at the entry of the exhibit .
+wrong word,instant 7
+mutation sentence,The Polaroids were ready in an instant and displayed at the entry of the exhibit .
+
+original sentence,"Make an ultimate to-do list for this single project , and have it placed somewhere you will see it on a regular basis ."
+wrong word,to-do 4
+mutation sentence,"Make an to-do list for this single project , and have it placed somewhere you will see it on a regular basis ."
+
+original sentence,If you 're playing quidditch you 're probably just having fun so play nicely .
+wrong word,fun 11
+mutation sentence,If you 're playing quidditch you 're probably just having fun play nicely .
+mutation sentence,If you 're playing quidditch you 're probably just having fun so play .
+
+original sentence,Drizzle a bit of olive oil in a pan over medium-high heat .
+wrong word,olive 5
+mutation sentence,Drizzle a bit of olive oil over medium-high heat .
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,Pack animals always tear apart the weaklings in their midst .
+wrong word,Pack 1
+mutation sentence,Pack animals always tear the weaklings in their midst .
+
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+original sentence,"One of the soldiers turned to face him , the ruby-like eyes seeming to pierce his very soul ."
+wrong word,One 1
+mutation sentence,"One turned to face him , the ruby-like eyes seeming to pierce his very soul ."
+
+original sentence,"One of the silk screens exhibited at USI this time was the Annie Oakley screen print called "" Cowboys and Indians "" from 1987 ."
+wrong word,One 1
+mutation sentence,"One was the Annie Oakley screen print called "" Cowboys and Indians "" from 1987 ."
+
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+original sentence,"His first campaign raised funds for To Write Love On Her Arms , which supports people struggling with depression , addiction , self-injury , and suicide ."
+wrong word,To 7
+mutation sentence,"His first campaign raised funds for To Write Love , which supports people struggling with depression , addiction , self-injury , and suicide ."
+
+original sentence,Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said Mohamed wishes to use his newfound fame and attention to spotlight social causes including the treatment of Muslims in the United States .
+wrong word,to 27
+mutation sentence,Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said Mohamed wishes to use his newfound fame and attention to spotlight causes including the treatment of Muslims in the United States .
+
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+original sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage in the United States to supporting bestiality ."
+wrong word,to 20
+mutation sentence,"In a 2003 interview with the Associated Press , Rick Santorum compared legalizing same-sex marriage to supporting bestiality ."
+
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,"Pacific Standard owner , Jonathan M. Stan , displays the Santorum cocktail drink as a finished product at the bar . ( 2012 ) ."
+wrong word,Standard 2
+mutation sentence,"Standard owner , Jonathan M. Stan , displays the Santorum cocktail drink as a finished product at the bar . ( 2012 ) ."
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+original sentence,"In his My Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+wrong word,My 3
+mutation sentence,"In his My Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+original sentence,"By compiling data from published literature we found that in thirty-one languages around the world , the interjection for other-initiated repair appears to be strongly similar ( Figure 1 ) ."
+wrong word,By 1
+mutation sentence,"By compiling data we found that in thirty-one languages around the world , the interjection for other-initiated repair appears to be strongly similar ( Figure 1 ) ."
+
+original sentence,Design of Mutation Operators for Testing Geographic Information Systems
+wrong word,for 5
+mutation sentence,Design of Mutation Operators for Testing Information Systems
+
+original sentence,Differences in limb orientation can produce substantial differences in loading regimes on limb bones .
+wrong word,in 9
+mutation sentence,Differences in limb orientation can produce substantial differences in loading regimes .
+
+original sentence,She ’d garlic-salted the yams to the tune of Gomez unloading his Glock into a drug dealer .
+wrong word,of 9
+mutation sentence,She ’d garlic-salted the yams to the tune of Gomez unloading his Glock .
+
+original sentence,"When Tyler was very young , his grandmother was his favorite person in the world because , unlike his parents , who believed that children should always be told the truth as adults understood it , she would fill in the gaps in his knowledge — Santa Claus , the Easter Bunny , God ."
+wrong word,because 16
+mutation sentence,"When Tyler was very young , his grandmother was his favorite person in the world because , , she would fill in the gaps in his knowledge — Santa Claus , the Easter Bunny , God ."
+
+original sentence,I hate the moon - I am afraid of it - for when it shines on certain scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+wrong word,for 12
+mutation sentence,I hate the moon - I am afraid of it - for when it shines on scenes familiar and loved it sometimes makes them unfamiliar and hideous .
+
+original sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , given our lack of data , we have no reasonable expectation of what it should be like , or what it should n't be like ."
+wrong word,because 17
+mutation sentence,"The technology that Frank and his colleagues are using to explore the ice is so important because , we have no reasonable expectation of what it should be like , or what it should n't be like ."
+
+original sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei to witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+wrong word,as 19
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds crowded onto the Chiang Kai Shek Memorial near downtown Taipei to witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+mutation sentence,"Taipei , Taiwan — The Taipei City Lantern Festival was off to a bright start on Saturday Night as hundreds of thousands crowded onto the Chiang Kai Shek Memorial near downtown Taipei to witness city mayor Hau Lung-bin and other dignitaries ceremoniously flip the switch to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park ."
+
+original sentence,"You should book or ensure accommodation before you board a flight for the Chathams , as during the popular months of the tourism season , between October and April , accommodation can be severely limited ."
+wrong word,as 16
+mutation sentence,"You should book or ensure accommodation before you board a flight for the Chathams , as during the popular months of the tourism season , accommodation can be severely limited ."
+
+original sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is best for you ."
+wrong word,about 16
+mutation sentence,"You could keep adjusting your shirt or your hair , keeping a running dialogue about what look is best for you ."
+mutation sentence,"You could also keep adjusting your shirt or your hair , keeping a running dialogue about what look is best ."
+
+original sentence,"For example , list “ take the dog for a walk by 12:30 ” rather than simply “ walk the dog . ”"
+wrong word,than 16
+mutation sentence,"For example , list “ take the dog for a walk by 12:30 ” rather than “ walk the dog . ”"
+
+
+
+"pos from 从句连词 to 副词
+"
+original sentence,For example if the word Bird is ' Vogelaviatiolap ' then why not make the word Birds ' Vogelaviatiolaps ' since the suffix ' s ' is added at the end for most languages at plurals .
+wrong word,why 12
+mutation sentence,For example if the word Bird is ' Vogelaviatiolap ' then why make the word Birds ' Vogelaviatiolaps ' since the suffix ' s ' is added at the end for most languages at plurals .
+
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+original sentence,"By compiling data from published literature we found that in thirty-one languages around the world , the interjection for other-initiated repair appears to be strongly similar ( Figure 1 ) ."
+wrong word,that 9
+mutation sentence,"By compiling data from published literature we found that , the interjection for other-initiated repair appears to be strongly similar ( Figure 1 ) ."
+
+original sentence,The team was n't so far ahead that we knew .
+wrong word,that 8
+mutation sentence,The team was n't far ahead that we knew .
+
+original sentence,Perhaps they had learned an important lesson from the Warhol exhibit that cultural events like these were ripe for use and reuse .
+wrong word,that 12
+mutation sentence,Perhaps they had learned an important lesson from the Warhol exhibit that events like these were ripe for use and reuse .
+
+original sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+wrong word,that 5
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River ."
+mutation sentence,"Despite the common perception that Cleveland is an town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over by visitors who are surprised you ca n't see the other side , i.e. , Canada ) ."
+mutation sentence,"Despite the common perception that Cleveland is an industrial town , just beyond the automotive and steel plants , a clean and beautiful downtown rises at the mouth of the Cuyahoga River on the southern shore of Lake Erie ( often marvelled over ) ."
+
+original sentence,"They compensate for this by creating the impression that they have a lot of friends - they have a ' quantity , not quality ' mentality ."
+wrong word,that 9
+mutation sentence,"They compensate for this by creating the impression that they have a lot - they have a ' quantity , not quality ' mentality ."
+
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,"Well that ’s kind of an unending war , so do we want NATO to exist , do we want there to be a Western military alliance that carries out these activities , with no pretense of defense ?"
+wrong word,be 23
+mutation sentence,"Well that ’s kind of an unending war , so do we want NATO to exist , do we want there to be a Western alliance that carries out these activities , with no pretense of defense ?"
+
+original sentence,"In the past Muggle Quidditch has mainly been played at colleges in the US , but over the last few years there has been a dramatic rise in the number of community teams ."
+wrong word,been 24
+mutation sentence,"In the past Muggle Quidditch has mainly been played at colleges in the US , but over the last few years there has been a dramatic rise ."
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,"When I discovered Wikipedia , I recognized that the wiki model had the potential to build the how-to resource the world really needs ."
+wrong word,needs 23
+mutation sentence,"When I discovered Wikipedia , I recognized that the wiki model had the potential to build the how-to resource the world needs ."
+
+original sentence,Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said Mohamed wishes to use his newfound fame and attention to spotlight social causes including the treatment of Muslims in the United States .
+wrong word,spotlight 28
+mutation sentence,Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said Mohamed wishes to use his newfound fame and attention to spotlight causes including the treatment of Muslims in the United States .
+
+original sentence,Greek court rules worship of ancient Greek deities is legal
+wrong word,rules 3
+mutation sentence,court rules worship of ancient Greek deities is legal
+mutation sentence,Greek court rules worship is legal
+
+original sentence,"From the west , the A59 and the M62 provide connections from Liverpool and Manchester , and from the north the A1 and the A19 link York with Tyneside , Northumberland and south-eastern Scotland ."
+wrong word,link 26
+mutation sentence,"From the west , the A59 and the M62 provide connections from Liverpool and Manchester , and from the north the A1 and the A19 link York ."
+
+original sentence,"For example , if you invented the word ' China ' as ' Khinssa ' , ' Drink ' as ' Bever ' , and the word ' Accident ' as ' Casnondelibreaten ' , why not make the word ' tea ' as ' Khincasnonbever ' or ' Bevernondelibreatekin ' or even ' Khinssacasnondelibreatenibever ' !"
+wrong word,Drink 18
+mutation sentence,"For example , if you invented the word ' China ' as ' Khinssa ' , ' Drink ' , and the word ' Accident ' as ' Casnondelibreaten ' , why not make the word ' tea ' as ' Khincasnonbever ' or ' Bevernondelibreatekin ' or even ' Khinssacasnondelibreatenibever ' !"
+
+original sentence,If you 're playing quidditch you 're probably just having fun so play nicely .
+wrong word,play 13
+mutation sentence,If you 're playing quidditch you 're probably just having fun play nicely .
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+original sentence,He graduated summa cum laude from the University of California in 1936 .
+wrong word,laude 5
+mutation sentence,He graduated summa cum laude in 1936 .
+
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

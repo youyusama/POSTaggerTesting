@@ -1,0 +1,1899 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+170,4401,5197,71,25,2,651
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+
+
+"pos from 副词 to 介词
+"
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+original sentence,Hers and the dealer 's sold quickly .
+wrong word,'s
+mutation sentence,Hers and all the dealer 's sold quickly .
+mutation sentence,Hers and even the dealer 's sold quickly .
+mutation sentence,Hers and both the dealer 's sold quickly .
+mutation sentence,Hers and the art dealer 's sold quickly .
+mutation sentence,Hers and the drug dealer 's sold quickly .
+mutation sentence,Hers and the antique dealer 's sold quickly .
+mutation sentence,Hers and the diamond dealer 's sold quickly .
+mutation sentence,Hers and the car dealer 's sold quickly .
+mutation sentence,Hers and the book dealer 's sold quickly .
+mutation sentence,Hers and the coin dealer 's sold quickly .
+mutation sentence,Hers and the new dealer 's sold quickly .
+mutation sentence,Hers and the dealer 's sold out quickly .
+mutation sentence,Hers and the dealer 's sold off quickly .
+mutation sentence,Hers and the dealer 's sold very quickly .
+mutation sentence,Hers and the dealer 's sold quickly too .
+mutation sentence,Hers and the dealer 's sold quickly together .
+mutation sentence,Hers and the dealer 's sold quickly though .
+
+original sentence,His and the dealer 's sold quickly .
+wrong word,'s
+mutation sentence,His and especially the dealer 's sold quickly .
+mutation sentence,His and the dealer 's sold out quickly .
+mutation sentence,His and the dealer 's sold very quickly .
+mutation sentence,His and the dealer 's sold off quickly .
+mutation sentence,His and the dealer 's sold quickly too .
+mutation sentence,His and the dealer 's sold quickly together .
+mutation sentence,His and the dealer 's sold quickly though .
+mutation sentence,His and the dealer 's sold quickly however .
+
+original sentence,Theirs and the dealer 's sold quickly .
+wrong word,'s
+mutation sentence,Theirs and even the dealer 's sold quickly .
+mutation sentence,Theirs and especially the dealer 's sold quickly .
+mutation sentence,Theirs and both the dealer 's sold quickly .
+mutation sentence,Theirs and the local dealer 's sold quickly .
+mutation sentence,Theirs and the drug dealer 's sold quickly .
+mutation sentence,Theirs and the new dealer 's sold quickly .
+mutation sentence,Theirs and the foreign dealer 's sold quickly .
+mutation sentence,Theirs and the dealer there 's sold quickly .
+mutation sentence,Theirs and the dealer 's sold out quickly .
+mutation sentence,Theirs and the dealer 's sold off quickly .
+mutation sentence,Theirs and the dealer 's sold very quickly .
+mutation sentence,Theirs and the dealer 's sold quickly too .
+mutation sentence,Theirs and the dealer 's sold quickly together .
+mutation sentence,Theirs and the dealer 's sold quickly though .
+mutation sentence,Theirs and the dealer 's sold quickly however .
+
+original sentence,Mine and the dealer 's sold quickly .
+wrong word,'s
+mutation sentence,Mine and all the dealer 's sold quickly .
+mutation sentence,Mine and the other dealer 's sold quickly .
+mutation sentence,Mine and the car dealer 's sold quickly .
+mutation sentence,Mine and the local dealer 's sold quickly .
+mutation sentence,Mine and the antique dealer 's sold quickly .
+mutation sentence,Mine and the art dealer 's sold quickly .
+mutation sentence,Mine and the drug dealer 's sold quickly .
+mutation sentence,Mine and the dealer it 's sold quickly .
+mutation sentence,Mine and the dealer there 's sold quickly .
+mutation sentence,Mine and the dealer here 's sold quickly .
+mutation sentence,Mine and the dealer 's sold out quickly .
+mutation sentence,Mine and the dealer 's sold very quickly .
+mutation sentence,Mine and the dealer 's sold off quickly .
+mutation sentence,Mine and the dealer 's sold pretty quickly .
+mutation sentence,Mine and the dealer 's sold it quickly .
+mutation sentence,Mine and the dealer 's sold quickly too .
+mutation sentence,Mine and the dealer 's sold quickly though .
+mutation sentence,Mine and the dealer 's sold quickly together .
+mutation sentence,Mine and the dealer 's sold quickly anyway .
+
+original sentence,Yours and the dealer 's sold quickly .
+wrong word,'s
+mutation sentence,Yours and my the dealer 's sold quickly .
+mutation sentence,Yours and the other dealer 's sold quickly .
+mutation sentence,Yours and the art dealer 's sold quickly .
+mutation sentence,Yours and the local dealer 's sold quickly .
+mutation sentence,Yours and the first dealer 's sold quickly .
+mutation sentence,Yours and the book dealer 's sold quickly .
+mutation sentence,Yours and the new dealer 's sold quickly .
+mutation sentence,Yours and the dealer 's sold out quickly .
+mutation sentence,Yours and the dealer 's sold very quickly .
+mutation sentence,Yours and the dealer 's sold pretty quickly .
+mutation sentence,Yours and the dealer 's sold it quickly .
+mutation sentence,Yours and the dealer 's sold off quickly .
+mutation sentence,Yours and the dealer 's sold quite quickly .
+mutation sentence,Yours and the dealer 's sold quickly too .
+mutation sentence,Yours and the dealer 's sold quickly though .
+mutation sentence,Yours and the dealer 's sold quickly today .
+mutation sentence,Yours and the dealer 's sold quickly together .
+mutation sentence,Yours and the dealer 's sold quickly afterwards .
+
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+original sentence,"Hers , the dealer cleaned ."
+wrong word,Hers
+mutation sentence,"Hers , while the dealer cleaned ."
+mutation sentence,"Hers , the drug dealer cleaned ."
+mutation sentence,"Hers , the art dealer cleaned ."
+mutation sentence,"Hers , the human dealer cleaned ."
+mutation sentence,"Hers , the arms dealer cleaned ."
+mutation sentence,"Hers , the dealer had cleaned ."
+mutation sentence,"Hers , the dealer always cleaned ."
+mutation sentence,"Hers , the dealer then cleaned ."
+mutation sentence,"Hers , the dealer cleaned up ."
+mutation sentence,"Hers , the dealer cleaned out ."
+mutation sentence,"Hers , the dealer cleaned off ."
+mutation sentence,"Hers , the dealer cleaned it ."
+mutation sentence,"Hers , the dealer cleaned himself ."
+mutation sentence,"Hers , the dealer cleaned her ."
+mutation sentence,"Hers , the dealer cleaned them ."
+mutation sentence,"Hers , the dealer cleaned later ."
+mutation sentence,"Hers , the dealer cleaned clean ."
+mutation sentence,"Hers , the dealer cleaned first ."
+
+original sentence,"Yours , the dealer cleaned ."
+wrong word,Yours
+mutation sentence,"Yours , that the dealer cleaned ."
+mutation sentence,"Yours , after the dealer cleaned ."
+mutation sentence,"Yours , whom the dealer cleaned ."
+mutation sentence,"Yours , until the dealer cleaned ."
+mutation sentence,"Yours , as the dealer cleaned ."
+mutation sentence,"Yours , the drug dealer cleaned ."
+mutation sentence,"Yours , the art dealer cleaned ."
+mutation sentence,"Yours , the arms dealer cleaned ."
+mutation sentence,"Yours , the antique dealer cleaned ."
+mutation sentence,"Yours , the dealer has cleaned ."
+mutation sentence,"Yours , the dealer had cleaned ."
+mutation sentence,"Yours , the dealer is cleaned ."
+mutation sentence,"Yours , the dealer cleaned up ."
+mutation sentence,"Yours , the dealer cleaned it ."
+mutation sentence,"Yours , the dealer cleaned them ."
+mutation sentence,"Yours , the dealer cleaned out ."
+mutation sentence,"Yours , the dealer cleaned you ."
+mutation sentence,"Yours , the dealer cleaned me ."
+mutation sentence,"Yours , the dealer cleaned him ."
+
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,The car is at hers .
+wrong word,is
+mutation sentence,The other car is at hers .
+mutation sentence,The squad car is at hers .
+mutation sentence,The patrol car is at hers .
+mutation sentence,The rental car is at hers .
+mutation sentence,The police car is at hers .
+mutation sentence,The cop car is at hers .
+mutation sentence,The black car is at hers .
+mutation sentence,The sports car is at hers .
+mutation sentence,The second car is at hers .
+mutation sentence,The first car is at hers .
+mutation sentence,The car itself is at hers .
+mutation sentence,The car is almost at hers .
+mutation sentence,The car is nearly at hers .
+mutation sentence,The car is still at hers .
+mutation sentence,The car is directly at hers .
+mutation sentence,The car is at hers now .
+mutation sentence,The car is at hers again .
+mutation sentence,The car is at hers too .
+
+original sentence,The car is at his .
+wrong word,is
+mutation sentence,The rental car is at his .
+mutation sentence,The other car is at his .
+mutation sentence,The squad car is at his .
+mutation sentence,The patrol car is at his .
+mutation sentence,The police car is at his .
+mutation sentence,The cop car is at his .
+mutation sentence,The sports car is at his .
+mutation sentence,The red car is at his .
+mutation sentence,The black car is at his .
+mutation sentence,The town car is at his .
+mutation sentence,The car is almost at his .
+mutation sentence,The car is still at his .
+mutation sentence,The car is nearly at his .
+mutation sentence,The car is not at his .
+mutation sentence,The car is now at his .
+mutation sentence,The car is already at his .
+mutation sentence,The car is at last his .
+
+original sentence,The car is at theirs .
+wrong word,is
+mutation sentence,The other car is at theirs .
+mutation sentence,The squad car is at theirs .
+mutation sentence,The police car is at theirs .
+mutation sentence,The patrol car is at theirs .
+mutation sentence,The second car is at theirs .
+mutation sentence,The first car is at theirs .
+mutation sentence,The cop car is at theirs .
+mutation sentence,The last car is at theirs .
+mutation sentence,The next car is at theirs .
+mutation sentence,The rental car is at theirs .
+mutation sentence,The car itself is at theirs .
+mutation sentence,The car is almost at theirs .
+mutation sentence,The car is nearly at theirs .
+mutation sentence,The car is directly at theirs .
+mutation sentence,The car is still at theirs .
+mutation sentence,The car is already at theirs .
+mutation sentence,The car is at last theirs .
+mutation sentence,The car is at once theirs .
+mutation sentence,The car is at theirs now .
+mutation sentence,The car is at theirs again .
+mutation sentence,The car is at theirs too .
+
+original sentence,The car is at mine .
+wrong word,is
+mutation sentence,The rental car is at mine .
+mutation sentence,The other car is at mine .
+mutation sentence,The squad car is at mine .
+mutation sentence,The patrol car is at mine .
+mutation sentence,The police car is at mine .
+mutation sentence,The next car is at mine .
+mutation sentence,The first car is at mine .
+mutation sentence,The cop car is at mine .
+mutation sentence,The second car is at mine .
+mutation sentence,The last car is at mine .
+mutation sentence,The car is almost at mine .
+mutation sentence,The car is nearly at mine .
+mutation sentence,The car is still at mine .
+mutation sentence,The car is directly at mine .
+mutation sentence,The car is already at mine .
+mutation sentence,The car is now at mine .
+mutation sentence,The car is at the mine .
+mutation sentence,The car is at mine now .
+mutation sentence,The car is at mine too .
+mutation sentence,The car is at mine again .
+
+original sentence,The car is at yours .
+wrong word,is
+mutation sentence,The rental car is at yours .
+mutation sentence,The squad car is at yours .
+mutation sentence,The patrol car is at yours .
+mutation sentence,The other car is at yours .
+mutation sentence,The sports car is at yours .
+mutation sentence,The police car is at yours .
+mutation sentence,The next car is at yours .
+mutation sentence,The town car is at yours .
+mutation sentence,The second car is at yours .
+mutation sentence,The last car is at yours .
+mutation sentence,The car is almost at yours .
+mutation sentence,The car is not at yours .
+mutation sentence,The car is still at yours .
+mutation sentence,The car is at yours now .
+mutation sentence,The car is at yours please .
+mutation sentence,The car is at yours too .
+mutation sentence,The car is at yours tonight .
+mutation sentence,The car is at yours today .
+
+original sentence,The dealer recommended that hers get painted .
+wrong word,get
+mutation sentence,The art dealer recommended that hers get painted .
+mutation sentence,The antique dealer recommended that hers get painted .
+mutation sentence,The dealer then recommended that hers get painted .
+mutation sentence,The dealer also recommended that hers get painted .
+mutation sentence,The dealer had recommended that hers get painted .
+mutation sentence,The dealer even recommended that hers get painted .
+mutation sentence,The dealer later recommended that hers get painted .
+mutation sentence,The dealer has recommended that hers get painted .
+mutation sentence,The dealer immediately recommended that hers get painted .
+mutation sentence,The dealer strongly recommended that hers get painted .
+mutation sentence,The dealer specifically recommended that hers get painted .
+mutation sentence,The dealer recommended only that hers get painted .
+mutation sentence,The dealer recommended instead that hers get painted .
+mutation sentence,The dealer recommended her that hers get painted .
+mutation sentence,The dealer recommended him that hers get painted .
+mutation sentence,The dealer recommended then that hers get painted .
+mutation sentence,The dealer recommended it that hers get painted .
+mutation sentence,The dealer recommended also that hers get painted .
+mutation sentence,The dealer recommended that all hers get painted .
+mutation sentence,The dealer recommended that only hers get painted .
+mutation sentence,The dealer recommended that even hers get painted .
+mutation sentence,The dealer recommended that both hers get painted .
+mutation sentence,The dealer recommended that some hers get painted .
+mutation sentence,The dealer recommended that one hers get painted .
+mutation sentence,The dealer recommended that hers should get painted .
+mutation sentence,The dealer recommended that hers could get painted .
+mutation sentence,The dealer recommended that hers not get painted .
+mutation sentence,The dealer recommended that hers never get painted .
+mutation sentence,The dealer recommended that hers also get painted .
+mutation sentence,The dealer recommended that hers would get painted .
+mutation sentence,The dealer recommended that hers might get painted .
+mutation sentence,The dealer recommended that hers must get painted .
+mutation sentence,The dealer recommended that hers can get painted .
+mutation sentence,The dealer recommended that hers get freshly painted .
+mutation sentence,The dealer recommended that hers get professionally painted .
+mutation sentence,The dealer recommended that hers get brightly painted .
+mutation sentence,The dealer recommended that hers get newly painted .
+mutation sentence,The dealer recommended that hers get beautifully painted .
+mutation sentence,The dealer recommended that hers get properly painted .
+mutation sentence,The dealer recommended that hers get painted over .
+mutation sentence,The dealer recommended that hers get painted black .
+mutation sentence,The dealer recommended that hers get painted red .
+mutation sentence,The dealer recommended that hers get painted on .
+mutation sentence,The dealer recommended that hers get painted white .
+mutation sentence,The dealer recommended that hers get painted first .
+mutation sentence,The dealer recommended that hers get painted too .
+mutation sentence,The dealer recommended that hers get painted later .
+mutation sentence,The dealer recommended that hers get painted green .
+mutation sentence,The dealer recommended that hers get painted again .
+
+original sentence,The dealer recommended that theirs get painted .
+wrong word,get
+mutation sentence,The art dealer recommended that theirs get painted .
+mutation sentence,The first dealer recommended that theirs get painted .
+mutation sentence,The car dealer recommended that theirs get painted .
+mutation sentence,The paint dealer recommended that theirs get painted .
+mutation sentence,The original dealer recommended that theirs get painted .
+mutation sentence,The same dealer recommended that theirs get painted .
+mutation sentence,The local dealer recommended that theirs get painted .
+mutation sentence,The new dealer recommended that theirs get painted .
+mutation sentence,The American dealer recommended that theirs get painted .
+mutation sentence,The other dealer recommended that theirs get painted .
+mutation sentence,The dealer then recommended that theirs get painted .
+mutation sentence,The dealer also recommended that theirs get painted .
+mutation sentence,The dealer has recommended that theirs get painted .
+mutation sentence,The dealer had recommended that theirs get painted .
+mutation sentence,The dealer later recommended that theirs get painted .
+mutation sentence,The dealer even recommended that theirs get painted .
+mutation sentence,The dealer further recommended that theirs get painted .
+mutation sentence,The dealer immediately recommended that theirs get painted .
+mutation sentence,The dealer recommended only that theirs get painted .
+mutation sentence,The dealer recommended instead that theirs get painted .
+mutation sentence,The dealer recommended then that theirs get painted .
+mutation sentence,The dealer recommended also that theirs get painted .
+mutation sentence,The dealer recommended however that theirs get painted .
+mutation sentence,The dealer recommended them that theirs get painted .
+mutation sentence,The dealer recommended him that theirs get painted .
+mutation sentence,The dealer recommended that all theirs get painted .
+mutation sentence,The dealer recommended that only theirs get painted .
+mutation sentence,The dealer recommended that even theirs get painted .
+mutation sentence,The dealer recommended that both theirs get painted .
+mutation sentence,The dealer recommended that theirs should get painted .
+mutation sentence,The dealer recommended that theirs not get painted .
+mutation sentence,The dealer recommended that theirs also get painted .
+mutation sentence,The dealer recommended that theirs all get painted .
+mutation sentence,The dealer recommended that theirs never get painted .
+mutation sentence,The dealer recommended that theirs must get painted .
+mutation sentence,The dealer recommended that theirs could get painted .
+mutation sentence,The dealer recommended that theirs too get painted .
+mutation sentence,The dealer recommended that theirs would get painted .
+mutation sentence,The dealer recommended that theirs can get painted .
+mutation sentence,The dealer recommended that theirs get brightly painted .
+mutation sentence,The dealer recommended that theirs get freshly painted .
+mutation sentence,The dealer recommended that theirs get newly painted .
+mutation sentence,The dealer recommended that theirs get red painted .
+mutation sentence,The dealer recommended that theirs get similarly painted .
+mutation sentence,The dealer recommended that theirs get painted black .
+mutation sentence,The dealer recommended that theirs get painted red .
+mutation sentence,The dealer recommended that theirs get painted white .
+mutation sentence,The dealer recommended that theirs get painted blue .
+mutation sentence,The dealer recommended that theirs get painted over .
+mutation sentence,The dealer recommended that theirs get painted yellow .
+mutation sentence,The dealer recommended that theirs get painted silver .
+
+original sentence,The dealer recommended that mine get painted .
+wrong word,get
+mutation sentence,The art dealer recommended that mine get painted .
+mutation sentence,The coal dealer recommended that mine get painted .
+mutation sentence,The scrap dealer recommended that mine get painted .
+mutation sentence,The car dealer recommended that mine get painted .
+mutation sentence,The paint dealer recommended that mine get painted .
+mutation sentence,The gold dealer recommended that mine get painted .
+mutation sentence,The local dealer recommended that mine get painted .
+mutation sentence,The metal dealer recommended that mine get painted .
+mutation sentence,The stamp dealer recommended that mine get painted .
+mutation sentence,The diamond dealer recommended that mine get painted .
+mutation sentence,The dealer also recommended that mine get painted .
+mutation sentence,The dealer then recommended that mine get painted .
+mutation sentence,The dealer has recommended that mine get painted .
+mutation sentence,The dealer had recommended that mine get painted .
+mutation sentence,The dealer later recommended that mine get painted .
+mutation sentence,The dealer even recommended that mine get painted .
+mutation sentence,The dealer further recommended that mine get painted .
+mutation sentence,The dealer immediately recommended that mine get painted .
+mutation sentence,The dealer recommended only that mine get painted .
+mutation sentence,The dealer recommended instead that mine get painted .
+mutation sentence,The dealer recommended it that mine get painted .
+mutation sentence,The dealer recommended he that mine get painted .
+mutation sentence,The dealer recommended him that mine get painted .
+mutation sentence,The dealer recommended that the mine get painted .
+mutation sentence,The dealer recommended that this mine get painted .
+mutation sentence,The dealer recommended that a mine get painted .
+mutation sentence,The dealer recommended that his mine get painted .
+mutation sentence,The dealer recommended that mine get brightly painted .
+mutation sentence,The dealer recommended that mine get red painted .
+mutation sentence,The dealer recommended that mine get properly painted .
+mutation sentence,The dealer recommended that mine get newly painted .
+mutation sentence,The dealer recommended that mine get fully painted .
+mutation sentence,The dealer recommended that mine get painted black .
+mutation sentence,The dealer recommended that mine get painted red .
+mutation sentence,The dealer recommended that mine get painted white .
+mutation sentence,The dealer recommended that mine get painted blue .
+mutation sentence,The dealer recommended that mine get painted yellow .
+mutation sentence,The dealer recommended that mine get painted over .
+mutation sentence,The dealer recommended that mine get painted silver .
+
+original sentence,The dealer recommended that yours get painted .
+wrong word,get
+mutation sentence,The art dealer recommended that yours get painted .
+mutation sentence,The antique dealer recommended that yours get painted .
+mutation sentence,The first dealer recommended that yours get painted .
+mutation sentence,The paint dealer recommended that yours get painted .
+mutation sentence,The book dealer recommended that yours get painted .
+mutation sentence,The car dealer recommended that yours get painted .
+mutation sentence,The same dealer recommended that yours get painted .
+mutation sentence,The local dealer recommended that yours get painted .
+mutation sentence,The original dealer recommended that yours get painted .
+mutation sentence,The stamp dealer recommended that yours get painted .
+mutation sentence,The dealer has recommended that yours get painted .
+mutation sentence,The dealer also recommended that yours get painted .
+mutation sentence,The dealer even recommended that yours get painted .
+mutation sentence,The dealer here recommended that yours get painted .
+mutation sentence,The dealer had recommended that yours get painted .
+mutation sentence,The dealer specifically recommended that yours get painted .
+mutation sentence,The dealer just recommended that yours get painted .
+mutation sentence,The dealer kindly recommended that yours get painted .
+mutation sentence,The dealer then recommended that yours get painted .
+mutation sentence,The dealer recommended you that yours get painted .
+mutation sentence,The dealer recommended only that yours get painted .
+mutation sentence,The dealer recommended me that yours get painted .
+mutation sentence,The dealer recommended it that yours get painted .
+mutation sentence,The dealer recommended instead that yours get painted .
+mutation sentence,The dealer recommended then that yours get painted .
+mutation sentence,The dealer recommended him that yours get painted .
+mutation sentence,The dealer recommended us that yours get painted .
+mutation sentence,The dealer recommended that all yours get painted .
+mutation sentence,The dealer recommended that only yours get painted .
+mutation sentence,The dealer recommended that even yours get painted .
+mutation sentence,The dealer recommended that both yours get painted .
+mutation sentence,The dealer recommended that the yours get painted .
+mutation sentence,The dealer recommended that yours truly get painted .
+mutation sentence,The dealer recommended that yours really get painted .
+mutation sentence,The dealer recommended that yours actually get painted .
+mutation sentence,The dealer recommended that yours ever get painted .
+mutation sentence,The dealer recommended that yours can get painted .
+mutation sentence,The dealer recommended that yours never get painted .
+mutation sentence,The dealer recommended that yours first get painted .
+mutation sentence,The dealer recommended that yours also get painted .
+mutation sentence,The dealer recommended that yours get freshly painted .
+mutation sentence,The dealer recommended that yours get newly painted .
+mutation sentence,The dealer recommended that yours get beautifully painted .
+mutation sentence,The dealer recommended that yours get brightly painted .
+mutation sentence,The dealer recommended that yours get professionally painted .
+mutation sentence,The dealer recommended that yours get painted black .
+mutation sentence,The dealer recommended that yours get painted red .
+mutation sentence,The dealer recommended that yours get painted white .
+mutation sentence,The dealer recommended that yours get painted over .
+mutation sentence,The dealer recommended that yours get painted too .
+mutation sentence,The dealer recommended that yours get painted blue .
+mutation sentence,The dealer recommended that yours get painted on .
+mutation sentence,The dealer recommended that yours get painted first .
+mutation sentence,The dealer recommended that yours get painted again .
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,Any car of his sells quickly .
+wrong word,sells
+mutation sentence,Any new car of his sells quickly .
+mutation sentence,Any sports car of his sells quickly .
+mutation sentence,Any old car of his sells quickly .
+mutation sentence,Any other car of his sells quickly .
+mutation sentence,Any good car of his sells quickly .
+mutation sentence,Any little car of his sells quickly .
+mutation sentence,Any luxury car of his sells quickly .
+mutation sentence,Any decent car of his sells quickly .
+mutation sentence,Any fast car of his sells quickly .
+mutation sentence,Any muscle car of his sells quickly .
+mutation sentence,Any car of like his sells quickly .
+mutation sentence,Any car of even his sells quickly .
+mutation sentence,Any car of the his sells quickly .
+mutation sentence,Any car of old his sells quickly .
+mutation sentence,Any car of all his sells quickly .
+mutation sentence,Any car of any his sells quickly .
+mutation sentence,Any car of a his sells quickly .
+mutation sentence,Any car of his own sells quickly .
+mutation sentence,Any car of his sells very quickly .
+mutation sentence,Any car of his sells out quickly .
+mutation sentence,Any car of his sells quite quickly .
+mutation sentence,Any car of his sells itself quickly .
+mutation sentence,Any car of his sells extremely quickly .
+mutation sentence,Any car of his sells rather quickly .
+mutation sentence,Any car of his sells quickly too .
+mutation sentence,Any car of his sells quickly though .
+
+original sentence,The dealer 's cars and his sell quickly .
+wrong word,sell
+mutation sentence,The car dealer 's cars and his sell quickly .
+mutation sentence,The new dealer 's cars and his sell quickly .
+mutation sentence,The local dealer 's cars and his sell quickly .
+mutation sentence,The garage dealer 's cars and his sell quickly .
+mutation sentence,The Chinese dealer 's cars and his sell quickly .
+mutation sentence,The auto dealer 's cars and his sell quickly .
+mutation sentence,The other dealer 's cars and his sell quickly .
+mutation sentence,The young dealer 's cars and his sell quickly .
+mutation sentence,The American dealer 's cars and his sell quickly .
+mutation sentence,The foreign dealer 's cars and his sell quickly .
+mutation sentence,The dealer 's new cars and his sell quickly .
+mutation sentence,The dealer 's own cars and his sell quickly .
+mutation sentence,The dealer 's other cars and his sell quickly .
+mutation sentence,The dealer 's old cars and his sell quickly .
+mutation sentence,The dealer 's used cars and his sell quickly .
+mutation sentence,The dealer 's rental cars and his sell quickly .
+mutation sentence,The dealer 's stock cars and his sell quickly .
+mutation sentence,The dealer 's two cars and his sell quickly .
+mutation sentence,The dealer 's cars and his sell very quickly .
+mutation sentence,The dealer 's cars and his sell extremely quickly .
+mutation sentence,The dealer 's cars and his sell rather quickly .
+
+original sentence,The car of his drove responsively .
+wrong word,drove
+mutation sentence,The little car of his drove responsively .
+mutation sentence,The big car of his drove responsively .
+mutation sentence,The old car of his drove responsively .
+mutation sentence,The sports car of his drove responsively .
+mutation sentence,The sleek car of his drove responsively .
+mutation sentence,The fancy car of his drove responsively .
+mutation sentence,The new car of his drove responsively .
+mutation sentence,The small car of his drove responsively .
+mutation sentence,The powerful car of his drove responsively .
+mutation sentence,The beautiful car of his drove responsively .
+mutation sentence,The car of old his drove responsively .
+mutation sentence,The car of his drove very responsively .
+mutation sentence,The car of his drove quite responsively .
+mutation sentence,The car of his drove more responsively .
+
+original sentence,The dealer recommended that his get painted .
+wrong word,get
+mutation sentence,The art dealer recommended that his get painted .
+mutation sentence,The paint dealer recommended that his get painted .
+mutation sentence,The antique dealer recommended that his get painted .
+mutation sentence,The same dealer recommended that his get painted .
+mutation sentence,The painting dealer recommended that his get painted .
+mutation sentence,The dealer then recommended that his get painted .
+mutation sentence,The dealer also recommended that his get painted .
+mutation sentence,The dealer had recommended that his get painted .
+mutation sentence,The dealer later recommended that his get painted .
+mutation sentence,The dealer even recommended that his get painted .
+mutation sentence,The dealer has recommended that his get painted .
+mutation sentence,The dealer immediately recommended that his get painted .
+mutation sentence,The dealer personally recommended that his get painted .
+mutation sentence,The dealer recommended him that his get painted .
+mutation sentence,The dealer recommended instead that his get painted .
+mutation sentence,The dealer recommended only that his get painted .
+mutation sentence,The dealer recommended it that his get painted .
+mutation sentence,The dealer recommended his that his get painted .
+mutation sentence,The dealer recommended then that his get painted .
+mutation sentence,The dealer recommended that all his get painted .
+mutation sentence,The dealer recommended that the his get painted .
+mutation sentence,The dealer recommended that both his get painted .
+mutation sentence,The dealer recommended that one his get painted .
+mutation sentence,The dealer recommended that only his get painted .
+mutation sentence,The dealer recommended that his get properly painted .
+mutation sentence,The dealer recommended that his get his painted .
+mutation sentence,The dealer recommended that his get well painted .
+mutation sentence,The dealer recommended that his get better painted .
+mutation sentence,The dealer recommended that his get professionally painted .
+mutation sentence,The dealer recommended that his get carefully painted .
+mutation sentence,The dealer recommended that his get brightly painted .
+mutation sentence,The dealer recommended that his get painted black .
+mutation sentence,The dealer recommended that his get painted red .
+mutation sentence,The dealer recommended that his get painted white .
+mutation sentence,The dealer recommended that his get painted over .
+mutation sentence,The dealer recommended that his get painted blue .
+mutation sentence,The dealer recommended that his get painted again .
+mutation sentence,The dealer recommended that his get painted green .
+mutation sentence,The dealer recommended that his get painted first .
+mutation sentence,The dealer recommended that his get painted too .
+mutation sentence,The dealer recommended that his get painted gold .
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+original sentence,"Dealers like seeing cars , especially hers ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , especially hers ."
+mutation sentence,"Dealers like seeing their cars , especially hers ."
+mutation sentence,"Dealers like seeing the cars , especially hers ."
+mutation sentence,"Dealers like seeing new cars , especially hers ."
+mutation sentence,"Dealers like seeing her cars , especially hers ."
+mutation sentence,"Dealers like seeing your cars , especially hers ."
+mutation sentence,"Dealers like seeing expensive cars , especially hers ."
+mutation sentence,"Dealers like seeing his cars , especially hers ."
+mutation sentence,"Dealers like seeing old cars , especially hers ."
+mutation sentence,"Dealers like seeing cars wrecked , especially hers ."
+mutation sentence,"Dealers like seeing cars sold , especially hers ."
+mutation sentence,"Dealers like seeing cars stolen , especially hers ."
+mutation sentence,"Dealers like seeing cars repaired , especially hers ."
+mutation sentence,"Dealers like seeing cars damaged , especially hers ."
+mutation sentence,"Dealers like seeing cars destroyed , especially hers ."
+mutation sentence,"Dealers like seeing cars used , especially hers ."
+mutation sentence,"Dealers like seeing cars expensive , especially hers ."
+mutation sentence,"Dealers like seeing cars , but especially hers ."
+mutation sentence,"Dealers like seeing cars , most especially hers ."
+mutation sentence,"Dealers like seeing cars , maybe especially hers ."
+mutation sentence,"Dealers like seeing cars , especially not hers ."
+mutation sentence,"Dealers like seeing cars , especially maybe hers ."
+mutation sentence,"Dealers like seeing cars , especially hers too ."
+
+original sentence,"Dealers like seeing cars , especially his ."
+wrong word,like
+mutation sentence,"Dealers like seeing expensive cars , especially his ."
+mutation sentence,"Dealers like seeing old cars , especially his ."
+mutation sentence,"Dealers like seeing cars , maybe especially his ."
+mutation sentence,"Dealers like seeing cars , especially not his ."
+
+original sentence,"Dealers like seeing cars , especially theirs ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , especially theirs ."
+mutation sentence,"Dealers like seeing their cars , especially theirs ."
+mutation sentence,"Dealers like seeing new cars , especially theirs ."
+mutation sentence,"Dealers like seeing the cars , especially theirs ."
+mutation sentence,"Dealers like seeing expensive cars , especially theirs ."
+mutation sentence,"Dealers like seeing old cars , especially theirs ."
+mutation sentence,"Dealers like seeing classic cars , especially theirs ."
+mutation sentence,"Dealers like seeing other cars , especially theirs ."
+mutation sentence,"Dealers like seeing your cars , especially theirs ."
+mutation sentence,"Dealers like seeing race cars , especially theirs ."
+mutation sentence,"Dealers like seeing used cars , especially theirs ."
+mutation sentence,"Dealers like seeing cars wrecked , especially theirs ."
+mutation sentence,"Dealers like seeing cars racing , especially theirs ."
+mutation sentence,"Dealers like seeing cars raced , especially theirs ."
+mutation sentence,"Dealers like seeing cars destroyed , especially theirs ."
+mutation sentence,"Dealers like seeing cars used , especially theirs ."
+mutation sentence,"Dealers like seeing cars sold , especially theirs ."
+mutation sentence,"Dealers like seeing cars repaired , especially theirs ."
+mutation sentence,"Dealers like seeing cars , most especially theirs ."
+mutation sentence,"Dealers like seeing cars , but especially theirs ."
+mutation sentence,"Dealers like seeing cars , especially theirs too ."
+
+original sentence,"Dealers like seeing cars , especially mine ."
+wrong word,like
+mutation sentence,"Dealers like seeing my cars , especially mine ."
+mutation sentence,"Dealers like seeing new cars , especially mine ."
+mutation sentence,"Dealers like seeing the cars , especially mine ."
+mutation sentence,"Dealers like seeing old cars , especially mine ."
+mutation sentence,"Dealers like seeing expensive cars , especially mine ."
+mutation sentence,"Dealers like seeing cars repaired , especially mine ."
+mutation sentence,"Dealers like seeing cars used , especially mine ."
+mutation sentence,"Dealers like seeing cars modified , especially mine ."
+mutation sentence,"Dealers like seeing cars , but especially mine ."
+mutation sentence,"Dealers like seeing cars , especially mine too ."
+
+original sentence,"Dealers like seeing cars , especially yours ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , especially yours ."
+mutation sentence,"Dealers like seeing their cars , especially yours ."
+mutation sentence,"Dealers like seeing your cars , especially yours ."
+mutation sentence,"Dealers like seeing new cars , especially yours ."
+mutation sentence,"Dealers like seeing the cars , especially yours ."
+mutation sentence,"Dealers like seeing our cars , especially yours ."
+mutation sentence,"Dealers like seeing old cars , especially yours ."
+mutation sentence,"Dealers like seeing other cars , especially yours ."
+mutation sentence,"Dealers like seeing cars wrecked , especially yours ."
+mutation sentence,"Dealers like seeing cars sold , especially yours ."
+mutation sentence,"Dealers like seeing cars repaired , especially yours ."
+mutation sentence,"Dealers like seeing cars destroyed , especially yours ."
+mutation sentence,"Dealers like seeing cars racing , especially yours ."
+mutation sentence,"Dealers like seeing cars used , especially yours ."
+mutation sentence,"Dealers like seeing cars raced , especially yours ."
+mutation sentence,"Dealers like seeing cars damaged , especially yours ."
+mutation sentence,"Dealers like seeing cars , but especially yours ."
+mutation sentence,"Dealers like seeing cars , most especially yours ."
+
+original sentence,"Dealers like seeing cars , hers especially ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , hers especially ."
+mutation sentence,"Dealers like seeing new cars , hers especially ."
+mutation sentence,"Dealers like seeing her cars , hers especially ."
+mutation sentence,"Dealers like seeing the cars , hers especially ."
+mutation sentence,"Dealers like seeing other cars , hers especially ."
+mutation sentence,"Dealers like seeing expensive cars , hers especially ."
+mutation sentence,"Dealers like seeing cars wrecked , hers especially ."
+mutation sentence,"Dealers like seeing cars sold , hers especially ."
+mutation sentence,"Dealers like seeing cars repaired , hers especially ."
+mutation sentence,"Dealers like seeing cars destroyed , hers especially ."
+mutation sentence,"Dealers like seeing cars damaged , hers especially ."
+mutation sentence,"Dealers like seeing cars stolen , hers especially ."
+mutation sentence,"Dealers like seeing cars used , hers especially ."
+mutation sentence,"Dealers like seeing cars , but hers especially ."
+mutation sentence,"Dealers like seeing cars , like hers especially ."
+mutation sentence,"Dealers like seeing cars , especially hers especially ."
+mutation sentence,"Dealers like seeing cars , not hers especially ."
+mutation sentence,"Dealers like seeing cars , maybe hers especially ."
+mutation sentence,"Dealers like seeing cars , so hers especially ."
+
+original sentence,"Dealers like seeing cars , his especially ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , his especially ."
+mutation sentence,"Dealers like seeing their cars , his especially ."
+mutation sentence,"Dealers like seeing his cars , his especially ."
+mutation sentence,"Dealers like seeing the cars , his especially ."
+mutation sentence,"Dealers like seeing new cars , his especially ."
+mutation sentence,"Dealers like seeing your cars , his especially ."
+mutation sentence,"Dealers like seeing old cars , his especially ."
+mutation sentence,"Dealers like seeing cars wrecked , his especially ."
+mutation sentence,"Dealers like seeing cars destroyed , his especially ."
+mutation sentence,"Dealers like seeing cars again , his especially ."
+mutation sentence,"Dealers like seeing cars damaged , his especially ."
+mutation sentence,"Dealers like seeing cars , not his especially ."
+mutation sentence,"Dealers like seeing cars , especially his especially ."
+
+original sentence,"Dealers like seeing cars , theirs especially ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , theirs especially ."
+mutation sentence,"Dealers like seeing their cars , theirs especially ."
+mutation sentence,"Dealers like seeing new cars , theirs especially ."
+mutation sentence,"Dealers like seeing the cars , theirs especially ."
+mutation sentence,"Dealers like seeing other cars , theirs especially ."
+mutation sentence,"Dealers like seeing expensive cars , theirs especially ."
+mutation sentence,"Dealers like seeing cars wrecked , theirs especially ."
+mutation sentence,"Dealers like seeing cars racing , theirs especially ."
+mutation sentence,"Dealers like seeing cars destroyed , theirs especially ."
+mutation sentence,"Dealers like seeing cars raced , theirs especially ."
+mutation sentence,"Dealers like seeing cars repaired , theirs especially ."
+mutation sentence,"Dealers like seeing cars used , theirs especially ."
+mutation sentence,"Dealers like seeing cars sold , theirs especially ."
+mutation sentence,"Dealers like seeing cars , especially theirs especially ."
+mutation sentence,"Dealers like seeing cars , but theirs especially ."
+mutation sentence,"Dealers like seeing cars , not theirs especially ."
+
+original sentence,"Dealers like seeing cars , mine especially ."
+wrong word,like
+mutation sentence,"Dealers like seeing my cars , mine especially ."
+mutation sentence,"Dealers like seeing new cars , mine especially ."
+mutation sentence,"Dealers like seeing the cars , mine especially ."
+mutation sentence,"Dealers like seeing other cars , mine especially ."
+mutation sentence,"Dealers like seeing old cars , mine especially ."
+mutation sentence,"Dealers like seeing expensive cars , mine especially ."
+mutation sentence,"Dealers like seeing cars , maybe mine especially ."
+
+original sentence,"Dealers like seeing cars , yours especially ."
+wrong word,like
+mutation sentence,"Dealers like not seeing cars , yours especially ."
+mutation sentence,"Dealers like seeing their cars , yours especially ."
+mutation sentence,"Dealers like seeing your cars , yours especially ."
+mutation sentence,"Dealers like seeing new cars , yours especially ."
+mutation sentence,"Dealers like seeing the cars , yours especially ."
+mutation sentence,"Dealers like seeing other cars , yours especially ."
+mutation sentence,"Dealers like seeing cars wrecked , yours especially ."
+mutation sentence,"Dealers like seeing cars racing , yours especially ."
+mutation sentence,"Dealers like seeing cars destroyed , yours especially ."
+mutation sentence,"Dealers like seeing cars raced , yours especially ."
+mutation sentence,"Dealers like seeing cars sold , yours especially ."
+mutation sentence,"Dealers like seeing cars repaired , yours especially ."
+mutation sentence,"Dealers like seeing cars used , yours especially ."
+mutation sentence,"Dealers like seeing cars , like yours especially ."
+mutation sentence,"Dealers like seeing cars , but yours especially ."
+mutation sentence,"Dealers like seeing cars , especially yours especially ."
+mutation sentence,"Dealers like seeing cars , not yours especially ."
+
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

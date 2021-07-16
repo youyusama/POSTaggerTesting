@@ -1,0 +1,1364 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+170,4401,5197,71,25,2,651
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+original sentence,The dealer gave fresh paint to his .
+wrong word,to
+mutation sentence,The dealer gave fresh paint to be his .
+
+original sentence,The dealer gave fresh paint to yours .
+wrong word,to
+mutation sentence,The dealer gave fresh paint to be yours .
+
+original sentence,The dealer walked to yours .
+wrong word,to
+mutation sentence,The dealer walked to be yours .
+
+original sentence,The dealer went with yours .
+wrong word,with
+mutation sentence,The dealer went with be yours .
+
+original sentence,The dealer waited at yours .
+wrong word,at
+mutation sentence,The dealer waited at Be yours .
+
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,The dealer went with hers .
+wrong word,with
+mutation sentence,The dealer went with being hers .
+
+original sentence,The dealer went with yours .
+wrong word,with
+mutation sentence,The dealer went with being yours .
+
+original sentence,The dealer got into yours .
+wrong word,into
+mutation sentence,The dealer got into being yours .
+
+original sentence,The dealer sat on yours .
+wrong word,on
+mutation sentence,The dealer sat on being yours .
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+
+
+"pos from 副词 to 介词
+"
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+original sentence,Yours is easy to clean .
+wrong word,Yours
+mutation sentence,Yours it is easy to clean .
+
+
+
+"pos from 代词 to 名词
+"
+original sentence,The car is n't hers .
+wrong word,hers
+mutation sentence,The car is n't a hers .
+
+original sentence,The car is n't theirs .
+wrong word,theirs
+mutation sentence,The car is n't a theirs .
+
+original sentence,Any car of hers sells quickly .
+wrong word,hers
+mutation sentence,Any car of the hers sells quickly .
+mutation sentence,Any car of old hers sells quickly .
+mutation sentence,Any car of any hers sells quickly .
+mutation sentence,Any car of a hers sells quickly .
+
+original sentence,Any car of theirs sells quickly .
+wrong word,theirs
+mutation sentence,Any car of the theirs sells quickly .
+
+original sentence,Any car of yours sells quickly .
+wrong word,yours
+mutation sentence,Any car of the yours sells quickly .
+
+original sentence,The dealers liked that hers cleaned easily .
+wrong word,hers
+mutation sentence,The dealers liked that the hers cleaned easily .
+
+original sentence,The dealers knew that hers cleaned easily .
+wrong word,hers
+mutation sentence,The dealers knew that the hers cleaned easily .
+mutation sentence,The dealers knew that no hers cleaned easily .
+mutation sentence,The dealers knew that his hers cleaned easily .
+
+original sentence,The dealers knew that yours cleaned easily .
+wrong word,yours
+mutation sentence,The dealers knew that the yours cleaned easily .
+mutation sentence,The dealers knew that your yours cleaned easily .
+
+original sentence,The dealers knew that hers sold quickly .
+wrong word,hers
+mutation sentence,The dealers knew that the hers sold quickly .
+
+original sentence,The dealer 's cars and hers sell quickly .
+wrong word,hers
+mutation sentence,The dealer 's cars and hers will sell quickly .
+
+original sentence,The car of hers drove responsively .
+wrong word,hers
+mutation sentence,The car of the hers drove responsively .
+mutation sentence,The car of his hers drove responsively .
+
+original sentence,The car of theirs drove responsively .
+wrong word,theirs
+mutation sentence,The car of the theirs drove responsively .
+
+original sentence,The car of yours drove responsively .
+wrong word,yours
+mutation sentence,The car of the yours drove responsively .
+
+original sentence,The dealer cleaned the car of hers .
+wrong word,hers
+mutation sentence,The dealer cleaned the car of the hers .
+
+original sentence,The dealer cleaned the car of theirs .
+wrong word,theirs
+mutation sentence,The dealer cleaned the car of the theirs .
+
+original sentence,The dealer cleaned the car of yours .
+wrong word,yours
+mutation sentence,The dealer cleaned the car of the yours .
+mutation sentence,The dealer cleaned the car of your yours .
+
+original sentence,One of hers was cleaned .
+wrong word,hers
+mutation sentence,One of the hers was cleaned .
+mutation sentence,One of those hers was cleaned .
+mutation sentence,One of her hers was cleaned .
+
+original sentence,One of theirs was cleaned .
+wrong word,theirs
+mutation sentence,One of the theirs was cleaned .
+
+original sentence,The car of hers was cleaned .
+wrong word,hers
+mutation sentence,The car of the hers was cleaned .
+mutation sentence,The car of old hers was cleaned .
+mutation sentence,The car of a hers was cleaned .
+
+original sentence,The car of theirs was cleaned .
+wrong word,theirs
+mutation sentence,The car of the theirs was cleaned .
+mutation sentence,The car of a theirs was cleaned .
+
+original sentence,The car of yours was cleaned .
+wrong word,yours
+mutation sentence,The car of the yours was cleaned .
+
+original sentence,The dealer walked to yours .
+wrong word,yours
+mutation sentence,The dealer walked to the yours .
+
+original sentence,The dealer drove using hers .
+wrong word,hers
+mutation sentence,The dealer drove using the hers .
+
+original sentence,The dealer drove using yours .
+wrong word,yours
+mutation sentence,The dealer drove using the yours .
+
+original sentence,The dealer went with hers .
+wrong word,hers
+mutation sentence,The dealer went with the hers .
+
+original sentence,The dealer went with yours .
+wrong word,yours
+mutation sentence,The dealer went with the yours .
+
+original sentence,The dealer waited at hers .
+wrong word,hers
+mutation sentence,The dealer waited at the hers .
+mutation sentence,The dealer waited at a hers .
+
+original sentence,The dealer waited at theirs .
+wrong word,theirs
+mutation sentence,The dealer waited at the theirs .
+
+original sentence,The dealer waited at yours .
+wrong word,yours
+mutation sentence,The dealer waited at the yours .
+mutation sentence,The dealer waited at your yours .
+mutation sentence,The dealer waited at his yours .
+
+original sentence,The dealer got into hers .
+wrong word,hers
+mutation sentence,The dealer got into the hers .
+mutation sentence,The dealer got into his hers .
+mutation sentence,The dealer got into a hers .
+mutation sentence,The dealer got into another hers .
+
+original sentence,The dealer got into yours .
+wrong word,yours
+mutation sentence,The dealer got into the yours .
+
+original sentence,The dealer came from yours .
+wrong word,yours
+mutation sentence,The dealer came from the yours .
+
+original sentence,The dealer sat on hers .
+wrong word,hers
+mutation sentence,The dealer sat on the hers .
+mutation sentence,The dealer sat on his hers .
+
+original sentence,The dealer sat on yours .
+wrong word,yours
+mutation sentence,The dealer sat on the yours .
+mutation sentence,The dealer sat on your yours .
+
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+original sentence,Hers is easy to clean .
+wrong word,Hers
+mutation sentence,Hers is very easy to clean .
+mutation sentence,Hers is pretty easy to clean .
+mutation sentence,Hers is too easy to clean .
+mutation sentence,Hers is fairly easy to clean .
+mutation sentence,Hers is also easy to clean .
+mutation sentence,Hers is relatively easy to clean .
+
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"
