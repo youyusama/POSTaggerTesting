@@ -9,13 +9,15 @@ from unmask_file_reader import *
 from map2csv import *
 from compare_utilities import *
 from global_variables import *
+import spacy
 
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
+CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-PUD/en_pud-ud-test.conllu'
-CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
+# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
 # CORPUS_PATH = 'test.conllu'
-MUTATION_WAY = 'DEL' #or 'DEL'
+MUTATION_WAY = 'BERT' #or 'DEL'
+NLP_TOOL = 'spaCy' #or 'stanza'
 
 error_map_tag_000= {}
 error_map_tag_100= {}
@@ -31,7 +33,11 @@ if __name__ == '__main__':
   #load corpus
   corpus = io.open(CORPUS_PATH, "r", encoding="utf-8")
   #load nlp tools
-  nlp = stanza.Pipeline('en', NLP_MODEL_PATH + 'stanzamodel/stanza_model/', processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True)
+  if NLP_TOOL == 'stanza':
+    nlp = stanza.Pipeline('en', NLP_MODEL_PATH + 'stanzamodel/stanza_model/', processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True)
+  elif NLP_TOOL == 'spaCy':
+    nlp = spacy.load('en_core_web_trf', exclude=['lemmatizer', 'ner'])
+    nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
 
   if MUTATION_WAY == 'BERT':
     # generate the unmasked sentences file
@@ -58,7 +64,7 @@ if __name__ == '__main__':
         reader_skip_sen(reader, sen_conllu)
       continue
     all_test_sen_num +=1
-    sen_nlp = PTF_Sen(nlp(sen_conllu.to_doc()).sentences[0].words)
+    sen_nlp = PTF_Sen(nlp(sen_conllu.to_doc()), type=NLP_TOOL)
     print(all_test_sen_num)
     print(sen_conllu.to_doc())
     muts = []
@@ -66,7 +72,7 @@ if __name__ == '__main__':
     if MUTATION_WAY == 'BERT':
       mut_sens_ids = sen_conllu.unmask_mut_filter(reader_mut(reader, sen_conllu))
       for mut_sen_id in mut_sens_ids:
-        sen_mut = PTF_Sen(nlp(mut_sen_id[0]).sentences[0].words, build_tree=False)
+        sen_mut = PTF_Sen(nlp(mut_sen_id[0]), type=NLP_TOOL, build_tree=False)
         # dependency filter
         if mut_deprel_compare_appendid(sen_nlp, sen_mut, mut_sen_id[1]):
           muts.append((sen_mut, mut_sen_id[1]))
@@ -74,7 +80,7 @@ if __name__ == '__main__':
       # mutation sens check del
       mut_sen_del = sen_nlp.mutation_del_part()
       for sen_del in mut_sen_del:
-        sen_mut = PTF_Sen(nlp(sen_del['sen']).sentences[0].words, build_tree=False)
+        sen_mut = PTF_Sen(nlp(sen_del['sen']), type=NLP_TOOL, build_tree=False)
         muts.append((sen_mut, sen_del['del']))
     
     ori_sen_doc = sen_conllu.to_doc()
@@ -118,7 +124,7 @@ if __name__ == '__main__':
 
   info_row = [all_test_sen_num, c_n_same_sen_num, filtered_mut_num, cnm_100_num, cnm_000_num, cnm_001_num, cnm_010_num]
   #test end, now output
-  csv_filename = time.strftime("results/%Y%m%d-%H%M%S-100-" + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
+  csv_filename = time.strftime("results/%Y%m%d-%H%M%S-100-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
   map_to_csv(csv_filename, error_map_tag_100, info_row)
   # csv_filename = time.strftime("results/%Y%m%d-%H%M%S-000-" + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
   # map_to_csv(csv_filename, error_map_tag_000, info_row)

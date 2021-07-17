@@ -128,11 +128,22 @@ def simple_compare_pos_deprel(sen1, sen2):
 
 
 def simple_compare_pos(sen1, sen2):
+  # if len(sen1.words) != len(sen2.words):#whether the tokenization result is wanted
+  #   print(sen1.to_doc())
   sen_length = len(sen1.words) if len(sen1.words) < len(sen2.words) else len(sen2.words)
   for i in range(sen_length):
     if sen1.words[i].upos != sen2.words[i].upos:
       return False
   return True
+
+
+def simple_compare_pos_count(sen1, sen2):
+  count = 0
+  sen_length = len(sen1.words) if len(sen1.words) < len(sen2.words) else len(sen2.words)
+  for i in range(sen_length):
+    if sen1.words[i].upos != sen2.words[i].upos:
+      count += 1
+  return count
 
 
 def simple_compare_pos_res(sen1, sen2):

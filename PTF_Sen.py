@@ -3,6 +3,7 @@ from itertools import combinations
 from importlib_metadata import FastPath
 from transformers import pipeline, set_seed
 from PTF_Err import PTF_Err
+from spacy.tokens import Doc
 
 set_seed(301)
 unmasker = pipeline('fill-mask', model='bert-large-cased', top_k = 10)
@@ -32,13 +33,13 @@ class PTF_Sen():
   __DEL_WORD_PATTERN = ('advmod', 'amod')
 
 
-  def __init__(self, words, type='stanza', build_tree=True):
+  def __init__(self, temp, type='stanza', build_tree=True):#it's hard to maintain 'temp' as a fix type, so just temp
     if type == 'stanza':
-      self.words = words
+      self.words = temp.sentences[0].words
     elif type == 'conllu':
-      self.words = [WordStanza((word['form'], word['upos'], word['head'], word['deprel'], word['id'])) for word in words if isinstance(word['id'], int)]
-    elif type == 'nltk':
-      self.words = words
+      self.words = [WordStanza((word['form'], word['upos'], word['head'], word['deprel'], word['id'])) for word in temp if isinstance(word['id'], int)]
+    elif type == 'spaCy':
+      self.words = [WordStanza((word.text, word.pos_, word.head.i + 1, word.dep_, word.i + 1)) for word in temp]
 
     if build_tree:
       self.tree = self.__build_tree()
@@ -436,7 +437,8 @@ class PTF_Sen():
     q_id = Queue(maxsize=0)
     root = {}
     for word in self.words:
-      if word.head == 0:
+      if word.head == 0 or word.head == word.id:
+        word.head = 0
         root = {'text': word.text, 'pos': word.upos, 'deprel': word.deprel, 'id': word.id}
     q_tree.put(root)
     q_id.put(root['id'])
@@ -452,3 +454,24 @@ class PTF_Sen():
           q_tree.put(subtree)
           q_id.put(subtree['id'])
     return root
+
+
+class WhitespaceTokenizer:
+  def __init__(self, vocab):
+    self.vocab = vocab
+
+  def __call__(self, text):
+    words = text.split(" ")
+    spaces = [True] * len(words)
+    # Avoid zero-length tokens
+    for i, word in enumerate(words):
+      if word == "":
+        words[i] = " "
+        spaces[i] = False
+    # Remove the final trailing space
+    if words[-1] == " ":
+      words = words[0:-1]
+      spaces = spaces[0:-1]
+    else:
+      spaces[-1] = False
+    return Doc(self.vocab, words=words, spaces=spaces)

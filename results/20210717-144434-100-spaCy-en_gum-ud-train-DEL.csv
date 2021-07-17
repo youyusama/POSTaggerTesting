@@ -1,0 +1,1271 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+3826,1696,6627,29,285,41,6909
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+original sentence,One of the more interesting of the many highrise residential buildings in Fort Lee
+wrong word,interesting 5
+mutation sentence,One of the more interesting of the highrise residential buildings in Fort Lee
+mutation sentence,One of the more interesting of the many residential buildings in Fort Lee
+
+
+
+"pos from 形容 to 副词
+"
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+original sentence,"Tame , but pretty cool ."
+wrong word,cool 5
+mutation sentence,"Tame , but cool ."
+
+
+
+"pos from 形容 to 名词
+"
+original sentence,"Heavy oily drops bounced from leaf to grass to dusty ground , gathering in stems and folds on the way ."
+wrong word,oily 2
+mutation sentence,"oily drops bounced from leaf to grass to dusty ground , gathering in stems and folds on the way ."
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,For the slow scenic route from Northeast or Southwest come in on old Route 66 .
+wrong word,in 11
+mutation sentence,For the slow route from Northeast or Southwest come in on old Route 66 .
+
+original sentence,Throw away or donate junk you do n't want to take to your new place .
+wrong word,away 2
+mutation sentence,Throw away or donate junk you do n't want to take to your place .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+original sentence,"Interestingly , the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+wrong word,during 6
+mutation sentence,", the femur kinematics during walking in our control-weight group resembles the results reported in the experimental subjects of Carrano and Biewener ."
+
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+
+
+"pos from 副词 to 介词
+"
+original sentence,"He studied art at the Royal Academy in the Louvre , as well as with his father at the Royal Academy of Painting and Sculpture ."
+wrong word,as 12
+mutation sentence,"He studied art at the Royal Academy in the Louvre , as as with his father at the Royal Academy of Painting and Sculpture ."
+
+original sentence,"He also designed furniture and houses for the wealthy as well as coins and medals , including the insignia of the Society of the Cincinnati ."
+wrong word,as 10
+mutation sentence,"He also designed furniture and houses for the wealthy as as coins and medals , including the insignia of the Society of the Cincinnati ."
+
+original sentence,"A new full scholarly edition of Gordon 's Diary in English was published by the Centre for Irish and Scottish Studies in Aberdeen ( 6 vols , 2009 - 2016 ) , as well as its translation into Russian ."
+wrong word,as 33
+mutation sentence,"A new full scholarly edition of Gordon 's Diary in English was published by the Centre for Irish and Scottish Studies in Aberdeen ( 6 vols , 2009 - 2016 ) , as as its translation into Russian ."
+
+original sentence,It stretched the neckhole halfway down to his happy trail .
+wrong word,down 6
+mutation sentence,It stretched the neckhole down to his happy trail .
+
+original sentence,You might therefore wish to start right in on the first page of text that follows and only then return to this introduction .
+wrong word,in 8
+mutation sentence,You might therefore wish to start in on the first page of text that follows and only then return to this introduction .
+
+original sentence,"In the Kowloon West geographical constituency , pro-Beijing councillors Ann Chiang of DAB and Priscilla Leung of BPA were successfully re-elected , as well as pan-democratic councillors Claudia Mo of the Civic Party and Wong Pik-wan of the Democratic Party ."
+wrong word,as 23
+mutation sentence,"In the Kowloon West geographical constituency , pro-Beijing councillors Ann Chiang of DAB and Priscilla Leung of BPA were successfully re-elected , as as pan-democratic councillors Claudia Mo of the Civic Party and Wong Pik-wan of the Democratic Party ."
+
+original sentence,The George Washington Bridge can be crossed by bicycle or on foot as well as in a motorized vehicle .
+wrong word,as 13
+mutation sentence,The George Washington Bridge can be crossed by bicycle or on foot as as in a motorized vehicle .
+
+original sentence,Phoenix is the capital of the state of Arizona as well as the most populous city in the American Southwest and sixth largest city in the United States .
+wrong word,as 10
+mutation sentence,Phoenix is the capital of the state of Arizona as as the most populous city in the American Southwest and sixth largest city in the United States .
+
+original sentence,In Tulsa you will find old west charm as well as a cosmopolitan atmosphere .
+wrong word,as 9
+mutation sentence,In Tulsa you will find old west charm as as a cosmopolitan atmosphere .
+
+original sentence,"Purple basil is often grown for decoration , as well as its scent and flowers ."
+wrong word,as 9
+mutation sentence,"Purple basil is often grown for decoration , as as its scent and flowers ."
+
+original sentence,"Press gently down on its back , and gently move its legs back if it tries to stand up ."
+wrong word,down 3
+mutation sentence,"Press down on its back , and gently move its legs back if it tries to stand up ."
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+original sentence,"No , because I really ca n't call and tell them I 'm yeah , so-and-so 's applying here for a position ."
+wrong word,'m 13
+mutation sentence,"No , because I really ca n't call and tell them I 'm yeah , so-and-so 's applying for a position ."
+
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,This paper describes a collaborative pilot project focusing on a unique collection of 17th Century Zurbarán paintings .
+wrong word,pilot 6
+mutation sentence,This paper describes a pilot project focusing on a unique collection of 17th Century Zurbarán paintings .
+
+original sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a graphic novel adaptation , several companion books , two rap albums , a 28-city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+wrong word,28-city 54
+mutation sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a graphic novel adaptation , companion books , two rap albums , a 28-city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+
+original sentence,"He immediately impressed , making a sensational catch on the warning track to rob Ian Kinsler of a hit ."
+wrong word,warning 11
+mutation sentence,"He immediately impressed , making a catch on the warning track to rob Ian Kinsler of a hit ."
+
+original sentence,Pan-democrat veteran Cyd Ho from the Labour Party lost her seat in this constituency .
+wrong word,veteran 2
+mutation sentence,veteran Cyd Ho from the Labour Party lost her seat in this constituency .
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a graphic novel adaptation , several companion books , two rap albums , a 28-city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+wrong word,28-city 54
+mutation sentence,"Now spanning six seasons and 60 episodes , with an average global viewership ( from its most recent season ) of 25.1 million viewers per episode ( Shepherd , 2016 ) , it has spawned five video games , a graphic novel adaptation , several companion books , two rap albums , a 28-city tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan-based creations ."
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,"Thus , it suggests the use of digital games in an integrated way the school activities in the classroom ."
+wrong word,activities 16
+mutation sentence,"Thus , it suggests the use of digital games in an way the school activities in the classroom ."
+
+
+
+"pos from 名词 to 其他
+"
+original sentence,"We translated "" lexical enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or "" tmesis "" ."
+wrong word,enjambment 5
+mutation sentence,"We translated "" enjambment "" from Quilis ’s terms "" encabalgamiento léxico "" or "" tmesis "" ."
+
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,"Following the American Revolutionary War , L'Enfant established a successful and highly profitable civil engineering firm in New York City ."
+wrong word,American 3
+mutation sentence,"Following the American Revolutionary War , L'Enfant established a successful and highly profitable engineering firm in New York City ."
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+original sentence,"Simply put , confidence is sexy ."
+wrong word,put 2
+mutation sentence,"put , confidence is sexy ."
+
+
+
+"pos from 动词 to 名词
+"
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+original sentence,"Soon after his arrival , Theodorus was the new de facto leader , though he claimed to be only acting on behalf of Horsiesios ."
+wrong word,facto 11
+mutation sentence,"Soon after his arrival , Theodorus was the new facto leader , though he claimed to be only acting on behalf of Horsiesios ."
+
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"
