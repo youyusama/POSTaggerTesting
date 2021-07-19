@@ -24,7 +24,7 @@ class WhitespaceTokenizer:
       spaces[-1] = False
     return Doc(self.vocab, words=words, spaces=spaces)
 
-sen = 'Claire Bailey-Ross claire.bailey-ross@port.ac.uk University of Portsmouth , United Kingdom'
+sen = ', Do you want us to come over to the Enron b in your call .'
 nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
 doc = nlp(sen)
 # doc = Doc(nlp.vocab, words = sen.split(' '))

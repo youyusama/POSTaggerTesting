@@ -10,13 +10,14 @@ from map2csv import *
 from compare_utilities import *
 from global_variables import *
 import spacy
+from progress.counter import Counter
 
-CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
+# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
+CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-PUD/en_pud-ud-test.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
 # CORPUS_PATH = 'test.conllu'
-MUTATION_WAY = 'BERT' #or 'DEL'
+MUTATION_WAY = 'DEL' #or 'DEL'
 NLP_TOOL = 'spaCy' #or 'stanza'
 
 error_map_tag_000= {}
@@ -55,6 +56,8 @@ if __name__ == '__main__':
   cnm_001_num = 0
   cnm_010_num = 0
 
+  progress_counter = Counter('Processing: ')
+
   # for every sentence in corpus
   for sen in conllu.parse_incr(corpus):
     sen_conllu = PTF_Sen(sen, type='conllu', build_tree=False)
@@ -65,8 +68,9 @@ if __name__ == '__main__':
       continue
     all_test_sen_num +=1
     sen_nlp = PTF_Sen(nlp(sen_conllu.to_doc()), type=NLP_TOOL)
-    print(all_test_sen_num)
-    print(sen_conllu.to_doc())
+    # print(all_test_sen_num)
+    progress_counter.next()
+    # print(sen_conllu.to_doc())
     muts = []
     # get mutation sentences
     if MUTATION_WAY == 'BERT':
@@ -121,6 +125,7 @@ if __name__ == '__main__':
               cnm_001_num += accumulate_error_by_res(error_map_tag_001, res, ori_sen_doc, mut_sen_doc)
             else:
               cnm_000_num += accumulate_error_by_res(error_map_tag_000, res, ori_sen_doc, mut_sen_doc)
+  progress_counter.finish()
 
   info_row = [all_test_sen_num, c_n_same_sen_num, filtered_mut_num, cnm_100_num, cnm_000_num, cnm_001_num, cnm_010_num]
   #test end, now output

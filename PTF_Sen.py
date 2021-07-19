@@ -24,6 +24,8 @@ class WordStanza:
 class PTF_Sen():
 
   __NONSENSE_WORDS = ['Oh , ', 'Yup , ', 'Um , ', 'Ah , ', 'Indeed , ', 'In fact , ', 'Actually , ']
+
+  # *nolonger used*
   # patterns that seems can be deleted
   __DEL_PART_PATTERN = (
     ('nmod', 'case'),
@@ -39,7 +41,7 @@ class PTF_Sen():
     elif type == 'conllu':
       self.words = [WordStanza((word['form'], word['upos'], word['head'], word['deprel'], word['id'])) for word in temp if isinstance(word['id'], int)]
     elif type == 'spaCy':
-      self.words = [WordStanza((word.text, word.pos_, word.head.i + 1, word.dep_, word.i + 1)) for word in temp]
+      self.words = [WordStanza((word.text, word.pos_, word.head.i + 1, word.dep_, word.i + 1)) if word.head.i != word.i else WordStanza((word.text, word.pos_, 0, word.dep_, word.i + 1)) for word in temp]
 
     if build_tree:
       self.tree = self.__build_tree()
@@ -109,13 +111,13 @@ class PTF_Sen():
 
 
   def __is_word_can_be_del(self, st):
-    if st['deprel'] in self.__DEL_WORD_PATTERN:
+    if st['deprel'].endswith('mod') and st['deprel'] != 'nummod':
       return True
     else:
       return False
 
   def __is_part_can_be_del(self, t, st):
-    if (t['deprel'], st['deprel']) in self.__DEL_PART_PATTERN:
+    if st['deprel'] == 'case' and ( t['deprel'].endswith('mod') or t['deprel'].startswith('obl') ):
       return True
     else:
       return False
@@ -410,6 +412,11 @@ class PTF_Sen():
     for word in self.words:
       word_pos_dict[word.text] = word.upos
     return word_pos_dict
+
+
+  def show_for_test(self):
+    for word in self.words:
+      print(word.id, word.text, word.upos, word.deprel, word.head)
 
 
   def to_doc(self):

@@ -1,0 +1,1642 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+10119,4878,17479,129,974,106,17510
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+original sentence,Jared just told me you have a BUNCH of stuff on your plate and I think you are about to get much busier too .
+wrong word,about 19
+mutation sentence,Jared just told me you have a BUNCH of stuff on your plate and I think you are about to get much busier .
+mutation sentence,Jared just told me you have a BUNCH of stuff on your plate and I think you are about to get busier too .
+
+
+
+"pos from 形容 to 副词
+"
+original sentence,spreadsheet recalculation of OBSF option premium utilising the above manually created position analysis
+wrong word,above 9
+mutation sentence,spreadsheet recalculation of OBSF option premium utilising the above created position analysis
+
+original sentence,"He was prompt , knowledgable , friendly , clean and just an overall great guy who obviously cares about his business ."
+wrong word,overall 13
+mutation sentence,"He was prompt , knowledgable , friendly , clean and an overall great guy who obviously cares about his business ."
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,"The inability to foresee in advance the assassination attempt on the pro-India political leader and former Bangladeshi prime minister Sheikh Hasina Wazed last August 21 at a political rally in Dhaka , and the recent "" coup "" by Nepalese King Gyanendra dismissing his government and imposing a virtual absolute monarchy , are glaring examples of intelligence failure ."
+wrong word,prime 18
+mutation sentence,"The inability to foresee in advance the assassination attempt on the pro-India political leader and former prime minister Sheikh Hasina Wazed last August 21 at a political rally in Dhaka , and the recent "" coup "" by Nepalese King Gyanendra dismissing his government and imposing a virtual absolute monarchy , are glaring examples of intelligence failure ."
+
+original sentence,"But succintly making point after succint point , the text of the letter stands on its own merit , regardless ."
+wrong word,succint 6
+mutation sentence,"But making point after succint point , the text of the letter stands on its own merit , regardless ."
+
+original sentence,It has nothing to do with true fanatic religious beliefs .
+wrong word,fanatic 8
+mutation sentence,It has nothing to do with true fanatic beliefs .
+
+original sentence,"Bullet - proof vests , automatic weapons , helicopters , tanks , robots ... the testosterone is oozing through the streets , more prisons , longer sentences , tighten the belt , spartan conditions , task forces , gang units , gun courts ."
+wrong word,proof 3
+mutation sentence,"- proof vests , automatic weapons , helicopters , tanks , robots ... the testosterone is oozing through the streets , more prisons , longer sentences , tighten the belt , spartan conditions , task forces , gang units , gun courts ."
+
+original sentence,"The most fundamental human right , after the necessities of food , clothing and shelter , is the right to affection and the supportive love of other human beings ."
+wrong word,human 4
+mutation sentence,"The fundamental human right , after the necessities of food , clothing and shelter , is the right to affection and the supportive love of other human beings ."
+
+original sentence,i have a 1 and a half year old male neutered cat and a new 2 month old spayed female kitten .
+wrong word,male 10
+mutation sentence,i have a 1 and a half year old male neutered cat and a new 2 month old spayed kitten .
+
+original sentence,"As a qualified criminal defense attorney , he will work every possible legal "" angle "" ( leaving no stone unturned ) of your case to achieve the most favorable result possible ."
+wrong word,criminal 4
+mutation sentence,"As a qualified criminal defense attorney , he will work every possible "" angle "" ( leaving no stone unturned ) of your case to achieve the most favorable result possible ."
+
+original sentence,Other shops around this city have MUCH NICER and more TRANSPARENT owners .
+wrong word,TRANSPARENT 11
+mutation sentence,Other shops around this city have MUCH NICER and TRANSPARENT owners .
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,"Greendale likely refers to green river valley -- i.e. , Cairo 's Egyptian Islamic Jihad or the Islamic Group ."
+wrong word,green 5
+mutation sentence,"Greendale likely refers to green river valley -- i.e. , Cairo 's Islamic Jihad or the Islamic Group ."
+
+original sentence,Incredibly rude and I will not return to it .
+wrong word,rude 2
+mutation sentence,rude and I will not return to it .
+
+original sentence,"Beautifully written reviews Doctor , but completely UNTRUE ."
+wrong word,UNTRUE 8
+mutation sentence,"Beautifully written reviews Doctor , but UNTRUE ."
+
+original sentence,"Quaint , lovely , small salon with BIG personality ."
+wrong word,Quaint 1
+mutation sentence,"Quaint , , small salon with BIG personality ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+original sentence,"In addition , LTTE activity in the Andaman Sea is well known to local observers ."
+wrong word,known 12
+mutation sentence,"In addition , LTTE activity in the Andaman Sea is known to local observers ."
+
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,"You hate to see talent get wasted , but honestly I do n't think I could take in a horse right now these issues ."
+wrong word,in 18
+mutation sentence,"You hate to see talent get wasted , but I do n't think I could take in a horse right now these issues ."
+
+original sentence,"Coming from a person who hates the dentist in general , Dr. Taylor was the best !"
+wrong word,in 9
+mutation sentence,"Coming from a person who hates the dentist in , Dr. Taylor was the best !"
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+original sentence,I listed all of our ( sometimes mine vs. my wife 's favorites and priorities ) .
+wrong word,vs. 9
+mutation sentence,I listed all of our ( mine vs. my wife 's favorites and priorities ) .
+
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,"In 1972 , Baba Groom was a smart , funny young woman smack - dab in the middle of an exciting US Senate campaign ."
+wrong word,dab 15
+mutation sentence,"In 1972 , Baba Groom was a smart , funny young woman - dab in the middle of an exciting US Senate campaign ."
+
+original sentence,How long does it take to train new people at work ?
+wrong word,long 2
+mutation sentence,long does it take to train new people at work ?
+
+original sentence,Other shops around this city have MUCH NICER and more TRANSPARENT owners .
+wrong word,more 10
+mutation sentence,shops around this city have MUCH NICER and more TRANSPARENT owners .
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,He said that they have the training and the funding as well as the support of neighbouring and regional governments .
+wrong word,as 11
+mutation sentence,He said that they have the training and the funding as as the support of neighbouring and regional governments .
+
+original sentence,"Archibald says Mr. Bush would come into the office and , in a friendly way , offer up stories about the drinking he 'd done the night before , kind of as a conversation starter ."
+wrong word,of 31
+mutation sentence,"Archibald says Mr. Bush would come into the office and , in a friendly way , offer up stories about the drinking he 'd done the night before , of as a conversation starter ."
+
+original sentence,"These states , as well as the Palestinian Authority , are the safe havens of the wholesale murder vendors ."
+wrong word,as 4
+mutation sentence,"These states , as as the Palestinian Authority , are the safe havens of the wholesale murder vendors ."
+
+original sentence,A search of Dr. Ken Berry 's residences likely will prove just about the last gasp of a biodefense insider theory .
+wrong word,about 13
+mutation sentence,A search of Dr. Ken Berry 's residences likely will prove about the last gasp of a biodefense insider theory .
+mutation sentence,A search of Dr. Ken Berry 's residences likely will prove just about the gasp of a biodefense insider theory .
+
+original sentence,"Oh , Jeff Sherrar has a new book out ."
+wrong word,out 9
+mutation sentence,"Oh , Jeff Sherrar has a book out ."
+
+original sentence,Rates ca n't go up w/out declaring the rate freeze over in some fashion --- trying to finesse it .
+wrong word,over 11
+mutation sentence,Rates ca n't go w/out declaring the rate freeze over in some fashion --- trying to finesse it .
+
+original sentence,"Its projected demand , boosted by a huge rise in car ownership as well as the need to find alternatives to polluting coal for electricity generation , has contributed to the surge in the price of oil this year ."
+wrong word,as 13
+mutation sentence,"Its projected demand , boosted by a huge rise in car ownership as as the need to find alternatives to polluting coal for electricity generation , has contributed to the surge in the price of oil this year ."
+
+original sentence,Usually you have the main show and some type of entertainment before and perhaps afterward .
+wrong word,before 12
+mutation sentence,Usually you have the main show and some type of entertainment before and afterward .
+
+original sentence,then put him back in .
+wrong word,in 5
+mutation sentence,then put him in .
+
+original sentence,And they usually come out within a few days .
+wrong word,out 5
+mutation sentence,And they come out within a few days .
+
+original sentence,He 's not putting it back on .
+wrong word,on 7
+mutation sentence,He 's not putting it on .
+
+original sentence,I was just in last night and had a chance to dine in their new dining room .
+wrong word,in 4
+mutation sentence,I was just in night and had a chance to dine in their new dining room .
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+original sentence,"So instead Posada may be held indefinitely , in comfortable custody ."
+wrong word,So 1
+mutation sentence,"So Posada may be held indefinitely , in comfortable custody ."
+
+original sentence,So why even credit their claims ?
+wrong word,So 1
+mutation sentence,So even credit their claims ?
+
+original sentence,I want to go to thailand to do my boob job from South Africa but looking for the cheapest surgeons yet also good in his artwork on a human s body .
+wrong word,yet 21
+mutation sentence,I want to go to thailand to do my boob job from South Africa but looking for the surgeons yet also good in his artwork on a human s body .
+
+original sentence,"You 'll have a great time , so no worries there ."
+wrong word,so 8
+mutation sentence,"You 'll have a time , so no worries there ."
+
+
+
+"pos from 副词 to 定冠
+"
+original sentence,"If you have any questions or require any assistance at all , please contact Hope Duncan at 202.739.0134 or Jeff Mangold at 703.729.2710 ."
+wrong word,all 11
+mutation sentence,"If you have any questions or require any assistance all , please contact Hope Duncan at 202.739.0134 or Jeff Mangold at 703.729.2710 ."
+
+original sentence,If he does n't seem interested in them at all I would say he 's just not hungry .
+wrong word,all 10
+mutation sentence,If he does n't seem interested in them all I would say he 's just not hungry .
+
+original sentence,"We have never had mexican food this bad , it was just simply gross ."
+wrong word,this 7
+mutation sentence,"We have never had mexican food this bad , it was simply gross ."
+
+original sentence,"The other rolls were n't at all special , especially given their pricing ."
+wrong word,all 7
+mutation sentence,"The other rolls were n't all special , especially given their pricing ."
+
+
+
+"pos from 副词 to 感叹
+"
+original sentence,Please deliver a copy to me as well .
+wrong word,well 8
+mutation sentence,Please deliver a copy to me well .
+
+original sentence,"I left a voicemail for Sharon Butcher , as well , just to make sure it is handled ."
+wrong word,well 10
+mutation sentence,"I left a voicemail for Sharon Butcher , well , just to make sure it is handled ."
+
+original sentence,"I do hope to see you visiting us at the fire and we shall prepare a feast for you , as well ."
+wrong word,well 22
+mutation sentence,"I do hope to see you visiting us at the fire and we shall prepare a feast for you , well ."
+
+original sentence,"And we bought a few cookies there too , they were fantastic as well ! )"
+wrong word,well 14
+mutation sentence,"And we bought a few cookies there too , they were fantastic well ! )"
+
+
+
+"pos from 副词 to 名词
+"
+original sentence,"Of course , the sooner the US soldiers can be withdrawn in favor of less - provocative local or international forces , the better ."
+wrong word,course 2
+mutation sentence,"course , the sooner the US soldiers can be withdrawn in favor of less - provocative local or international forces , the better ."
+
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+original sentence,Here 's info on the Elliotts .
+wrong word,'s 2
+mutation sentence,'s info on the Elliotts .
+
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+original sentence,"I was kind of curious , what exactly is Guild Wars ?"
+wrong word,is 9
+mutation sentence,"I was of curious , what exactly is Guild Wars ?"
+
+original sentence,"She feeds well the baby on her own , the baby is ok but she does not go in the nest to stay with him at night ..."
+wrong word,is 12
+mutation sentence,"She feeds the baby on her own , the baby is ok but she does not go in the nest to stay with him at night ..."
+
+original sentence,"I thought to get a decent pizza the only way was at a fancy restaurant , and I have to get a whole pie ."
+wrong word,was 11
+mutation sentence,"I thought to get a decent pizza the way was at a fancy restaurant , and I have to get a whole pie ."
+
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+original sentence,Waterproof clothing and footwear are essential plus an umbrella ..
+wrong word,plus 7
+mutation sentence,clothing and footwear are essential plus an umbrella ..
+
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+original sentence,"Both Mr. Parenteau and Ms. Doyon , however , were bleeding badly ."
+wrong word,Both 1
+mutation sentence,"Both Mr. Parenteau and Ms. Doyon , however , were bleeding ."
+
+original sentence,"For example , some snakes will routinely go off their food in both the summer and winter , feeding mainly in spring and fall ."
+wrong word,both 13
+mutation sentence,"For example , some snakes will go off their food in both the summer and winter , feeding mainly in spring and fall ."
+
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,"Some 200,000 guns the US sent to Iraqi security forces may have been smuggled to terrorists , it was feared yesterday ."
+wrong word,Some 1
+mutation sentence,"Some 200,000 guns the US sent to Iraqi security forces may have been smuggled to terrorists , it was feared ."
+
+original sentence,"My hair has never felt this healthy , either ."
+wrong word,this 6
+mutation sentence,"My hair has never felt this healthy , ."
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+original sentence,She is and excellent doctor to have on one 's team .
+wrong word,and 3
+mutation sentence,She is and doctor to have on one 's team .
+
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+original sentence,After a conversation with Ryan Seleznov I herewith like disclose in writing my intentions in respect to Dealbench .
+wrong word,like 9
+mutation sentence,After a conversation with Ryan Seleznov I like disclose in writing my intentions in respect to Dealbench .
+
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"Subsequently , Phuket became the LTTE 's main backup base ."
+wrong word,backup 9
+mutation sentence,"Subsequently , Phuket became the LTTE 's backup base ."
+
+original sentence,Maybe because they hint at a larger conspiracy / network of abusers / satanic underground ?
+wrong word,underground 15
+mutation sentence,Maybe because they hint at a larger conspiracy / network of abusers / underground ?
+
+original sentence,"Imaginary good is boring ; real good is always new , marvelous , intoxicating ."
+wrong word,good 7
+mutation sentence,"Imaginary good is boring ; good is always new , marvelous , intoxicating ."
+
+original sentence,"As a result of our luncheon with the confirm desk yesterday , could someone develop a comprehensive list identifying all omnibus attachments ?"
+wrong word,omnibus 21
+mutation sentence,"As a result of our luncheon with the confirm desk , could someone develop a comprehensive list identifying all omnibus attachments ?"
+
+original sentence,In the near future collective choices will need to be made .
+wrong word,future 4
+mutation sentence,In the future collective choices will need to be made .
+
+original sentence,China was among 30 nations invited to send a delegate to NASA - sponsored roundtable discussions on Bush 's strategy to reach the moon with astronauts as the first step in the exploration of Mars and other - deep space destinations .
+wrong word,roundtable 15
+mutation sentence,China was among 30 nations invited to send a delegate to - sponsored roundtable discussions on Bush 's strategy to reach the moon with astronauts as the first step in the exploration of Mars and other - deep space destinations .
+
+original sentence,Birds arrived sooner on their migrations from the south and plants flowered earlier .
+wrong word,south 9
+mutation sentence,Birds arrived sooner on their migrations from the south and plants flowered .
+
+original sentence,My brother said they only had full - auto and semiautomatic during Vietnam .
+wrong word,auto 9
+mutation sentence,My brother said they only had - auto and semiautomatic during Vietnam .
+
+original sentence,"I 'd go back if I could get the last minute rate again of $ 99 , but I would n't pay their rack rate ."
+wrong word,minute 11
+mutation sentence,"I 'd go back if I could get the minute rate again of $ 99 , but I would n't pay their rack rate ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+original sentence,AMAZING NIGHT - Great Party Spot !!
+wrong word,NIGHT 2
+mutation sentence,NIGHT - Great Party Spot !!
+
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,This item is a small one and easily missed .
+wrong word,one 6
+mutation sentence,This item is a one and easily missed .
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+original sentence,"Note that the credit thresholds are in US $ , but the MACS are designated in British Pounds ."
+wrong word,$ 9
+mutation sentence,"Note that the credit thresholds are in US $ , but the MACS are designated in Pounds ."
+
+
+
+"pos from 名词 to 动词
+"
+original sentence,"NOTE : You may want to retain every name and address sent to you , either on a computer or hard copy and keep the notes people send you ."
+wrong word,copy 22
+mutation sentence,"NOTE : You may want to retain every name and address sent to you , either on a computer or copy and keep the notes people send you ."
+
+original sentence,"Hands down , best place in the area !"
+wrong word,place 5
+mutation sentence,"Hands down , place in the area !"
+
+
+
+"pos from 名词 to 其他
+"
+original sentence,"To start we tried the guacamole and salsa verde , it was completly flavorless ."
+wrong word,verde 9
+mutation sentence,"To start we tried the guacamole and salsa verde , it was flavorless ."
+
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+original sentence,Total transportation invoiced for 2001 was $ 180.9 m .
+wrong word,m 9
+mutation sentence,Total transportation invoiced for 2001 was 180.9 m .
+
+original sentence,"$ 10.0 m - negotiated rates reserve ( Reliant , Sempra , Richardson , Astr , and BP Energy ) - $ collected"
+wrong word,m 3
+mutation sentence,"10.0 m - negotiated rates reserve ( Reliant , Sempra , Richardson , Astr , and BP Energy ) - $ collected"
+
+original sentence,$ 2.7 m - SoCal rate issue - $ not collected
+wrong word,m 3
+mutation sentence,2.7 m - SoCal rate issue - $ not collected
+
+original sentence,"If you want a motto for 2005 , the best one to adopt would be "" go with the flow . """
+wrong word,one 11
+mutation sentence,"If you want a motto for 2005 , the one to adopt would be "" go with the flow . """
+
+original sentence,"$ 1 m - Estimated value of a painting the Bush Presidential Library in College Station , Texas , received from Prince Bandar , Saudi Arabia 's ambassador to the United States and Bush family friend ."
+wrong word,m 3
+mutation sentence,"1 m - Estimated value of a painting the Bush Presidential Library in College Station , Texas , received from Prince Bandar , Saudi Arabia 's ambassador to the United States and Bush family friend ."
+
+original sentence,$ 10 m - Amount Bush cut from the INS 's existing terrorism budget .
+wrong word,m 3
+mutation sentence,10 m - Amount Bush cut from the INS 's existing terrorism budget .
+
+original sentence,$ 2 b - Estimated monthly cost of US military presence in Iraq projected by the White House in April 2003 .
+wrong word,b 3
+mutation sentence,$ 2 b - Estimated cost of US military presence in Iraq projected by the White House in April 2003 .
+mutation sentence,$ 2 b - Estimated monthly cost of military presence in Iraq projected by the White House in April 2003 .
+
+original sentence,$ 15 m - Amount of a contract awarded to an American firm to build a cement factory in Iraq .
+wrong word,m 3
+mutation sentence,15 m - Amount of a contract awarded to an American firm to build a cement factory in Iraq .
+
+original sentence,$ 2.8 b - Value of Bechtel Corp contracts in Iraq .
+wrong word,b 3
+mutation sentence,2.8 b - Value of Bechtel Corp contracts in Iraq .
+
+original sentence,$ 5.5 b - Estimated cost to secure fully US ports over the Next decade .
+wrong word,b 3
+mutation sentence,5.5 b - Estimated cost to secure fully US ports over the Next decade .
+
+original sentence,$ 46 m - Amount the Bush administration has budgeted for port security in 2005 .
+wrong word,m 3
+mutation sentence,46 m - Amount the Bush administration has budgeted for port security in 2005 .
+
+original sentence,$ 10.9 m - Average wealth of the members of Bush 's original 16 - person cabinet .
+wrong word,m 3
+mutation sentence,10.9 m - Average wealth of the members of Bush 's original 16 - person cabinet .
+
+original sentence,9.3 m - Number of US unemployed in April 2004 .
+wrong word,m 2
+mutation sentence,9.3 m - Number of US in April 2004 .
+
+original sentence,$ 23.8 b - Amount the United States spent on international aid and diplomacy in 2002 .
+wrong word,b 3
+mutation sentence,23.8 b - Amount the United States spent on international aid and diplomacy in 2002 .
+
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+original sentence,$ 2 b - Estimated monthly cost of US military presence in Iraq projected by the White House in April 2003 .
+wrong word,2 2
+mutation sentence,2 b - Estimated monthly cost of US military presence in Iraq projected by the White House in April 2003 .
+wrong word,b 3
+mutation sentence,2 b - Estimated monthly cost of US military presence in Iraq projected by the White House in April 2003 .
+
+original sentence,$ 4.7 b - Total value of contracts awarded to Halliburton in Iraq and Afghanistan .
+wrong word,b 3
+mutation sentence,4.7 b - Total value of contracts awarded to Halliburton in Iraq and Afghanistan .
+
+original sentence,"$ 36 - Amount allocated per person for homeland security in Wyoming , Vice - President Cheney 's home state ."
+wrong word,36 2
+mutation sentence,"36 - Amount allocated per person for homeland security in Wyoming , Vice - President Cheney 's home state ."
+
+original sentence,$ 17 - Amount allocated per person in New York state .
+wrong word,17 2
+mutation sentence,17 - Amount allocated per person in New York state .
+
+original sentence,"$ 489 b - The US trade deficit in 2003 , the worst in history for a single year ."
+wrong word,b 3
+mutation sentence,"489 b - The US trade deficit in 2003 , the worst in history for a single year ."
+
+original sentence,"$ 60 b - Loss to Enron stockholders , following the largest bankruptcy in US history ."
+wrong word,b 3
+mutation sentence,"60 b - Loss to Enron stockholders , following the largest bankruptcy in US history ."
+
+original sentence,$ 66 b - Amount the United States spent on international aid and diplomacy in 1949 .
+wrong word,b 3
+mutation sentence,66 b - Amount the United States spent on international aid and diplomacy in 1949 .
+
+original sentence,"85 - Percentage of American young adults who can not find Afghanistan , Iraq , or Israel on a map ."
+wrong word,85 1
+mutation sentence,"85 - Percentage of young adults who can not find Afghanistan , Iraq , or Israel on a map ."
+
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,1584 Ivan the Terrible dies while starting a game of chess .
+wrong word,Terrible 4
+mutation sentence,Ivan the Terrible dies while starting a game of chess .
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+original sentence,"They were death metal brainwashed fans , literally fulfilling the death metal paradigm , er ... morality ."
+wrong word,... 16
+mutation sentence,"They were death metal fans , literally fulfilling the death metal paradigm , er ... morality ."
+mutation sentence,"They were metal brainwashed fans , literally fulfilling the death metal paradigm , er ... morality ."
+mutation sentence,"They were death metal brainwashed fans , fulfilling the death metal paradigm , er ... morality ."
+mutation sentence,"They were death metal brainwashed fans , literally fulfilling the metal paradigm , er ... morality ."
+
+
+
+"pos from 标点 to 名词
+"
+original sentence,"Bullet - proof vests , automatic weapons , helicopters , tanks , robots ... the testosterone is oozing through the streets , more prisons , longer sentences , tighten the belt , spartan conditions , task forces , gang units , gun courts ."
+wrong word,- 2
+mutation sentence,"- proof vests , automatic weapons , helicopters , tanks , robots ... the testosterone is oozing through the streets , more prisons , longer sentences , tighten the belt , spartan conditions , task forces , gang units , gun courts ."
+
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+original sentence,* gasps * So I would n't make a good prostitute ?
+wrong word,* 3
+mutation sentence,* gasps * I would n't make a good prostitute ?
+
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+original sentence,"Some people put in a very dilute Acriflaven solution to slow down the fungus , so one can take white eggs out with a pipette or eyedropper ."
+wrong word,so 16
+mutation sentence,"Some people put in a very dilute Acriflaven solution to slow down the fungus , so one can take eggs out with a pipette or eyedropper ."
+
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+original sentence,I would like to have a meeting once a week for 1 - 2 hours with all 6 of us just to make sure we are moving forward and to get an update and anything and everything .
+wrong word,- 13
+mutation sentence,I would like to have a meeting once a week for - 2 hours with all 6 of us just to make sure we are moving forward and to get an update and anything and everything .
+mutation sentence,I would like to have a meeting once a week for - 2 hours with all 6 of us just to make sure we are moving forward and to get an update and anything and everything .
+
+original sentence,Increases the capacity to work until 75 - 80 years of age .
+wrong word,- 8
+mutation sentence,Increases the capacity to work until - 80 years of age .
+
+original sentence,i have a 3 - 4 month old kitten and i live in forida .
+wrong word,- 5
+mutation sentence,i have a - 4 month old kitten and i live in forida .
+
+original sentence,Feed the babies 3 - 4 times a day with flakes .
+wrong word,- 5
+mutation sentence,Feed the babies - 4 times a day with flakes .
+
+original sentence,from my experience with my cats 13 - 18 years depending on the breed .
+wrong word,- 8
+mutation sentence,from my experience with my cats - 18 years depending on the breed .
+
+original sentence,Male cats very seldom live past 14 - 15 years .
+wrong word,- 8
+mutation sentence,Male cats very seldom live past - 15 years .
+
+original sentence,This cage will hold about 2 - 3 rats .
+wrong word,- 7
+mutation sentence,This cage will hold about - 3 rats .
+
+original sentence,I have to scrub the floor 2 - 3 times a week now .
+wrong word,- 8
+mutation sentence,I have to scrub the floor - 3 times a week now .
+
+original sentence,"A normal processing time , unless you have an advanced degree or a "" specified "" skill is from 3 - 5 years ."
+wrong word,- 21
+mutation sentence,"A normal processing time , unless you have an advanced degree or a "" specified "" skill is from - 5 years ."
+
+original sentence,"With extra blackworms and maybe frozen ( defrosted , rinsed ) frozen foods earlier in the day , they may leave 30 - 40 eggs at a time ."
+wrong word,- 23
+mutation sentence,"With extra blackworms and maybe frozen ( defrosted , rinsed ) frozen foods earlier in the day , they may leave - 40 eggs at a time ."
+
+original sentence,"I got yelled at , literally yelled at because i asked if i could pick up my car 5 - 10 minutes late ."
+wrong word,- 20
+mutation sentence,"I got yelled at , literally yelled at because i asked if i could pick up my car - 10 minutes late ."
+
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+original sentence,"With extra blackworms and maybe frozen ( defrosted , rinsed ) frozen foods earlier in the day , they may leave 30 - 40 eggs at a time ."
+wrong word,frozen 12
+mutation sentence,"With extra blackworms and maybe frozen ( , rinsed ) frozen foods earlier in the day , they may leave 30 - 40 eggs at a time ."
+
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,I found my initial selection satisfactory but the wine flight we chose to be poorly composed .
+wrong word,be 14
+mutation sentence,I found my initial selection satisfactory but the wine flight we chose to be composed .
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,"We all know by now that Bush did not even do his full service with the Texas Air National Guard , absenting himself to work on the Alabama senate campaign of Winton "" Red "" Blount ."
+wrong word,work 25
+mutation sentence,"We all know by now that Bush did not do his full service with the Texas Air National Guard , absenting himself to work on the Alabama senate campaign of Winton "" Red "" Blount ."
+mutation sentence,"We all know by now that Bush did not even do his service with the Texas Air National Guard , absenting himself to work on the Alabama senate campaign of Winton "" Red "" Blount ."
+mutation sentence,"We all know by now that Bush did not even do his full service with the Texas Air National Guard , absenting himself to work on the Alabama senate campaign of "" Red "" Blount ."
+mutation sentence,"We all know by now that Bush did not even do his full service with the Texas Air National Guard , absenting himself to work on the Alabama senate campaign of Winton "" "" Blount ."
+
+original sentence,I just have a few issues supporting my back and my left leg flops .
+wrong word,flops 14
+mutation sentence,I just have a few issues supporting my back and my leg flops .
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+original sentence,"Bending forward suggests : "" I completely surrender to You . """
+wrong word,Bending 1
+mutation sentence,"Bending suggests : "" I completely surrender to You . """
+
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+original sentence,I talked with Mark at SW Gas - just honro his numbers
+wrong word,honro 10
+mutation sentence,I talked with Mark at SW Gas - honro his numbers
+
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+original sentence,You should e mail her sometimes .
+wrong word,e 3
+mutation sentence,You should e mail her .
+
+
+
+"pos from 其他 to 其他
+"
