@@ -4,8 +4,8 @@ def mut_pos_compare_appendid_res(sen1, sen2, temp_id):#sen2 is the add mask sen
   res = []
   for i in range(len(sen1.words)):
     # filter out the too close words
-    if i == temp_id-1 or i == temp_id-2:
-      continue
+    # if i == temp_id-1 or i == temp_id-2:
+    #   continue
     if i < temp_id - 1:
       if sen1.words[i].upos != sen2.words[i].upos:
         res.append(PTF_Err(sen1.words[i].text, i+1, sen1.words[i].upos, sen2.words[i].upos))
@@ -42,6 +42,28 @@ def mut_deprel_compare_appendid(sen1, sen2, temp_id):#sen2 is the add mask sen
         return False
       elif sen1.words[sen1.words[i].head - 1].text != sen2.words[sen2.words[i+1].head - 1].text:
         return False
+  return True
+
+
+def mut_deprel_type_compare_appendid(sen1, sen2, temp_id):#sen2 is the add mask sen
+  if not sen2.words[temp_id - 1].deprel.endswith('mod'):
+    return False
+  for i in range(len(sen1.words)):
+    if i < temp_id - 1:
+      # deprel equal
+      if sen1.words[i].head == 0 and sen2.words[i].head != 0:
+        return False
+      elif sen1.words[sen1.words[i].head - 1].text != sen2.words[sen2.words[i].head - 1].text:
+        return False
+      # elif sen1.words[i].deprel != sen2.words[i].deprel:
+      #   return False
+    else:
+      if sen1.words[i].head == 0 and sen2.words[i+1].head != 0:
+        return False
+      elif sen1.words[sen1.words[i].head - 1].text != sen2.words[sen2.words[i+1].head - 1].text:
+        return False
+      # elif sen1.words[i].deprel != sen2.words[i+1].deprel:
+      #   return False
   return True
 
 

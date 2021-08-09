@@ -1,8 +1,5 @@
 import spacy
 from spacy.tokens import Doc
-nlp = spacy.load('en_core_web_sm', exclude=['lemmatizer', 'ner'], )
-# nlp.tokenizer = nlp.tokenizer.tokens_from_list
-# print(nlp.pipe_names)
 
 class WhitespaceTokenizer:
   def __init__(self, vocab):
@@ -24,10 +21,11 @@ class WhitespaceTokenizer:
       spaces[-1] = False
     return Doc(self.vocab, words=words, spaces=spaces)
 
-sen = ', Do you want us to come over to the Enron b in your call .'
+nlp = spacy.load('en_core_web_trf', exclude=['lemmatizer', 'ner'], )
+
+sen = 'Hold the entire chicken down on a flat surface .'
 nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
 doc = nlp(sen)
-# doc = Doc(nlp.vocab, words = sen.split(' '))
 
 for token in doc:
   print(token.i, token.text, token.pos_, token.dep_, token.head, token.head.i)

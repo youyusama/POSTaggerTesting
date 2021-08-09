@@ -12,13 +12,13 @@ from global_variables import *
 import spacy
 from progress.counter import Counter
 
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
-CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
+CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
+# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-PUD/en_pud-ud-test.conllu'
 # CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
 # CORPUS_PATH = 'test.conllu'
-MUTATION_WAY = 'DEL' #or 'DEL'
-NLP_TOOL = 'spaCy' #or 'stanza'
+MUTATION_WAY = 'BERT' #or 'DEL'
+NLP_TOOL = 'stanza' #or 'stanza'
 
 error_map_tag_000= {}
 error_map_tag_100= {}
@@ -28,7 +28,6 @@ create_error_map(error_map_tag_000)
 create_error_map(error_map_tag_100)
 create_error_map(error_map_tag_001)
 create_error_map(error_map_tag_010)
-
 
 if __name__ == '__main__':
   #load corpus
@@ -78,7 +77,7 @@ if __name__ == '__main__':
       for mut_sen_id in mut_sens_ids:
         sen_mut = PTF_Sen(nlp(mut_sen_id[0]), type=NLP_TOOL, build_tree=False)
         # dependency filter
-        if mut_deprel_compare_appendid(sen_nlp, sen_mut, mut_sen_id[1]):
+        if mut_deprel_type_compare_appendid(sen_nlp, sen_mut, mut_sen_id[1]):
           muts.append((sen_mut, mut_sen_id[1]))
     elif MUTATION_WAY =='DEL':
       # mutation sens check del
