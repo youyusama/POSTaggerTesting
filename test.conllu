@@ -97,3 +97,1048 @@
 18	in	in	ADP	IN	_	19	case	19:case	_
 19	Vietnam	Vietnam	PROPN	NNP	Number=Sing	13	obl	13:obl:in	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = GUM_bio_fillmore-30
+# text = This theory built on the notion of construction from traditional and pedagogical grammars rather than the rule-based formalisms that dominate most of generative grammar.
+# s_type = decl
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Discourse=elaboration:68->65|Entity=(abstract-133
+2	theory	theory	NOUN	NN	Number=Sing	3	nsubj	_	Entity=abstract-133)
+3	built	build	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	on	on	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(abstract-139
+6	notion	notion	NOUN	NN	Number=Sing	3	obl	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	construction	construction	NOUN	NN	Number=Sing	6	nmod	_	Entity=(abstract-140)
+9	from	from	ADP	IN	_	13	case	_	_
+10	traditional	traditional	ADJ	JJ	Degree=Pos	13	amod	_	Entity=(abstract-141
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	pedagogical	pedagogical	ADJ	JJ	Degree=Pos	10	conj	_	_
+13	grammars	grammar	NOUN	NNS	Number=Plur	8	nmod	_	Entity=abstract-139)abstract-141)
+14	rather	rather	ADV	RB	_	18	cc	_	Discourse=antithesis:69->68
+15	than	than	ADP	IN	_	14	fixed	_	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	Entity=(abstract-142
+17	rule-based	rule-based	ADJ	JJ	Degree=Pos	18	amod	_	_
+18	formalisms	formalism	NOUN	NNS	Number=Plur	8	conj	_	_
+19	that	that	PRON	WDT	PronType=Rel	20	nsubj	_	Discourse=elaboration:70->69
+20	dominate	dominate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+21	most	most	ADJ	JJS	Degree=Sup	20	obj	_	_
+22	of	of	ADP	IN	_	24	case	_	_
+23	generative	generative	ADJ	JJ	Degree=Pos	24	amod	_	Entity=(abstract-57
+24	grammar	grammar	NOUN	NN	Number=Sing	21	obl	_	Entity=abstract-142)abstract-57)|SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_fillmore-31
+# text = One of Fillmore's most widely noticed works of the time (with Paul Kay and Cathy O'Connor) appeared in 'Language' in 1988 as "Regularity and Idiomaticity in Grammatical Constructions: The Case of Let Alone".
+# s_type = decl
+1	One	One	NUM	CD	NumType=Card	20	nsubj	_	Discourse=joint:71->64|Entity=(abstract-143
+2	of	of	ADP	IN	_	8	case	_	_
+3	Fillmore	Fillmore	PROPN	NNP	Number=Sing	8	nmod:poss	_	Entity=(abstract-144(person-1|SpaceAfter=No
+4	's	's	PART	POS	_	3	case	_	Entity=person-1)
+5	most	most	ADV	RBS	_	6	advmod	_	_
+6	widely	widely	ADV	RB	_	7	advmod	_	_
+7	noticed	notice	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	_
+8	works	work	NOUN	NNS	Number=Plur	1	nmod	_	_
+9	of	of	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(time-145
+11	time	time	NOUN	NN	Number=Sing	8	nmod	_	Entity=abstract-144)time-145)
+12	(	(	PUNCT	-LRB-	_	14	punct	_	Discourse=elaboration:72->71|SpaceAfter=No
+13	with	with	ADP	IN	_	14	case	_	_
+14	Paul	Paul	PROPN	NNP	Number=Sing	8	nmod	_	Entity=(person-131
+15	Kay	Kay	PROPN	NNP	Number=Sing	14	flat	_	Entity=person-131)
+16	and	and	CCONJ	CC	_	17	cc	_	_
+17	Cathy	Cathy	PROPN	NNP	Number=Sing	14	conj	_	Entity=(person-146
+18	O'Connor	O'Connor	PROPN	NNP	Number=Sing	17	flat	_	Entity=person-146)|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	14	punct	_	Entity=abstract-143)
+20	appeared	appear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Discourse=same-unit:73->71
+21	in	in	ADP	IN	_	23	case	_	_
+22	'	'	PUNCT	``	_	23	punct	_	SpaceAfter=No
+23	Language	Language	PROPN	NNP	Number=Sing	20	obl	_	Entity=(abstract-147)|SpaceAfter=No
+24	'	'	PUNCT	''	_	23	punct	_	_
+25	in	in	ADP	IN	_	26	case	_	_
+26	1988	1988	NUM	CD	NumType=Card	20	obl	_	Entity=(time-148)
+27	as	as	ADP	IN	_	29	case	_	_
+28	"	''	PUNCT	``	_	29	punct	_	SpaceAfter=No
+29	Regularity	regularity	PROPN	NNP	Number=Sing	20	obl	_	Entity=(abstract-149(abstract-150)
+30	and	and	CCONJ	CC	_	31	cc	_	_
+31	Idiomaticity	idiomaticity	PROPN	NNP	Number=Sing	29	conj	_	Entity=(abstract-151)
+32	in	in	ADP	IN	_	34	case	_	_
+33	Grammatical	grammatical	PROPN	NNP	Number=Sing	34	amod	_	Entity=(abstract-152
+34	Constructions	construction	PROPN	NNPS	Number=Plur	29	nmod	_	Entity=abstract-152)|SpaceAfter=No
+35	:	:	PUNCT	:	_	37	punct	_	_
+36	The	the	DET	DT	Definite=Def|PronType=Art	37	det	_	Discourse=elaboration:74->73|Entity=(abstract-153
+37	Case	case	PROPN	NNP	Number=Sing	34	appos	_	_
+38	of	of	ADP	IN	_	39	case	_	_
+39	Let	let	PROPN	NNP	Number=Sing	37	nmod	_	Entity=(abstract-154
+40	Alone	alone	PROPN	NNP	Number=Sing	39	fixed	_	Entity=abstract-149)abstract-153)abstract-154)|SpaceAfter=No
+41	"	''	PUNCT	''	_	29	punct	_	SpaceAfter=No
+42	.	.	PUNCT	.	_	20	punct	_	_
+
+# sent_id = GUM_bio_fillmore-32
+# text = Their paper highlighted the merits of such a theory of by focusing on the 'let alone' construction.
+# s_type = decl
+1	Their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Discourse=elaboration:75->71|Entity=(abstract-143(person-155)
+2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Entity=abstract-143)
+3	highlighted	highlight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Entity=(abstract-156
+5	merits	merit	NOUN	NNS	Number=Plur	3	obj	_	_
+6	of	of	ADP	IN	_	9	case	_	_
+7	such	such	PRON	PDT	_	9	det:predet	_	Entity=(abstract-133
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	theory	theory	NOUN	NN	Number=Sing	5	nmod	_	Entity=abstract-156)abstract-133)
+10	of	of	SCONJ	IN	_	12	mark	_	_
+11	by	by	SCONJ	IN	_	12	mark	_	Discourse=means:76->75
+12	focusing	focus	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+13	on	on	ADP	IN	_	19	case	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	Entity=(abstract-154
+15	'	'	PUNCT	``	_	16	punct	_	SpaceAfter=No
+16	let	let	VERB	VB	VerbForm=Inf	19	compound	_	_
+17	alone	alone	ADV	RB	_	16	fixed	_	SpaceAfter=No
+18	'	'	PUNCT	''	_	16	punct	_	_
+19	construction	construction	NOUN	NN	Number=Sing	12	obl	_	Entity=abstract-154)|SpaceAfter=No
+20	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_fillmore-33
+# text = Over time, construction grammar developed into a research area of its own, and a number of variants have been proposed over the years by different researchers.
+# s_type = decl
+1	Over	over	ADP	IN	_	2	case	_	Discourse=joint:77->64
+2	time	time	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	construction	construction	NOUN	NN	Number=Sing	5	compound	_	Entity=(abstract-133
+5	grammar	grammar	NOUN	NN	Number=Sing	6	nsubj	_	Entity=abstract-133)
+6	developed	develop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	into	into	ADP	IN	_	10	case	_	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	Entity=(abstract-157
+9	research	research	NOUN	NN	Number=Sing	10	compound	_	_
+10	area	area	NOUN	NN	Number=Sing	6	obl	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	Entity=(abstract-133)
+13	own	own	ADJ	JJ	Degree=Pos	10	nmod	_	Entity=abstract-157)|SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	and	and	CCONJ	CC	_	6	cc	_	Discourse=joint:78->77
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	Entity=(abstract-158
+17	number	number	NOUN	NN	Number=Sing	19	nmod	_	_
+18	of	of	ADP	IN	_	19	case	_	_
+19	variants	variant	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Entity=abstract-158)
+20	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
+21	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux:pass	_	_
+22	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	6	case	_	_
+23	over	over	ADP	IN	_	25	case	_	_
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	_
+25	years	year	NOUN	NNS	Number=Plur	6	obl	_	_
+26	by	by	ADP	IN	_	28	case	_	_
+27	different	different	ADJ	JJ	Degree=Pos	28	amod	_	Entity=(person-159
+28	researchers	researcher	NOUN	NNS	Number=Plur	6	obl	_	Entity=person-159)|SpaceAfter=No
+29	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = GUM_bio_fillmore-34
+# text = Fillmore is now widely recognized as one of the founders of cognitive linguistics.
+# s_type = decl
+1	Fillmore	Fillmore	PROPN	NNP	Number=Sing	5	nsubj:pass	_	Discourse=joint:79->17|Entity=(person-1)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+3	now	now	ADV	RB	_	5	advmod	_	_
+4	widely	widely	ADV	RB	_	5	advmod	_	_
+5	recognized	recognize	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	as	as	ADP	IN	_	7	case	_	_
+7	one	one	NUM	CD	NumType=Card	5	obl	_	Entity=(person-1
+8	of	of	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	Entity=(person-160
+10	founders	founder	NOUN	NNS	Number=Plur	7	nmod	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	cognitive	cognitive	ADJ	JJ	Degree=Pos	13	amod	_	Entity=(abstract-71
+13	linguistics	linguistics	NOUN	NN	Number=Sing	10	nmod	_	Entity=person-1)person-160)abstract-71)|SpaceAfter=No
+14	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = GUM_bio_fillmore-35
+# text = The first chapter of “Cognitive Linguistics” by Cruse and Croft (2004), for instance, begins with a summary of Fillmore's work.
+# s_type = decl
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Discourse=evidence:80->79|Entity=(abstract-161
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_
+3	chapter	chapter	NOUN	NN	Number=Sing	20	nsubj	_	_
+4	of	of	ADP	IN	_	7	case	_	_
+5	“	''	PUNCT	``	_	7	punct	_	Entity=(abstract-162|SpaceAfter=No
+6	Cognitive	Cognitive	PROPN	NNP	Number=Sing	7	amod	_	_
+7	Linguistics	Linguistics	PROPN	NNP	Number=Sing	3	nmod	_	SpaceAfter=No
+8	”	''	PUNCT	''	_	7	punct	_	_
+9	by	by	ADP	IN	_	10	case	_	_
+10	Cruse	Cruse	PROPN	NNP	Number=Sing	7	nmod	_	Entity=(person-163)
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	Croft	Croft	PROPN	NNP	Number=Sing	10	conj	_	Entity=(person-164)
+13	(	(	PUNCT	-LRB-	_	14	punct	_	Discourse=elaboration:81->80|SpaceAfter=No
+14	2004	2004	NUM	CD	NumType=Card	7	nmod:tmod	_	Entity=(time-165)|SpaceAfter=No
+15	)	)	PUNCT	-RRB-	_	14	punct	_	Entity=abstract-161)abstract-162)|SpaceAfter=No
+16	,	,	PUNCT	,	_	3	punct	_	_
+17	for	for	ADP	IN	_	18	case	_	Discourse=same-unit:82->80
+18	instance	instance	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No
+19	,	,	PUNCT	,	_	18	punct	_	_
+20	begins	begin	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	with	with	ADP	IN	_	23	case	_	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	Entity=(abstract-166
+23	summary	summary	NOUN	NN	Number=Sing	20	obl	_	_
+24	of	of	ADP	IN	_	27	case	_	_
+25	Fillmore	Fillmore	PROPN	NNP	Number=Sing	27	nmod:poss	_	Entity=(abstract-167(person-1|SpaceAfter=No
+26	's	's	PART	POS	_	25	case	_	Entity=person-1)
+27	work	work	NOUN	NN	Number=Sing	23	nmod	_	Entity=abstract-166)abstract-167)|SpaceAfter=No
+28	.	.	PUNCT	.	_	20	punct	_	_
+
+# sent_id = GUM_bio_fillmore-36
+# text = Fillmore served as President of the Linguistic Society of America in 1991 and was awarded an honorary doctorate from the University of Chicago in 2000. [7]
+# s_type = decl
+1	Fillmore	Fillmore	PROPN	NNP	Number=Sing	2	nsubj	_	Discourse=joint:83->17|Entity=(person-1)
+2	served	serve	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	as	as	ADP	IN	_	4	case	_	_
+4	President	President	PROPN	NNP	Number=Sing	2	obl	_	Entity=(person-1
+5	of	of	ADP	IN	_	8	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(organization-168
+7	Linguistic	Linguistic	PROPN	NNP	Number=Sing	8	compound	_	_
+8	Society	Society	PROPN	NNP	Number=Sing	4	nmod	_	_
+9	of	of	ADP	IN	_	10	case	_	_
+10	America	America	PROPN	NNP	Number=Sing	8	nmod	_	Entity=(place-169)person-1)organization-168)
+11	in	in	ADP	IN	_	12	case	_	_
+12	1991	1991	NUM	CD	NumType=Card	2	obl	_	Entity=(time-170)
+13	and	and	CCONJ	CC	_	15	cc	_	Discourse=sequence:84->83
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
+15	awarded	award	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	_
+16	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	Entity=(abstract-171
+17	honorary	honorary	ADJ	JJ	Degree=Pos	18	amod	_	_
+18	doctorate	doctorate	NOUN	NN	Number=Sing	15	obj	_	_
+19	from	from	ADP	IN	_	21	case	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	Entity=(organization-172
+21	University	University	PROPN	NNP	Number=Sing	15	obl	_	_
+22	of	of	ADP	IN	_	23	case	_	_
+23	Chicago	Chicago	PROPN	NNP	Number=Sing	21	nmod	_	Entity=(place-173)abstract-171)organization-172)
+24	in	in	ADP	IN	_	25	case	_	_
+25	2000	2000	NUM	CD	NumType=Card	15	obl	_	Entity=(time-174)|SpaceAfter=No
+26	.	.	PUNCT	.	_	2	punct	_	_
+27	[	[	PUNCT	-LSB-	_	28	punct	_	Discourse=evidence:85->83|SpaceAfter=No
+28	7	7	NUM	CD	NumType=Card	2	dep	_	Entity=(abstract-124)|SpaceAfter=No
+29	]	]	PUNCT	-RSB-	_	28	punct	_	_
+
+# sent_id = GUM_bio_fillmore-37
+# text = His legacy continues with his many notable students, including Adele Goldberg, Laura Michaelis, Christopher Johnson, Miriam R. L. Petruck, Len Talmy, and Eve Sweetser.
+# s_type = decl
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Discourse=sequence:86->83|Entity=(abstract-175(person-1)
+2	legacy	legacy	NOUN	NN	Number=Sing	3	nsubj	_	Entity=abstract-175)
+3	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	8	case	_	_
+5	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	Entity=(person-176(person-1)
+6	many	many	ADJ	JJ	Degree=Pos	8	amod	_	_
+7	notable	notable	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	students	student	NOUN	NNS	Number=Plur	3	obl	_	Entity=person-176)|SpaceAfter=No
+9	,	,	PUNCT	,	_	10	punct	_	_
+10	including	include	VERB	VBG	VerbForm=Ger	8	acl	_	Discourse=elaboration:87->86
+11	Adele	Adele	PROPN	NNP	Number=Sing	10	obj	_	Entity=(person-177
+12	Goldberg	Goldberg	PROPN	NNP	Number=Sing	11	flat	_	Entity=person-177)|SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	_	_
+14	Laura	Laura	PROPN	NNP	Number=Sing	11	conj	_	Entity=(person-178
+15	Michaelis	Michaelis	PROPN	NNP	Number=Sing	14	flat	_	Entity=person-178)|SpaceAfter=No
+16	,	,	PUNCT	,	_	17	punct	_	_
+17	Christopher	Christopher	PROPN	NNP	Number=Sing	11	conj	_	Entity=(person-179
+18	Johnson	Johnson	PROPN	NNP	Number=Sing	17	flat	_	Entity=person-179)|SpaceAfter=No
+19	,	,	PUNCT	,	_	20	punct	_	_
+20	Miriam	Miriam	PROPN	NNP	Number=Sing	11	conj	_	Entity=(person-180
+21	R.	R.	PROPN	NNP	Number=Sing	20	flat	_	_
+22	L.	L.	PROPN	NNP	Number=Sing	20	flat	_	_
+23	Petruck	Petruck	PROPN	NNP	Number=Sing	20	flat	_	Entity=person-180)|SpaceAfter=No
+24	,	,	PUNCT	,	_	25	punct	_	_
+25	Len	Len	PROPN	NNP	Number=Sing	11	conj	_	Entity=(person-181
+26	Talmy	Talmy	PROPN	NNP	Number=Sing	25	flat	_	Entity=person-181)|SpaceAfter=No
+27	,	,	PUNCT	,	_	29	punct	_	_
+28	and	and	CCONJ	CC	_	29	cc	_	_
+29	Eve	Eve	PROPN	NNP	Number=Sing	11	conj	_	Entity=(person-182
+30	Sweetser	Sweetser	PROPN	NNP	Number=Sing	29	flat	_	Entity=person-182)|SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_fillmore-38
+# text = FrameNet
+# s_type = frag
+1	FrameNet	FrameNet	PROPN	NNP	Number=Sing	0	root	_	Discourse=preparation:88->102|Entity=(abstract-183)
+
+# sent_id = GUM_bio_fillmore-39
+# text = In the 1990s, Fillmore taught classes in computational lexicography at the University of Pisa, where he met Sue Atkins, who was conducting frame-semantic analyses from a lexicographic perspective.
+# s_type = decl
+1	In	in	ADP	IN	_	3	case	_	Discourse=circumstance:89->90
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Entity=(time-184
+3	1990s	1990s	NOUN	NNS	Number=Plur	6	obl:tmod	_	Entity=time-184)|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	Fillmore	Fillmore	PROPN	NNP	Number=Sing	6	nsubj	_	Entity=(person-1)
+6	taught	teach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	classes	class	NOUN	NNS	Number=Plur	6	obj	_	Entity=(abstract-185
+8	in	in	ADP	IN	_	10	case	_	_
+9	computational	computational	ADJ	JJ	Degree=Pos	10	amod	_	Entity=(abstract-186
+10	lexicography	lexicography	NOUN	NN	Number=Sing	7	nmod	_	Entity=abstract-185)abstract-186)
+11	at	at	ADP	IN	_	13	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	Entity=(organization-187
+13	University	University	PROPN	NNP	Number=Sing	6	obl	_	_
+14	of	of	ADP	IN	_	15	case	_	_
+15	Pisa	Pisa	PROPN	NNP	Number=Sing	13	nmod	_	Entity=(place-188)|SpaceAfter=No
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	where	where	SCONJ	WRB	PronType=Rel	19	mark	_	Discourse=background:90->92
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Entity=(person-1)
+19	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+20	Sue	Sue	PROPN	NNP	Number=Sing	19	obj	_	Entity=(person-189
+21	Atkins	Atkins	PROPN	NNP	Number=Sing	20	flat	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	_	_
+23	who	who	PRON	WP	PronType=Rel	25	nsubj	_	Discourse=elaboration:91->90
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
+25	conducting	conduct	VERB	VBG	Tense=Pres|VerbForm=Part	20	acl:relcl	_	_
+26	frame-semantic	frame-semantic	ADJ	JJ	Degree=Pos	27	amod	_	Entity=(abstract-190
+27	analyses	analysis	NOUN	NNS	Number=Plur	25	obj	_	Entity=abstract-190)
+28	from	from	ADP	IN	_	31	case	_	_
+29	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	Entity=(abstract-191
+30	lexicographic	lexicographic	ADJ	JJ	Degree=Pos	31	amod	_	_
+31	perspective	perspective	NOUN	NN	Number=Sing	25	obl	_	Entity=organization-187)person-189)abstract-191)|SpaceAfter=No
+32	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = GUM_bio_fillmore-40
+# text = In their subsequent discussions and collaborations, Fillmore came to acknowledge the importance of considering corpus data. [2]
+# s_type = decl
+1	In	in	ADP	IN	_	4	case	_	Discourse=background:92->95
+2	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	Entity=(abstract-192(person-193)
+3	subsequent	subsequent	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	discussions	discussion	NOUN	NNS	Number=Plur	9	obl	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	collaborations	collaboration	NOUN	NNS	Number=Plur	4	conj	_	Entity=abstract-192)|SpaceAfter=No
+7	,	,	PUNCT	,	_	4	punct	_	_
+8	Fillmore	Fillmore	PROPN	NNP	Number=Sing	9	nsubj	_	Entity=(person-1)
+9	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+10	to	to	PART	TO	_	11	mark	_	_
+11	acknowledge	acknowledge	VERB	VB	VerbForm=Inf	9	xcomp	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	Entity=(abstract-194
+13	importance	importance	NOUN	NN	Number=Sing	11	obj	_	_
+14	of	of	SCONJ	IN	_	15	mark	_	Discourse=elaboration:93->92
+15	considering	consider	VERB	VBG	VerbForm=Ger	13	acl	_	_
+16	corpus	corpus	NOUN	NN	Number=Sing	17	compound	_	Entity=(abstract-195
+17	data	datum	NOUN	NNS	Number=Plur	15	obj	_	Entity=abstract-194)abstract-195)|SpaceAfter=No
+18	.	.	PUNCT	.	_	9	punct	_	_
+19	[	[	PUNCT	-LSB-	_	20	punct	_	Discourse=evidence:94->92|SpaceAfter=No
+20	2	2	NUM	CD	NumType=Card	9	dep	_	Entity=(abstract-31)|SpaceAfter=No
+21	]	]	PUNCT	-RSB-	_	20	punct	_	_
+
+# sent_id = GUM_bio_fillmore-41
+# text = They discussed the "dictionary of the future", in which every word would be linked to example sentences from corpora. [7] [9]
+# s_type = decl
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Discourse=background:95->102|Entity=(person-193)
+2	discussed	discuss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Entity=(abstract-196
+4	"	''	PUNCT	``	_	5	punct	_	SpaceAfter=No
+5	dictionary	dictionary	NOUN	NN	Number=Sing	2	obj	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(abstract-197
+8	future	future	NOUN	NN	Number=Sing	5	nmod	_	Entity=abstract-197)|SpaceAfter=No
+9	"	''	PUNCT	''	_	5	punct	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	17	punct	_	_
+11	in	in	ADP	IN	_	12	case	_	Discourse=elaboration:96->95
+12	which	which	PRON	WDT	PronType=Rel	17	obl	_	_
+13	every	every	DET	DT	_	14	det	_	Entity=(abstract-198
+14	word	word	NOUN	NN	Number=Sing	17	nsubj:pass	_	Entity=abstract-198)
+15	would	would	AUX	MD	VerbForm=Fin	17	aux	_	_
+16	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	_
+17	linked	link	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+18	to	to	ADP	IN	_	20	case	_	_
+19	example	example	NOUN	NN	Number=Sing	20	compound	_	Entity=(abstract-199
+20	sentences	sentence	NOUN	NNS	Number=Plur	17	obl	_	_
+21	from	from	ADP	IN	_	22	case	_	_
+22	corpora	corpus	NOUN	NNS	Number=Plur	20	nmod	_	Entity=(abstract-200)abstract-196)abstract-199)|SpaceAfter=No
+23	.	.	PUNCT	.	_	2	punct	_	_
+24	[	[	PUNCT	-LSB-	_	25	punct	_	Discourse=evidence:97->95|SpaceAfter=No
+25	7	7	NUM	CD	NumType=Card	2	dep	_	Entity=(abstract-124)|SpaceAfter=No
+26	]	]	PUNCT	-RSB-	_	25	punct	_	_
+27	[	[	PUNCT	-LSB-	_	28	punct	_	Discourse=joint:98->97|SpaceAfter=No
+28	9	9	NUM	CD	NumType=Card	2	dep	_	Entity=(abstract-201)|SpaceAfter=No
+29	]	]	PUNCT	-RSB-	_	28	punct	_	_
+
+# sent_id = GUM_bio_fillmore-42
+# text = After 23 years at the University of California, Berkeley, Fillmore retired in 1994 and joined Berkeley's International Computer Science Institute. [6]
+# s_type = decl
+1	After	after	ADP	IN	_	3	case	_	Discourse=background:99->102
+2	23	23	NUM	CD	NumType=Card	3	nummod	_	Entity=(time-202
+3	years	year	NOUN	NNS	Number=Plur	13	obl	_	_
+4	at	at	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(organization-7
+6	University	University	PROPN	NNP	Number=Sing	3	nmod	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	California	California	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	10	punct	_	_
+10	Berkeley	Berkeley	PROPN	NNP	Number=Sing	6	appos	_	Entity=(place-8)time-202)organization-7)|SpaceAfter=No
+11	,	,	PUNCT	,	_	3	punct	_	_
+12	Fillmore	Fillmore	PROPN	NNP	Number=Sing	13	nsubj	_	Entity=(person-1)
+13	retired	retire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+14	in	in	ADP	IN	_	15	case	_	_
+15	1994	1994	NUM	CD	NumType=Card	13	obl:tmod	_	Entity=(time-203)
+16	and	and	CCONJ	CC	_	17	cc	_	Discourse=sequence:100->99
+17	joined	join	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	conj	_	_
+18	Berkeley	Berkeley	PROPN	NNP	Number=Sing	23	nmod:poss	_	Entity=(organization-204(organization-7|SpaceAfter=No
+19	's	's	PART	POS	_	18	case	_	Entity=organization-7)
+20	International	International	PROPN	NNP	Number=Sing	23	amod	_	_
+21	Computer	Computer	PROPN	NNP	Number=Sing	22	compound	_	Entity=(abstract-205
+22	Science	Science	PROPN	NNP	Number=Sing	23	compound	_	Entity=abstract-205)
+23	Institute	Institute	PROPN	NNP	Number=Sing	17	obj	_	Entity=organization-204)|SpaceAfter=No
+24	.	.	PUNCT	.	_	13	punct	_	_
+25	[	[	PUNCT	-LSB-	_	26	punct	_	Discourse=evidence:101->99|SpaceAfter=No
+26	6	6	NUM	CD	NumType=Card	13	dep	_	Entity=(abstract-76)|SpaceAfter=No
+27	]	]	PUNCT	-RSB-	_	26	punct	_	_
+
+# sent_id = GUM_bio_fillmore-43
+# text = There, he started a project called FrameNet, an on-line structured description of the English lexicon implementing much of what he had earlier proposed more theoretically in his theory of Frame semantics, while implementing the idea of emphasizing example sentences from corpora.
+# s_type = decl
+1	There	there	ADV	RB	PronType=Dem	4	advmod	_	Discourse=joint:102->17|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Entity=(person-1)
+4	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(abstract-183
+6	project	project	NOUN	NN	Number=Sing	4	obj	_	_
+7	called	call	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
+8	FrameNet	FrameNet	PROPN	NNP	Number=Sing	7	xcomp	_	Entity=(abstract-183)abstract-183)|SpaceAfter=No
+9	,	,	PUNCT	,	_	13	punct	_	_
+10	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	Entity=(abstract-183
+11	on-line	on-line	ADJ	JJ	Degree=Pos	13	amod	_	_
+12	structured	structure	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	_	_
+13	description	description	NOUN	NN	Number=Sing	8	appos	_	_
+14	of	of	ADP	IN	_	17	case	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	Entity=(abstract-206
+16	English	English	ADJ	JJ	Degree=Pos	17	compound	_	_
+17	lexicon	lexicon	NOUN	NN	Number=Sing	13	nmod	_	Entity=abstract-206)
+18	implementing	implement	VERB	VBG	VerbForm=Ger	13	acl	_	Discourse=elaboration:103->102
+19	much	much	ADJ	JJ	Degree=Pos	18	obj	_	Entity=(abstract-207
+20	of	of	ADP	IN	_	21	case	_	_
+21	what	what	PRON	WP	PronType=Int	19	nmod	_	_
+22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Entity=(person-1)
+23	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	25	aux	_	_
+24	earlier	earlier	ADV	RBR	Degree=Cmp	25	advmod	_	_
+25	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	21	acl:relcl	_	_
+26	more	more	ADV	RBR	_	27	advmod	_	_
+27	theoretically	theoretically	ADV	RB	_	25	advmod	_	_
+28	in	in	ADP	IN	_	30	case	_	_
+29	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	Entity=(abstract-208(person-1)
+30	theory	theory	NOUN	NN	Number=Sing	25	obl	_	_
+31	of	of	ADP	IN	_	33	case	_	_
+32	Frame	frame	NOUN	NN	Number=Sing	33	compound	_	Entity=(abstract-96
+33	semantics	semantics	NOUN	NN	Number=Sing	30	nmod	_	Entity=abstract-183)abstract-207)abstract-208)abstract-96)|SpaceAfter=No
+34	,	,	PUNCT	,	_	36	punct	_	_
+35	while	while	SCONJ	IN	_	36	mark	_	Discourse=joint:104->103
+36	implementing	implement	VERB	VBG	VerbForm=Ger	4	advcl	_	_
+37	the	the	DET	DT	Definite=Def|PronType=Art	38	det	_	Entity=(abstract-209
+38	idea	idea	NOUN	NN	Number=Sing	36	obj	_	_
+39	of	of	SCONJ	IN	_	40	mark	_	Discourse=elaboration:105->104
+40	emphasizing	emphasize	VERB	VBG	VerbForm=Ger	38	acl	_	_
+41	example	example	NOUN	NN	Number=Sing	42	compound	_	Entity=(abstract-199
+42	sentences	sentence	NOUN	NNS	Number=Plur	40	obj	_	_
+43	from	from	ADP	IN	_	44	case	_	_
+44	corpora	corpus	NOUN	NNS	Number=Plur	42	nmod	_	Entity=(abstract-200)abstract-209)abstract-199)|SpaceAfter=No
+45	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = GUM_bio_fillmore-44
+# text = In FrameNet, words are described in terms of the frames they evoke.
+# s_type = decl
+1	In	in	ADP	IN	_	2	case	_	Discourse=elaboration:106->102
+2	FrameNet	FrameNet	PROPN	NNP	Number=Sing	6	obl	_	Entity=(abstract-183)|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	words	word	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Entity=(abstract-210)
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	terms	term	NOUN	NNS	Number=Plur	6	obl	_	_
+9	of	of	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(abstract-211
+11	frames	frame	NOUN	NNS	Number=Plur	8	nmod	_	_
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	Discourse=elaboration:107->106|Entity=(abstract-210)
+13	evoke	evoke	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	Entity=abstract-211)|SpaceAfter=No
+14	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = GUM_bio_fillmore-45
+# text = Data is gathered from the British National Corpus, annotated for semantic and syntactic relations, and stored in a database organized by both lexical items and Frames.
+# s_type = decl
+1	Data	data	NOUN	NN	Number=Sing	3	nsubj:pass	_	Discourse=elaboration:108->106|Entity=(abstract-212)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	gathered	gather	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	from	from	ADP	IN	_	8	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(abstract-213
+6	British	British	PROPN	NNP	Number=Sing	8	amod	_	_
+7	National	National	PROPN	NNP	Number=Sing	8	amod	_	_
+8	Corpus	Corpus	PROPN	NNP	Number=Sing	3	obl	_	Entity=abstract-213)|SpaceAfter=No
+9	,	,	PUNCT	,	_	10	punct	_	_
+10	annotated	annotate	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	Discourse=joint:109->108
+11	for	for	ADP	IN	_	15	case	_	_
+12	semantic	semantic	ADJ	JJ	Degree=Pos	15	amod	_	Entity=(abstract-214
+13	and	and	CCONJ	CC	_	14	cc	_	_
+14	syntactic	syntactic	ADJ	JJ	Degree=Pos	12	conj	_	_
+15	relations	relation	NOUN	NNS	Number=Plur	10	obl	_	Entity=abstract-214)|SpaceAfter=No
+16	,	,	PUNCT	,	_	18	punct	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	Discourse=joint:110->108
+18	stored	store	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	_
+19	in	in	ADP	IN	_	21	case	_	_
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	Entity=(abstract-215
+21	database	database	NOUN	NN	Number=Sing	18	obl	_	_
+22	organized	organize	VERB	VBN	Tense=Past|VerbForm=Part	21	acl	_	Discourse=manner:111->110
+23	by	by	ADP	IN	_	26	case	_	_
+24	both	both	CCONJ	DT	_	26	cc:preconj	_	_
+25	lexical	lexical	ADJ	JJ	Degree=Pos	26	amod	_	Entity=(abstract-216
+26	items	item	NOUN	NNS	Number=Plur	22	obl	_	Entity=abstract-216)
+27	and	and	CCONJ	CC	_	28	cc	_	_
+28	Frames	frame	NOUN	NNS	Number=Plur	26	conj	_	Entity=(abstract-217)abstract-215)|SpaceAfter=No
+29	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = GUM_bio_galois
+# sent_id = GUM_bio_galois-1
+# text = Final days
+# s_type = frag
+1	Final	final	ADJ	JJ	Degree=Pos	2	amod	_	Discourse=preparation:1->4|Entity=(time-1
+2	days	day	NOUN	NNS	Number=Plur	0	root	_	Entity=time-1)
+
+# sent_id = GUM_bio_galois-2
+# text = Siméon Poisson reviewed Galois' paper on equation theory and declared it "incomprehensible".
+# s_type = decl
+1	Siméon	Siméon	PROPN	NNP	Number=Sing	3	nsubj	_	Discourse=background:2->4|Entity=(person-2
+2	Poisson	Poisson	PROPN	NNP	Number=Sing	1	flat	_	Entity=person-2)
+3	reviewed	review	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Galois	Galois	PROPN	NNP	Number=Sing	6	nmod:poss	_	Entity=(abstract-3(person-4|SpaceAfter=No
+5	'	's	PART	POS	_	4	case	_	Entity=person-4)
+6	paper	paper	NOUN	NN	Number=Sing	3	obj	_	_
+7	on	on	ADP	IN	_	9	case	_	_
+8	equation	equation	NOUN	NN	Number=Sing	9	compound	_	Entity=(abstract-5
+9	theory	theory	NOUN	NN	Number=Sing	6	nmod	_	Entity=abstract-3)abstract-5)
+10	and	and	CCONJ	CC	_	11	cc	_	Discourse=result:3->2
+11	declared	declare	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	Entity=(abstract-3)
+13	"	''	PUNCT	``	_	14	punct	_	SpaceAfter=No
+14	incomprehensible	incomprehensible	ADJ	JJ	Degree=Pos|Polarity=Neg	11	xcomp	_	SpaceAfter=No
+15	"	''	PUNCT	''	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_galois-3
+# text = Galois returned to mathematics after his expulsion from the École Normale, although he continued to spend time in political activities.
+# s_type = decl
+1	Galois	Galois	PROPN	NNP	Number=Sing	2	nsubj	_	Discourse=ROOT:4|Entity=(person-4)
+2	returned	return	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	IN	_	4	case	_	_
+4	mathematics	mathematics	NOUN	NN	Number=Sing	2	obl	_	Entity=(abstract-6)
+5	after	after	ADP	IN	_	7	case	_	_
+6	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	Entity=(event-7(person-4)
+7	expulsion	expulsion	NOUN	NN	Number=Sing	2	obl	_	_
+8	from	from	ADP	IN	_	11	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(place-8
+10	École	École	PROPN	NNP	Number=Sing	11	compound	_	_
+11	Normale	Normale	PROPN	NNP	Number=Sing	7	nmod	_	Entity=event-7)place-8)|SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	although	although	SCONJ	IN	_	15	mark	_	Discourse=concession:5->4
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Entity=(person-4)
+15	continued	continue	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+16	to	to	PART	TO	_	17	mark	_	_
+17	spend	spend	VERB	VB	VerbForm=Inf	15	xcomp	_	_
+18	time	time	NOUN	NN	Number=Sing	17	obj	_	Entity=(time-9)
+19	in	in	ADP	IN	_	21	case	_	_
+20	political	political	ADJ	JJ	Degree=Pos	21	amod	_	Entity=(abstract-10
+21	activities	activity	NOUN	NNS	Number=Plur	17	obl	_	Entity=abstract-10)|SpaceAfter=No
+22	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = GUM_bio_galois-4
+# text = After his expulsion became official in January 1831, he attempted to start a private class in advanced algebra which attracted some interest, but this waned, as it seemed that his political activism had priority. [4] [7]
+# s_type = decl
+1	After	after	SCONJ	IN	_	4	mark	_	Discourse=circumstance:6->7
+2	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(event-7(person-4)
+3	expulsion	expulsion	NOUN	NN	Number=Sing	4	nsubj	_	Entity=event-7)
+4	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	_
+5	official	official	ADJ	JJ	Degree=Pos	4	xcomp	_	_
+6	in	in	ADP	IN	_	7	case	_	_
+7	January	January	PROPN	NNP	Number=Sing	4	obl	_	Entity=(time-11
+8	1831	1831	NUM	CD	NumType=Card	7	nmod:tmod	_	Entity=(time-12)time-11)|SpaceAfter=No
+9	,	,	PUNCT	,	_	4	punct	_	_
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Discourse=sequence:7->4|Entity=(person-4)
+11	attempted	attempt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+12	to	to	PART	TO	_	13	mark	_	_
+13	start	start	VERB	VB	VerbForm=Inf	11	xcomp	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	Entity=(abstract-13
+15	private	private	ADJ	JJ	Degree=Pos	16	amod	_	_
+16	class	class	NOUN	NN	Number=Sing	13	obj	_	_
+17	in	in	ADP	IN	_	19	case	_	_
+18	advanced	advanced	ADJ	JJ	Degree=Pos	19	amod	_	Entity=(abstract-14
+19	algebra	algebra	NOUN	NN	Number=Sing	16	nmod	_	Entity=abstract-14)
+20	which	which	PRON	WDT	PronType=Rel	21	nsubj	_	Discourse=elaboration:8->7
+21	attracted	attract	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
+22	some	some	DET	DT	_	23	det	_	Entity=(abstract-15
+23	interest	interest	NOUN	NN	Number=Sing	21	obj	_	Entity=abstract-13)abstract-15)|SpaceAfter=No
+24	,	,	PUNCT	,	_	27	punct	_	_
+25	but	but	CCONJ	CC	_	27	cc	_	Discourse=contrast:9->7
+26	this	this	PRON	DT	Number=Sing|PronType=Dem	27	nsubj	_	Entity=(abstract-15)
+27	waned	wane	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	conj	_	SpaceAfter=No
+28	,	,	PUNCT	,	_	31	punct	_	_
+29	as	as	SCONJ	IN	_	31	mark	_	Discourse=cause:10->9
+30	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	expl	_	Entity=(abstract-16)
+31	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	27	advcl	_	_
+32	that	that	SCONJ	IN	_	36	mark	_	_
+33	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	nmod:poss	_	Entity=(abstract-16(abstract-17(person-4)
+34	political	political	ADJ	JJ	Degree=Pos	35	amod	_	_
+35	activism	activism	NOUN	NN	Number=Sing	36	nsubj	_	Entity=abstract-17)
+36	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	31	ccomp	_	_
+37	priority	priority	NOUN	NN	Number=Sing	36	obj	_	Entity=abstract-16)|SpaceAfter=No
+38	.	.	PUNCT	.	_	11	punct	_	_
+39	[	[	PUNCT	-LSB-	_	40	punct	_	Discourse=evidence:11->7|SpaceAfter=No
+40	4	4	NUM	CD	NumType=Card	11	dep	_	Entity=(abstract-18)|SpaceAfter=No
+41	]	]	PUNCT	-RSB-	_	40	punct	_	_
+42	[	[	PUNCT	-LSB-	_	43	punct	_	Discourse=joint:12->11|SpaceAfter=No
+43	7	7	NUM	CD	NumType=Card	40	conj	_	Entity=(abstract-19)|SpaceAfter=No
+44	]	]	PUNCT	-RSB-	_	43	punct	_	_
+
+# sent_id = GUM_bio_galois-5
+# text = Siméon Poisson asked him to submit his work on the theory of equations, which he did on 17 January 1831.
+# s_type = decl
+1	Siméon	Siméon	PROPN	NNP	Number=Sing	3	nsubj	_	Discourse=cause:13->14|Entity=(person-2
+2	Poisson	Poisson	PROPN	NNP	Number=Sing	1	flat	_	Entity=person-2)
+3	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Entity=(person-4)
+5	to	to	PART	TO	_	6	mark	_	_
+6	submit	submit	VERB	VB	VerbForm=Inf	3	xcomp	_	_
+7	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	Entity=(abstract-20(person-4)
+8	work	work	NOUN	NN	Number=Sing	6	obj	_	_
+9	on	on	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(abstract-5
+11	theory	theory	NOUN	NN	Number=Sing	8	nmod	_	_
+12	of	of	ADP	IN	_	13	case	_	_
+13	equations	equation	NOUN	NNS	Number=Plur	11	nmod	_	Entity=abstract-20)abstract-5)|SpaceAfter=No
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	which	which	PRON	WDT	PronType=Rel	17	obj	_	Discourse=sequence:14->4
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Entity=(person-4)
+17	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+18	on	on	ADP	IN	_	19	case	_	_
+19	17	17	NUM	CD	NumType=Card	17	obl	_	Entity=(time-21
+20	January	January	PROPN	NNP	Number=Sing	19	compound	_	Entity=(time-11
+21	1831	1831	NUM	CD	NumType=Card	19	nmod:tmod	_	Entity=(time-12)time-21)time-11)|SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_galois-6
+# text = Around 4 July 1831, Poisson declared Galois' work "incomprehensible", declaring that "[Galois'] argument is neither sufficiently clear nor sufficiently developed to allow us to judge its rigor"; however, the rejection report ends on an encouraging note: "We would then suggest that the author should publish the whole of his work in order to form a definitive opinion." [16]
+# s_type = decl
+1	Around	around	ADP	IN	_	2	case	_	Discourse=result:15->14
+2	4	4	NUM	CD	NumType=Card	7	obl	_	Entity=(time-22
+3	July	July	PROPN	NNP	Number=Sing	2	compound	_	Entity=(time-23
+4	1831	1831	NUM	CD	NumType=Card	2	nmod:tmod	_	Entity=(time-12)time-22)time-23)|SpaceAfter=No
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	Poisson	Poisson	PROPN	NNP	Number=Sing	7	nsubj	_	Entity=(person-2)
+7	declared	declare	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	Galois	Galois	PROPN	NNP	Number=Sing	10	nmod:poss	_	Entity=(abstract-20(person-4|SpaceAfter=No
+9	'	's	PART	POS	_	8	case	_	Entity=person-4)
+10	work	work	NOUN	NN	Number=Sing	7	obj	_	Entity=abstract-20)
+11	"	''	PUNCT	``	_	12	punct	_	SpaceAfter=No
+12	incomprehensible	incomprehensible	ADJ	JJ	Degree=Pos|Polarity=Neg	7	xcomp	_	SpaceAfter=No
+13	"	''	PUNCT	''	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	declaring	declare	VERB	VBG	VerbForm=Ger	7	advcl	_	Discourse=attribution:16->17
+16	that	that	SCONJ	IN	_	26	mark	_	Discourse=elaboration:17->15
+17	"	''	PUNCT	``	_	26	punct	_	SpaceAfter=No
+18	[	[	PUNCT	-LSB-	_	19	punct	_	Entity=(abstract-24|SpaceAfter=No
+19	Galois	Galois	PROPN	NNP	Number=Sing	22	nmod:poss	_	Entity=(person-4|SpaceAfter=No
+20	'	's	PART	POS	_	19	case	_	Entity=person-4)|SpaceAfter=No
+21	]	]	PUNCT	-RSB-	_	19	punct	_	_
+22	argument	argument	NOUN	NN	Number=Sing	26	nsubj	_	Entity=abstract-24)
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+24	neither	neither	CCONJ	CC	_	26	cc:preconj	_	_
+25	sufficiently	sufficiently	ADV	RB	_	26	advmod	_	_
+26	clear	clear	ADJ	JJ	Degree=Pos	15	ccomp	_	_
+27	nor	nor	CCONJ	CC	_	29	cc	_	_
+28	sufficiently	sufficiently	ADV	RB	_	29	advmod	_	_
+29	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part	26	conj	_	_
+30	to	to	PART	TO	_	31	mark	_	Discourse=purpose:18->17
+31	allow	allow	VERB	VB	VerbForm=Inf	26	advcl	_	_
+32	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	31	obj	_	Entity=(person-25)
+33	to	to	PART	TO	_	34	mark	_	_
+34	judge	judge	VERB	VB	VerbForm=Inf	31	xcomp	_	_
+35	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	nmod:poss	_	Entity=(abstract-26(abstract-24)
+36	rigor	rigor	NOUN	NN	Number=Sing	34	obj	_	Entity=abstract-26)|SpaceAfter=No
+37	"	''	PUNCT	''	_	26	punct	_	SpaceAfter=No
+38	;	;	PUNCT	:	_	44	punct	_	_
+39	however	however	ADV	RB	_	44	advmod	_	Discourse=evaluation:19->21|SpaceAfter=No
+40	,	,	PUNCT	,	_	39	punct	_	_
+41	the	the	DET	DT	Definite=Def|PronType=Art	43	det	_	Entity=(abstract-27
+42	rejection	rejection	NOUN	NN	Number=Sing	43	compound	_	Entity=(event-28)
+43	report	report	NOUN	NN	Number=Sing	44	nsubj	_	Entity=abstract-27)
+44	ends	end	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+45	on	on	ADP	IN	_	48	case	_	_
+46	an	a	DET	DT	Definite=Ind|PronType=Art	48	det	_	Entity=(abstract-29
+47	encouraging	encouraging	ADJ	JJ	Degree=Pos	48	amod	_	_
+48	note	note	NOUN	NN	Number=Sing	44	obl	_	Entity=abstract-29)|SpaceAfter=No
+49	:	:	PUNCT	:	_	54	punct	_	_
+50	"	''	PUNCT	``	_	54	punct	_	Discourse=evidence:20->21|SpaceAfter=No
+51	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	54	nsubj	_	Entity=(person-25)
+52	would	would	AUX	MD	VerbForm=Fin	54	aux	_	_
+53	then	then	ADV	RB	PronType=Dem	54	advmod	_	_
+54	suggest	suggest	VERB	VB	VerbForm=Inf	44	parataxis	_	_
+55	that	that	SCONJ	IN	_	59	mark	_	Discourse=concession:21->15
+56	the	the	DET	DT	Definite=Def|PronType=Art	57	det	_	Entity=(person-4
+57	author	author	NOUN	NN	Number=Sing	59	nsubj	_	Entity=person-4)
+58	should	should	AUX	MD	VerbForm=Fin	59	aux	_	_
+59	publish	publish	VERB	VB	VerbForm=Inf	54	ccomp	_	_
+60	the	the	DET	DT	Definite=Def|PronType=Art	61	det	_	Entity=(abstract-30
+61	whole	whole	NOUN	NN	Number=Sing	59	obj	_	_
+62	of	of	ADP	IN	_	64	case	_	_
+63	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	64	nmod:poss	_	Entity=(abstract-31(person-4)
+64	work	work	NOUN	NN	Number=Sing	61	nmod	_	Entity=abstract-30)abstract-31)
+65	in	in	SCONJ	IN	_	68	mark	_	Discourse=purpose:22->21
+66	order	order	NOUN	NN	Number=Sing	65	fixed	_	_
+67	to	to	PART	TO	_	68	mark	_	_
+68	form	form	VERB	VB	VerbForm=Inf	59	advcl	_	_
+69	a	a	DET	DT	Definite=Ind|PronType=Art	71	det	_	Entity=(abstract-32
+70	definitive	definitive	ADJ	JJ	Degree=Pos	71	amod	_	_
+71	opinion	opinion	NOUN	NN	Number=Sing	68	obj	_	Entity=abstract-32)|SpaceAfter=No
+72	.	.	PUNCT	.	_	54	punct	_	SpaceAfter=No
+73	"	''	PUNCT	''	_	54	punct	_	_
+74	[	[	PUNCT	-LSB-	_	75	punct	_	Discourse=evidence:23->21|SpaceAfter=No
+75	16	16	NUM	CD	NumType=Card	7	dep	_	Entity=(abstract-33)|SpaceAfter=No
+76	]	]	PUNCT	-RSB-	_	75	punct	_	_
+
+# sent_id = GUM_bio_galois-7
+# text = While Poisson's report was made before Galois' July 14 arrest, it took until October to reach Galois in prison.
+# s_type = decl
+1	While	while	SCONJ	IN	_	6	mark	_	Discourse=concession:24->25
+2	Poisson	Poisson	PROPN	NNP	Number=Sing	4	nmod:poss	_	Entity=(abstract-27(person-2|SpaceAfter=No
+3	's	's	PART	POS	_	2	case	_	Entity=person-2)
+4	report	report	NOUN	NN	Number=Sing	6	nsubj:pass	_	Entity=abstract-27)
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part	15	advcl	_	_
+7	before	before	ADP	IN	_	12	case	_	_
+8	Galois	Galois	PROPN	NNP	Number=Sing	12	nmod:poss	_	Entity=(event-34(person-4|SpaceAfter=No
+9	'	's	PART	POS	_	8	case	_	Entity=person-4)
+10	July	July	PROPN	NNP	Number=Sing	11	compound	_	Entity=(time-35(time-23)
+11	14	14	NUM	CD	NumType=Card	12	compound	_	Entity=time-35)
+12	arrest	arrest	NOUN	NN	Number=Sing	6	obl	_	Entity=event-34)|SpaceAfter=No
+13	,	,	PUNCT	,	_	6	punct	_	_
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Discourse=sequence:25->4|Entity=(abstract-27)
+15	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+16	until	until	ADP	IN	_	17	case	_	_
+17	October	October	PROPN	NNP	Number=Sing	15	obl	_	Entity=(time-36)
+18	to	to	PART	TO	_	19	mark	_	_
+19	reach	reach	VERB	VB	VerbForm=Inf	15	xcomp	_	_
+20	Galois	Galois	PROPN	NNP	Number=Sing	19	obj	_	Entity=(person-4)
+21	in	in	ADP	IN	_	22	case	_	_
+22	prison	prison	NOUN	NN	Number=Sing	19	obl	_	Entity=(place-37)|SpaceAfter=No
+23	.	.	PUNCT	.	_	15	punct	_	_
+
+# sent_id = GUM_bio_galois-8
+# text = It is unsurprising, in the light of his character and situation at the time, that Galois reacted violently to the rejection letter, and decided to abandon publishing his papers through the Academy and instead publish them privately through his friend Auguste Chevalier.
+# s_type = decl
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	Discourse=sequence:26->4|Entity=(event-38)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	unsurprising	unsurprising	ADJ	JJ	Degree=Pos|Polarity=Neg	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	in	in	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	light	light	NOUN	NN	Number=Sing	3	obl	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=(abstract-39(person-4)
+10	character	character	NOUN	NN	Number=Sing	7	nmod	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	situation	situation	NOUN	NN	Number=Sing	10	conj	_	_
+13	at	at	ADP	IN	_	15	case	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	Entity=(time-36
+15	time	time	NOUN	NN	Number=Sing	12	nmod	_	Entity=abstract-39)time-36)|SpaceAfter=No
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	that	that	SCONJ	IN	_	19	mark	_	_
+18	Galois	Galois	PROPN	NNP	Number=Sing	19	nsubj	_	Entity=(event-38(person-4)
+19	reacted	react	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	csubj	_	_
+20	violently	violently	ADV	RB	_	19	advmod	_	_
+21	to	to	ADP	IN	_	24	case	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	Entity=(abstract-27
+23	rejection	rejection	NOUN	NN	Number=Sing	24	compound	_	Entity=(event-28)
+24	letter	letter	NOUN	NN	Number=Sing	19	obl	_	Entity=abstract-27)|SpaceAfter=No
+25	,	,	PUNCT	,	_	27	punct	_	_
+26	and	and	CCONJ	CC	_	27	cc	_	Discourse=result:27->26
+27	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	conj	_	_
+28	to	to	PART	TO	_	29	mark	_	_
+29	abandon	abandon	VERB	VB	VerbForm=Inf	27	xcomp	_	_
+30	publishing	publish	VERB	VBG	VerbForm=Ger	29	xcomp	_	_
+31	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	_	Entity=(abstract-40(person-4)
+32	papers	paper	NOUN	NNS	Number=Plur	30	obj	_	Entity=abstract-40)
+33	through	through	ADP	IN	_	35	case	_	_
+34	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	Entity=(organization-41
+35	Academy	Academy	PROPN	NNP	Number=Sing	30	obl	_	Entity=organization-41)
+36	and	and	CCONJ	CC	_	38	cc	_	_
+37	instead	instead	ADV	RB	_	38	advmod	_	_
+38	publish	publish	VERB	VB	VerbForm=Inf	29	conj	_	_
+39	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	38	obj	_	Entity=(abstract-40)
+40	privately	privately	ADV	RB	_	38	advmod	_	_
+41	through	through	ADP	IN	_	43	case	_	_
+42	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	43	nmod:poss	_	Entity=(person-42(person-4)
+43	friend	friend	NOUN	NN	Number=Sing	38	obl	_	Entity=person-42)
+44	Auguste	Auguste	PROPN	NNP	Number=Sing	43	appos	_	Entity=(person-42
+45	Chevalier	Chevalier	PROPN	NNP	Number=Sing	44	flat	_	Entity=event-38)person-42)|SpaceAfter=No
+46	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_galois-9
+# text = Apparently, however, Galois did not ignore Poisson's advice, as he began collecting all his mathematical manuscripts while still in prison, and continued polishing his ideas until his release on 29 April 1832, [12] after which he was somehow talked into a duel. [8]
+# s_type = decl
+1	Apparently	apparently	ADV	RB	_	8	advmod	_	Discourse=contrast:28->26|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	however	however	ADV	RB	_	8	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	Galois	Galois	PROPN	NNP	Number=Sing	8	nsubj	_	Entity=(person-4)
+6	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	_
+7	not	not	PART	RB	Polarity=Neg	8	advmod	_	_
+8	ignore	ignore	VERB	VB	VerbForm=Inf	0	root	_	_
+9	Poisson	Poisson	PROPN	NNP	Number=Sing	11	nmod:poss	_	Entity=(abstract-43(person-2|SpaceAfter=No
+10	's	's	PART	POS	_	9	case	_	Entity=person-2)
+11	advice	advice	NOUN	NN	Number=Sing	8	obj	_	Entity=abstract-43)|SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	as	as	SCONJ	IN	_	15	mark	_	Discourse=evidence:29->28
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Entity=(person-4)
+15	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	advcl	_	_
+16	collecting	collect	VERB	VBG	VerbForm=Ger	15	xcomp	_	_
+17	all	all	PRON	PDT	_	20	det:predet	_	Entity=(object-44
+18	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	Entity=(person-4)
+19	mathematical	mathematical	ADJ	JJ	Degree=Pos	20	amod	_	_
+20	manuscripts	manuscript	NOUN	NNS	Number=Plur	16	obj	_	Entity=object-44)
+21	while	while	ADV	IN	_	24	advmod	_	Discourse=circumstance:30->29
+22	still	still	ADV	RB	_	24	advmod	_	_
+23	in	in	ADP	IN	_	24	case	_	_
+24	prison	prison	NOUN	NN	Number=Sing	15	obl	_	Entity=(place-37)|SpaceAfter=No
+25	,	,	PUNCT	,	_	27	punct	_	_
+26	and	and	CCONJ	CC	_	27	cc	_	Discourse=joint:31->29
+27	continued	continue	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	conj	_	_
+28	polishing	polish	VERB	VBG	VerbForm=Ger	27	xcomp	_	_
+29	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	Entity=(abstract-45(person-4)
+30	ideas	idea	NOUN	NNS	Number=Plur	28	obj	_	Entity=abstract-45)
+31	until	until	ADP	IN	_	33	case	_	_
+32	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	nmod:poss	_	Entity=(event-46(person-4)
+33	release	release	NOUN	NN	Number=Sing	28	obl	_	_
+34	on	on	ADP	IN	_	35	case	_	_
+35	29	29	NUM	CD	NumType=Card	33	nmod	_	Entity=(time-47
+36	April	April	PROPN	NNP	Number=Sing	35	nmod:tmod	_	Entity=(time-48
+37	1832	1832	NUM	CD	NumType=Card	35	nmod:tmod	_	Entity=(time-49)event-46)time-47)time-48)|SpaceAfter=No
+38	,	,	PUNCT	,	_	33	punct	_	_
+39	[	[	PUNCT	-LSB-	_	40	punct	_	Discourse=evidence:32->29|SpaceAfter=No
+40	12	12	NUM	CD	NumType=Card	8	dep	_	Entity=(abstract-50)|SpaceAfter=No
+41	]	]	PUNCT	-RSB-	_	40	punct	_	_
+42	after	after	ADP	IN	_	43	case	_	Discourse=sequence:33->26
+43	which	which	PRON	WDT	PronType=Rel	47	obl	_	_
+44	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj:pass	_	Entity=(person-4)
+45	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	47	aux:pass	_	_
+46	somehow	somehow	ADV	RB	_	47	advmod	_	_
+47	talked	talk	VERB	VBN	Tense=Past|VerbForm=Part	33	acl:relcl	_	_
+48	into	into	ADP	IN	_	50	case	_	_
+49	a	a	DET	DT	Definite=Ind|PronType=Art	50	det	_	Entity=(event-51
+50	duel	duel	NOUN	NN	Number=Sing	47	obl	_	Entity=event-51)|SpaceAfter=No
+51	.	.	PUNCT	.	_	8	punct	_	_
+52	[	[	PUNCT	-LSB-	_	53	punct	_	Discourse=evidence:34->33|SpaceAfter=No
+53	8	8	NUM	CD	NumType=Card	8	dep	_	Entity=(abstract-52)|SpaceAfter=No
+54	]	]	PUNCT	-RSB-	_	53	punct	_	_
+
+# sent_id = GUM_bio_galois-10
+# text = Galois' fatal duel took place on 30 May. [17]
+# s_type = decl
+1	Galois	Galois	PROPN	NNP	Number=Sing	4	nmod:poss	_	Discourse=sequence:35->4|Entity=(event-51(person-4|SpaceAfter=No
+2	'	's	PART	POS	_	1	case	_	Entity=person-4)
+3	fatal	fatal	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	duel	duel	NOUN	NN	Number=Sing	5	nsubj	_	Entity=event-51)
+5	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	place	place	NOUN	NN	Number=Sing	5	obj	_	_
+7	on	on	ADP	IN	_	8	case	_	_
+8	30	30	NUM	CD	NumType=Card	5	obl	_	Entity=(time-53
+9	May	May	PROPN	NNP	Number=Sing	8	nmod:tmod	_	Entity=(time-54)time-53)|SpaceAfter=No
+10	.	.	PUNCT	.	_	5	punct	_	_
+11	[	[	PUNCT	-LSB-	_	12	punct	_	Discourse=evidence:36->35|SpaceAfter=No
+12	17	17	NUM	CD	NumType=Card	5	dep	_	Entity=(abstract-55)|SpaceAfter=No
+13	]	]	PUNCT	-RSB-	_	12	punct	_	_
+
+# sent_id = GUM_bio_galois-11
+# text = The true motives behind the duel are obscure.
+# s_type = decl
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Discourse=concession:37->55|Entity=(abstract-56
+2	true	true	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	motives	motive	NOUN	NNS	Number=Plur	8	nsubj	_	_
+4	behind	behind	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(event-51
+6	duel	duel	NOUN	NN	Number=Sing	3	nmod	_	Entity=abstract-56)event-51)
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	obscure	obscure	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = GUM_bio_galois-12
+# text = There has been much speculation as to the reasons behind it.
+# s_type = decl
+1	There	there	PRON	EX	_	5	expl	_	Discourse=restatement:38->37
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	_
+4	much	much	ADJ	JJ	Degree=Pos	5	amod	_	Entity=(abstract-57
+5	speculation	speculation	NOUN	NN	Number=Sing	0	root	_	_
+6	as	as	ADP	IN	_	9	case	_	_
+7	to	to	PART	TO	_	6	fixed	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	Entity=(abstract-58
+9	reasons	reason	NOUN	NNS	Number=Plur	5	nmod	_	_
+10	behind	behind	ADP	IN	_	11	case	_	_
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Entity=(event-51)abstract-57)abstract-58)|SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = GUM_bio_galois-13
+# text = What is known is that five days before his death, he wrote a letter to Chevalier which clearly alludes to a broken love affair. [7]
+# s_type = decl
+1	What	What	PRON	WP	PronType=Int	3	nsubj:pass	_	Discourse=background:39->55
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	known	know	VERB	VBN	Tense=Past|VerbForm=Part	13	csubj	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+5	that	that	SCONJ	IN	_	13	mark	_	_
+6	five	five	NUM	CD	NumType=Card	7	nummod	_	Entity=(time-59
+7	days	day	NOUN	NNS	Number=Plur	10	nmod:npmod	_	_
+8	before	before	ADP	IN	_	10	case	_	_
+9	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=(event-60(person-4)
+10	death	death	NOUN	NN	Number=Sing	13	obl	_	Entity=time-59)event-60)|SpaceAfter=No
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Entity=(person-4)
+13	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	Entity=(object-61
+15	letter	letter	NOUN	NN	Number=Sing	13	obj	_	_
+16	to	to	ADP	IN	_	17	case	_	_
+17	Chevalier	Chevalier	PROPN	NNP	Number=Sing	13	obl	_	Entity=(person-42)
+18	which	which	PRON	WDT	PronType=Rel	20	nsubj	_	Discourse=elaboration:40->39
+19	clearly	clearly	ADV	RB	_	20	advmod	_	_
+20	alludes	allude	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
+21	to	to	ADP	IN	_	25	case	_	_
+22	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	Entity=(abstract-62
+23	broken	break	VERB	VBN	Tense=Past|VerbForm=Part	25	amod	_	_
+24	love	love	NOUN	NN	Number=Sing	25	compound	_	_
+25	affair	affair	NOUN	NN	Number=Sing	20	obl	_	Entity=object-61)abstract-62)|SpaceAfter=No
+26	.	.	PUNCT	.	_	13	punct	_	_
+27	[	[	PUNCT	-LSB-	_	28	punct	_	Discourse=evidence:41->39|SpaceAfter=No
+28	7	7	NUM	CD	NumType=Card	13	dep	_	Entity=(abstract-63)|SpaceAfter=No
+29	]	]	PUNCT	-RSB-	_	28	punct	_	_
+
+# sent_id = GUM_bio_galois-14
+# text = Some archival investigation on the original letters suggests that the woman of romantic interest was a Mademoiselle Stéphanie-Félicie Poterin du Motel, [18] the daughter of the physician at the hostel where Galois stayed during the last months of his life.
+# s_type = decl
+1	Some	some	DET	DT	_	3	det	_	Discourse=attribution:42->43|Entity=(abstract-64
+2	archival	archival	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	investigation	investigation	NOUN	NN	Number=Sing	8	nsubj	_	_
+4	on	on	ADP	IN	_	7	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	Entity=(object-65
+6	original	original	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	letters	letter	NOUN	NNS	Number=Plur	3	nmod	_	Entity=abstract-64)object-65)
+8	suggests	suggest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	that	that	SCONJ	IN	_	17	mark	_	Discourse=elaboration:43->39
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(person-66
+11	woman	woman	NOUN	NN	Number=Sing	17	nsubj	_	_
+12	of	of	ADP	IN	_	14	case	_	_
+13	romantic	romantic	ADJ	JJ	Degree=Pos	14	amod	_	Entity=(abstract-67
+14	interest	interest	NOUN	NN	Number=Sing	11	nmod	_	Entity=person-66)abstract-67)
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	Entity=(person-66
+17	Mademoiselle	Mademoiselle	X	FW	_	8	ccomp	_	_
+18	Stéphanie-Félicie	Stéphanie-Félicie	PROPN	NNP	Number=Sing	17	flat	_	_
+19	Poterin	Poterin	PROPN	NNP	Number=Sing	17	flat	_	_
+20	du	du	PROPN	NNP	Number=Sing	17	flat	_	_
+21	Motel	Motel	PROPN	NNP	Number=Sing	17	flat	_	Entity=person-66)|SpaceAfter=No
+22	,	,	PUNCT	,	_	17	punct	_	_
+23	[	[	PUNCT	-LSB-	_	24	punct	_	Discourse=evidence:44->43|SpaceAfter=No
+24	18	18	NUM	CD	NumType=Card	8	dep	_	Entity=(abstract-68)|SpaceAfter=No
+25	]	]	PUNCT	-RSB-	_	24	punct	_	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	Discourse=same-unit:45->43|Entity=(person-66
+27	daughter	daughter	NOUN	NN	Number=Sing	17	appos	_	_
+28	of	of	ADP	IN	_	30	case	_	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	Entity=(person-69
+30	physician	physician	NOUN	NN	Number=Sing	27	nmod	_	_
+31	at	at	ADP	IN	_	33	case	_	_
+32	the	the	DET	DT	Definite=Def|PronType=Art	33	det	_	Entity=(place-70
+33	hostel	hostel	NOUN	NN	Number=Sing	30	nmod	_	_
+34	where	where	SCONJ	WRB	PronType=Rel	36	mark	_	Discourse=elaboration:46->45
+35	Galois	Galois	PROPN	NNP	Number=Sing	36	nsubj	_	Entity=(person-4)
+36	stayed	stay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	33	acl:relcl	_	_
+37	during	during	ADP	IN	_	40	case	_	_
+38	the	the	DET	DT	Definite=Def|PronType=Art	40	det	_	Entity=(time-71
+39	last	last	ADJ	JJ	Degree=Pos	40	amod	_	_
+40	months	month	NOUN	NNS	Number=Plur	36	obl	_	_
+41	of	of	ADP	IN	_	43	case	_	_
+42	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	43	nmod:poss	_	Entity=(abstract-72(person-4)
+43	life	life	NOUN	NN	Number=Sing	40	nmod	_	Entity=person-66)person-69)place-70)time-71)abstract-72)|SpaceAfter=No
+44	.	.	PUNCT	.	_	8	punct	_	_
+
+# sent_id = GUM_bio_galois-15
+# text = Fragments of letters from her, copied by Galois himself (with many portions, such as her name, either obliterated or deliberately omitted), are available. [19]
+# s_type = decl
+1	Fragments	fragment	NOUN	NNS	Number=Plur	29	nsubj	_	Discourse=evidence:47->43|Entity=(object-73
+2	of	of	ADP	IN	_	3	case	_	_
+3	letters	letter	NOUN	NNS	Number=Plur	1	nmod	_	Entity=(object-65
+4	from	from	ADP	IN	_	5	case	_	_
+5	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Entity=(person-66)|SpaceAfter=No
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	copied	copy	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	_	Discourse=elaboration:48->47
+8	by	by	ADP	IN	_	9	case	_	_
+9	Galois	Galois	PROPN	NNP	Number=Sing	7	obl	_	Entity=(person-4
+10	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	appos	_	Entity=person-4)
+11	(	(	PUNCT	-LRB-	_	14	punct	_	Discourse=manner:49->48|SpaceAfter=No
+12	with	with	ADP	IN	_	14	case	_	_
+13	many	many	ADJ	JJ	Degree=Pos	14	amod	_	Entity=(abstract-74
+14	portions	portion	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	19	punct	_	_
+16	such	such	ADJ	JJ	Degree=Pos	19	case	_	_
+17	as	as	ADP	IN	_	16	fixed	_	_
+18	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	Entity=(abstract-75(person-66)
+19	name	name	NOUN	NN	Number=Sing	14	nmod	_	Entity=abstract-75)|SpaceAfter=No
+20	,	,	PUNCT	,	_	22	punct	_	_
+21	either	either	CCONJ	CC	_	22	cc:preconj	_	_
+22	obliterated	obliterate	VERB	VBN	Tense=Past|VerbForm=Part	14	conj	_	_
+23	or	or	CCONJ	CC	_	25	cc	_	Discourse=contrast:50->49
+24	deliberately	deliberately	ADV	RB	_	25	advmod	_	_
+25	omitted	omit	VERB	VBN	Tense=Past|VerbForm=Part	22	conj	_	Entity=abstract-74)|SpaceAfter=No
+26	)	)	PUNCT	-RRB-	_	14	punct	_	Entity=object-73)object-65)|SpaceAfter=No
+27	,	,	PUNCT	,	_	1	punct	_	_
+28	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	29	cop	_	Discourse=same-unit:51->47
+29	available	available	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+30	.	.	PUNCT	.	_	29	punct	_	_
+31	[	[	PUNCT	-LSB-	_	32	punct	_	Discourse=evidence:52->47|SpaceAfter=No
+32	19	19	NUM	CD	NumType=Card	29	dep	_	Entity=(abstract-76)|SpaceAfter=No
+33	]	]	PUNCT	-RSB-	_	32	punct	_	_
+
+# sent_id = GUM_bio_galois-16
+# text = The letters hint that Mlle. du Motel had confided some of her troubles to Galois, and this might have prompted him to provoke the duel himself on her behalf.
+# s_type = multiple
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Discourse=attribution:53->54|Entity=(object-65
+2	letters	letter	NOUN	NNS	Number=Plur	3	nsubj	_	Entity=object-65)
+3	hint	hint	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	9	mark	_	Discourse=cause:54->55
+5	Mlle.	Mlle.	X	FW	_	9	nsubj	_	Entity=(abstract-77(event-78(person-66
+6	du	du	PROPN	NNP	Number=Sing	5	flat	_	_
+7	Motel	Motel	PROPN	NNP	Number=Sing	5	flat	_	Entity=person-66)
+8	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	_	_
+9	confided	confide	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
+10	some	some	PRON	DT	_	9	obj	_	Entity=(abstract-79
+11	of	of	ADP	IN	_	13	case	_	_
+12	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	Entity=(person-66)
+13	troubles	trouble	NOUN	NNS	Number=Plur	10	nmod	_	Entity=abstract-79)
+14	to	to	ADP	IN	_	15	case	_	_
+15	Galois	Galois	PROPN	NNP	Number=Sing	9	obl	_	Entity=(person-4)event-78)|SpaceAfter=No
+16	,	,	PUNCT	,	_	21	punct	_	_
+17	and	and	CCONJ	CC	_	21	cc	_	Discourse=elaboration:55->35
+18	this	this	PRON	DT	Number=Sing|PronType=Dem	21	nsubj	_	Entity=(event-78)
+19	might	might	AUX	MD	VerbForm=Fin	21	aux	_	_
+20	have	have	AUX	VB	VerbForm=Inf	21	aux	_	_
+21	prompted	prompt	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	_
+22	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Entity=(person-4)
+23	to	to	PART	TO	_	24	mark	_	_
+24	provoke	provoke	VERB	VB	VerbForm=Inf	21	xcomp	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	Entity=(event-51
+26	duel	duel	NOUN	NN	Number=Sing	24	obj	_	Entity=event-51)
+27	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	24	obl:npmod	_	Entity=(person-4)
+28	on	on	ADP	IN	_	30	case	_	_
+29	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	Entity=(person-66)
+30	behalf	behalf	NOUN	NN	Number=Sing	24	obl	_	Entity=abstract-77)|SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = GUM_bio_galois-17
+# text = This conjecture is also supported by other letters Galois later wrote to his friends the night before he died.
+# s_type = decl
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Discourse=preparation:56->63|Entity=(abstract-77
+2	conjecture	conjecture	NOUN	NN	Number=Sing	5	nsubj:pass	_	Entity=abstract-77)
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+4	also	also	ADV	RB	_	5	advmod	_	_
+5	supported	support	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	by	by	ADP	IN	_	8	case	_	_
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	Entity=(object-80
+8	letters	letter	NOUN	NNS	Number=Plur	5	obl	_	Entity=object-80)
+9	Galois	Galois	PROPN	NNP	Number=Sing	11	nsubj	_	Discourse=elaboration:57->56|Entity=(person-4)
+10	later	late	ADV	RBR	Degree=Cmp	11	advmod	_	_
+11	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+12	to	to	ADP	IN	_	14	case	_	_
+13	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	Entity=(person-81(person-4)
+14	friends	friend	NOUN	NNS	Number=Plur	11	obl	_	Entity=person-81)
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	Entity=(time-82
+16	night	night	NOUN	NN	Number=Sing	11	obl:tmod	_	_
+17	before	before	SCONJ	IN	_	19	mark	_	Discourse=circumstance:58->57
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Entity=(person-4)
+19	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl	_	Entity=time-82)|SpaceAfter=No
+20	.	.	PUNCT	.	_	5	punct	_	_

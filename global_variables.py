@@ -1,4 +1,3 @@
-NLP_MODEL_PATH = '/mnt/hd0/POStaggingFuzzing/nlp-models/'
 UPOS_TAG_LIST = ('ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'PART', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'VERB', 'X')
 UNWANTED_ERRORS = [
   (

@@ -1,0 +1,2545 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+10119,20745,30261,374,396,164,8385
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+original sentence,Ariel Sharon 's aggressive near annexation of almost half of the occupied West Bank and his indefinite postponement of any Palestinian state have created unprecedented rage and violence .
+wrong word,near 5
+mutation sentence,Ariel Sharon 's aggressive near annexation and his indefinite postponement of any Palestinian state have created unprecedented rage and violence .
+
+
+
+"pos from 形容 to 副词
+"
+original sentence,That will ensure that I wo nt take up too much of your time !!
+wrong word,much 11
+mutation sentence,That will ensure that I wo nt take up too much !!
+
+original sentence,I was unable to say much about it in my Risk Electricity Hedging and Trading report because of deadline pressures .
+wrong word,much 6
+mutation sentence,I was unable to say much in my Risk Electricity Hedging and Trading report because of deadline pressures .
+
+original sentence,Like most of us I was a little skeptical and little worried about the legal aspects of it all .
+wrong word,most 2
+mutation sentence,Like most I was a little skeptical and little worried about the legal aspects of it all .
+
+original sentence,"Parmesan has spent much of her career studying the checkerspot butterfly , which migrates between Mexico and southern California ."
+wrong word,much 4
+mutation sentence,"Parmesan has spent much studying the checkerspot butterfly , which migrates between Mexico and southern California ."
+
+original sentence,"Much of the violence aimed at American forces is coming from disgruntled Sunni factions that have their own militias , believe the last elections were a sham , and hold little political power in the government ."
+wrong word,Much 1
+mutation sentence,"Much is coming from disgruntled Sunni factions that have their own militias , believe the last elections were a sham , and hold little political power in the government ."
+
+original sentence,How much should I be looking at for horse transportation ?
+wrong word,much 2
+mutation sentence,much should I be looking at for horse transportation ?
+
+original sentence,"Dr. Aster is very kind an gentle with the children , but also positive and to the point with the parents ."
+wrong word,kind 5
+mutation sentence,"Dr. Aster is kind an gentle with the children , but also positive and to the point with the parents ."
+
+original sentence,I can not say enough about this place .
+wrong word,enough 5
+mutation sentence,I can not say enough .
+
+original sentence,I learned more about this doing my own research afterward .
+wrong word,more 3
+mutation sentence,I learned more doing my own research afterward .
+
+original sentence,Very likely it needs a new window seal ) .
+wrong word,likely 2
+mutation sentence,likely it needs a new window seal ) .
+
+original sentence,How much could it possibly cost ?
+wrong word,much 2
+mutation sentence,much could it possibly cost ?
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+original sentence,"Sorry about that , I was working on the Teco O&M costs ."
+wrong word,Sorry 1
+mutation sentence,"Sorry , I was working on the Teco O&M costs ."
+
+
+
+"pos from 形容 to 名词
+"
+original sentence,"Some 2,000 junior officers of the old Baath army have been recalled to duty in recent months , something Chalabi would have blocked if he could have ."
+wrong word,junior 3
+mutation sentence,"Some 2,000 junior officers have been recalled to duty in recent months , something Chalabi would have blocked if he could have ."
+
+original sentence,"It is now abundantly clear that with the rapidly changing face of Afghanistan , the demise of key Northern Alliance figures and the fluid political situation in Afghanistan , Pakistan should reconsider its policy of giving unlimited sanctuary to Taliban extremists living on Pakistani soil ."
+wrong word,fluid 24
+mutation sentence,"It is now abundantly clear that with the rapidly changing face of Afghanistan , the demise of key Northern Alliance figures and the fluid situation in Afghanistan , Pakistan should reconsider its policy of giving unlimited sanctuary to Taliban extremists living on Pakistani soil ."
+
+original sentence,"It 's just no longer bureaucratically impolite to openly contest the FBI 's ( former ) theory about a lone , American scientist ."
+wrong word,lone 20
+mutation sentence,"It 's just no longer bureaucratically impolite to openly contest the FBI 's ( former ) theory about a lone , scientist ."
+
+original sentence,"I also deleted "" subject to recall "" based on our discussion , assuming you get approval for that revision ."
+wrong word,subject 5
+mutation sentence,"I also deleted "" subject "" based on our discussion , assuming you get approval for that revision ."
+
+original sentence,"Attached are an original and blacklined copy of your form of guaranty , which reflect our comments ."
+wrong word,original 4
+mutation sentence,"Attached are an original and copy of your form of guaranty , which reflect our comments ."
+
+original sentence,"Other "" guidelines "" exist in limited form for the remote offices in Singapore and Australia ."
+wrong word,remote 11
+mutation sentence,"Other "" guidelines "" exist in form for the remote offices in Singapore and Australia ."
+
+original sentence,He faxed it to you and will have the original Fedexed overnight .
+wrong word,original 10
+mutation sentence,He faxed it to you and will have the original Fedexed .
+
+original sentence,The price of crude oil on the international market hit a record $ 70.85 a barrel due to the vulnerability of oil and gas fields in the Gulf of Mexico .
+wrong word,record 12
+mutation sentence,The price of crude oil on the international market hit a record $ 70.85 a barrel .
+mutation sentence,The price of crude oil on the international market hit a record $ 70.85 a barrel due to the vulnerability .
+
+original sentence,The successful launch from the Jiuquan Satellite Launch Center in northwest China follows the solo flight of Yang Liwei in October 2003 .
+wrong word,solo 15
+mutation sentence,The successful launch from the Jiuquan Satellite Launch Center in northwest China follows the solo flight in October 2003 .
+
+original sentence,But they determined to get rid forever of Garcia .
+wrong word,rid 6
+mutation sentence,But they determined to get rid of Garcia .
+
+original sentence,"My suggestion is to pay close attention to what 's going on in the background and if possible , stand on a chair , get on the ground , do whatever you need to do to get rid of distracting elements ."
+wrong word,rid 38
+mutation sentence,"My suggestion is to pay close attention to what 's going on in the background and if possible , stand on a chair , get on the ground , do whatever you need to do to get rid of elements ."
+
+original sentence,"I chalked it up to possible nerve damage , because this is what the vet thought and the other cheek muscle was fine and he had no theeth problems ."
+wrong word,nerve 7
+mutation sentence,"I chalked it up to nerve damage , because this is what the vet thought and the other cheek muscle was fine and he had no theeth problems ."
+
+original sentence,But I found the location wonderful and the neighbors very kind .
+wrong word,kind 11
+mutation sentence,But I found the location wonderful and the neighbors kind .
+
+original sentence,"You will also have the experience of learning the bella Sicilian culture , that I have fallen in luv with ."
+wrong word,bella 10
+mutation sentence,"You will also have the experience of learning the bella culture , that I have fallen in luv with ."
+
+original sentence,Overall they are n't very knowledge about the type of games are on the market .
+wrong word,knowledge 6
+mutation sentence,Overall they are n't knowledge about the type of games are on the market .
+
+original sentence,"Everything was bland , completely void of any spice or flavor ."
+wrong word,void 6
+mutation sentence,"Everything was bland , void of any spice or flavor ."
+
+original sentence,"It was my birthday and I had a last minute idea to have a bakery cake instead of one pre-made in a convenience store , but the problem was it was the day before Valentine s and when many bakeries turned me down for a plain vanilla rectangle cake , Fiona stepped up to the plate and was able to make a fantastic beautiful cake ."
+wrong word,vanilla 47
+mutation sentence,"It was my birthday and I had a last minute idea to have a bakery cake instead of one pre-made in a convenience store , but the problem was it was the day before Valentine s and when many bakeries turned me down for a vanilla rectangle cake , Fiona stepped up to the plate and was able to make a fantastic beautiful cake ."
+
+original sentence,He was going to operate and replace my bicuspid aortic valve due to critical aortic stenosis .
+wrong word,bicuspid 9
+mutation sentence,He was going to operate and replace my bicuspid valve due to critical aortic stenosis .
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,And that explains the delay in the signing of a formal defense agreement that was at the heart of Sri Lankan President Chandrika Kumaratunga 's four - day visit to India recently .
+wrong word,Sri 20
+mutation sentence,And that explains the delay in the signing of a formal defense agreement that was at the heart of Sri President Chandrika Kumaratunga 's four - day visit to India recently .
+
+original sentence,"Realists , and this even includes members of the U.S. Democratic foreign policy establishment such as Strobe Talbott , who have long sought to divest India of its defensive capability against another nuclear power in Asia , understand the only feasible solution for Kashmir is the acceptance of the status quo ."
+wrong word,Democratic 11
+mutation sentence,"Realists , and this even includes members of the U.S. Democratic policy establishment such as Strobe Talbott , who have long sought to divest India of its defensive capability against another nuclear power in Asia , understand the only feasible solution for Kashmir is the acceptance of the status quo ."
+
+original sentence,Whether he was actually AWOL during this stint is unclear .
+wrong word,AWOL 5
+mutation sentence,Whether he was actually AWOL is unclear .
+
+original sentence,"It is crucial to stop Saudi and other financial support of the outer circle , which is the fertile breeding ground of terror ."
+wrong word,Saudi 6
+mutation sentence,"It is crucial to stop Saudi and other support of the outer circle , which is the fertile breeding ground of terror ."
+
+original sentence,US Steel Hot Rolled Plate Phy
+wrong word,Hot 3
+mutation sentence,US Steel Hot Rolled Plate
+
+original sentence,"Although the origins of a movement that was confined largely to the literate culture of intellectual endeavor and patronage can be traced to the earlier part of the 14th century , many aspects of Italian culture and society remained largely Medieval ; the Renaissance did not come into full swing until the end of the century ."
+wrong word,Medieval 41
+mutation sentence,"Although the origins of a movement that was confined largely to the literate culture of intellectual endeavor and patronage can be traced to the earlier part of the 14th century , many aspects of Italian culture and society remained Medieval ; the Renaissance did not come into full swing until the end of the century ."
+
+original sentence,"Anyway , I was practically raised on this stuff , and being a connoisseur of West Indian cuisine , Jamaica Way is a bit toned down to suit the American palette ."
+wrong word,West 16
+mutation sentence,"Anyway , I was practically raised on this stuff , and being a connoisseur of West cuisine , Jamaica Way is a bit toned down to suit the American palette ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+original sentence,"On the other hand , the US should strong - arm India and Pakistan into a final settlement of the Kashmir issue ."
+wrong word,strong 9
+mutation sentence,"On the hand , the US should strong - arm India and Pakistan into a final settlement of the Kashmir issue ."
+mutation sentence,"On the other hand , the US should strong - arm India and Pakistan into a final settlement ."
+
+original sentence,The debate that a handful of Texas multi-millionnaires close to the Bush family have cleverly manufactured over John Kerry 's war record is absurd in every way .
+wrong word,close 9
+mutation sentence,The debate that a handful of Texas multi-millionnaires close have cleverly manufactured over John Kerry 's war record is absurd in every way .
+
+original sentence,The two are also set to clash over Russia 's oil wealth .
+wrong word,set 5
+mutation sentence,The two are set to clash over Russia 's oil wealth .
+
+original sentence,Many families are set to plan a best holidaying .
+wrong word,set 4
+mutation sentence,Many families are set to plan a holidaying .
+
+
+
+"pos from 形容 to 其他
+"
+original sentence,We did not have big percent of Chinese migration until the mid 90s .
+wrong word,mid 12
+mutation sentence,We did not have percent of Chinese migration until the mid 90s .
+
+
+
+"pos from 介词 to 形容
+"
+original sentence,"If sites next to you do n't have what you want , contact your nearest comp.sources.unix archive , or the moderator ."
+wrong word,next 3
+mutation sentence,"If sites next to you do have what you want , contact your nearest comp.sources.unix archive , or the moderator ."
+
+original sentence,"The Beatles of the times of the "" Cavern "" sounded exactly as poorly as Oasis and the little musical quality in the songs of the Beatles is due to George Martin ."
+wrong word,due 29
+mutation sentence,"The Beatles of the times of the "" Cavern "" sounded exactly as poorly and the little musical quality in the songs of the Beatles is due to George Martin ."
+mutation sentence,The Beatles of the times sounded exactly as poorly as Oasis and the little musical quality in the songs of the Beatles is due to George Martin .
+mutation sentence,"The Beatles of the times of the "" Cavern "" sounded exactly as poorly as Oasis and the musical quality in the songs of the Beatles is due to George Martin ."
+mutation sentence,"The Beatles of the times of the "" Cavern "" sounded exactly as poorly as Oasis and the little musical quality in the songs is due to George Martin ."
+
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,"His military intelligence has captured major figures like Abu Zubayda and Khalid Shaykh Muhammad , as well as nearly 500 other al - Qaeda operatives , over 400 of whom the Pakistanis have turned over to the US ."
+wrong word,over 35
+mutation sentence,"His military intelligence has captured major figures like Abu Zubayda and Khalid Shaykh Muhammad , as well as nearly 500 other al - Qaeda operatives , over 400 the Pakistanis have turned over to the US ."
+
+original sentence,Attached is a rough draft of my talking points for a panel I 'll be on at a CEM conference in SF on Thursday afternoon .
+wrong word,on 16
+mutation sentence,Attached is a rough draft of my talking points for a panel I 'll be on on Thursday afternoon .
+
+original sentence,"Recently , I read an email that reported the horrific nightmare Civet Cats go through by sick losers who put them in sheds and heat the inside of the sheds up to 110 degrees with fires , so that they can periodically scrape the sweat off of their genitals and sell it to corrupt corporations who use it to prolong the scent of perfumes ."
+wrong word,through 15
+mutation sentence,"Recently , I read an email that reported the horrific nightmare Civet Cats go through ."
+mutation sentence,"Recently , I read an email that reported the horrific nightmare Civet Cats go through by losers who put them in sheds and heat the inside of the sheds up to 110 degrees with fires , so that they can periodically scrape the sweat off of their genitals and sell it to corrupt corporations who use it to prolong the scent of perfumes ."
+
+original sentence,"If Iran decides to throw any or all of its 23,000 armored fighting vehicles , along with any or all of its nearly million - strong army , into the Iraq fray , the situation in the Middle East could become unspeakably dire ."
+wrong word,along 16
+mutation sentence,"If Iran decides to throw any or all of its 23,000 armored fighting vehicles , along with any or all , into the Iraq fray , the situation in the Middle East could become unspeakably dire ."
+
+original sentence,"Besides from Pacquiao , what else is The Philipines famous for ?"
+wrong word,Besides 1
+mutation sentence,"Besides from Pacquiao , ?"
+
+original sentence,- it chemically sets - gets warm to hot then cools down and hard and
+wrong word,down 12
+mutation sentence,- it chemically sets - gets warm to hot cools down and hard and
+
+original sentence,"With going outside , put the leash on and just take him for a walk ."
+wrong word,on 8
+mutation sentence,"With going outside , put the leash on and take him for a walk ."
+
+original sentence,Everybody I know at university intends to stay at uni for as long as possible until there are actually jobs available .
+wrong word,for 11
+mutation sentence,Everybody I know at university intends to stay at uni for long as possible until there are actually jobs available .
+
+original sentence,"I have ate here 3 times since they first opened , and the service has been poor each time , the staff always comes across as somewhat rude and slow ."
+wrong word,as 26
+mutation sentence,"I have ate here 3 times since they first opened , and the service has been poor each time , the staff always comes across as rude and slow ."
+
+original sentence,"I have been eating Cuban for a long time , sandwiches mainly along with other dishes .."
+wrong word,along 13
+mutation sentence,"I have been eating Cuban for a long time , sandwiches mainly along with dishes .."
+
+original sentence,After seventeen days the delivery van showed up at my home minus two pieces .
+wrong word,minus 12
+mutation sentence,After seventeen days the delivery van showed up minus two pieces .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+original sentence,"The price was actually lower than what I had anticipated and used to compared to other places , plus he showed me the work he did when I came in to pick up the car ."
+wrong word,to 13
+mutation sentence,"The price was actually lower than what I had anticipated and used to compared to places , plus he showed me the work he did when I came in to pick up the car ."
+
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,"You may support or oppose the Iraq war , but to refer to fans of Saddam , Arafat or Bin Laden as peace activists is a bit too much ."
+wrong word,as 22
+mutation sentence,"You may support or oppose the Iraq war , but to refer to fans as peace activists is a bit too much ."
+
+original sentence,I ca n't give out a password yet but would be happy to walk through the site with you over the phone using my password .
+wrong word,with 18
+mutation sentence,I ca n't give out a password yet but would be happy to walk through the site with you using my password .
+
+original sentence,some parents would not eat there fish till a certain age jack dempsey for example would not eat there offspring till they mature but i would move the baby fish into a smaller tank and feed them flakes
+wrong word,till 8
+mutation sentence,some parents would not eat there fish till a certain age jack dempsey would not eat there offspring till they mature but i would move the baby fish into a smaller tank and feed them flakes
+
+original sentence,"iw ould just stick him in the tank and let your snake have a nice hunt for once , snakes jaws detach for this sort of this thing , so why not give her a good hunt , but if you do want him knock him i d just throw him against the wall or something ,, lol i do nt know , i agree with you though throw him , haha"
+wrong word,with 66
+mutation sentence,"iw ould just stick him in the tank and let your snake have a nice hunt for once , snakes jaws detach for this sort of this thing , so why not give her a good hunt , but if you do want him knock him i d just throw him against the wall or something ,, lol i do nt know , i agree with you throw him , haha"
+
+original sentence,"Anyway , after much yelling and cussing I hung up , grabbed a cab , and went to Geno 's ."
+wrong word,after 3
+mutation sentence,"Anyway , after yelling and cussing I hung up , grabbed a cab , and went to Geno 's ."
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,"He is no longer in the dominant Shiite list , the United Iraqi Alliance , and wo n't have many seats in the new parliament ."
+wrong word,longer 4
+mutation sentence,"He is longer in the dominant Shiite list , the United Iraqi Alliance , and wo n't have many seats in the new parliament ."
+
+original sentence,"Realists , and this even includes members of the U.S. Democratic foreign policy establishment such as Strobe Talbott , who have long sought to divest India of its defensive capability against another nuclear power in Asia , understand the only feasible solution for Kashmir is the acceptance of the status quo ."
+wrong word,only 40
+mutation sentence,"Realists , and this even includes members of the U.S. Democratic foreign policy establishment such as Strobe Talbott , who have long sought to divest India of its defensive capability against another nuclear power in Asia , understand the only solution for Kashmir is the acceptance of the status quo ."
+
+original sentence,"Under President Hu Jintao , Beijing has opened out to New Delhi and Prime Minister Wen Jiabao is expected to visit early next year , making friends by formally accepting Sikkim as part of India and backing India as a permanent member of the U.N. Security Council -- thus leaving Washington as the only one of the "" permanent five "" that has not yet done so ."
+wrong word,early 22
+mutation sentence,"Under President Hu Jintao , Beijing has opened out to New Delhi and Prime Minister Wen Jiabao is expected to visit early year , making friends by formally accepting Sikkim as part of India and backing India as a permanent member of the U.N. Security Council -- thus leaving Washington as the only one of the "" permanent five "" that has not yet done so ."
+
+original sentence,"In 2001 , according to Indian army officials , security forces launched a wide - ranging operation in the 300 - some inhabited islands neighboring Andaman and Nicobar , and found huge caches of arms ."
+wrong word,wide 14
+mutation sentence,"In 2001 , according to Indian army officials , security forces launched a wide - ranging operation , and found huge caches of arms ."
+
+original sentence,"On South Andaman , the most heavily populated island , is Port Blair , which is the capital and the only large town in the entire archipelago ."
+wrong word,only 21
+mutation sentence,"On South Andaman , the most heavily populated island , is Port Blair , which is the capital and the only town in the entire archipelago ."
+
+original sentence,"First , the nature of such an investigation is that we lack sufficient information to second - guess ( or even know ) what the FBI is doing ."
+wrong word,second 16
+mutation sentence,"First , the nature of such an investigation is that we lack information to second - guess ( or even know ) what the FBI is doing ."
+
+original sentence,"They will be distributed on a business basis first , then personal use ."
+wrong word,first 9
+mutation sentence,"They will be distributed on a business basis first , personal use ."
+
+original sentence,Sounds like we may actually get these documents executed early next week .
+wrong word,early 10
+mutation sentence,Sounds like we may actually get these documents executed early week .
+
+original sentence,The US Red Cross has mobilised thousands of volunteers for its biggest - ever natural disaster effort and federal emergency teams are being dispatched to affected areas .
+wrong word,ever 14
+mutation sentence,The US Red Cross has mobilised thousands of volunteers for its biggest - ever disaster effort and federal emergency teams are being dispatched to affected areas .
+
+original sentence,"This year it overtook Japan as the world 's second largest consumer of energy , behind the US ."
+wrong word,second 10
+mutation sentence,"This year it overtook Japan as the world 's second largest consumer , behind the US ."
+
+original sentence,Please note that the Declaration addresses only civil marriage ; it says nothing about religious beliefs or practices regarding marriage .
+wrong word,only 7
+mutation sentence,Please note that the Declaration addresses only marriage ; it says nothing about religious beliefs or practices regarding marriage .
+
+original sentence,Birds arrived sooner on their migrations from the south and plants flowered earlier .
+wrong word,sooner 3
+mutation sentence,Birds arrived sooner and plants flowered earlier .
+
+original sentence,so better inquire in railway office
+wrong word,better 2
+mutation sentence,better inquire in railway office
+
+original sentence,"Be persistent , but do n't pester them about it cause that 'll get you nowhere fast ."
+wrong word,fast 17
+mutation sentence,"Be persistent , but do n't pester them about it cause that 'll get you fast ."
+
+original sentence,"you need to do that for a least a week , or else this type of territorial fighting will happen ."
+wrong word,else 13
+mutation sentence,"you need to do that , or else this type of territorial fighting will happen ."
+mutation sentence,"you need to do that for a least a week , or else this type will happen ."
+
+original sentence,Do you feel that the holidaying with the animated cartoons will impress only young ones ?
+wrong word,only 13
+mutation sentence,Do you feel that the holidaying with the animated cartoons will impress only ones ?
+
+original sentence,The food is cooked fast by the two chefs on duty .
+wrong word,fast 5
+mutation sentence,The food is cooked fast .
+
+original sentence,So long Ham s ... you will be missed .
+wrong word,long 2
+mutation sentence,long Ham s ... you will be missed .
+
+original sentence,"IF you want flashy fancy food stacked high with lots of fussy garnishes , this is not the place for you ."
+wrong word,high 8
+mutation sentence,"IF you want flashy fancy food stacked high , this is not the place for you ."
+
+original sentence,"Comfortable and clean beds , a bit noisy when people were coming in late from a night out , but we did n't mind too much as we were also just coming in from a night out !"
+wrong word,much 26
+mutation sentence,"Comfortable and clean beds , a bit noisy when people were coming in late from a night out , but we did n't mind much as we were also just coming in from a night out !"
+
+original sentence,It is right on the hustle and bustle of Wisconsin Ave but some might miss it as it is nestled in between Subway Sandwiches and Modell 's .
+wrong word,right 3
+mutation sentence,It is right on the hustle and bustle but some might miss it as it is nestled in between Subway Sandwiches and Modell 's .
+
+original sentence,"I was extremely interested in the car and very likely would have bought it , but the sales guy I dealt with ruined the deal ."
+wrong word,likely 10
+mutation sentence,"I was extremely interested and very likely would have bought it , but the sales guy I dealt with ruined the deal ."
+
+original sentence,"My dogs are far from perfect , and one of them I believe would be a little much for daycare here herself ( at least initially ) ."
+wrong word,far 4
+mutation sentence,"My dogs are far , and one of them I believe would be a little much for daycare here herself ( at least initially ) ."
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,"Now , it is only natural that news reports questioning Bush ’s service — in The Boston Globe and The New York Times , on CBS and in other outlets — would come out now ."
+wrong word,out 34
+mutation sentence,"Now , it is only natural that news reports questioning Bush ’s service — in The Boston Globe and The New York Times , on CBS and in other outlets — would come out ."
+
+original sentence,"One minister reportedly handed out 100 dollar ' gifts ' to journalists attending a press conference for Allawi , a practice that brings back bad memories to many Iraqis ."
+wrong word,back 24
+mutation sentence,"One minister reportedly handed out 100 dollar ' gifts ' to journalists attending a press conference for Allawi , a practice that brings back memories to many Iraqis ."
+
+original sentence,The true absurdity of the entire situation is easily appreciated when we consider that George W. Bush never showed any bravery at all at any point in his life .
+wrong word,at 22
+mutation sentence,The true absurdity of the entire situation is easily appreciated when we consider that George W. Bush never showed any bravery at all .
+
+original sentence,Funny how some things are squirelled away by well - meaning prosecutors ...
+wrong word,away 7
+mutation sentence,Funny how some things are squirelled away by - meaning prosecutors ...
+
+original sentence,I 'll be in around 1000
+wrong word,in 4
+mutation sentence,I 'll be in 1000
+
+original sentence,I am going up soon and having the tractor fixed .
+wrong word,up 4
+mutation sentence,I am going up and having the tractor fixed .
+
+original sentence,"I am still certain that the School is the best place for getting a great graduate - level education , so I want you to know that I am going to do whatever it takes to get in next year ."
+wrong word,in 38
+mutation sentence,"I am still certain that the School is the best place for getting a great graduate - level education , so I want you to know that I am going to do whatever it takes to get in year ."
+
+original sentence,I would like to come down to Austin this spring to meet with you to further discuss my application file and to personally meet you .
+wrong word,down 6
+mutation sentence,I would like to come down this spring to meet with you to further discuss my application file and to personally meet you .
+
+original sentence,"I am still sure that UT is the place for getting an excellent graduate - level education , so I want you to know that I am going to do whatever it takes to get in next year ."
+wrong word,in 36
+mutation sentence,"I am still sure that UT is the place for getting an excellent graduate - level education , so I want you to know that I am going to do whatever it takes to get in year ."
+
+original sentence,""" They 're just pushing them aside , "" he said ."
+wrong word,aside 7
+mutation sentence,""" They 're pushing them aside , "" he said ."
+
+original sentence,"( Participants pledged to raise at least $ 100,000 by bundling together cheques of up to $ 1,000 from friends and family ."
+wrong word,together 12
+mutation sentence,"( Participants pledged to raise at least $ 100,000 by bundling together cheques from friends and family ."
+
+original sentence,I am taking my wife out for our first year wedding anniversary and we both agree that we want a good steak .
+wrong word,out 6
+mutation sentence,I am taking my wife out for our year wedding anniversary and we both agree that we want a good steak .
+
+original sentence,"When i put him off of my bed , he jumps back on and same thing ."
+wrong word,on 13
+mutation sentence,"When i put him off of my bed , he jumps on and same thing ."
+mutation sentence,"When i put him off of my bed , he jumps back on and thing ."
+
+original sentence,Usually you have the main show and some type of entertainment before and perhaps afterward .
+wrong word,before 12
+mutation sentence,Usually you have the main show and some type before and perhaps afterward .
+
+original sentence,then put him back in .
+wrong word,in 5
+mutation sentence,then put him in .
+
+original sentence,Because I do n't feel like spending over $ 20 on a freakin DVD
+wrong word,over 8
+mutation sentence,Because I do n't feel like spending over $ 20
+
+original sentence,When I first get on I take 1 leg and pull it back up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena .
+wrong word,up 14
+mutation sentence,When I first get on I take 1 leg and pull it up to touch my butt with my heel and hold it there for 1 lap at a walk around a large dressage arena .
+
+original sentence,Ironically sometimes it is wise to leave the newly picked eggs in fresh tap water with some chlorination to kill microscopic critters that ride in with the eggs .
+wrong word,in 25
+mutation sentence,Ironically sometimes it is wise to leave the newly picked eggs in fresh tap water with some chlorination to kill microscopic critters that ride in .
+
+original sentence,"So , I waited a week to call because I was busy and I wanted to have him come out on a day when I am more available in case we were to hang out after ;)"
+wrong word,out 20
+mutation sentence,"So , I waited a week to call because I was busy and I wanted to have him come out when I am more available in case we were to hang out after ;)"
+
+original sentence,This is about the fourth time they 've done my horse 's feet because I just switched back to them .
+wrong word,about 3
+mutation sentence,This is about the time they 've done my horse 's feet because I just switched back to them .
+
+original sentence,He 's not putting it back on .
+wrong word,on 7
+mutation sentence,He 's not putting it on .
+
+original sentence,I would recommend it hands down and am a loyal customer .
+wrong word,down 6
+mutation sentence,I would recommend it down and am a loyal customer .
+
+original sentence,I 've also sent over a number of friends to use the services here and everyone is extraordinarily pleased !
+wrong word,over 5
+mutation sentence,I 've also sent over a number to use the services here and everyone is extraordinarily pleased !
+
+original sentence,"I walked out with 5 inch long hair on the top , 2 inch long hair on the sides , and 1.5 in the back ."
+wrong word,out 3
+mutation sentence,I walked out .
+
+original sentence,Be sure to ring the little bell on your way out if you enjoyed your meal !
+wrong word,out 11
+mutation sentence,Be sure to ring the little bell out if you enjoyed your meal !
+
+original sentence,Stop by at least once or you 'll go to heck !
+wrong word,by 2
+mutation sentence,Stop by once or you 'll go to heck !
+
+original sentence,I popped in after my afternoon pumpkin spice latte break at Starbucks .
+wrong word,in 3
+mutation sentence,I popped in .
+
+original sentence,I went in later that afternoon and met with Michael .
+wrong word,in 3
+mutation sentence,I went in that afternoon and met with Michael .
+
+original sentence,I was just in last night and had a chance to dine in their new dining room .
+wrong word,in 4
+mutation sentence,I was just in night and had a chance to dine in their new dining room .
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+original sentence,"They do n't just dump your ingredients on and cook either , but carefully separate meat to the hotter parts of the grill and still manage to keep the veggies from turning to mush ."
+wrong word,either 11
+mutation sentence,"They do n't just dump your ingredients on and cook either , but separate meat to the hotter parts of the grill and still manage to keep the veggies from turning to mush ."
+mutation sentence,"They do n't just dump your ingredients on and cook either , but carefully separate meat to the parts of the grill and still manage to keep the veggies from turning to mush ."
+
+
+
+"pos from 副词 to 定冠
+"
+original sentence,The true absurdity of the entire situation is easily appreciated when we consider that George W. Bush never showed any bravery at all at any point in his life .
+wrong word,all 23
+mutation sentence,The true absurdity of the entire situation is easily appreciated when we consider that George W. Bush never showed any bravery at all .
+
+original sentence,"There are 50 of them , 48 located from Maine to Florida and California to Washington State and all in between ."
+wrong word,all 19
+mutation sentence,"There are 50 of them , 48 located from Maine to Florida and California and all in between ."
+
+original sentence,sort a wonder what it would have been like ?
+wrong word,a 2
+mutation sentence,a wonder what it would have been like ?
+
+
+
+"pos from 副词 to 感叹
+"
+original sentence,"GOODWYN : Far from Texas and Washington , DC , Mr. Bush enjoyed his freedom ."
+wrong word,Far 3
+mutation sentence,"GOODWYN : Far , Mr. Bush enjoyed his freedom ."
+
+
+
+"pos from 副词 to 名词
+"
+original sentence,0 - Number of coffins of dead soldiers returning home that the Bush administration has permitted to be photographed .
+wrong word,home 10
+mutation sentence,0 - Number of coffins of soldiers returning home that the Bush administration has permitted to be photographed .
+
+original sentence,I do n't particularly want to stay with them atm either .
+wrong word,atm 10
+mutation sentence,I do n't particularly want to stay with them atm .
+
+original sentence,"I love Cuban coffee , colada ... mmmm anyways I found this place and ca n't stop going there , I stop in at least once a week and anytime I 'm in the area for a Cuban coffee or snack ."
+wrong word,anytime 30
+mutation sentence,"I love Cuban coffee , colada ... mmmm anyways I found this place and ca n't stop going there , I stop in at least once a week and anytime I 'm in the area ."
+
+original sentence,"Broad , I say , is 14th street and I am 3 blocks west of broad and one south of walnut ."
+wrong word,south 19
+mutation sentence,"Broad , I say , is 14th street and I am 3 blocks west and one south of walnut ."
+mutation sentence,"Broad , I say , is 14th street and I am 3 blocks west of broad and one south ."
+
+original sentence,"If they think you 've taken a soda from your room home with you , they will charge you $ 1.50 per can ."
+wrong word,home 12
+mutation sentence,"If they think you 've taken a soda home with you , they will charge you $ 1.50 per can ."
+
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+original sentence,"I found the hotel to be amazingly clean , not to mention very well adorned with many pleasant surprises ."
+wrong word,not 10
+mutation sentence,"I found the hotel to be clean , not to mention very well adorned with many pleasant surprises ."
+mutation sentence,"I found the hotel to be amazingly clean , not to mention well adorned with many pleasant surprises ."
+
+
+
+"pos from 副词 to 代词
+"
+original sentence,So was Darren there last night to meet her or do you just think they 'd make a good match ?
+wrong word,there 4
+mutation sentence,So was Darren there night to meet her or do you just think they 'd make a good match ?
+
+original sentence,"If I wait , would the tours I find there for less money be the same quality type tours ?"
+wrong word,there 10
+mutation sentence,"If I wait , would the tours I find there be the same quality type tours ?"
+
+original sentence,but sice we almost just slept there i ca nt give that good of a review
+wrong word,that 12
+mutation sentence,but sice we almost just slept there i ca give that good of a review
+mutation sentence,but sice we just slept there i ca nt give that good of a review
+mutation sentence,but sice we almost just slept i ca nt give that good of a review
+mutation sentence,but sice we almost just slept there i ca nt give that good
+
+original sentence,"We have never had mexican food this bad , it was just simply gross ."
+wrong word,this 7
+mutation sentence,"We have never had food this bad , it was just simply gross ."
+
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+original sentence,As recently as last week the official line stated they had no knowledge he had entered the country .
+wrong word,As 1
+mutation sentence,As recently the official line stated they had no knowledge he had entered the country .
+
+original sentence,Do n't Let This Pass You By Without At Least Taking A Look .
+wrong word,At 9
+mutation sentence,Do n't Let This Pass You By Without At Taking A Look .
+
+original sentence,That has NEVER happened before so I was kinda realizing at that point that he was a little interested .
+wrong word,before 5
+mutation sentence,That has NEVER happened before I was kinda realizing at that point that he was a little interested .
+
+original sentence,"Not once did I feel listened to like they actually cared about what I wanted , all they were interested in was me signing a contract right then and there ."
+wrong word,once 2
+mutation sentence,"once did I feel listened to like they actually cared about what I wanted , all they were interested in was me signing a contract right then and there ."
+
+original sentence,"Although I 'll have to drive a little out of my way to go there , I 'll gladly do it knowing that since she 's been astounding to me once before that she 'll always be that way !"
+wrong word,once 31
+mutation sentence,"Although I 'll have to drive a little out of my way to go there , I 'll gladly do it knowing that since she 's been astounding to me once she 'll always be that way !"
+
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+original sentence,IN MY OPINION SHOULD OF JUST TOOK OFF THE PRICE OF THE WINGS FROM THE BILL .
+wrong word,OF 5
+mutation sentence,SHOULD OF JUST TOOK OFF THE PRICE OF THE WINGS FROM THE BILL .
+
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+original sentence,yea i guess but rabbits a easily escape a pen or another rabbit could get in there and that rabbit could be the opposite gender .
+wrong word,a 6
+mutation sentence,yea i guess but rabbits a escape a pen or another rabbit could get in there and that rabbit could be the opposite gender .
+
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+original sentence,"But Posada 's nearly 80 years old , and the Venezuelan people will ensure that 's a vain hope ."
+wrong word,'s 3
+mutation sentence,"But Posada 's 80 years old , and the Venezuelan people will ensure that 's a vain hope ."
+
+original sentence,1 ) what the s difference between a modern m16 and Vietnam m 16 ?
+wrong word,s 5
+mutation sentence,1 ) what the s difference ?
+
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+original sentence,"Posada can be given up , but Meiring ca n't ."
+wrong word,ca 9
+mutation sentence,"Posada can be given up , but Meiring ca ."
+
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+original sentence,"Earlier , Kerry said , “ Just because you get an honorable discharge does not , in fact , answer that question . ”"
+wrong word,does 14
+mutation sentence,"Earlier , Kerry said , “ Just because you get an honorable discharge does , in fact , answer that question . ”"
+
+original sentence,"From Wednesday 's Mirror the headline , "" Have 200,000 AK47s Fallen Into the Hands of Iraq Terrorists ? """
+wrong word,Have 9
+mutation sentence,"the headline , "" Have 200,000 AK47s Fallen Into the Hands of Iraq Terrorists ? """
+
+original sentence,"One has to wonder whether the bright fellows in our government and military who set up the deals with these people do n't know what they are , do n't care , or know perfectly well ."
+wrong word,are 27
+mutation sentence,"One has to wonder whether the bright fellows in our government and military who set up the deals with these people do n't know what they are , do care , or know perfectly well ."
+wrong word,do 29
+mutation sentence,"One has to wonder whether the bright fellows in our government and military who set up the deals with these people do n't know what they are , do care , or know perfectly well ."
+
+original sentence,"Attached for your review are copies of the settlement documents that were filed today in the Gas Industry Restructuring / Natural Gas Strategy proceeding , including the Motion for Approval of the Comprehensive Settlement that is supported by thirty signatories to the Comprehensive Settlement , the Comprehensive Settlement document itself , and the various appendices to the settlement .?"
+wrong word,are 5
+mutation sentence,"Attached for your review are copies , including the Motion for Approval of the Comprehensive Settlement that is supported by thirty signatories to the Comprehensive Settlement , the Comprehensive Settlement document itself , and the various appendices to the settlement .?"
+
+original sentence,"You have all devoted considerable time , resources and spirit in the preparation of this document - and it shows .?"
+wrong word,have 2
+mutation sentence,"You have all devoted time , resources and spirit in the preparation of this document - and it shows .?"
+
+original sentence,I did n't either until I clicked on the down button and they popped up .
+wrong word,did 2
+mutation sentence,I did either until I clicked on the down button and they popped up .
+
+original sentence,I agree with what the concern is below .
+wrong word,is 7
+mutation sentence,I agree with what the concern is .
+
+original sentence,"They even occasionally attack people , which wolves do not -- despite the propaganda from the Brothers Grimm ."
+wrong word,do 9
+mutation sentence,"They even occasionally attack people , which wolves do -- despite the propaganda from the Brothers Grimm ."
+
+original sentence,My answer is that we do n't to text speak here ... we type in English .
+wrong word,do 6
+mutation sentence,My answer is that we do to text speak here ... we type in English .
+
+original sentence,"Start your process here , if you have n't already ."
+wrong word,have 8
+mutation sentence,"Start your process here , if you have already ."
+
+original sentence,"If I wait , would the tours I find there for less money be the same quality type tours ?"
+wrong word,be 14
+mutation sentence,"If I wait , would the tours I find there be the same quality type tours ?"
+
+original sentence,They can smell it so i 'm sure he knows what it is and just do n't want it .
+wrong word,is 13
+mutation sentence,They can smell it so i 'm sure he knows what it is and do n't want it .
+
+original sentence,she will start to calm down and feel safe - you can bet she does n't now .
+wrong word,does 15
+mutation sentence,she will start to calm down and feel safe - you can bet she does now .
+
+original sentence,My advise to all is I have fallen into this trap ... pl ensure you do nt !!!
+wrong word,do 16
+mutation sentence,My advise to all is I have fallen into this trap ... pl ensure you do !!!
+
+original sentence,There are so many wonderful great places to dine in houston .... do n't . waste your time here .
+wrong word,do 13
+mutation sentence,There are so many wonderful great places to dine in houston .... do . waste your time here .
+
+original sentence,"Do n't waste time , just drive 10 minutes more down to Stevens Creek , they actually do try to help their customers there !"
+wrong word,Do 1
+mutation sentence,"Do waste time , just drive 10 minutes more down to Stevens Creek , they actually do try to help their customers there !"
+
+original sentence,Going back after graduating you r told you get a discount on services nope you do nt .
+wrong word,do 16
+mutation sentence,Going back after graduating you r told you get a discount on services nope you do .
+
+original sentence,"Very disappointed in Kitchen Aid as well , I thought that they pre-screened their vendors for price and quality of work , obviously they do not !"
+wrong word,do 25
+mutation sentence,"Very disappointed in Kitchen Aid as well , I thought that they pre-screened their vendors for price and quality of work , obviously they do !"
+
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+original sentence,"Bill Clinton understood this at the end of his term in office yet , under Colin Powell ( who appears to have an affinity for generals active in politics ) , the pendulum of U.S. policy has once again swung toward a quixotic effort to prize at least the Valley of Kashmir loose from India ."
+wrong word,yet 13
+mutation sentence,"Bill Clinton understood this yet , under Colin Powell ( who appears to have an affinity for generals active in politics ) , the pendulum of U.S. policy has once again swung toward a quixotic effort to prize at least the Valley of Kashmir loose from India ."
+mutation sentence,"Bill Clinton understood this at the end yet , under Colin Powell ( who appears to have an affinity for generals active in politics ) , the pendulum of U.S. policy has once again swung toward a quixotic effort to prize at least the Valley of Kashmir loose from India ."
+mutation sentence,"Bill Clinton understood this at the end of his term in office yet , , the pendulum of U.S. policy has once again swung toward a quixotic effort to prize at least the Valley of Kashmir loose from India ."
+
+original sentence,There was a change of ownership a couple of years ago and service is both quick and extremely friendly .
+wrong word,both 15
+mutation sentence,There was a change a couple of years ago and service is both quick and extremely friendly .
+mutation sentence,There was a change of ownership a couple ago and service is both quick and extremely friendly .
+
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+original sentence,Friendliness of staff The Liberty and Mariner of the Seas both get high grades .
+wrong word,both 11
+mutation sentence,Friendliness of staff The Liberty and Mariner both get high grades .
+
+original sentence,Pools The Mariner of the Seas and Liberty both had salt water pools - which most cruise ships have .
+wrong word,both 9
+mutation sentence,Pools The Mariner both had salt water pools - which most cruise ships have .
+
+original sentence,it wase nt going an had a gear box problem ....
+wrong word,an 5
+mutation sentence,it wase going an had a gear box problem ....
+
+original sentence,"Dr. Aster is very kind an gentle with the children , but also positive and to the point with the parents ."
+wrong word,an 6
+mutation sentence,"Dr. Aster is kind an gentle with the children , but also positive and to the point with the parents ."
+
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,I resisted asking any questions that would have required either of them to think .
+wrong word,either 10
+mutation sentence,I resisted asking any questions that would have required either to think .
+
+original sentence,"it s great to know you can get great service , great product , and for the best price all in one !"
+wrong word,all 20
+mutation sentence,"it s great to know you can get great service , great product , and for the price all in one !"
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+original sentence,Are either of you familiar with this project ?
+wrong word,either 2
+mutation sentence,Are either familiar with this project ?
+
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+original sentence,sorry but i ca n't help my stupidity =(
+wrong word,sorry 1
+mutation sentence,sorry but i ca help my stupidity =(
+
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"As the American public gradually wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+wrong word,public 4
+mutation sentence,"As the American public wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+
+original sentence,"In fact , he left the house he rented in such disrepair -- with damage to the walls and a chandelier destroyed -- that the Montgomery family who owned it still grumble about the unpaid repair bill ."
+wrong word,disrepair 12
+mutation sentence,"In fact , he left the house he rented in disrepair -- with damage to the walls and a chandelier destroyed -- that the Montgomery family who owned it still grumble about the unpaid repair bill ."
+
+original sentence,the debtors / creditors partial circularisation initiated for close of business 23rd
+wrong word,close 9
+mutation sentence,the debtors / creditors partial circularisation initiated for close 23rd
+
+original sentence,A resubstantiation of the full Q1 DPR will be completed by the Risk control staff reconciling the full trial balances between Q1 open and Q1 close
+wrong word,open 23
+mutation sentence,A resubstantiation of the full Q1 DPR will be completed by the Risk control staff reconciling the full trial balances between open and Q1 close
+wrong word,close 26
+mutation sentence,A resubstantiation of the full Q1 DPR will be completed by the Risk control staff reconciling the full trial balances between Q1 open and close
+
+original sentence,"Article 6 of the Gallup Compression Services Agreement ( which I am sending to you separately ) with ECS obligates ECS to "" work in good faith with CDEC "" to establish an automated system that would automatically have alerted us to peak loading conditions on CDEC 's system ."
+wrong word,peak 43
+mutation sentence,"Article 6 of the Gallup Compression Services Agreement ( which I am sending to you separately ) with ECS obligates ECS to "" work in good faith with CDEC "" to establish an automated system that would automatically have alerted us to peak loading conditions ."
+
+original sentence,"( if ..... ) ( iii ) definitive agreements acceptable to Party A in its sole discretion regarding the debt and all other aspects of [ the project to be owned by Party B ] , including but not limited to the senior debt facility , commitments and all project documents , have been fully negotiated and executed and the [ project ] has been brought to financial close ."
+wrong word,close 69
+mutation sentence,"( if ..... ) ( iii ) definitive agreements acceptable to Party A in its sole discretion regarding the debt and all other aspects of [ the project to be owned by Party B ] , including but not limited to the senior debt facility , commitments and all project documents , have been fully negotiated and executed and the [ project ] has been brought to close ."
+
+original sentence,We will conduct first round interviews in the morning and the second round interviews in the afternoon .
+wrong word,round 5
+mutation sentence,We will conduct round interviews in the morning and the second round interviews in the afternoon .
+wrong word,round 13
+mutation sentence,We will conduct first round interviews in the morning and the round interviews in the afternoon .
+
+original sentence,P.S. - I am trying to conceptualize an effective guerilla media campaign to promote this cause .
+wrong word,guerilla 10
+mutation sentence,P.S. - I am trying to conceptualize an guerilla media campaign to promote this cause .
+
+original sentence,"Free of polution , free of oil dependency , and free of big business that is bleeding us dry for the short term good ( theirs ) ."
+wrong word,good 24
+mutation sentence,"Free of polution , free of oil dependency , and free of big business that is bleeding us dry for the term good ( theirs ) ."
+
+original sentence,"By the second half of the year , you will finally feel welcome relief from the tight financial binds that have hindered you over the past two years ."
+wrong word,relief 14
+mutation sentence,"By the second half of the year , you will finally feel relief from the tight financial binds that have hindered you over the past two years ."
+
+original sentence,""" native of Crete "" EL GRECO dies : April 7 , 1614 Monday"
+wrong word,native 2
+mutation sentence,""" native "" EL GRECO dies : April 7 , 1614 Monday"
+
+original sentence,"$ 3.8 bn - Amount in the Superfund trust fund for toxic site clean - ups in 1995 , the Year "" polluter pays "" fees expired ."
+wrong word,clean 14
+mutation sentence,"$ 3.8 bn - Amount in the Superfund trust fund for toxic site clean - ups , the Year "" polluter pays "" fees expired ."
+
+original sentence,$ 0 - Amount of uncommitted dollars in the Superfund trust fund for toxic site clean - ups in 2003 .
+wrong word,clean 16
+mutation sentence,$ 0 - Amount of uncommitted dollars in the Superfund trust fund for toxic site clean - ups .
+
+original sentence,It depends on the conditions of your skilled migrant visa .
+wrong word,migrant 9
+mutation sentence,It depends on the conditions of your migrant visa .
+
+original sentence,It only matters if you received an offer of employment or if you are currently working in New Zealand and used that job in your application to get your skilled migrant visa .
+wrong word,migrant 31
+mutation sentence,It only matters if you received an offer of employment or if you are currently working in New Zealand and used that job in your application to get your migrant visa .
+
+original sentence,There are a lot of good quality dry cat foods .
+wrong word,quality 7
+mutation sentence,There are a lot of quality dry cat foods .
+mutation sentence,There are a lot of good quality cat foods .
+
+original sentence,"This may be around 1 / 2 of their full adult size , probably 4 - 5 "" for those guys ."
+wrong word,adult 11
+mutation sentence,"This may be around 1 / 2 of their adult size , probably 4 - 5 "" for those guys ."
+
+original sentence,The Orange Order and the 12th of July Marches would be argued by some not to be an Irish custom but unarguable ticks every criteria to be considered one .
+wrong word,12th 6
+mutation sentence,The Orange Order and the 12th Marches would be argued by some not to be an Irish custom but unarguable ticks every criteria to be considered one .
+
+original sentence,Freeze dried food is not a good staple food source ; you need to offer live feeder insects .
+wrong word,staple 8
+mutation sentence,Freeze dried food is not a staple food source ; you need to offer live feeder insects .
+
+original sentence,"After a number of people began complaining about "" mystery deaths "" among incubating eggs , some of the more advanced killie people began suggesting that after 7 - 8 days of incubation , one should do a 100 % water change - as the eggs develop , they do release waste material ."
+wrong word,killie 22
+mutation sentence,"After a number of people began complaining about "" mystery deaths "" , some of the more advanced killie people began suggesting that after 7 - 8 days of incubation , one should do a 100 % water change - as the eggs develop , they do release waste material ."
+
+original sentence,"Their items are very unique , great quality , great prices ."
+wrong word,quality 8
+mutation sentence,"Their items are very unique , quality , great prices ."
+
+original sentence,"# 2 the decor is tasteful and artistic , from the comfortable chairs to the elegant light fixtures .... and ( most importantly ) # 3 the food is FANTASTIC ."
+wrong word,light 17
+mutation sentence,"# 2 the decor is tasteful and artistic , from the comfortable chairs to the light fixtures .... and ( most importantly ) # 3 the food is FANTASTIC ."
+
+original sentence,"I began seeing Dr. Romanick back in 2000 and have seen a significant decline in the quality of care , patient - doctor communication , and just the overall level of services ."
+wrong word,patient 21
+mutation sentence,"I began seeing Dr. Romanick back in 2000 and have seen a significant decline in the quality , patient - doctor communication , and just the overall level of services ."
+
+original sentence,"Our company is a high end designer handbag and fashion accessories company , thus we are certainly a niche market ."
+wrong word,niche 19
+mutation sentence,"Our company is a high end designer handbag and fashion accessories company , we are certainly a niche market ."
+mutation sentence,"Our company is a high end designer handbag and fashion accessories company , thus we are a niche market ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+original sentence,Best way to change 35 mm film in Holga 120 whilst out and about ?
+wrong word,way 2
+mutation sentence,way to change 35 mm film in Holga 120 whilst out and about ?
+
+original sentence,"Although temperatures do not often venture below freezing , winter ( December to February ) can be brutal , for huge parts of the country – the west and northwest in particular ."
+wrong word,northwest 30
+mutation sentence,"Although temperatures do not often venture below freezing , winter ( December to February ) can be brutal , for huge parts – the west and northwest in particular ."
+
+original sentence,I was experiencing severe back pain to the point I could barely walk or even bare to sit .
+wrong word,back 5
+mutation sentence,I was experiencing back pain to the point I could barely walk or even bare to sit .
+
+original sentence,To make a order you may have to go to back of line .
+wrong word,back 11
+mutation sentence,To make a order you may have to go to back .
+
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+original sentence,"2 . In Section 3.1 , in the last sentence after the proviso insert "" a "" before the word "" change "" and after the word "" in "" ."
+wrong word,a 16
+mutation sentence,"2 . In Section 3.1 , in the last sentence after the proviso insert "" a "" and after the word "" in "" ."
+
+original sentence,Does Attachment A to the Select EEI Master need to be updated or is the version that you sent to me the current version ?
+wrong word,A 3
+mutation sentence,Does Attachment A need to be updated or is the version that you sent to me the current version ?
+
+original sentence,Half of the 300 phenophases Leopold tracked showed a response consistent with warming .
+wrong word,Half 1
+mutation sentence,Half showed a response consistent with warming .
+
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,"Under President Hu Jintao , Beijing has opened out to New Delhi and Prime Minister Wen Jiabao is expected to visit early next year , making friends by formally accepting Sikkim as part of India and backing India as a permanent member of the U.N. Security Council -- thus leaving Washington as the only one of the "" permanent five "" that has not yet done so ."
+wrong word,one 55
+mutation sentence,"Under President Hu Jintao , Beijing has opened out to New Delhi and Prime Minister Wen Jiabao is expected to visit early next year , making friends by formally accepting Sikkim as part of India and backing India as a permanent member of the U.N. Security Council -- thus leaving Washington as the one of the "" permanent five "" that has not yet done so ."
+
+original sentence,"This entity was created in 2000 for the acquistion of WarpSpeed Communications ( now Enron WarpSpeed Services , Inc. 83N ) , and then dissolved upon completion of merger ."
+wrong word,83N 20
+mutation sentence,"This entity was created in 2000 for the acquistion of WarpSpeed Communications ( now Enron WarpSpeed Services , Inc. 83N ) , and dissolved upon completion of merger ."
+
+original sentence,I will take you next one in August .
+wrong word,one 6
+mutation sentence,I will take you one in August .
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+original sentence,"This may be around 1 / 2 of their full adult size , probably 4 - 5 "" for those guys ."
+wrong word,""" 18"
+mutation sentence,"This may be around 1 / 2 of their full adult size , probably 4 "" for those guys ."
+
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,Thank you both very much for your time and help thus far .
+wrong word,help 10
+mutation sentence,Thank you both very much for your time and help far .
+
+original sentence,"They will be distributed on a business basis first , then personal use ."
+wrong word,use 13
+mutation sentence,"They will be distributed on a business basis first , then use ."
+
+original sentence,"I extend my hand to each of you in true friendship , and honor ."
+wrong word,honor 14
+mutation sentence,"I extend my hand in true friendship , and honor ."
+
+original sentence,"Here Kant 's rule -- "" Animals are merely means to an end ; that end is man "" -- is applied with a vengeance ."
+wrong word,means 10
+mutation sentence,"Here Kant 's rule -- "" Animals are means to an end ; that end is man "" -- is applied with a vengeance ."
+
+original sentence,"On the one hand , the IPN report agreed "" Climate models generally predict that the temperature rises in the Arctic will substantially exceed the global rise ."
+wrong word,rises 18
+mutation sentence,"On the one hand , the IPN report agreed "" Climate models predict that the temperature rises in the Arctic will substantially exceed the global rise ."
+mutation sentence,"On the one hand , the IPN report agreed "" Climate models generally predict that the temperature rises will substantially exceed the global rise ."
+
+original sentence,These sums give these countries enormous leverage over the United States .
+wrong word,leverage 7
+mutation sentence,These sums give these countries leverage over the United States .
+
+original sentence,My answer is that we do n't to text speak here ... we type in English .
+wrong word,text 9
+mutation sentence,My answer is that we do to text speak here ... we type in English .
+mutation sentence,My answer is that we do n't to text speak ... we type in English .
+wrong word,speak 10
+mutation sentence,My answer is that we do to text speak here ... we type in English .
+
+original sentence,Email usually free if you use a WiFi connection .
+wrong word,Email 1
+mutation sentence,Email free if you use a WiFi connection .
+
+original sentence,"But , you could live where ever you fancy takes you ."
+wrong word,fancy 9
+mutation sentence,"But , you could live where you fancy takes you ."
+
+original sentence,I 've also got a bachelor s degree so I can go back and do further study or take a different profession .
+wrong word,study 17
+mutation sentence,I 've also got a bachelor s degree so I can go back and do study or take a different profession .
+
+original sentence,You can select the proper route and travel plans by consulting the agents prior to the booking ........
+wrong word,travel 8
+mutation sentence,You can select the route and travel plans by consulting the agents prior to the booking ........
+
+original sentence,I know they did lab work showing that Strongid C used daily could help prevent EPM .
+wrong word,work 6
+mutation sentence,I know they did work showing that Strongid C used daily could help prevent EPM .
+
+original sentence,Fantastic Place to buy your next vehicle
+wrong word,Place 2
+mutation sentence,Place to buy your next vehicle
+
+original sentence,Good beer good service and what more could you want .
+wrong word,beer 2
+mutation sentence,beer good service and what more could you want .
+
+original sentence,Great help even near closing time !
+wrong word,help 2
+mutation sentence,help even near closing time !
+
+original sentence,I have also had an 80 yr old that I take of sent to the ER and long stays in the hospital .
+wrong word,stays 19
+mutation sentence,I have also had an 80 yr old that I take of sent to the ER and stays in the hospital .
+
+original sentence,Fair give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+wrong word,give 2
+mutation sentence,give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+wrong word,take 4
+mutation sentence,give and take on both sides until we agreed on a deal that was within my parameters and was fair to both sides .
+
+original sentence,On Monday I called and again it was a big to - do to find anyone who knew anything about it .
+wrong word,do 13
+mutation sentence,On Monday I called and again it was a to - do to find anyone who knew anything about it .
+
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+original sentence,which one out of these makes the best pet ?
+wrong word,one 2
+mutation sentence,which one makes the best pet ?
+mutation sentence,which one makes the best pet ?
+
+original sentence,"Mike one of owners was awesome , he explained the detailed plan , and executed on time , I am always going use them and refer them to many friends I can because of the great job they did me ."
+wrong word,one 2
+mutation sentence,"Mike one was awesome , he explained the detailed plan , and executed on time , I am always going use them and refer them to many friends I can because of the great job they did me ."
+
+original sentence,It was a very trying time for my family and myself yet Mike took the time to greet each and every one one of us .
+wrong word,one 23
+mutation sentence,It was a very trying time for my family and myself yet Mike took the time to greet each and every one one .
+
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+original sentence,"One of the most widespread myths of recent times is that the Chernobyl nuclear reactor accident in 1986 caused many thousands of extra cancer deaths in neighbouring regions , and that public health has been severely affected by exposure to radiation ."
+wrong word,One 1
+mutation sentence,"One is that the Chernobyl nuclear reactor accident in 1986 caused many thousands of extra cancer deaths in neighbouring regions , and that public health has been severely affected by exposure to radiation ."
+
+original sentence,"He will make sure that we do not request FX and inflation ( CPI , PPI , etc. ) curves when only one of the curves will actually be used in the valuation process and to determine which inflation index is needed ."
+wrong word,one 23
+mutation sentence,"He will make sure that we do not request FX and inflation ( CPI , PPI , etc. ) curves when only one will actually be used in the valuation process and to determine which inflation index is needed ."
+
+original sentence,"With regard to a global message , I think that one of the key points around fundamental operating standards are that they are intended to be global in nature , applied to every commodity and every location where we engage in trading activities ."
+wrong word,one 11
+mutation sentence,"With regard to a global message , I think that one are that they are intended to be global in nature , applied to every commodity and every location where we engage in trading activities ."
+
+original sentence,Let me know if one of you could help me do this .
+wrong word,one 5
+mutation sentence,Let me know if one could help me do this .
+mutation sentence,Let me know if one could help me do this .
+
+original sentence,"If you got the chance today , I should be really grateful if one of you could give me a call to discuss this issue ; I think we should set out DPC 's position clearly on this in correspondence without too much delay ."
+wrong word,one 14
+mutation sentence,"If you got the chance today , I should be really grateful if one could give me a call to discuss this issue ; I think we should set out DPC 's position clearly on this in correspondence without too much delay ."
+
+original sentence,""" One of the major , most well - documented and robust findings in ecology over the past century has been the crucial role of climate in determining the geographical distribution of species and ecological communities , "" concluded a report titled "" Observed Impacts of Global Climate Change in the United States , "" released by the Pew Center on Global Climate last week ."
+wrong word,One 2
+mutation sentence,""" One has been the crucial role of climate in determining the geographical distribution of species and ecological communities , "" concluded a report titled "" Observed Impacts of Global Climate Change in the United States , "" released by the Pew Center on Global Climate last week ."
+
+original sentence,One of the manifestations of their racism is the rejection towards Japanese Yoko Ono .
+wrong word,One 1
+mutation sentence,One is the rejection towards Japanese Yoko Ono .
+
+original sentence,"My dogs are far from perfect , and one of them I believe would be a little much for daycare here herself ( at least initially ) ."
+wrong word,one 9
+mutation sentence,"My dogs are far from perfect , and one I believe would be a little much for daycare here herself ( at least initially ) ."
+
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+original sentence,1 The rank of the United States worldwide in terms of greenhouse gas emissions .
+wrong word,1 1
+mutation sentence,1 The rank worldwide in terms of greenhouse gas emissions .
+
+original sentence,2 of them are kinda whitish and are about 4 - 5 cm long .
+wrong word,2 1
+mutation sentence,2 are kinda whitish and are about 4 - 5 cm long .
+
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+original sentence,"First , the nature of such an investigation is that we lack sufficient information to second - guess ( or even know ) what the FBI is doing ."
+wrong word,to 15
+mutation sentence,"First , the nature of such an investigation is that we lack information to second - guess ( or even know ) what the FBI is doing ."
+
+original sentence,I finally got it to blackline correctly .
+wrong word,to 5
+mutation sentence,I finally got it to blackline .
+
+original sentence,"the guy came on time and did n't take any breaks , he went straight to work and finished the job efficiently and promptly !"
+wrong word,to 16
+mutation sentence,"the guy came on time and did n't take any breaks , he went to work and finished the job efficiently and promptly !"
+
+
+
+"pos from 功能 to 副词
+"
+original sentence,"The other is a new fuel tank "" guaranteed "" by NASA not to shed potentially fatal hunks of insulation ."
+wrong word,not 13
+mutation sentence,"The other is a new fuel tank "" guaranteed "" not to shed potentially fatal hunks of insulation ."
+
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+original sentence,"Additional cost will be incurred for the remainder of this year , that I have not been able to review yet ."
+wrong word,that 13
+mutation sentence,"cost will be incurred for the remainder of this year , that I have not been able to review yet ."
+
+original sentence,0 - Number of coffins of dead soldiers returning home that the Bush administration has permitted to be photographed .
+wrong word,that 11
+mutation sentence,0 - Number of coffins of dead soldiers returning that the Bush administration has permitted to be photographed .
+
+original sentence,62 - Percentage of gas masks that army investigators discovered did Not work properly in autumn 2002 .
+wrong word,that 7
+mutation sentence,62 - Percentage that army investigators discovered did Not work properly in autumn 2002 .
+
+original sentence,"Same , when I 'm galloping in an open space like that I can just forget everything ."
+wrong word,that 12
+mutation sentence,"Same , when I 'm galloping in an space like that I can just forget everything ."
+
+original sentence,I add that in because there have been some people who have tried to claim citizenship by sending for their birth certificate when they were never really born in Canada or to Canadian parents .
+wrong word,that 3
+mutation sentence,I add that because there have been some people who have tried to claim citizenship by sending for their birth certificate when they were never really born in Canada or to Canadian parents .
+
+original sentence,Apart from that in spite of my repeated attempts I could not get in touch with the manager to even lodge an official complaint .
+wrong word,that 3
+mutation sentence,Apart from that I could not get in touch with the manager to even lodge an official complaint .
+
+original sentence,I found her through a colleague one day when one of my clients was in the midst of a panic attack and needed professional help that I am not qualified to provide .
+wrong word,that 26
+mutation sentence,I found her through a colleague one day when one of my clients was in the midst of a panic attack and needed help that I am not qualified to provide .
+
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,Pakistani officials claim there are as many as 42 RAW agents based in Kandahar and another 12 in Jalalabad .
+wrong word,RAW 10
+mutation sentence,Pakistani officials claim there are as many RAW agents based in Kandahar and another 12 in Jalalabad .
+mutation sentence,Pakistani officials claim there are as many RAW agents based in Kandahar and another 12 in Jalalabad .
+
+original sentence,"Never in history , not even in the Nazi period , was there such total disregard of all of the above as we observe now ."
+wrong word,Nazi 9
+mutation sentence,"in history , not even in the Nazi period , was there such total disregard of all of the above as we observe now ."
+
+original sentence,The Internal Revenue Service of the United States of America will function as our trusted intermediary .
+wrong word,Internal 2
+mutation sentence,The Internal Revenue Service will function as our trusted intermediary .
+
+original sentence,You 'll need to have intermediate French to have a good time in Paris .
+wrong word,French 7
+mutation sentence,You 'll need to have French to have a good time in Paris .
+
+original sentence,"Atop Spring Mountain , from the decks of the West porch , "" one can see forever "" a scene of unparalleled beauty and grandeur ."
+wrong word,West 10
+mutation sentence,", from the decks of the West porch , "" one can see forever "" a scene of unparalleled beauty and grandeur ."
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+original sentence,"However , in April 2001 , the IAEA published Fifteen Years after the Chernobyl Accident - Lessons learned . which contradict the earlier reports ."
+wrong word,Fifteen 10
+mutation sentence,"However , , the IAEA published Fifteen Years after the Chernobyl Accident - Lessons learned . which contradict the earlier reports ."
+mutation sentence,"However , in April 2001 , the IAEA published Fifteen Years ."
+mutation sentence,"However , in April 2001 , the IAEA published Fifteen Years after the Chernobyl Accident - Lessons learned . which contradict the reports ."
+
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+original sentence,"If possible , can you also give an indication of the rank - 1 through 5 ?"
+wrong word,- 13
+mutation sentence,"If possible , can you also give an indication of the rank - 1 ?"
+mutation sentence,"If possible , can you also give an indication of the rank - 1 ?"
+
+original sentence,Time : 11:30 am / 1:30 pm Central / 2:30 pm Eastern
+wrong word,/ 9
+mutation sentence,Time : 11:30 am / 1:30 pm Central / 2:30 pm
+
+original sentence,I would beseech you to transfer a sum equaling ten to twenty - five percent ( 10 - 25 % ) of your yearly income to our account to aid in this important venture .
+wrong word,- 13
+mutation sentence,I would beseech you to transfer a sum equaling ten to twenty - five percent ( 10 % ) of your yearly income to our account to aid in this important venture .
+
+original sentence,"1542 LEONARDO , Giovanni ( a.k.a. Il Puttino / the Boy ) born in Calaria ."
+wrong word,/ 9
+mutation sentence,"1542 LEONARDO , Giovanni ( Il Puttino / the Boy ) born in Calaria ."
+
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+original sentence,""" It is very dangerous for this country to condone the overthrow of democratically elected governments , "" said David Leavy , spokesman for the National Security Council ."
+wrong word,for 6
+mutation sentence,""" It is dangerous for this country to condone the overthrow of democratically elected governments , "" said David Leavy , spokesman for the National Security Council ."
+
+original sentence,"As the American public gradually wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+wrong word,As 1
+mutation sentence,"As the American public wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+
+original sentence,"+ As the implications of the Andaman Islands situation sink in , Indian intelligence has inevitably come under scrutiny ."
+wrong word,As 2
+mutation sentence,"+ As the implications of the Andaman Islands situation sink , Indian intelligence has inevitably come under scrutiny ."
+
+original sentence,"As the implications of the Andaman Islands situation sink in , Indian intelligence has inevitably come under scrutiny ."
+wrong word,As 1
+mutation sentence,"As the implications of the Andaman Islands situation sink , Indian intelligence has inevitably come under scrutiny ."
+
+original sentence,Their removal should also provide increased motivation for Pakistan to help the return of moderate Taliban .
+wrong word,for 8
+mutation sentence,Their removal should also provide motivation for Pakistan to help the return of moderate Taliban .
+mutation sentence,Their removal should also provide increased motivation for Pakistan to help the return .
+
+original sentence,"And the Moldovan airline used to transport the shipment was blasted by the UN in 2003 for smuggling arms to Liberia , human rights group Amnesty has discovered ."
+wrong word,for 17
+mutation sentence,"And the Moldovan airline used to transport the shipment was blasted by the UN in 2003 for smuggling arms , human rights group Amnesty has discovered ."
+
+original sentence,"There are naive old - fashioned habits such as respecting religious sites and symbols , not using ambulances and hospitals for acts of war , avoiding the mutilation of dead bodies and not using children as human shields or human bombs ."
+wrong word,as 9
+mutation sentence,"There are naive old - fashioned habits such as respecting sites and symbols , not using ambulances and hospitals for acts of war , avoiding the mutilation of dead bodies and not using children as human shields or human bombs ."
+
+original sentence,"2 . I did not include a "" Setoff "" provision in this draft , mainly because the vast majority of the time , we will not , nor will an affiliate , have another agreement in place with these customers ."
+wrong word,because 17
+mutation sentence,"2 . I did not include a "" Setoff "" provision in this draft , mainly because the majority of the time , we will not , nor will an affiliate , have another agreement in place with these customers ."
+
+original sentence,"You do have to give NASA credit on some things as they have eliminated the "" fear of reporting failure "" culture that probably led to the lack of reporting defects on the Columbia shuttle ."
+wrong word,of 29
+mutation sentence,"You do have to give NASA credit on some things as they have eliminated the "" fear of reporting failure "" culture that probably led to the lack of reporting defects ."
+
+original sentence,Never before has such a convenient method been available for consuming nutritional products .
+wrong word,for 10
+mutation sentence,Never before has such a convenient method been available for consuming products .
+
+original sentence,PLEASE REMEMBER that this program remains successful because of the honesty and integrity of the participants and by their carefully adhering to directions .
+wrong word,by 18
+mutation sentence,PLEASE REMEMBER that this program remains successful because of the honesty and integrity of the participants and by their adhering to directions .
+
+original sentence,"They explained that elk in Yellowstone used to browse unmolested on young aspen and willow growing near the banks of streams , a behavior that prevented the saplings from reaching mature stages and increased the possibility of soil erosion ."
+wrong word,from 29
+mutation sentence,"They explained that elk in Yellowstone used to browse unmolested on young aspen and willow growing near the banks of streams , a behavior that prevented the saplings from reaching stages and increased the possibility of soil erosion ."
+
+original sentence,I just want an e-reader that does a little bit more than just read .
+wrong word,than 12
+mutation sentence,I just want an e-reader that does a little bit more than read .
+
+original sentence,"Bladder or Urinary tract infections are two common ones , but these usually are frequent visits , with small amounts of urine being passed ."
+wrong word,with 18
+mutation sentence,"Bladder or Urinary tract infections are two common ones , but these usually are frequent visits , with amounts of urine being passed ."
+
+original sentence,"[ 1 ] Over the last twenty years , use of the term has been frequently criticized by academic art historians for over-simplifying artistic developments , ignoring historical context , and focusing only on a few iconic works ."
+wrong word,for 22
+mutation sentence,"[ 1 ] Over the last twenty years , use of the term has been frequently criticized by academic art historians for over-simplifying developments , ignoring historical context , and focusing only on a few iconic works ."
+
+original sentence,Does your budget limit you to how long you can stay in each place ?
+wrong word,to 6
+mutation sentence,Does your budget limit you to long you can stay in each place ?
+
+original sentence,"Before Tet , the war was unpopular but tolerable to the majority of Americans in that the loss of American lives was seen as the cost of subduing the VC and NVA ."
+wrong word,in 15
+mutation sentence,"Before Tet , the war was unpopular but tolerable to the majority in that the loss of American lives was seen as the cost of subduing the VC and NVA ."
+mutation sentence,"Before Tet , the war was unpopular but tolerable to the majority of Americans in that the loss was seen as the cost of subduing the VC and NVA ."
+
+original sentence,"Ireland receives a lot of rain , with certain areas getting a soaking as many as 270 days of the year ."
+wrong word,with 8
+mutation sentence,"Ireland receives a lot of rain , with areas getting a soaking as many as 270 days of the year ."
+
+original sentence,and we do n't know them except for eating there .
+wrong word,for 8
+mutation sentence,and we do n't know them except for eating .
+
+
+
+"pos from 从句连词 to 副词
+"
+original sentence,Do n't Let This Pass You By Without At Least Taking A Look .
+wrong word,Without 8
+mutation sentence,Do n't Let This Pass You By Without Least Taking A Look .
+
+original sentence,"That he managed to get on the wagon ( though with that pretzel incident , you wonder how firmly ) is laudable ."
+wrong word,though 10
+mutation sentence,"That he managed to get on the wagon ( though , you wonder how firmly ) is laudable ."
+
+original sentence,"Though '' decided '' is probably not the right word , since from the day they were born , these girls and boys were not taught to think for themselves but to blindly follow their leaders ."
+wrong word,since 12
+mutation sentence,"Though '' decided '' is probably not the right word , since , these girls and boys were not taught to think for themselves but to blindly follow their leaders ."
+
+original sentence,"In any case , we have had some more time to do some exploring ( and shopping ) , so we have some good ideas about what to do if you come ."
+wrong word,about 26
+mutation sentence,"In any case , we have had some more time to do some exploring ( and shopping ) , so we have some good ideas about to do if you come ."
+
+original sentence,"Satan deceiving mankind once again , as so many other thousands of times through the centuries ...."
+wrong word,as 7
+mutation sentence,"Satan deceiving mankind once again , as many other thousands of times through the centuries ...."
+
+original sentence,"iw ould just stick him in the tank and let your snake have a nice hunt for once , snakes jaws detach for this sort of this thing , so why not give her a good hunt , but if you do want him knock him i d just throw him against the wall or something ,, lol i do nt know , i agree with you though throw him , haha"
+wrong word,why 31
+mutation sentence,"iw ould just stick him in the tank and let your snake have a nice hunt for once , snakes jaws detach for this sort of this thing , so why give her a good hunt , but if you do want him knock him i d just throw him against the wall or something ,, lol i do nt know , i agree with you though throw him , haha"
+
+original sentence,And also maybe try holding the rat in feeding prongs so your snake can get a good hold and grip on his prey .
+wrong word,so 11
+mutation sentence,And also maybe try holding the rat so your snake can get a good hold and grip on his prey .
+
+original sentence,"The thing to do is to bring the right clothing with you , clothes so you can layer up if it is cold and take off layers when it warms up ."
+wrong word,so 15
+mutation sentence,"The thing to do is to bring the right clothing , clothes so you can layer up if it is cold and take off layers when it warms up ."
+
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+original sentence,"Glad to hear that they are all healthy and were a good size , and that Mom is doing well ."
+wrong word,that 16
+mutation sentence,"Glad to hear that they are all healthy and were a good size , and that Mom is doing ."
+
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+original sentence,"And though he 'd been a faithful servant , he was not such a player that he could get away with that ."
+wrong word,that 16
+mutation sentence,"And though he 'd been a faithful servant , he was not such a player that he could get with that ."
+mutation sentence,"And though he 'd been a faithful servant , he was not such a player that he could get away ."
+
+original sentence,"Third ranking CIA officer , Briggs signed a declaration on February 3rd , 1983 , that on November 8th , 1982 , he had authorized a search of CIA records "" for any material that in any way pertains to Edwin P. Wilson , or the various allegations concerning his activities after February 28th , 1971 , when he retired from the CIA . """
+wrong word,that 16
+mutation sentence,"Third ranking CIA officer , Briggs signed a declaration on February 3rd , 1983 , that , he had authorized a search of CIA records "" for any material that in any way pertains to Edwin P. Wilson , or the various allegations concerning his activities after February 28th , 1971 , when he retired from the CIA . """
+
+original sentence,"Some may still think that even in the final stages of the 9/11 plot , Zacarias Moussaoui was going to fly a 5th plane into the Capitol or White House ."
+wrong word,that 5
+mutation sentence,"Some may still think that , Zacarias Moussaoui was going to fly a 5th plane into the Capitol or White House ."
+
+original sentence,"Due to my disability , this will be a monumental task , but I am determined to prove to the Admissions commitee that I can excel with the work at The Texas University Graduate School of Business ."
+wrong word,that 23
+mutation sentence,"Due to my disability , this will be a monumental task , but I am determined to prove to the Admissions commitee that I can excel with the work ."
+
+original sentence,"To reserve one of these rooms , you must inform the Wyndham staff that you are part of the CAEM group ."
+wrong word,that 14
+mutation sentence,"To reserve one of these rooms , you must inform the Wyndham staff that you are part ."
+
+original sentence,"I was under the impression that Terry Kowalke had notified you of the implementation , TK was also made aware ."
+wrong word,that 6
+mutation sentence,"I was under the impression that Terry Kowalke had notified you , TK was also made aware ."
+
+original sentence,"Eurasia Group , a New York - based firm of political analysts , said its oil experts worked out that China was paying such an inflated price for its investment in Brazil that the cost for the oil it ended up with was three times the market price ."
+wrong word,that 33
+mutation sentence,"Eurasia Group , a New York - based firm of political analysts , said its oil experts worked out that China was paying such an inflated price that the cost for the oil it ended up with was three times the market price ."
+mutation sentence,"Eurasia Group , a New York - based firm of political analysts , said its oil experts worked out that China was paying such an inflated price for its investment that the cost for the oil it ended up with was three times the market price ."
+
+original sentence,Compounding this is the well - based suspicion that Syria has perhaps the most advanced chemical weapons capability in the Persian Gulf .
+wrong word,that 9
+mutation sentence,Compounding this is the well - based suspicion that Syria has the most advanced chemical weapons capability in the Persian Gulf .
+
+original sentence,Eagle Transmission determined that much of the work the dealer said needed to be done was unneccesary and what needed to be fixed was only $ 400 !!
+wrong word,that 4
+mutation sentence,Eagle Transmission determined that much was unneccesary and what needed to be fixed was only $ 400 !!
+
+original sentence,"TEXAS ROADHOUSE HAS VERY GOOD MEALS , THAT THE MEAT COMES RIGHT OFF THE BONES ."
+wrong word,THAT 8
+mutation sentence,"TEXAS ROADHOUSE HAS VERY GOOD MEALS , THAT THE MEAT COMES ."
+
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+original sentence,"Floating Amount = ( Notional Quantity per Calculation Period X Floating Price ) - USD [ 38,000 ? ]"
+wrong word,X 10
+mutation sentence,"Floating Amount = ( Notional Quantity per Calculation Period X Price ) - USD [ 38,000 ? ]"
+
+original sentence,"I would rate Fran pcs an A + because the price was lower than everyone else , i got my computer back the next day , and the professionalism he showed was great ."
+wrong word,A 7
+mutation sentence,"I would rate Fran pcs an A because the price was lower than everyone else , i got my computer back the next day , and the professionalism he showed was great ."
+
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+original sentence,"Through TV and newspapers , I hear constantly about identity fraud using stolen social security information ."
+wrong word,stolen 13
+mutation sentence,"Through TV and newspapers , I hear constantly about identity fraud using stolen security information ."
+
+original sentence,"However , what they hoped to do during the Tet Offensive was to sneak past the Americans and attack the ARVN in the urban areas where they were deployed doing successful Clear and Defend operations ."
+wrong word,Clear 32
+mutation sentence,"However , what they hoped to do during the Tet Offensive was to sneak past the Americans and attack the ARVN in the areas where they were deployed doing successful Clear and Defend operations ."
+mutation sentence,"However , what they hoped to do during the Tet Offensive was to sneak past the Americans and attack the ARVN in the urban areas where they were deployed doing Clear and Defend operations ."
+
+original sentence,"They do n't just dump your ingredients on and cook either , but carefully separate meat to the hotter parts of the grill and still manage to keep the veggies from turning to mush ."
+wrong word,separate 15
+mutation sentence,"They do n't just dump your ingredients on and cook either , but separate meat to the hotter parts of the grill and still manage to keep the veggies from turning to mush ."
+
+
+
+"pos from 动词 to 介词
+"
+original sentence,"Okay , I 'm new to this forum and really do n't like Bush , so my view point is slanted and I admit that ."
+wrong word,like 13
+mutation sentence,"Okay , I 'm new to this forum and really do like Bush , so my view point is slanted and I admit that ."
+
+original sentence,There must be a reason so many people like it there .
+wrong word,like 9
+mutation sentence,There must be a reason many people like it there .
+
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,"The police commander of Ninevah Province announced that bombings had declined 80 percent in Mosul , whereas there had been a big jump in the number of kidnappings ."
+wrong word,been 20
+mutation sentence,"The police commander of Ninevah Province announced that bombings had declined 80 percent in Mosul , whereas there had been a big jump ."
+
+original sentence,"If he or she did not , then they should have all the same rights as other Iraqis ."
+wrong word,did 5
+mutation sentence,"If he or she did not , they should have all the same rights as other Iraqis ."
+
+original sentence,The main reason is Google is more accessible to the global community and you can rest assured that it 's not going to go away .
+wrong word,is 4
+mutation sentence,The reason is Google is more accessible to the global community and you can rest assured that it 's not going to go away .
+
+original sentence,There wo n't be a difference since mobile broadband is supposed to be digital .
+wrong word,be 4
+mutation sentence,There wo n't be a difference since broadband is supposed to be digital .
+
+original sentence,I know they did lab work showing that Strongid C used daily could help prevent EPM .
+wrong word,did 4
+mutation sentence,I know they did work showing that Strongid C used daily could help prevent EPM .
+
+original sentence,"Was fast and easy , Just had our car returned this morning , I would recommend these Mobile Mechanics for sure ."
+wrong word,had 7
+mutation sentence,"Was fast and easy , had our car returned this morning , I would recommend these Mobile Mechanics for sure ."
+
+original sentence,"Essentially , I told him I did n't trust him cause he was a car salesman , but he got so incredibly offended at that statement that he had to go cry to another salesman and compose himself before coming back ."
+wrong word,got 20
+mutation sentence,"Essentially , I told him I did n't trust him cause he was a car salesman , but he got incredibly offended at that statement that he had to go cry to another salesman and compose himself before coming back ."
+
+original sentence,"The truth is , in my and my dining partners ' experience , this is a fine little restaurant with some unique food ."
+wrong word,is 3
+mutation sentence,"The truth is , , this is a fine little restaurant with some unique food ."
+
+original sentence,The employees at this Sear's are completely apathetic and there did n't seem to be any sort of management that I could see .
+wrong word,be 15
+mutation sentence,The employees at this Sear's are completely apathetic and there did n't seem to be any sort that I could see .
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,"As the American public gradually wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+wrong word,wearies 6
+mutation sentence,"As the American public wearies of the Iraq crisis , some have begun worrying that the war could blow back on the US by creating the conditions for anti-American terrorism ."
+
+original sentence,Talk about a beat - your - head - against - the - wall moment !
+wrong word,beat 4
+mutation sentence,Talk about a beat - your - head - moment !
+
+original sentence,"International law does not know how to deal with a leader of murderers who is royally and comfortably hosted by a country , which pretends to condemn his acts or just claims to be too weak to arrest him ."
+wrong word,claims 32
+mutation sentence,"International law does not know how to deal with a leader of murderers who is royally and comfortably hosted by a country , which pretends to condemn his acts or claims to be too weak to arrest him ."
+
+original sentence,"First , the nature of such an investigation is that we lack sufficient information to second - guess ( or even know ) what the FBI is doing ."
+wrong word,guess 18
+mutation sentence,"First , the nature of such an investigation is that we lack information to second - guess ( or even know ) what the FBI is doing ."
+
+original sentence,I finally got it to blackline correctly .
+wrong word,blackline 6
+mutation sentence,I finally got it to blackline .
+
+original sentence,We need to change the lock and place posted signs at the gate .
+wrong word,place 8
+mutation sentence,We need to change the lock and place signs at the gate .
+
+original sentence,Mailing them to the house iis fine .
+wrong word,iis 6
+mutation sentence,Mailing them iis fine .
+
+original sentence,Will we choose to live in harmony with this planet or crash and burn in a conflagration of arrogance and disregard ?
+wrong word,crash 12
+mutation sentence,Will we choose to live in harmony or crash and burn in a conflagration of arrogance and disregard ?
+
+original sentence,She had to hack her way through the ceiling of her beauty shop as flood waters rose in the city of half a million people - much of which lies below sea level .
+wrong word,lies 30
+mutation sentence,She had to hack her way through the ceiling of her beauty shop as flood waters rose in the city of half a million people - much lies below sea level .
+
+original sentence,Expires : 24 Nov 2004 17:32 PST
+wrong word,Expires 1
+mutation sentence,Expires : 24 Nov 17:32 PST
+
+original sentence,An analysis of 65 bird species in the United Kingdom shows about one - third are laying their eggs four to seven days earlier than they did 25 years ago .
+wrong word,shows 11
+mutation sentence,An analysis of 65 bird species shows about one - third are laying their eggs four to seven days earlier than they did 25 years ago .
+
+original sentence,""" Ay , "" said Sancho ; "" it must be that some of your worship 's shrewdness sticks to me ; land that , of itself , is barren and dry , will come to yield good fruit if you dung it and till it >>"
+wrong word,sticks 19
+mutation sentence,""" Ay , "" said Sancho ; "" it must be that some sticks to me ; land that , of itself , is barren and dry , will come to yield good fruit if you dung it and till it >>"
+
+original sentence,"However , if you 're allowed another option and you want a small - town feel , then head to Edinburgh , Scotland ."
+wrong word,head 19
+mutation sentence,"However , if you 're allowed another option and you want a small - town feel , head to Edinburgh , Scotland ."
+
+original sentence,I honestly have no idea what to expect or prepare for and calling in to get professional advice from either of the embassies costs by the minute - which I really do n't have the money for .
+wrong word,costs 24
+mutation sentence,I honestly have no idea what to expect or prepare for and calling in to get professional advice costs by the minute - which I really do n't have the money for .
+mutation sentence,I honestly have no idea what to expect or prepare for and calling in to get professional advice from either costs by the minute - which I really do n't have the money for .
+
+original sentence,"If you keep the cage clean they do n't smell and you can buy spray on cleaser for them , just massage it into their coat and groom them ."
+wrong word,spray 15
+mutation sentence,"If you keep the cage clean they do n't smell and you can buy spray on cleaser , just massage it into their coat and groom them ."
+
+original sentence,Freeze dried food is not a good staple food source ; you need to offer live feeder insects .
+wrong word,Freeze 1
+mutation sentence,Freeze food is not a good staple food source ; you need to offer live feeder insects .
+
+original sentence,"the guy came on time and did n't take any breaks , he went straight to work and finished the job efficiently and promptly !"
+wrong word,work 17
+mutation sentence,"the guy came on time and did n't take any breaks , he went to work and finished the job efficiently and promptly !"
+
+original sentence,"I highly recommend Debi , she does an amazing job , I "" love "" the way she cuts my hair , extremely thorough and cross checks her work to make sure my hair is perfect ."
+wrong word,cross 26
+mutation sentence,"I highly recommend Debi , she does an amazing job , I "" love "" the way she cuts my hair , thorough and cross checks her work to make sure my hair is perfect ."
+
+original sentence,*** update *** NEVER MIND !
+wrong word,MIND 5
+mutation sentence,*** update *** MIND !
+
+original sentence,"Do n't waste time , just drive 10 minutes more down to Stevens Creek , they actually do try to help their customers there !"
+wrong word,waste 3
+mutation sentence,"Do waste time , just drive 10 minutes more down to Stevens Creek , they actually do try to help their customers there !"
+
+original sentence,"There 's holes everywhere in the ceiling , sewage constantly leaks through the ceiling , and the whole condition of the school is horrible ."
+wrong word,leaks 11
+mutation sentence,"There 's holes everywhere in the ceiling , sewage leaks through the ceiling , and the whole condition of the school is horrible ."
+
+original sentence,"I needed a part for my appliance , the cost was very high so I said never mind , paid the fee and called a local business for a second quote ."
+wrong word,mind 18
+mutation sentence,"I needed a part for my appliance , the cost was very high so I said mind , paid the fee and called a local business for a second quote ."
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+original sentence,My answer is that we do n't to text speak here ... we type in English .
+wrong word,to 8
+mutation sentence,My answer is that we do to text speak here ... we type in English .
+
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+original sentence,""" What we know is that he 's always said it was a religious obligation to have the same weapons as their enemies , "" former CIA OBL unit counter terrorism chief Michael Scheuer has said ."
+wrong word,counter 30
+mutation sentence,""" What we know is that he 's always said it was a religious obligation to have the same weapons , "" former CIA OBL unit counter terrorism chief Michael Scheuer has said ."
+
+original sentence,"According to senior counter terrorism officials , both here and abroad , among the supporters of these militant islamists were people who blended into society and were available to act when another part of the network requested it ."
+wrong word,counter 4
+mutation sentence,"According to counter terrorism officials , both here and abroad , among the supporters of these militant islamists were people who blended into society and were available to act when another part of the network requested it ."
+
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+original sentence,"Sat. Sept. 23 - Drive to St. Tropez - through Nice , Cannes & other coastal towns , check - in mid afternoon"
+wrong word,mid 22
+mutation sentence,"Sat. Sept. 23 - Drive to St. Tropez - through Nice , Cannes & other coastal towns , check - in mid"
+
+
+
+"pos from 其他 to 数字
+"
+original sentence,"[ 1 ] Over the last twenty years , use of the term has been frequently criticized by academic art historians for over-simplifying artistic developments , ignoring historical context , and focusing only on a few iconic works ."
+wrong word,1 2
+mutation sentence,"[ 1 ] , use of the term has been frequently criticized by academic art historians for over-simplifying artistic developments , ignoring historical context , and focusing only on a few iconic works ."
+
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+original sentence,"According to former Indian army general A S Kalkat , the difficulty for Kumaratunga 's government lay in the fact that the LTTE had become a de jure power in the north and east of the island and was running every aspect of civil administration in the areas within its control ."
+wrong word,de 27
+mutation sentence,"According to former Indian army general A S Kalkat , the difficulty for Kumaratunga 's government lay in the fact that the LTTE had become a de jure power and was running every aspect of civil administration in the areas within its control ."
+
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

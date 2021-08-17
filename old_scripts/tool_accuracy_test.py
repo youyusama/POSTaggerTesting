@@ -7,7 +7,10 @@ import spacy
 from global_variables import *
 from spacy.tokens import Doc
 
-CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
+# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
+# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
+# CORPUS_PATH = 'corpus/ud-treebanks-v2.7/UD_English-PUD/en_pud-ud-test.conllu'
+CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
 
 class WhitespaceTokenizer:
   def __init__(self, vocab):
@@ -40,11 +43,11 @@ if __name__ == '__main__':
   sen_num = 0
   # stanza_right = 0
   # spaCy_right = 0
-  # token_num = 0
-  # stanza_wrong_token = 0
-  # spaCy_wrong_token = 0
-  stanza_dep_list = set()
-  spaCy_dep_list = set()
+  token_num = 0
+  stanza_wrong_token = 0
+  spaCy_wrong_token = 0
+  # stanza_dep_list = set()
+  # spaCy_dep_list = set()
 
   for sen in conllu.parse_incr(corpus):
     sen_num += 1
@@ -52,22 +55,23 @@ if __name__ == '__main__':
     sen_conllu = PTF_Sen(sen, type='conllu', build_tree=False)
     sen_stanza = PTF_Sen(nlp_stanza(sen_conllu.to_doc()), type='stanza', build_tree=False)
     sen_spaCy = PTF_Sen(nlp_spaCy(sen_conllu.to_doc()), type='spaCy', build_tree=False)
-    for word in sen_stanza.words:
-      stanza_dep_list.add(word.deprel)
-    for word in sen_spaCy.words:
-      spaCy_dep_list.add(word.deprel)
+    # for word in sen_stanza.words:
+    #   stanza_dep_list.add(word.deprel)
+    # for word in sen_spaCy.words:
+    #   spaCy_dep_list.add(word.deprel)
 
-    # token_num += len(sen_conllu.words)
+    token_num += len(sen_conllu.words)
     # if simple_compare_pos(sen_conllu, sen_stanza):
     #   stanza_right += 1
     # if simple_compare_pos(sen_conllu, sen_spaCy):
     #   spaCy_right += 1
-    # stanza_wrong_token += simple_compare_pos_count(sen_conllu, sen_stanza)
-    # spaCy_wrong_token += simple_compare_pos_count(sen_conllu, sen_spaCy)
-  print(stanza_dep_list)
-  print(spaCy_dep_list)
+    stanza_wrong_token += simple_compare_pos_count(sen_conllu, sen_stanza)
+    spaCy_wrong_token += simple_compare_pos_count(sen_conllu, sen_spaCy)
+  # print(stanza_dep_list)
+  # print(spaCy_dep_list)
   # print(sen_num, stanza_right, spaCy_right)
   # print(stanza_right/sen_num)
   # print(spaCy_right/sen_num)
-  # print((token_num-stanza_wrong_token)/token_num)
-  # print((token_num-spaCy_wrong_token)/token_num)
+  print(token_num)
+  print((token_num-stanza_wrong_token)/token_num)
+  print((token_num-spaCy_wrong_token)/token_num)

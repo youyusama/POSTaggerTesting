@@ -11,14 +11,7 @@ from compare_utilities import *
 from global_variables import *
 import spacy
 from progress.counter import Counter
-
-CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu'
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-EWT/en_ewt-ud-train.conllu'
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-PUD/en_pud-ud-test.conllu'
-# CORPUS_PATH = '/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-Pronouns/en_pronouns-ud-test.conllu'
-# CORPUS_PATH = 'test.conllu'
-MUTATION_WAY = 'BERT' #or 'DEL'
-NLP_TOOL = 'stanza' #or 'stanza'
+from config import *
 
 error_map_tag_000= {}
 error_map_tag_100= {}
@@ -34,12 +27,12 @@ if __name__ == '__main__':
   corpus = io.open(CORPUS_PATH, "r", encoding="utf-8")
   #load nlp tools
   if NLP_TOOL == 'stanza':
-    nlp = stanza.Pipeline('en', NLP_MODEL_PATH + 'stanzamodel/stanza_model/', processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True)
+    nlp = stanza.Pipeline('en', STANZA_MODEL_PATH, processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True)
   elif NLP_TOOL == 'spaCy':
-    nlp = spacy.load('en_core_web_trf', exclude=['lemmatizer', 'ner'])
+    nlp = spacy.load(SPACY_MODEL_NAME, exclude=['lemmatizer', 'ner'])
     nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
 
-  if MUTATION_WAY == 'BERT':
+  if MUTATION_WAY == 'ADD':
     # generate the unmasked sentences file
     gen_filename = bert_gen_or_read(CORPUS_PATH)
     # iterate reader
@@ -62,7 +55,7 @@ if __name__ == '__main__':
     sen_conllu = PTF_Sen(sen, type='conllu', build_tree=False)
     # short sen unwanted
     if len(sen_conllu.words) <= 5:
-      if MUTATION_WAY == 'BERT':
+      if MUTATION_WAY == 'ADD':
         reader_skip_sen(reader, sen_conllu)
       continue
     all_test_sen_num +=1
@@ -72,7 +65,7 @@ if __name__ == '__main__':
     # print(sen_conllu.to_doc())
     muts = []
     # get mutation sentences
-    if MUTATION_WAY == 'BERT':
+    if MUTATION_WAY == 'ADD':
       mut_sens_ids = sen_conllu.unmask_mut_filter(reader_mut(reader, sen_conllu))
       for mut_sen_id in mut_sens_ids:
         sen_mut = PTF_Sen(nlp(mut_sen_id[0]), type=NLP_TOOL, build_tree=False)
@@ -91,7 +84,7 @@ if __name__ == '__main__':
     for mut in muts:
       filtered_mut_num += 1
       mut_sen_doc = mut[0].to_doc()
-      if MUTATION_WAY == 'BERT':
+      if MUTATION_WAY == 'ADD':
         if simple_compare_pos(sen_conllu, sen_nlp):
           c_n_same_sen_num += 1
           res = mut_pos_compare_appendid_res(sen_nlp, mut[0], mut[1])

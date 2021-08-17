@@ -1,0 +1,1545 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+993,29725,60116,200,487,114,32261
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+wrong word,more 10
+mutation sentence,A major report in January said oceans would contain far more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+mutation sentence,A major report in January said oceans would contain even more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+mutation sentence,A major report in January said oceans would contain more plastic than dead fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+
+original sentence,Last year was an incredible year and I ’m ready for us to come back even better in 2017 .
+wrong word,better 17
+mutation sentence,Last year was quite an incredible year and I ’m ready for us to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m almost ready for us to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m not ready for us to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready then for us to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us two to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to hopefully come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to all come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to maybe come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to really come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to just come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to somehow come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back somewhere even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back even better then in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back even better now in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back even better again in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back even better together in 2017 .
+
+original sentence,Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+wrong word,bankrupt 4
+mutation sentence,Winstone was first declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was again declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was subsequently declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was finally declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was later declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was initially declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was officially declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was declared bankrupt again on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was declared bankrupt twice on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was declared bankrupt first on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was declared bankrupt once on 4 October 1988 and again on 19 March 1993 .
+
+original sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as likely as they are unacceptable "" ."
+wrong word,likely 19
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as likely just as they are unacceptable "" ."
+
+original sentence,"Barón de Claret , the only one in Government with a noble title ."
+wrong word,only 6
+mutation sentence,"Barón de Claret , the then only one in Government with a noble title ."
+mutation sentence,"Barón de Claret , the only known one in Government with a noble title ."
+mutation sentence,"Barón de Claret , the only elected one in Government with a noble title ."
+mutation sentence,"Barón de Claret , the only married one in Government with a noble title ."
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,A sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+wrong word,sacrococcygeal 2
+mutation sentence,A primary sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A bilateral sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A secondary sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A common sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A hereditary sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A juvenile sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+mutation sentence,A posterior sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby 's tailbone .
+
+original sentence,A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+wrong word,plastic 11
+mutation sentence,A major report in January said oceans would contain more raw plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+
+original sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a premier golf tournament in North Korea ."
+wrong word,premier 18
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a prestigious premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a major premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a local premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a fictional premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a fictitious premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a supposed premier golf tournament in North Korea ."
+mutation sentence,"Two Australians , who by their own admission are terrible golfers , bluffed their way into a national premier golf tournament in North Korea ."
+
+original sentence,"Northern Algeria is in the temperate zone and enjoys a mild , Mediterranean climate ."
+wrong word,temperate 6
+mutation sentence,"Northern Algeria is in the cool temperate zone and enjoys a mild , Mediterranean climate ."
+
+original sentence,Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993 .
+wrong word,bankrupt 4
+mutation sentence,Winstone was declared statutory bankrupt on 4 October 1988 and again on 19 March 1993 .
+mutation sentence,Winstone was declared virtual bankrupt on 4 October 1988 and again on 19 March 1993 .
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,It was conducted just off the Mexican coast from April to June .
+wrong word,Mexican 7
+mutation sentence,It was conducted just off the Mexican Pacific coast from April to June .
+
+original sentence,"Trump 's wife , Melania Trump , made her first appearance on the trail since the Republican convention in July ."
+wrong word,Republican 17
+mutation sentence,"Trump 's wife , Melania Trump , made her first appearance alone on the trail since the Republican convention in July ."
+mutation sentence,"Trump 's wife , Melania Trump , made her first appearance on the trail since the Republican convention in July 2015 ."
+
+original sentence,"Several ancient civilisations were located around the Mediterranean shores , and were greatly influenced by their proximity to the sea ."
+wrong word,Mediterranean 8
+mutation sentence,"Several ancient civilisations were located around the Eastern Mediterranean shores , and were greatly influenced by their proximity to the sea ."
+mutation sentence,"Several ancient civilisations were located around the Northern Mediterranean shores , and were greatly influenced by their proximity to the sea ."
+
+original sentence,The AKP 's Islamic conservatives have taken this refusal as justification for the questionings .
+wrong word,Islamic 4
+mutation sentence,The AKP 's Islamic conservatives however have taken this refusal as justification for the questionings .
+
+original sentence,"The French Digital Council , which advises on bills in line with questions of digital technology , could also scrutinise it ."
+wrong word,French 2
+mutation sentence,"The national French Digital Council , which advises on bills in line with questions of digital technology , could also scrutinise it ."
+wrong word,Digital 3
+mutation sentence,"The national French Digital Council , which advises on bills in line with questions of digital technology , could also scrutinise it ."
+
+original sentence,"During the thirteenth century , the name Apulia was used by some authors to signify the southern part of the Italian peninsula ."
+wrong word,Italian 21
+mutation sentence,"During the thirteenth century , the name Apulia was used by some authors to signify the southern part of the Italian peninsula instead ."
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+original sentence,But Cotton ’s dark deeds did not occur due to some sort of compulsion to kill .
+wrong word,due 9
+mutation sentence,But Cotton ’s dark deeds did not occur due to simply some sort of compulsion to kill .
+mutation sentence,But Cotton ’s dark deeds did not occur due to just some sort of compulsion to kill .
+mutation sentence,But Cotton ’s dark deeds did not occur due to merely some sort of compulsion to kill .
+mutation sentence,But Cotton ’s dark deeds did not occur due to only some sort of compulsion to kill .
+mutation sentence,But Cotton ’s dark deeds did not occur due to some other sort of compulsion to kill .
+mutation sentence,But Cotton ’s dark deeds did not occur due to some unnatural sort of compulsion to kill .
+
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,"Starlin took over as plotter the following issue , and began developing an elaborate story arc centered on the villainous Thanos , and spread across a number of Marvel titles ."
+wrong word,over 3
+mutation sentence,"Starlin took back over as plotter the following issue , and began developing an elaborate story arc centered on the villainous Thanos , and spread across a number of Marvel titles ."
+
+original sentence,"In 1992 , grounds of the former puppet theater , which had been left to the commune , were taken over by players and employees ."
+wrong word,over 21
+mutation sentence,"In 1992 , grounds of the former puppet theater , which had been left to the commune , were taken all over by players and employees ."
+
+original sentence,The ruins were later built over .
+wrong word,over 6
+mutation sentence,The ruins there were later built over .
+mutation sentence,The ruins were later built all over .
+mutation sentence,The ruins were later built completely over .
+mutation sentence,The ruins were later built back over .
+mutation sentence,The ruins were later built over again .
+mutation sentence,The ruins were later built over later .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+original sentence,"“ More people are turning to credit … While this borrowing might be manageable now , a sudden change in circumstances could lead to debt problems . ”"
+wrong word,to 6
+mutation sentence,"“ More people are turning to credit again … While this borrowing might be manageable now , a sudden change in circumstances could lead to debt problems . ”"
+
+original sentence,The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars .
+wrong word,to 14
+mutation sentence,The exact year of the marriage of Herod Antipas and Herodias is subject today to debate among scholars .
+
+original sentence,"Federico Fellini once said : "" The clown is to humanity as the shadow is to man "" ."
+wrong word,to 16
+mutation sentence,"Federico Fellini once said : "" The clown is to humanity as surely the shadow is to man "" ."
+mutation sentence,"Federico Fellini once said : "" The clown is to humanity as the shadow is to man "" too ."
+
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+original sentence,"Major European rivers flow from Switzerland , such as the Rhine , the Rhône , the Inn , the Ticino and the Po , all of which have headwaters in the Alps and flow into neighbouring countries , finally emptying into the North Sea , the Mediterranean Sea , the Adriatic Sea and the Black Sea ."
+wrong word,from 5
+mutation sentence,"Major European rivers flow from neighbouring Switzerland , such as the Rhine , the Rhône , the Inn , the Ticino and the Po , all of which have headwaters in the Alps and flow into neighbouring countries , finally emptying into the North Sea , the Mediterranean Sea , the Adriatic Sea and the Black Sea ."
+
+original sentence,This city - state emerged in the same period as Sukhothai .
+wrong word,as 10
+mutation sentence,This city - state emerged in the same period as neighbouring Sukhothai .
+
+original sentence,The offensive against the huge army enlisted by Venice was launched from France .
+wrong word,from 12
+mutation sentence,The offensive against the huge army enlisted by Venice was launched from neighbouring France .
+
+original sentence,"However , there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland ."
+wrong word,until 16
+mutation sentence,"However , there was no further public recognition of her wartime resistance and humanitarian work until just after the end of communist rule in Poland ."
+
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,"I looked at motocross and the more I looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+wrong word,more 7
+mutation sentence,"I looked at motocross and the much more I looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+mutation sentence,"I looked at motocross and the more I really looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+mutation sentence,"I looked at motocross and the more I actually looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+mutation sentence,"I looked at motocross and the more I just looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+
+original sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+wrong word,hard 22
+mutation sentence,"From the director 's personal point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's own point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's emotional point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the entire film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the short film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the upcoming film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is just a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is also a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is almost a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is essentially a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is actually a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a very precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a rather precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a somewhat precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a highly precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a fairly precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a slightly precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a seemingly precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a particularly precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious social balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between typical cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between entertaining cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between simple cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between genuinely cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between relatively cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between comedic cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery happy family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery little family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery innocent family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting complex social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting dark social drama ."
+
+original sentence,"During this time , Marcelle was often left alone in the room while Piaf and Mômone were out on the streets or at the club singing ."
+wrong word,alone 9
+mutation sentence,"During this time , Marcelle was often left completely alone in the room while Piaf and Mômone were out on the streets or at the club singing ."
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as likely as they are unacceptable "" ."
+wrong word,as 18
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as highly likely as they are unacceptable "" ."
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as politically likely as they are unacceptable "" ."
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as very likely as they are unacceptable "" ."
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as economically likely as they are unacceptable "" ."
+mutation sentence,"He also remarked that "" the existence of such a document could lead to consequences that are as obviously likely as they are unacceptable "" ."
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+original sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences ."
+wrong word,nary 18
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with absolutely nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with literally nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with very nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary even a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a thought regardless of its consequences ."
+
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences ."
+wrong word,nary 18
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with seemingly nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with probably nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a second thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a conscious thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a single thought of its consequences ."
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade .
+wrong word,capital 20
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in nearby the capital Belgrade .
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade instead .
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade too .
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade permanently .
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade first .
+mutation sentence,Earlier this year Seagal was given Serbian nationality after offering to set up a martial arts school in the capital Belgrade proper .
+
+original sentence,"Despite the release of a photo this morning , police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school ."
+wrong word,teen 32
+mutation sentence,"Despite the release of a photo this morning , police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen Muslim girl at her Abbotsford high school ."
+
+original sentence,"But without a legislative framework , and with the grassroots origins of pot as a mood - altering folk remedy , companies are left guessing ."
+wrong word,folk 19
+mutation sentence,"But without a legislative framework , and with the grassroots origins of pot as a mood - altering folk medical remedy , companies are left guessing ."
+
+original sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong to the realm of the unimaginable ."
+wrong word,frontline 13
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline military conflict , Doss ’s feats belong to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline armed conflict , Doss ’s feats belong to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline political conflict , Doss ’s feats belong to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline American conflict , Doss ’s feats belong to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline domestic conflict , Doss ’s feats belong to the realm of the unimaginable ."
+
+original sentence,But its latest effort into the workplace chat game is a part of a larger trend from tech companies .
+wrong word,tech 18
+mutation sentence,But its latest effort into the workplace chat game is a part of a larger trend from other tech companies .
+mutation sentence,But its latest effort into the workplace chat game is a part of a larger trend from many tech companies .
+
+original sentence,"Like fjords , freshwater lakes are often deep ."
+wrong word,freshwater 4
+mutation sentence,"Like fjords , most freshwater lakes are often deep ."
+mutation sentence,"Like fjords , freshwater glacial lakes are often deep ."
+mutation sentence,"Like fjords , freshwater inland lakes are often deep ."
+mutation sentence,"Like fjords , freshwater Norwegian lakes are often deep ."
+
+original sentence,"The hit song is "" Geronimo "" by Sheppard ."
+wrong word,hit 2
+mutation sentence,"The hit local song is "" Geronimo "" by Sheppard ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under 2C .
+wrong word,2C 27
+mutation sentence,A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under about 2C .
+mutation sentence,A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under around 2C .
+
+original sentence,"Barón de Claret , the only one in Government with a noble title ."
+wrong word,one 7
+mutation sentence,"Barón de Claret , the then only one in Government with a noble title ."
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,"“ More people are turning to credit … While this borrowing might be manageable now , a sudden change in circumstances could lead to debt problems . ”"
+wrong word,credit 7
+mutation sentence,"“ More people are turning to credit again … While this borrowing might be manageable now , a sudden change in circumstances could lead to debt problems . ”"
+mutation sentence,"“ More people are turning to credit … While this initial borrowing might be manageable now , a sudden change in circumstances could lead to debt problems . ”"
+
+original sentence,The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars .
+wrong word,debate 15
+mutation sentence,The exact year of the marriage of Herod Antipas and Herodias is subject today to debate among scholars .
+mutation sentence,The exact year of the marriage of Herod Antipas and Herodias is subject somewhat to debate among scholars .
+mutation sentence,The exact year of the marriage of Herod Antipas and Herodias is subject now to debate among scholars .
+
+original sentence,"Federico Fellini once said : "" The clown is to humanity as the shadow is to man "" ."
+wrong word,man 17
+mutation sentence,"Federico Fellini once said : "" The clown is to humanity as the shadow is to man alone "" ."
+mutation sentence,"Federico Fellini once said : "" The clown is to humanity as the shadow is to man too "" ."
+
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+original sentence,"I looked at motocross and the more I looked , this one woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+wrong word,one 12
+mutation sentence,"I looked at motocross and the more I looked , this one more woman ’s face kept coming up , in photographs that looked as if they were from the 1970s ."
+
+original sentence,"It has also opened VW up to huge compensation claims , legal action and has seen it take more than € 16bn of provisions ."
+wrong word,16bn 22
+mutation sentence,"It has also opened VW up to huge compensation claims , legal action and has seen it take more than € 16bn of financial provisions ."
+
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+original sentence,This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets .
+wrong word,that 11
+mutation sentence,This means that they have not benefited from the considerable uplift that the fall in sterling has given to overseas assets .
+mutation sentence,This means that they have not benefited from the uplift that the recent fall in sterling has given to overseas assets .
+mutation sentence,This means that they have not benefited from the uplift that the sharp fall in sterling has given to overseas assets .
+
+original sentence,"A voucher is generated that can be saved on your smartphone , or presented at the till ."
+wrong word,that 5
+mutation sentence,"A voucher is generated that then can be saved on your smartphone , or presented at the till ."
+
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,""" Pair prank their way into North Korean golf tournament , "" read Brisbane 's Nine News ."
+wrong word,North 7
+mutation sentence,""" Pair prank their way into North Korean open golf tournament , "" read Brisbane 's Nine News ."
+mutation sentence,""" Pair prank their way into North Korean international golf tournament , "" read Brisbane 's Nine News ."
+mutation sentence,""" Pair prank their way into North Korean big golf tournament , "" read Brisbane 's Nine News ."
+
+original sentence,Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean .
+wrong word,Indian 14
+mutation sentence,Examples are the Line Islands in the Pacific and the Maldives in also the Indian Ocean .
+mutation sentence,Examples are the Line Islands in the Pacific and the Maldives in the western Indian Ocean .
+
+original sentence,"Northern Algeria is in the temperate zone and enjoys a mild , Mediterranean climate ."
+wrong word,Northern 1
+mutation sentence,"Northern coastal Algeria is in the temperate zone and enjoys a mild , Mediterranean climate ."
+mutation sentence,"Northern central Algeria is in the temperate zone and enjoys a mild , Mediterranean climate ."
+mutation sentence,"Northern Western Algeria is in the temperate zone and enjoys a mild , Mediterranean climate ."
+mutation sentence,"Northern Algeria itself is in the temperate zone and enjoys a mild , Mediterranean climate ."
+
+original sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period .
+wrong word,Outer 14
+mutation sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Northern Mongolia during the Qing period .
+mutation sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during early the Qing period .
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+original sentence,Michael Fallon said the date for cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035 .
+wrong word,for 6
+mutation sentence,Michael Fallon said the date for first cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035 .
+
+original sentence,""" There is still a ' yuk ' factor to the whole idea of buying and wearing other people 's body parts , "" she says ."
+wrong word,of 14
+mutation sentence,""" There is still a ' yuk ' factor to the whole idea itself of buying and wearing other people 's body parts , "" she says ."
+mutation sentence,""" There is still a ' yuk ' factor to the whole idea of buying and not wearing other people 's body parts , "" she says ."
+
+original sentence,"“ We are actively thinking of possible ways to limit the scope of litigation to only those with a real standing in a project , ” he was quoted as saying ."
+wrong word,as 30
+mutation sentence,"“ We are actively thinking of possible ways to limit the scope of litigation to only those with a real standing in a project , ” he was quoted as later saying ."
+
+original sentence,"As a steady wind begins to blow , fine particles lying on the exposed ground begin to vibrate ."
+wrong word,As 1
+mutation sentence,"As a more steady wind begins to blow , fine particles lying on the exposed ground begin to vibrate ."
+mutation sentence,"As a steady wind outside begins to blow , fine particles lying on the exposed ground begin to vibrate ."
+
+original sentence,"It was August 30 , 2015 , as an army of ducks conquered the internet ."
+wrong word,as 8
+mutation sentence,"It was August 30 , 2015 , as an animated army of ducks conquered the internet ."
+
+original sentence,May has received great criticism for avoiding and not responding openly to the media after the judicial ruling on Brexit .
+wrong word,for 6
+mutation sentence,May has received great criticism for avoiding and also not responding openly to the media after the judicial ruling on Brexit .
+mutation sentence,May has received great criticism for avoiding and therefore not responding openly to the media after the judicial ruling on Brexit .
+
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+original sentence,Republican economists caution against taking this data as proof that their party is lousy at economic policy .
+wrong word,that 10
+mutation sentence,Republican economists caution against taking this data as proof that currently their party is lousy at economic policy .
+
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+original sentence,The purpose of these CRTC hearings is to field responses from industry stakeholders and the public .
+wrong word,is 7
+mutation sentence,The purpose of these CRTC hearings is generally to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is also to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is often to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is usually to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is mainly to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is simply to field responses from industry stakeholders and the public .
+mutation sentence,The purpose of these CRTC hearings is principally to field responses from industry stakeholders and the public .
+
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,Republican economists caution against taking this data as proof that their party is lousy at economic policy .
+wrong word,caution 3
+mutation sentence,Republican economists further caution against taking this data as proof that their party is lousy at economic policy .
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

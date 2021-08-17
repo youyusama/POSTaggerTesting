@@ -4,9 +4,10 @@ from importlib_metadata import FastPath
 from transformers import pipeline, set_seed
 from PTF_Err import PTF_Err
 from spacy.tokens import Doc
+from config import *
 
 set_seed(301)
-unmasker = pipeline('fill-mask', model='bert-large-cased', top_k = 10)
+unmasker = pipeline('fill-mask', model='bert-large-cased', top_k = UNMASK_NUM)
 # generator = pipeline('text-generation', model='gpt2-large')
 
 # to adapte the conllu struct to stanza-like words

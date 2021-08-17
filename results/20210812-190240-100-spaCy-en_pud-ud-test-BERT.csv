@@ -1,0 +1,1445 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+993,22545,66018,185,985,204,49410
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,"Warning that the NHS was now under "" enormous pressure , "" he urged the public to take more responsibility for their own health ."
+wrong word,more 19
+mutation sentence,"Warning that the NHS was now under "" enormous pressure , "" he urged the public to take more fiscal responsibility for their own health ."
+
+original sentence,"It was foretold that he would either die of old age after an uneventful life , or die young in a battlefield and gain immortality through poetry ."
+wrong word,young 19
+mutation sentence,"It was foretold that he would either die of old age after an uneventful life , or die young again in a battlefield and gain immortality through poetry ."
+
+original sentence,"On Tuesday , the United States of America could elect the first female president in its history ."
+wrong word,first 12
+mutation sentence,"On Tuesday , the United States of America could elect the first elected female president in its history ."
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,"In China the hair is typically put in a chemical bath to remove the cuticle completely , Tarlo explains ."
+wrong word,chemical 10
+mutation sentence,"In northern China the hair is typically put in a chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a hot chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a special chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a heated chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a cold chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a warm chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a strong chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a large chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a mild chemical bath to remove the cuticle completely , Tarlo explains ."
+mutation sentence,"In China the hair is typically put in a cool chemical bath to remove the cuticle completely , Tarlo explains ."
+
+original sentence,Researchers have been investigating potential for male hormonal contraceptives for around 20 years .
+wrong word,male 7
+mutation sentence,Researchers have been investigating potential for male only hormonal contraceptives for around 20 years .
+
+original sentence,"It 's also fuelled the emergence of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+wrong word,high 9
+mutation sentence,"It 's also fuelled the global emergence of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence there of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence here of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence worldwide of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of new modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of great modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of several modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of modern urban high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of modern commercial high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of modern office high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building ."
+mutation sentence,"It 's also fuelled the emergence of modern high - rises -- like the visionary MahaNakhon , Bangkok 's tallest building yet ."
+
+original sentence,"Four more give the minimum and maximum declinations of the full moon : in summer , and in winter ."
+wrong word,minimum 5
+mutation sentence,"Four more give the corresponding minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the natural minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the approximate minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the relative minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the apparent minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the usual minimum and maximum declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the minimum and maximum possible declinations of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the minimum and maximum declinations possible of the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the minimum and maximum declinations of even the full moon : in summer , and in winter ."
+mutation sentence,"Four more give the minimum and maximum declinations of the full blue moon : in summer , and in winter ."
+
+original sentence,But the impact of Hispania in the newcomers was also big .
+wrong word,big 11
+mutation sentence,But the impact of Hispania in the newcomers was also big today .
+
+original sentence,During the 2013 off - season she appeared on CTV Montreal as a guest weather anchor .
+wrong word,off 4
+mutation sentence,During the NHL 2013 off - season she appeared on CTV Montreal as a guest weather anchor .
+mutation sentence,During the 2013 curling off - season she appeared on CTV Montreal as a guest weather anchor .
+mutation sentence,During the 2013 football off - season she appeared on CTV Montreal as a guest weather anchor .
+
+original sentence,"On Tuesday , the United States of America could elect the first female president in its history ."
+wrong word,female 13
+mutation sentence,"On Tuesday , the United States of America could elect the first female elected president in its history ."
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,The RHS collected comments sent in by schoolchildren and teachers involved in the experiment .
+wrong word,in 6
+mutation sentence,The RHS collected comments directly sent in by schoolchildren and teachers involved in the experiment .
+mutation sentence,The RHS collected comments sent back in by schoolchildren and teachers involved in the experiment .
+
+original sentence,"Like many people I know , I ’ve spent recent months staying up late , reading polls in terror ."
+wrong word,up 13
+mutation sentence,"Like many people I know , I ’ve spent recent months staying home up late , reading polls in terror ."
+
+original sentence,He kept on turning up at my barn and I joked to the guy that clearly he did n't want to be sold .
+wrong word,up 5
+mutation sentence,He kept on turning back up at my barn and I joked to the guy that clearly he did n't want to be sold .
+
+original sentence,The ruins were later built over .
+wrong word,over 6
+mutation sentence,The ruins were later built all over .
+mutation sentence,The ruins were later built completely over .
+mutation sentence,The ruins were later built back over .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+original sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+wrong word,is 20
+mutation sentence,"To repeatedly draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To simply draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To deliberately draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To successfully draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To first draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a new game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a particular game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a simple game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a close game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a specific game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a good game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have previously dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have long dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have recently dominated is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated previously is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated earlier is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated often is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated twice is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated already is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated well is easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is relatively easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is fairly easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is very easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is often easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is always easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is quite easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is sometimes easy to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy enough to brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to simply brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to easily brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to casually brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to politely brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to quickly brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to immediately brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to completely brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to quietly brush off , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off again , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off immediately , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off afterwards , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off completely , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off earlier , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off altogether , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off before , but to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but then to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but yet to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but sometimes to do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to actually do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to only do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to then do so three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so even three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so again three times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three consecutive times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three more times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three straight times is a row suggests a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests perhaps a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests rather a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests also a weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a hidden weakness ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness too ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness there ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness somewhere ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness perhaps ."
+mutation sentence,"To draw a game you have dominated is easy to brush off , but to do so three times is a row suggests a weakness indeed ."
+
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,I declare the first international Olympic games over .
+wrong word,over 8
+mutation sentence,I declare the first international Olympic games officially over .
+mutation sentence,I declare the first international Olympic games now over .
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,"After all , the internet is not a luxury ; it is an essential tool ."
+wrong word,After 1
+mutation sentence,"After all , the internet is also not a luxury ; it is an essential tool ."
+mutation sentence,"After all , the internet is not only a luxury ; it is an essential tool ."
+mutation sentence,"After all , the internet is not a simple luxury ; it is an essential tool ."
+mutation sentence,"After all , the internet is not a luxury ; it also is an essential tool ."
+mutation sentence,"After all , the internet is not a luxury ; it is an essential tool also ."
+
+original sentence,Spain had expelled its Sephardic population in 1492 ; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well .
+wrong word,as 24
+mutation sentence,Spain had expelled its Sephardic population in 1492 ; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well elsewhere .
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+original sentence,"But having allowed Glenda to score such a blinder , who can blame it ?"
+wrong word,such 7
+mutation sentence,"But having allowed Glenda to score such good a blinder , who can blame it ?"
+mutation sentence,"But having allowed Glenda to score such wonderful a blinder , who can blame it ?"
+
+original sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such a show ."
+wrong word,such 27
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such spectacular a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such great a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such large a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such grand a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such successful a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such elaborate a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such huge a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such important a show ."
+mutation sentence,"Alejandra González Anaya , one of the parade 's creative directors , explained to CNN why Mexico have decided now is the time to put on such daring a show ."
+
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences ."
+wrong word,nary 18
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with very nary a thought of its consequences ."
+mutation sentence,"As a result , many people quickly open emails or mindlessly click on links and attachments with nary even a thought of its consequences ."
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong to the realm of the unimaginable ."
+wrong word,frontline 13
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline political conflict , Doss ’s feats belong to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline American conflict , Doss ’s feats belong to the realm of the unimaginable ."
+
+original sentence,Land warfare changed from the static front lines of World War I to increased mobility and combined arms .
+wrong word,front 7
+mutation sentence,Land warfare greatly changed from the static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed rapidly from the static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed greatly from the static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed quickly from the static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the mostly static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the typically static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the more static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the previously static front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static fixed front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static fortified front lines of World War I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War One I to increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to greatly increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to rapidly increased mobility and combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to increased armored mobility and combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to increased mobility and larger combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to increased mobility and better combined arms .
+mutation sentence,Land warfare changed from the static front lines of World War I to increased mobility and stronger combined arms .
+
+original sentence,"The hit song is "" Geronimo "" by Sheppard ."
+wrong word,hit 2
+mutation sentence,"The hit local song is "" Geronimo "" by Sheppard ."
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,"At just 20 , she is a strong voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+wrong word,one 15
+mutation sentence,"At just 20 , she is a particularly strong voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a surprisingly strong voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong female voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong feminist voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong public voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong young voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong independent voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong moral voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong national voice against bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong voice against teenage bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong voice against sexual bullying and a positive one in helping girls embrace their own standards of beauty ."
+mutation sentence,"At just 20 , she is a strong voice against male bullying and a positive one in helping girls embrace their own standards of beauty ."
+
+original sentence,"It included three tracks cowritten with Rafferty 's brother Jim , also a singer - songwriter , who had been signed to Decca Records in the 1970s ."
+wrong word,1970s 27
+mutation sentence,"It included three tracks cowritten with Rafferty 's brother Jim , also a singer - songwriter , who had been signed to Decca Records in the 1970s himself ."
+
+original sentence,"It is now only unclear , in which one ."
+wrong word,one 9
+mutation sentence,"It is now only unclear , in which last one ."
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+
+
+"pos from 名词 to 其他
+"
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,"With the fall of the Qing dynasty in 1911 , Mongolia under the Bogd Khaan declared independence ."
+wrong word,Qing 6
+mutation sentence,"With the fall of the Qing imperial dynasty in 1911 , Mongolia under the Bogd Khaan declared independence ."
+
+original sentence,"Bogd Khaan said that both Mongolia and China had been administered by the Manchu during the Qing , and after the fall of the Qing dynasty in 1911 , the contract of Mongolian submission to the Manchu had become invalid ."
+wrong word,Qing 25
+mutation sentence,"Bogd Khaan said that both Mongolia and China had been administered by the Manchu during the Qing , and after the fall of the Qing imperial dynasty in 1911 , the contract of Mongolian submission to the Manchu had become invalid ."
+mutation sentence,"Bogd Khaan said that both Mongolia and China had been administered by the Manchu during the Qing , and after the fall of the Qing Chinese dynasty in 1911 , the contract of Mongolian submission to the Manchu had become invalid ."
+
+original sentence,"In the Second Messenian War , Sparta established itself as a local power in Peloponnesus and the rest of Greece ."
+wrong word,Second 3
+mutation sentence,"In the Second epic Messenian War , Sparta established itself as a local power in Peloponnesus and the rest of Greece ."
+mutation sentence,"In the Second great Messenian War , Sparta established itself as a local power in Peloponnesus and the rest of Greece ."
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+original sentence,"After the Compromise , Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally ."
+wrong word,King 7
+mutation sentence,"After the Compromise , Emperor and King alike Franz Joseph I. took great care to treat both of his monarchies equally ."
+
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+original sentence,Land warfare changed from the static front lines of World War I to increased mobility and combined arms .
+wrong word,I 12
+mutation sentence,Land warfare changed from the static front lines of World War One I to increased mobility and combined arms .
+
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+original sentence,"The Tell Amarna letters , dating from the 14th century BCE , include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh ."
+wrong word,Tell 2
+mutation sentence,"The Tell Amarna Egyptian letters , dating from the 14th century BCE , include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh ."
+mutation sentence,"The Tell Amarna secret letters , dating from the 14th century BCE , include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh ."
+mutation sentence,"The Tell Amarna letters , dating from the 14th century BCE , include ten secret letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh ."
+mutation sentence,"The Tell Amarna letters , dating from the 14th century BCE , include ten letters from the Jewish kings of Gezer swearing loyalty to the Egyptian pharaoh ."
+
+
+
+"pos from 特指名词 to 其他
+"
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+original sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong to the realm of the unimaginable ."
+wrong word,belong 19
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong almost to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong only to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong firmly to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong largely to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong strictly to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong entirely to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong simply to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong directly to the realm of the unimaginable ."
+mutation sentence,"To modern audiences , most of whom will have little experience of frontline conflict , Doss ’s feats belong mostly to the realm of the unimaginable ."
+
+
+
+"pos from 动词 to 助词
+"
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"
