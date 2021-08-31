@@ -1,0 +1,2418 @@
+all_test_sen_num,c_n_same_sen_num,filtered_mut_num,cnm_100_num,cnm_000_num,cnm_001_num,cnm_010_num
+3826,60699,213001,728,5623,870,219287
+
+
+"pos from 形容 to 形容
+"
+
+
+"pos from 形容 to 介词
+"
+
+
+"pos from 形容 to 副词
+"
+original sentence,"Birds have relatively shorter , stouter femora than non-avian theropods , presumed to be associated with more horizontal orientation ."
+wrong word,more 17
+mutation sentence,"Birds have relatively shorter , stouter femora than other non-avian theropods , presumed to be associated with more horizontal orientation ."
+mutation sentence,"Birds have relatively shorter , stouter femora than many non-avian theropods , presumed to be associated with more horizontal orientation ."
+
+original sentence,"“ I was just looking around and thought she was right with me , you know ?"
+wrong word,right 11
+mutation sentence,"“ I was just looking around and thought she was right with me there , you know ?"
+
+original sentence,"I had to look at my hands very hard for a long , long time ."
+wrong word,hard 9
+mutation sentence,"I had to look at my own hands very hard for a long , long time ."
+mutation sentence,"I had to look at my empty hands very hard for a long , long time ."
+mutation sentence,"I had to look at my hands very damn hard for a long , long time ."
+mutation sentence,"I had to look at my hands very damned hard for a long , long time ."
+mutation sentence,"I had to look at my hands very hard for a really long , long time ."
+mutation sentence,"I had to look at my hands very hard for a long , long time afterward ."
+mutation sentence,"I had to look at my hands very hard for a long , long time then ."
+mutation sentence,"I had to look at my hands very hard for a long , long time there ."
+mutation sentence,"I had to look at my hands very hard for a long , long time again ."
+mutation sentence,"I had to look at my hands very hard for a long , long time thereafter ."
+
+original sentence,As a result some folks believe wikiHow is a more humane and enjoyable place to work than other places online .
+wrong word,online 20
+mutation sentence,As a result some folks believe wikiHow is a more humane and enjoyable place to work online than other places online .
+
+original sentence,USI was not alone in receiving a donation .
+wrong word,alone 4
+mutation sentence,USI was not alone however in receiving a donation .
+mutation sentence,USI was not alone here in receiving a donation .
+mutation sentence,USI was not alone statewide in receiving a donation .
+mutation sentence,USI was not alone there in receiving a donation .
+mutation sentence,USI was not alone worldwide in receiving a donation .
+mutation sentence,USI was not alone in also receiving a donation .
+mutation sentence,USI was not alone in finally receiving a donation .
+
+original sentence,"Using chalk , a stick , or your finger , draw a line on the ground 12 "" ( 30 cm ) long ."
+wrong word,long 23
+mutation sentence,"Using chalk , a stick , or your finger , draw a line on the ground 12 "" ( 30 cm ) long vertically ."
+mutation sentence,"Using chalk , a stick , or your finger , draw a line on the ground 12 "" ( 30 cm ) long evenly ."
+
+
+
+"pos from 形容 to 助词
+"
+
+
+"pos from 形容 to 并列连词
+"
+
+
+"pos from 形容 to 定冠
+"
+
+
+"pos from 形容 to 感叹
+"
+
+
+"pos from 形容 to 名词
+"
+original sentence,One of the main factors in lighting energy consumption is the light bulb .
+wrong word,light 12
+mutation sentence,One of the main factors in lighting energy consumption is the fluorescent light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the electric light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the single light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the flat light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the solar light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the square light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the overhead light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the bulb light bulb .
+mutation sentence,One of the main factors in lighting energy consumption is the plastic light bulb .
+
+original sentence,"In our experimental setup , we attempted to more closely mimic non-avian theropod tail morphology , in which mass is distributed through a distally tapering tail ."
+wrong word,theropod 13
+mutation sentence,"In our experimental setup , we attempted to more closely mimic non-avian theropod tail morphology , in which molecular mass is distributed through a distally tapering tail ."
+
+original sentence,"He is particularly remembered for his applications of mathematics to mechanics , especially fluid mechanics , and for his pioneering work in probability and statistics ."
+wrong word,fluid 14
+mutation sentence,"He is particularly remembered for his applications of mathematics to classical mechanics , especially fluid mechanics , and for his pioneering work in probability and statistics ."
+mutation sentence,"He is particularly remembered for his applications of mathematics to mathematical mechanics , especially fluid mechanics , and for his pioneering work in probability and statistics ."
+mutation sentence,"He is particularly remembered for his applications of mathematics to statistical mechanics , especially fluid mechanics , and for his pioneering work in probability and statistics ."
+mutation sentence,"He is particularly remembered for his applications of mathematics to mechanics , especially fluid mechanics , and for his pioneering scientific work in probability and statistics ."
+mutation sentence,"He is particularly remembered for his applications of mathematics to mechanics , especially fluid mechanics , and for his pioneering empirical work in probability and statistics ."
+
+original sentence,"She unclipped the cell phone from the back of Santa ’s girdle , and pushed the button with the green arrow , serrated to look like a double-edged diving knife ."
+wrong word,diving 29
+mutation sentence,"She unclipped the cell phone from the back of Santa ’s girdle , and pushed the button with the green arrow , serrated to look like a double-edged silver diving knife ."
+
+original sentence,"I arrived at the playground to find Pag the center of attention for some half-dozen kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn ."
+wrong word,half-dozen 15
+mutation sentence,"I arrived at the playground to find Pag the center of attention for some half-dozen other kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn ."
+mutation sentence,"I arrived at the playground to find Pag the center of attention for some half-dozen little kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn ."
+mutation sentence,"I arrived at the playground to find Pag the center of attention for some half-dozen younger kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn ."
+mutation sentence,"I arrived at the playground to find Pag the center of attention for some half-dozen screaming kids , those lucky few in front punching him in the head , the others making do with taunts of mongrel and polly while waiting their turn ."
+
+original sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality information yet ."
+wrong word,quality 20
+mutation sentence,"People want to learn more practical skills , and for the most part the mobile internet does n't provide enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide high enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide quite enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide good enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide nearly enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide much enough quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough high quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough good quality information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality practical information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality useful information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality basic information yet ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality information yet either ."
+mutation sentence,"People want to learn more practical skills , and for the most part the internet does n't provide enough quality information yet anymore ."
+
+original sentence,Yesterday Mohamed received VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+wrong word,VIP 4
+mutation sentence,Yesterday Mohamed received special VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received international VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received much VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received worldwide VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received more VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received global VIP attention at Google headquarters in California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received VIP attention at Google headquarters in southern California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received VIP attention at Google headquarters in northern California at the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received VIP attention at Google headquarters in California at where the Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+mutation sentence,Yesterday Mohamed received VIP attention at Google headquarters in California at the 2013 Google Science Fair — and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+
+original sentence,New faces emerge as veteran politicians step down in Hong Kong legislative election
+wrong word,veteran 5
+mutation sentence,New faces emerge as old veteran politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as two veteran politicians step down in Hong Kong legislative election
+mutation sentence,New faces emerge as three veteran politicians step down in Hong Kong legislative election
+
+original sentence,He was also an influential figure in the pop art movement .
+wrong word,pop 9
+mutation sentence,He was also an influential figure in the American pop art movement .
+mutation sentence,He was also an influential figure in the British pop art movement .
+mutation sentence,He was also an influential figure in the French pop art movement .
+mutation sentence,He was also an influential figure in the Japanese pop art movement .
+mutation sentence,He was also an influential figure in the German pop art movement .
+mutation sentence,He was also an influential figure in the pop art movement there .
+mutation sentence,He was also an influential figure in the pop art movement internationally .
+mutation sentence,He was also an influential figure in the pop art movement worldwide .
+mutation sentence,He was also an influential figure in the pop art movement today .
+mutation sentence,He was also an influential figure in the pop art movement globally .
+mutation sentence,He was also an influential figure in the pop art movement afterwards .
+
+original sentence,""" Pop art was about what popular American culture really thought was important "" , Kathryn Waters said ."
+wrong word,Pop 2
+mutation sentence,""" Early Pop art was about what popular American culture really thought was important "" , Kathryn Waters said ."
+
+original sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous industrialist fortunes .
+wrong word,industrialist 22
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous Polish industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous German industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous Prussian industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous local industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous Russian industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous foreign industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous Jewish industrialist fortunes .
+mutation sentence,The rapid development of Łódź in the second half of the 19th century was brought about by the rise of enormous European industrialist fortunes .
+
+original sentence,"The monsoon occurs in July till mid-August ( during July in the south east and south west of the island , wind surfing activity can be arranged ) ."
+wrong word,south 13
+mutation sentence,"The monsoon occurs in July right till mid-August ( during July in the south east and south west of the island , wind surfing activity can be arranged ) ."
+wrong word,south 16
+mutation sentence,"The monsoon occurs in July right till mid-August ( during July in the south east and south west of the island , wind surfing activity can be arranged ) ."
+
+original sentence,5 Remove the plastic wrap when the sprouts emerge .
+wrong word,plastic 4
+mutation sentence,5 Remove the plastic wrap when only the sprouts emerge .
+
+original sentence,People like flirting to be fun .
+wrong word,fun 6
+mutation sentence,People like flirting to be more fun .
+
+original sentence,"Cereal , diaper and houseware boxes are a good size and durable ."
+wrong word,Cereal 1
+mutation sentence,"Cereal , diaper and other houseware boxes are a good size and durable ."
+mutation sentence,"Cereal , diaper and even houseware boxes are a good size and durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good small size and durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good compact size and durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and very durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and extremely durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and highly durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and quite durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and more durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and reasonably durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and fairly durable ."
+mutation sentence,"Cereal , diaper and houseware boxes are a good size and durable together ."
+
+original sentence,Olive oil to taste ( Optional )
+wrong word,Olive 1
+mutation sentence,Olive oil to bitter taste ( Optional )
+
+original sentence,Drizzle a bit of olive oil in a pan over medium-high heat .
+wrong word,olive 5
+mutation sentence,Drizzle a bit of black olive oil in a pan over medium-high heat .
+mutation sentence,Drizzle a bit of olive oil hot in a pan over medium-high heat .
+mutation sentence,Drizzle a bit of olive oil in a heated pan over medium-high heat .
+
+
+
+"pos from 形容 to 数字
+"
+
+
+"pos from 形容 to 功能
+"
+
+
+"pos from 形容 to 代词
+"
+
+
+"pos from 形容 to 特指名词
+"
+original sentence,He was ordained as a Baptist minister .
+wrong word,Baptist 6
+mutation sentence,He later was ordained as a Baptist minister .
+mutation sentence,He also was ordained as a Baptist minister .
+mutation sentence,He then was ordained as a Baptist minister .
+mutation sentence,He subsequently was ordained as a Baptist minister .
+mutation sentence,He eventually was ordained as a Baptist minister .
+mutation sentence,He was later ordained as a Baptist minister .
+mutation sentence,He was also ordained as a Baptist minister .
+mutation sentence,He was subsequently ordained as a Baptist minister .
+mutation sentence,He was then ordained as a Baptist minister .
+mutation sentence,He was eventually ordained as a Baptist minister .
+mutation sentence,He was ordained later as a Baptist minister .
+mutation sentence,He was ordained again as a Baptist minister .
+mutation sentence,He was ordained himself as a Baptist minister .
+mutation sentence,He was ordained as a Baptist ordained minister .
+mutation sentence,He was ordained as a Baptist Christian minister .
+mutation sentence,He was ordained as a Baptist religious minister .
+mutation sentence,He was ordained as a Baptist minister himself .
+mutation sentence,He was ordained as a Baptist minister later .
+mutation sentence,He was ordained as a Baptist minister early .
+mutation sentence,He was ordained as a Baptist minister thereafter .
+
+original sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to present the title of this book .
+wrong word,Chemical 2
+mutation sentence,The First Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is exactly the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is precisely the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is just the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is actually the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is simply the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is definitely the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is really the way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the final way I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way that I ’ve decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve officially decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve actually decided to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided how to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided when to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided where to present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to officially present the title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to present the true title of this book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to present the title of this upcoming book .
+mutation sentence,The Chemical Wedding by Christian Rosencreutz is the way I ’ve decided to present the title of this book exactly .
+
+original sentence,""" Pop art was about what popular American culture really thought was important "" , Kathryn Waters said ."
+wrong word,Pop 2
+mutation sentence,""" American Pop art was about what popular American culture really thought was important "" , Kathryn Waters said ."
+
+original sentence,Tame Horomona Rehe was the last known full-blooded Moriori and he passed away in 1933 .
+wrong word,Tame 1
+mutation sentence,Tame Horomona Rehe was the last known full-blooded Southern Moriori and he passed away in 1933 .
+mutation sentence,Tame Horomona Rehe was the last known full-blooded native Moriori and he passed away in 1933 .
+mutation sentence,Tame Horomona Rehe was the last known full-blooded Moriori and thus he passed away in 1933 .
+
+original sentence,The Salt and Verde Rivers of central Arizona were exploited for large-scale agriculture by Native Americans as early as the 11th century .
+wrong word,Native 15
+mutation sentence,The Salt and Verde Rivers of central Arizona were exploited for large-scale indigenous agriculture by Native Americans as early as the 11th century .
+
+original sentence,"The Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+wrong word,Combined 4
+mutation sentence,"The Greater Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The greater Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The larger Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The entire Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The combined Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The former Tulsa Bartlesville Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Metropolitan Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Urban Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Regional Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Municipal Combined area had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area also had 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had about 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had approximately 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had over 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had nearly 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had around 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had roughly 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had almost 988,000 in the 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had 988,000 in the national 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had 988,000 in the official 2010 census ."
+mutation sentence,"The Tulsa Bartlesville Combined area had 988,000 in the 2010 national census ."
+
+original sentence,York was home first to the Ninth Legion and later the Sixth .
+wrong word,Ninth 7
+mutation sentence,York was home first to the Royal Ninth Legion and later the Sixth .
+wrong word,Sixth 12
+mutation sentence,York was home first to the Royal Ninth Legion and later the Sixth .
+
+
+
+"pos from 形容 to 标点
+"
+
+
+"pos from 形容 to 从句连词
+"
+
+
+"pos from 形容 to 符号
+"
+
+
+"pos from 形容 to 动词
+"
+
+
+"pos from 形容 to 其他
+"
+
+
+"pos from 介词 to 形容
+"
+
+
+"pos from 介词 to 介词
+"
+
+
+"pos from 介词 to 副词
+"
+original sentence,"On December 26 , 2012 he was traded to the Boston Red Sox ( along with Joel Hanrahan ) for Jerry Sands , Stolmy Pimentel , Mark Melancon , and Iván DeJesús , Jr. . [ 12 ]"
+wrong word,along 15
+mutation sentence,"On December 26 , 2012 he was traded to the Boston Red Sox ( along side with Joel Hanrahan ) for Jerry Sands , Stolmy Pimentel , Mark Melancon , and Iván DeJesús , Jr. . [ 12 ]"
+
+original sentence,"The chimneys washed away , so we scrambled onto the blue-black back encrusted with barnacles and cockles like stars in a night sky and held on tight as he rode the waves , dipping and blowing , dipping and blowing ."
+wrong word,as 28
+mutation sentence,"The chimneys washed away , so we scrambled onto the blue-black back encrusted with barnacles and cockles like stars in a night sky and held on tight as long he rode the waves , dipping and blowing , dipping and blowing ."
+
+original sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+wrong word,back 31
+mutation sentence,"I probably could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I really could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I still could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I honestly could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I just could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I also could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I sure could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I actually could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I certainly could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I sometimes could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could probably see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could still see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could almost see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could now see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could sometimes see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could already see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could actually see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could literally see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could only see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could always see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see straight into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see right into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see clearly into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see directly into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see deep into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see back into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into even his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his own head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his dark head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his little head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head much better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head even better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head far better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head almost better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head way better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head now better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head probably better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head maybe better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than even I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than maybe I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than when I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I ever could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I even could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I probably could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I really could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I actually could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I normally could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could ever see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could even see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could actually see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see directly into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see straight into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see deep into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see right into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see well into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see clearly into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into even my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my very own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; maybe he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; perhaps he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; probably he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; Maybe he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he probably was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he obviously was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he still was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he really was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he just was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he clearly was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was so scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared enough that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared badly that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared again that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared too that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared somehow that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared desperately that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that somehow his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that even his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that eventually his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that soon his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his other attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his potential attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his two attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his new attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his future attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his possible attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his three attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his own attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his unknown attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his real attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers outside might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers inside might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers just might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers nearby might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers still might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers here might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers really might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might just think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might actually think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might even think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might somehow think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might still think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might really think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might suddenly think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might simply think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might already think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those big hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those two hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those small hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those same hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those strong hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those cold hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands really were coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were really coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were slowly coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were already coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were still coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were now coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were finally coming up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming back up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming right up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming straight up to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up only to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up again to hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to maybe hit back , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back again , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back too , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back instead , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back hard , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back harder , that they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that then they 'd read it as an act of defiance and hurt him even more ."
+mutation sentence,"I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to hit back , that they 'd read it as an act of defiance and hurt him there even more ."
+
+original sentence,"Title , binding , and covers had been gnawed away ."
+wrong word,away 10
+mutation sentence,"Title , binding , and covers had been gnawed clean away ."
+mutation sentence,"Title , binding , and covers had been gnawed back away ."
+mutation sentence,"Title , binding , and covers had been gnawed completely away ."
+mutation sentence,"Title , binding , and covers had been gnawed right away ."
+mutation sentence,"Title , binding , and covers had been gnawed gently away ."
+mutation sentence,"Title , binding , and covers had been gnawed half away ."
+mutation sentence,"Title , binding , and covers had been gnawed long away ."
+
+original sentence,"Pete was leaning against the wall , watching the street go by ."
+wrong word,by 12
+mutation sentence,"Pete was just leaning against the wall , watching the street go by ."
+mutation sentence,"Pete was leaning against the wall , just watching the street go by ."
+mutation sentence,"Pete was leaning against the wall , intently watching the street go by ."
+mutation sentence,"Pete was leaning against the wall , absently watching the street go by ."
+mutation sentence,"Pete was leaning against the wall , still watching the street go by ."
+mutation sentence,"Pete was leaning against the wall , watching the quiet street go by ."
+mutation sentence,"Pete was leaning against the wall , watching the familiar street go by ."
+mutation sentence,"Pete was leaning against the wall , watching the silent street go by ."
+mutation sentence,"Pete was leaning against the wall , watching the street go slowly by ."
+mutation sentence,"Pete was leaning against the wall , watching the street go quickly by ."
+mutation sentence,"Pete was leaning against the wall , watching the street go by quickly ."
+mutation sentence,"Pete was leaning against the wall , watching the street go by quietly ."
+
+original sentence,"I held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+wrong word,up 5
+mutation sentence,"I quickly held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I immediately held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I just held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I instantly held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I slowly held a finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a warning finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a second finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a shaky finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a shaking finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a trembling finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a middle finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a silent finger up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger back up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger firmly up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger right up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger directly up to my lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my pursed lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my smiling lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my red lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my dry lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my full lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my grinning lips , and waved a hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my lips , and waved a shaky hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my lips , and waved a shaking hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my lips , and waved a calming hand to silence Pete ’s reply ."
+mutation sentence,"I held a finger up to my lips , and waved a hand around to silence Pete ’s reply ."
+
+original sentence,“ Ca n’t you just poke it out ? ”
+wrong word,out 8
+mutation sentence,“ Ca n’t you just poke it back out ? ”
+
+original sentence,We currently have just under 50000 articles and over 1000 featured articles .
+wrong word,over 9
+mutation sentence,We currently have just about under 50000 articles and over 1000 featured articles .
+mutation sentence,We currently have just under $ 50000 articles and over 1000 featured articles .
+
+original sentence,"View of the George Washington Bridge 's long span and Manhattan , as seen while looking east from Fort Lee Historic Park"
+wrong word,as 13
+mutation sentence,"View of the George Washington Bridge 's long span and Manhattan , as easily seen while looking east from Fort Lee Historic Park"
+
+original sentence,"With over 40,000 inhabitants , though , it 's not just a nature reserve ."
+wrong word,over 2
+mutation sentence,"With over 40,000 new inhabitants , though , it 's not just a nature reserve ."
+
+original sentence,"You should also stretch to "" wind down "" at the end of ballet dancing ."
+wrong word,down 8
+mutation sentence,"You should also stretch to "" slowly wind down "" at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" slightly wind down "" at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down slowly "" at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down slightly "" at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down fast "" at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down "" slightly at the end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down "" at the high end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down "" at the deep end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down "" at the extreme end of ballet dancing ."
+mutation sentence,"You should also stretch to "" wind down "" at the low end of ballet dancing ."
+
+original sentence,Hold the bird down gently with one hand .
+wrong word,down 4
+mutation sentence,Hold the bird upside down gently with one hand .
+mutation sentence,Hold the bird back down gently with one hand .
+
+original sentence,Quidditch has also spread outside of America and is now played on 5 continents .
+wrong word,outside 5
+mutation sentence,Quidditch has also spread far outside of America and is now played on 5 continents .
+mutation sentence,Quidditch has also spread much outside of America and is now played on 5 continents .
+
+original sentence,Quinoa will continue cooking for a bit even after you take it off the heat .
+wrong word,after 9
+mutation sentence,Quinoa will continue cooking for a bit even after all you take it off the heat .
+
+
+
+"pos from 介词 to 助词
+"
+
+
+"pos from 介词 to 并列连词
+"
+
+
+"pos from 介词 to 定冠
+"
+
+
+"pos from 介词 to 感叹
+"
+
+
+"pos from 介词 to 名词
+"
+
+
+"pos from 介词 to 数字
+"
+
+
+"pos from 介词 to 功能
+"
+
+
+"pos from 介词 to 代词
+"
+
+
+"pos from 介词 to 特指名词
+"
+original sentence,"New inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+wrong word,Łódź 9
+mutation sentence,"New urban inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New local inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New native inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New rich inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New Polish inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New new inhabitants , craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , new craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , skilled craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , especially craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , young craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , mostly craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , talented craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , more craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , mainly craftsmen and merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and wealthy merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and rich merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and prosperous merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and foreign merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and other merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and new merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and small merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and even merchants came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants also came to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants came regularly to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants came daily to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants came in to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants came frequently to Łódź ; markets and town fairs came to life ."
+mutation sentence,"New inhabitants , craftsmen and merchants came directly to Łódź ; markets and town fairs came to life ."
+
+
+
+"pos from 介词 to 标点
+"
+
+
+"pos from 介词 to 从句连词
+"
+
+
+"pos from 介词 to 符号
+"
+
+
+"pos from 介词 to 动词
+"
+
+
+"pos from 介词 to 其他
+"
+
+
+"pos from 副词 to 形容
+"
+original sentence,Further exploration with greater cardinal number ranges could also prove interesting .
+wrong word,Further 1
+mutation sentence,Further mathematical exploration with greater cardinal number ranges could also prove interesting .
+mutation sentence,Further algebraic exploration with greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with much greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with even greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with ever greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with far greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with slightly greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with successively greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with other greater cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater possible cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater extended cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater available cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater known cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater global cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater local cardinal number ranges could also prove interesting .
+mutation sentence,Further exploration with greater cardinal number spectral ranges could also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges possible could also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges potentially could also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could potentially also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could therefore also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could possibly also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could perhaps also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could then also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could thus also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could probably also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could however also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could yet also prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also potentially prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also possibly prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also perhaps prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also still prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also sometimes prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also likely prove interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove very interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove more interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove quite interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove extremely interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove particularly interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove especially interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove less interesting .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove interesting however .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove interesting indeed .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove interesting though .
+mutation sentence,Further exploration with greater cardinal number ranges could also prove interesting later .
+
+original sentence,"A spattering of drops plucked memories from deep in the roots , shivering through shoots and tendrils , humus and stone ."
+wrong word,deep 8
+mutation sentence,"A spattering of drops plucked memories from deep in the roots overhead , shivering through shoots and tendrils , humus and stone ."
+mutation sentence,"A spattering of drops plucked memories from deep in the roots nearby , shivering through shoots and tendrils , humus and stone ."
+
+original sentence,Blood coursed unheeded from his nose and splattered down his shirt .
+wrong word,unheeded 3
+mutation sentence,Blood still coursed unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood now coursed unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood also coursed unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed out unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed down unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed in unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed up unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed back unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed freely unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed forth unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed forward unheeded from his nose and splattered down his shirt .
+mutation sentence,Blood coursed unheeded from his nose and also splattered down his shirt .
+
+original sentence,"Veronique stayed with me that night , lying next to me in my blankets and furs ."
+wrong word,next 9
+mutation sentence,"Veronique stayed with me that night , lying next door to me in my blankets and furs ."
+mutation sentence,"Veronique stayed with me that night , lying next quietly to me in my blankets and furs ."
+mutation sentence,"Veronique stayed with me that night , lying next again to me in my blankets and furs ."
+mutation sentence,"Veronique stayed with me that night , lying next to me in my own blankets and furs ."
+mutation sentence,"Veronique stayed with me that night , lying next to me in my blankets and furs nearby ."
+
+original sentence,you 've kept it up this long
+wrong word,long 7
+mutation sentence,you 've kept it up this very long
+
+original sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most settled islands in New Zealand .
+wrong word,eastern-most 14
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most permanently settled islands in New Zealand .
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most continuously settled islands in New Zealand .
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most traditionally settled islands in New Zealand .
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most indigenous settled islands in New Zealand .
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most native settled islands in New Zealand .
+mutation sentence,The Chatnam Islands ( Rekohu in the indigenous Moriori language ) are the eastern-most heavily settled islands in New Zealand .
+
+original sentence,"Plus , this region ranks fifth in the nation in number of major cultural resources per one million residents ."
+wrong word,fifth 6
+mutation sentence,"Plus , this region ranks joint fifth in the nation in number of major cultural resources per one million residents ."
+
+original sentence,They have a warm local atmosphere and taste great .
+wrong word,great 9
+mutation sentence,They also have a warm local atmosphere and taste great .
+mutation sentence,They usually have a warm local atmosphere and taste great .
+mutation sentence,They always have a warm local atmosphere and taste great .
+mutation sentence,They often have a warm local atmosphere and taste great .
+mutation sentence,They have a very warm local atmosphere and taste great .
+mutation sentence,They have a pleasant warm local atmosphere and taste great .
+mutation sentence,They have a lovely warm local atmosphere and taste great .
+mutation sentence,They have a wonderful warm local atmosphere and taste great .
+mutation sentence,They have a rather warm local atmosphere and taste great .
+mutation sentence,They have a sweet warm local atmosphere and taste great .
+mutation sentence,They have a natural warm local atmosphere and taste great .
+mutation sentence,They have a warm local atmosphere and always taste great .
+mutation sentence,They have a warm local atmosphere and also taste great .
+mutation sentence,They have a warm local atmosphere and usually taste great .
+mutation sentence,They have a warm local atmosphere and often taste great .
+mutation sentence,They have a warm local atmosphere and generally taste great .
+mutation sentence,They have a warm local atmosphere and taste great too .
+
+original sentence,The tree got its name because if any damage is made to the bark then a dark red liquid oozes out .
+wrong word,dark 17
+mutation sentence,The tree got its name because if any damage is made to the bark then a foul dark red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a dark reddish red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a dark blood red liquid oozes out .
+
+original sentence,"To plant the basil in the garden , dig holes spaced at least 6 inches apart ."
+wrong word,least 13
+mutation sentence,"To plant the basil in the garden , dig holes spaced apart at least 6 inches apart ."
+mutation sentence,"To plant the basil in the garden , dig holes spaced at least exactly 6 inches apart ."
+
+
+
+"pos from 副词 to 介词
+"
+original sentence,"Veronique stayed with me that night , lying next to me in my blankets and furs ."
+wrong word,next 9
+mutation sentence,"Veronique stayed with me that night , lying there next to me in my blankets and furs ."
+
+original sentence,"On March 13 , Professor Chomsky sat down with Michael Dranove for an interview in his MIT office in Cambridge , Massachusetts ."
+wrong word,down 8
+mutation sentence,"On March 13 , Professor Chomsky finally sat down with Michael Dranove for an interview in his MIT office in Cambridge , Massachusetts ."
+
+original sentence,Troy Patterson of Slate Magazine ventured over to Pacific Standard to sample the new santorum cocktail at the bar .
+wrong word,over 7
+mutation sentence,Troy Patterson of Slate Magazine ventured directly over to Pacific Standard to sample the new santorum cocktail at the bar .
+mutation sentence,Troy Patterson of Slate Magazine ventured alone over to Pacific Standard to sample the new santorum cocktail at the bar .
+mutation sentence,Troy Patterson of Slate Magazine ventured solo over to Pacific Standard to sample the new santorum cocktail at the bar .
+
+original sentence,The editors punch it up over the last couple of days and then it goes out over the Internet and into the print edition .
+wrong word,out 16
+mutation sentence,The editors punch it up over the entire last couple of days and then it goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and even then it goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and so then it goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then somehow it goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it just goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it finally goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it eventually goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it actually goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it really goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it simply goes out over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it goes out again over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it goes out first over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it goes out quickly over the Internet and into the print edition .
+mutation sentence,The editors punch it up over the last couple of days and then it goes out over the entire Internet and into the print edition .
+
+original sentence,I started to write down my dreams .
+wrong word,down 5
+mutation sentence,I immediately started to write down my dreams .
+mutation sentence,I then started to write down my dreams .
+mutation sentence,I started to write down my bad dreams .
+mutation sentence,I started to write down my recent dreams .
+mutation sentence,I started to write down my last dreams .
+mutation sentence,I started to write down my strange dreams .
+mutation sentence,I started to write down my dreams again .
+mutation sentence,I started to write down my dreams now .
+mutation sentence,I started to write down my dreams aloud .
+mutation sentence,I started to write down my dreams mentally .
+mutation sentence,I started to write down my dreams then .
+mutation sentence,I started to write down my dreams immediately .
+
+original sentence,I think that in this kind of structure there is a very gradual clarification of the relationship and the forth going on .
+wrong word,on 22
+mutation sentence,I think that in this kind of structure there actually is a very gradual clarification of the relationship and the forth going on .
+mutation sentence,I think that in this kind of structure there necessarily is a very gradual clarification of the relationship and the forth going on .
+mutation sentence,I think that in this kind of structure there just is a very gradual clarification of the relationship and the forth going on .
+mutation sentence,I think that in this kind of structure there is just a very gradual clarification of the relationship and the forth going on .
+
+original sentence,"Guests of the lodge can meander around either a short easy walk , or take the longer 2 hr return walk out onto the spectacular beach ."
+wrong word,around 7
+mutation sentence,"Guests of the lodge can meander around either a short easy circular walk , or take the longer 2 hr return walk out onto the spectacular beach ."
+
+original sentence,The tree got its name because if any damage is made to the bark then a dark red liquid oozes out .
+wrong word,out 21
+mutation sentence,The tree got its name because if any damage is made to the bark then a shiny dark red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a clear dark red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a foul dark red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a dark reddish red liquid oozes out .
+mutation sentence,The tree got its name because if any damage is made to the bark then a dark blood red liquid oozes out .
+
+original sentence,In addition there are over 120 species of birds and about 190 species of butterflies .
+wrong word,over 5
+mutation sentence,In addition there also are over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there here are over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are also over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are just over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are well over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are probably over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are still over 120 species of birds and about 190 species of butterflies .
+mutation sentence,In addition there are some over 120 species of birds and about 190 species of butterflies .
+
+original sentence,Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+wrong word,around 7
+mutation sentence,Beaters also can try hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+mutation sentence,Beaters can also try hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+mutation sentence,Beaters can try also hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+mutation sentence,Beaters can try just hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+mutation sentence,Beaters can try hitting the other bludgers around in the air with a shortened hockey sticks or a short bat .
+mutation sentence,Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a modified short bat .
+mutation sentence,Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a simple short bat .
+
+
+
+"pos from 副词 to 副词
+"
+
+
+"pos from 副词 to 助词
+"
+
+
+"pos from 副词 to 并列连词
+"
+
+
+"pos from 副词 to 定冠
+"
+original sentence,The choice is all yours .
+wrong word,all 4
+mutation sentence,The choice though is all yours .
+mutation sentence,The choice is probably all yours .
+mutation sentence,The choice is all yours now .
+mutation sentence,The choice is all yours tonight .
+mutation sentence,The choice is all yours then .
+mutation sentence,The choice is all yours though .
+mutation sentence,The choice is all yours today .
+
+
+
+"pos from 副词 to 感叹
+"
+
+
+"pos from 副词 to 名词
+"
+original sentence,York was home first to the Ninth Legion and later the Sixth .
+wrong word,home 3
+mutation sentence,York was home first to the Royal Ninth Legion and later the Sixth .
+
+
+
+"pos from 副词 to 数字
+"
+
+
+"pos from 副词 to 功能
+"
+
+
+"pos from 副词 to 代词
+"
+
+
+"pos from 副词 to 特指名词
+"
+
+
+"pos from 副词 to 标点
+"
+
+
+"pos from 副词 to 从句连词
+"
+original sentence,"A translucent little head poked out from behind a pot of organic-sugarcane exfoliating body polish , and looked at me with exaggerated puppy eyes and a trembling lower lip ."
+wrong word,out 6
+mutation sentence,"A translucent little head poked right out from behind a pot of organic-sugarcane exfoliating body polish , and looked at me with exaggerated puppy eyes and a trembling lower lip ."
+
+
+
+"pos from 副词 to 符号
+"
+
+
+"pos from 副词 to 动词
+"
+
+
+"pos from 副词 to 其他
+"
+
+
+"pos from 助词 to 形容
+"
+
+
+"pos from 助词 to 介词
+"
+
+
+"pos from 助词 to 副词
+"
+
+
+"pos from 助词 to 助词
+"
+
+
+"pos from 助词 to 并列连词
+"
+
+
+"pos from 助词 to 定冠
+"
+
+
+"pos from 助词 to 感叹
+"
+
+
+"pos from 助词 to 名词
+"
+
+
+"pos from 助词 to 数字
+"
+
+
+"pos from 助词 to 功能
+"
+
+
+"pos from 助词 to 代词
+"
+
+
+"pos from 助词 to 特指名词
+"
+
+
+"pos from 助词 to 标点
+"
+
+
+"pos from 助词 to 从句连词
+"
+
+
+"pos from 助词 to 符号
+"
+
+
+"pos from 助词 to 动词
+"
+original sentence,"-- and he 's in the end , he would say , "" Well , I wo n't hire them . """
+wrong word,'s 4
+mutation sentence,"-- and where he 's in the end , he would say , "" Well , I wo n't hire them . """
+mutation sentence,"-- and wherever he 's in the end , he would say , "" Well , I wo n't hire them . """
+
+original sentence,"If you 're signed up for a class , check with your instructor to find out if there is a dress code at the school ."
+wrong word,is 19
+mutation sentence,"If you 're signed up for a class , check with your instructor to find out just if there is a dress code at the school ."
+mutation sentence,"If you 're signed up for a class , check with your instructor to find out more if there is a dress code at the school ."
+
+
+
+"pos from 助词 to 其他
+"
+
+
+"pos from 并列连词 to 形容
+"
+
+
+"pos from 并列连词 to 介词
+"
+
+
+"pos from 并列连词 to 副词
+"
+original sentence,"So you do n’t have writers coming up with a story and headline , but you will instead have a team of writers choosing the best headlines and then assign it to a particular writer who was not necessarily involved ?"
+wrong word,So 1
+mutation sentence,"So you do n’t have writers coming up with a story and headline , but now you will instead have a team of writers choosing the best headlines and then assign it to a particular writer who was not necessarily involved ?"
+
+
+
+"pos from 并列连词 to 助词
+"
+
+
+"pos from 并列连词 to 并列连词
+"
+
+
+"pos from 并列连词 to 定冠
+"
+
+
+"pos from 并列连词 to 感叹
+"
+
+
+"pos from 并列连词 to 名词
+"
+
+
+"pos from 并列连词 to 数字
+"
+
+
+"pos from 并列连词 to 功能
+"
+
+
+"pos from 并列连词 to 代词
+"
+
+
+"pos from 并列连词 to 特指名词
+"
+original sentence,"She achieved prominence as the star of Elevator to the Gallows ( 1958 ) , directed by Louis Malle , and Jules et Jim ( 1962 ) , directed by François Truffaut ."
+wrong word,et 23
+mutation sentence,"She achieved prominence as the eponymous star of Elevator to the Gallows ( 1958 ) , directed by Louis Malle , and Jules et Jim ( 1962 ) , directed by François Truffaut ."
+mutation sentence,"She achieved prominence as the star of Elevator 2 to the Gallows ( 1958 ) , directed by Louis Malle , and Jules et Jim ( 1962 ) , directed by François Truffaut ."
+mutation sentence,"She achieved prominence as the star of Elevator to the Gallows ( 1958 ) , directed posthumously by Louis Malle , and Jules et Jim ( 1962 ) , directed by François Truffaut ."
+mutation sentence,"She achieved prominence as the star of Elevator to the Gallows ( 1958 ) , directed by Louis Malle , and Jules Marie et Jim ( 1962 ) , directed by François Truffaut ."
+mutation sentence,"She achieved prominence as the star of Elevator to the Gallows ( 1958 ) , directed by Louis Malle , and Jules Pierre et Jim ( 1962 ) , directed by François Truffaut ."
+
+
+
+"pos from 并列连词 to 标点
+"
+
+
+"pos from 并列连词 to 从句连词
+"
+
+
+"pos from 并列连词 to 符号
+"
+
+
+"pos from 并列连词 to 动词
+"
+
+
+"pos from 并列连词 to 其他
+"
+
+
+"pos from 定冠 to 形容
+"
+
+
+"pos from 定冠 to 介词
+"
+
+
+"pos from 定冠 to 副词
+"
+original sentence,The Enemy can not be allowed to advance any further .
+wrong word,any 9
+mutation sentence,The Enemy can not be allowed to advance again any further .
+
+
+
+"pos from 定冠 to 助词
+"
+
+
+"pos from 定冠 to 并列连词
+"
+
+
+"pos from 定冠 to 定冠
+"
+
+
+"pos from 定冠 to 感叹
+"
+
+
+"pos from 定冠 to 名词
+"
+
+
+"pos from 定冠 to 数字
+"
+
+
+"pos from 定冠 to 功能
+"
+
+
+"pos from 定冠 to 代词
+"
+
+
+"pos from 定冠 to 特指名词
+"
+
+
+"pos from 定冠 to 标点
+"
+
+
+"pos from 定冠 to 从句连词
+"
+
+
+"pos from 定冠 to 符号
+"
+
+
+"pos from 定冠 to 动词
+"
+
+
+"pos from 定冠 to 其他
+"
+
+
+"pos from 感叹 to 形容
+"
+
+
+"pos from 感叹 to 介词
+"
+original sentence,It 's cool ... it 's like another family .
+wrong word,like 7
+mutation sentence,It always 's cool ... it 's like another family .
+mutation sentence,It 's cool here ... it 's like another family .
+mutation sentence,It 's cool now ... it 's like another family .
+mutation sentence,It 's cool ... Sometimes it 's like another family .
+mutation sentence,It 's cool ... it really 's like another family .
+mutation sentence,It 's cool ... it 's almost like another family .
+mutation sentence,It 's cool ... it 's just like another family .
+mutation sentence,It 's cool ... it 's more like another family .
+mutation sentence,It 's cool ... it 's kinda like another family .
+mutation sentence,It 's cool ... it 's really like another family .
+mutation sentence,It 's cool ... it 's like another human family .
+mutation sentence,It 's cool ... it 's like another extended family .
+mutation sentence,It 's cool ... it 's like another family again .
+
+
+
+"pos from 感叹 to 副词
+"
+
+
+"pos from 感叹 to 助词
+"
+
+
+"pos from 感叹 to 并列连词
+"
+
+
+"pos from 感叹 to 定冠
+"
+
+
+"pos from 感叹 to 感叹
+"
+
+
+"pos from 感叹 to 名词
+"
+
+
+"pos from 感叹 to 数字
+"
+
+
+"pos from 感叹 to 功能
+"
+
+
+"pos from 感叹 to 代词
+"
+
+
+"pos from 感叹 to 特指名词
+"
+
+
+"pos from 感叹 to 标点
+"
+
+
+"pos from 感叹 to 从句连词
+"
+
+
+"pos from 感叹 to 符号
+"
+
+
+"pos from 感叹 to 动词
+"
+
+
+"pos from 感叹 to 其他
+"
+
+
+"pos from 名词 to 形容
+"
+original sentence,"Daniel realised that in a similar way , a moving fluid exchanges its kinetic energy for pressure ."
+wrong word,kinetic 14
+mutation sentence,"Daniel realised that in a similar way , a free moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a continuously moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a fast moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a slow moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a rapidly moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a constantly moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a slowly moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a naturally moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a slower moving fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving hot fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving rotating fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving flowing fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving stationary fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving liquid fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving working fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving static fluid exchanges its kinetic energy for pressure ."
+mutation sentence,"Daniel realised that in a similar way , a moving hydraulic fluid exchanges its kinetic energy for pressure ."
+
+original sentence,In the 1960s Hadid attended boarding schools in England and Switzerland .
+wrong word,boarding 6
+mutation sentence,In the 1960s Hadid attended boarding high schools in England and Switzerland .
+mutation sentence,In the 1960s Hadid attended boarding international schools in England and Switzerland .
+mutation sentence,In the 1960s Hadid attended boarding secondary schools in England and Switzerland .
+
+original sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season ."
+wrong word,leadoff 22
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff single for the rest of the season ."
+
+original sentence,"We were fellow outcasts , bound by complementary misfortune ."
+wrong word,fellow 3
+mutation sentence,"We too were fellow outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow social outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow cultural outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow human outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow tragic outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow political outcasts , bound by complementary misfortune ."
+mutation sentence,"We were fellow American outcasts , bound by complementary misfortune ."
+
+original sentence,The Independent reported self-medicating ants a first among insects .
+wrong word,first 7
+mutation sentence,The Independent later reported self-medicating ants a first among insects .
+mutation sentence,The Independent reported self-medicating ants a new first among insects .
+mutation sentence,The Independent reported self-medicating ants a national first among insects .
+mutation sentence,The Independent reported self-medicating ants a worldwide first among insects .
+mutation sentence,The Independent reported self-medicating ants a global first among insects .
+mutation sentence,The Independent reported self-medicating ants a first ever among insects .
+
+original sentence,"After a while I needed to start thinking about an internship for my M.Sc. studies , and decided to write a couple of professors ."
+wrong word,M.Sc. 14
+mutation sentence,"After a while I needed to start thinking about an internship for my post M.Sc. studies , and decided to write a couple of professors ."
+
+original sentence,"Bailey 's , orange vodka , bitters , and chocolate flakes ."
+wrong word,orange 4
+mutation sentence,"Bailey 's , orange vodka , bitters , and dark chocolate flakes ."
+
+original sentence,I look at it as human interaction .
+wrong word,human 6
+mutation sentence,I look at it more as human interaction .
+mutation sentence,I look at it only as human interaction .
+mutation sentence,I look at it as purely human interaction .
+mutation sentence,I look at it as human social interaction .
+mutation sentence,I look at it as human sexual interaction .
+mutation sentence,I look at it as human cultural interaction .
+mutation sentence,I look at it as human emotional interaction .
+mutation sentence,I look at it as human bodily interaction .
+mutation sentence,I look at it as human physical interaction .
+
+original sentence,"In the staccato part it 's like a music : a lot of break , very very short sentences ."
+wrong word,staccato 3
+mutation sentence,"In the very staccato part it 's like a music : a lot of break , very very short sentences ."
+mutation sentence,"In the staccato second part it 's like a music : a lot of break , very very short sentences ."
+mutation sentence,"In the staccato middle part it 's like a music : a lot of break , very very short sentences ."
+mutation sentence,"In the staccato third part it 's like a music : a lot of break , very very short sentences ."
+
+original sentence,"Two pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+wrong word,veteran 3
+mutation sentence,"Two other pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two incumbent pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two former pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two veteran pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two sitting pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two more pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran local politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran former politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran national politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran Chinese politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this electoral constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+mutation sentence,"Two pan-democratic veteran politicians Lee Cheuk-yan of the Labour Party and Frederick Fung of ADPL were defeated in this rural constituency , with Junius Ho defeating Lee Cheuk-yan by around five thousand votes ."
+
+original sentence,Pan-democrat Lam Cheuk-ting from the Democratic Party and localist group Youngspiration 's Baggio Leung were successfully elected newcomers .
+wrong word,localist 9
+mutation sentence,Pan-democrat Lam Cheuk-ting from the Democratic Party and localist nationalist group Youngspiration 's Baggio Leung were successfully elected newcomers .
+
+original sentence,"Localist group Civic Passion 's Wong Yeung-tat was defeated in this district , and resigned his leadership in Civic Passion ."
+wrong word,Localist 1
+mutation sentence,"Localist political group Civic Passion 's Wong Yeung-tat was defeated in this district , and resigned his leadership in Civic Passion ."
+mutation sentence,"Localist conservative group Civic Passion 's Wong Yeung-tat was defeated in this district , and resigned his leadership in Civic Passion ."
+mutation sentence,"Localist liberal group Civic Passion 's Wong Yeung-tat was defeated in this district , and resigned his leadership in Civic Passion ."
+
+original sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while pro-Beijing veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+wrong word,veteran 18
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while incumbent pro-Beijing veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while fellow pro-Beijing veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while former pro-Beijing veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while veteran pro-Beijing veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while pro-Beijing former veteran politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while pro-Beijing veteran local politician Wong Kwok-hing of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while pro-Beijing veteran politician Wong Kwok-hing also of FTU was defeated by 10,694 votes by James To ."
+mutation sentence,"Pro-Beijing DAB 's Starry Lee and Holden Chow were successfully elected in this constituency , while pro-Beijing veteran politician Wong Kwok-hing again of FTU was defeated by 10,694 votes by James To ."
+
+original sentence,"As they design their web pages for the newer browsers with advanced web technology and geared to the newest web core markup language HTML 5 , they are forced to accommodate older out-of-date technology to support IE6 users ."
+wrong word,out-of-date 33
+mutation sentence,"As typically they design their web pages for the newer browsers with advanced web technology and geared to the newest web core markup language HTML 5 , they are forced to accommodate older out-of-date technology to support IE6 users ."
+mutation sentence,"As often they design their web pages for the newer browsers with advanced web technology and geared to the newest web core markup language HTML 5 , they are forced to accommodate older out-of-date technology to support IE6 users ."
+
+original sentence,"Lemon basil actually contains citral , an aromatic compound found in citrus fruit , and smells very lemony ."
+wrong word,citrus 12
+mutation sentence,"Lemon basil actually contains citral , an aromatic natural compound found in citrus fruit , and smells very lemony ."
+mutation sentence,"Lemon basil actually contains citral , an aromatic compound found mostly in citrus fruit , and smells very lemony ."
+mutation sentence,"Lemon basil actually contains citral , an aromatic compound found primarily in citrus fruit , and smells very lemony ."
+mutation sentence,"Lemon basil actually contains citral , an aromatic compound found predominantly in citrus fruit , and smells very lemony ."
+
+original sentence,You do n't need flying broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+wrong word,magic 8
+mutation sentence,You do n't need magical flying broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+mutation sentence,You do n't need flying magic broomsticks or magic balls to play this version of the game - it 's tailor-made for muggles like us .
+
+original sentence,Add one cup of broth and one cup of water to the saucepan and bring to a boil over medium high heat .
+wrong word,medium 20
+mutation sentence,Add one cup of broth and one cup of water to the saucepan and bring to a boil immediately over medium high heat .
+mutation sentence,Add one cup of broth and one cup of water to the saucepan and bring to a boil directly over medium high heat .
+mutation sentence,Add one cup of broth and one cup of water to the saucepan and bring to a boil when over medium high heat .
+
+
+
+"pos from 名词 to 介词
+"
+
+
+"pos from 名词 to 副词
+"
+original sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season ."
+wrong word,leadoff 22
+mutation sentence,"Holt again started 2014 in Triple-A , but was later called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit mostly leadoff for the rest of the season ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit primarily leadoff for the rest of the season ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit mainly leadoff for the rest of the season ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season there ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season afterwards ."
+mutation sentence,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and hit leadoff for the rest of the season afterward ."
+
+original sentence,He stopped midway through the calibration and glanced out of his cockpit .
+wrong word,midway 3
+mutation sentence,He stopped midway through the calibration and glanced quickly out of his cockpit .
+mutation sentence,He stopped midway through the calibration and glanced curiously out of his cockpit .
+mutation sentence,He stopped midway through the calibration and glanced warily out of his cockpit .
+
+original sentence,The Katy Trail runs west to Sand Springs .
+wrong word,west 5
+mutation sentence,The Katy Trail runs further west to Sand Springs .
+mutation sentence,The Katy Trail runs south west to Sand Springs .
+mutation sentence,The Katy Trail runs due west to Sand Springs .
+mutation sentence,The Katy Trail runs farther west to Sand Springs .
+mutation sentence,The Katy Trail runs directly west to Sand Springs .
+mutation sentence,The Katy Trail runs just west to Sand Springs .
+mutation sentence,The Katy Trail runs immediately west to Sand Springs .
+mutation sentence,The Katy Trail runs next west to Sand Springs .
+
+original sentence,The Creek Trail connects Rivertrail and continues east through Broken Arrow to the NSU-Broken Arrow campus .
+wrong word,east 8
+mutation sentence,The Creek Trail also connects Rivertrail and continues east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail then connects Rivertrail and continues east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and also continues east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues on east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues straight east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues directly east through Broken Arrow to the NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues east through Broken Arrow to the new NSU-Broken Arrow campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues east through Broken Arrow to the NSU-Broken Arrow main campus .
+mutation sentence,The Creek Trail connects Rivertrail and continues east through Broken Arrow to the NSU-Broken Arrow central campus .
+
+
+
+"pos from 名词 to 助词
+"
+
+
+"pos from 名词 to 并列连词
+"
+
+
+"pos from 名词 to 定冠
+"
+
+
+"pos from 名词 to 感叹
+"
+original sentence,"“ Do n’t humor them , dammit , ” Jenna said , and stomped , still naked , still wet , toward the phone in the kitchen ."
+wrong word,dammit 7
+mutation sentence,"“ Do n’t just humor them , dammit , ” Jenna said , and stomped , still naked , still wet , toward the phone in the kitchen ."
+
+
+
+"pos from 名词 to 名词
+"
+
+
+"pos from 名词 to 数字
+"
+original sentence,I do n't know if you 'd like to see one .
+wrong word,one 11
+mutation sentence,I do n't know if you 'd like to see one more .
+
+original sentence,He 'll make you fill one out .
+wrong word,one 6
+mutation sentence,He 'll only make you fill one out .
+mutation sentence,He 'll make you just fill one out .
+mutation sentence,He 'll make you personally fill one out .
+mutation sentence,He 'll make you fill one more out .
+
+original sentence,the new one would be unique to New Zealand .
+wrong word,one 3
+mutation sentence,the new one would therefore be unique to New Zealand .
+mutation sentence,the new one would thus be unique to New Zealand .
+mutation sentence,the new one would be entirely unique to New Zealand .
+mutation sentence,the new one would be wholly unique to New Zealand .
+mutation sentence,the new one would be largely unique to New Zealand .
+mutation sentence,the new one would be virtually unique to New Zealand .
+
+original sentence,Valley Metro #13 goes west to S 75th Ave along S Buckeye ( via Greyhound depot ) from Terminal 2 .
+wrong word,#13 3
+mutation sentence,Valley Metro #13 then goes west to S 75th Ave along S Buckeye ( via Greyhound depot ) from Terminal 2 .
+
+
+
+"pos from 名词 to 功能
+"
+
+
+"pos from 名词 to 代词
+"
+
+
+"pos from 名词 to 特指名词
+"
+
+
+"pos from 名词 to 标点
+"
+
+
+"pos from 名词 to 从句连词
+"
+
+
+"pos from 名词 to 符号
+"
+
+
+"pos from 名词 to 动词
+"
+original sentence,These institutions do not exist solely to credential experts .
+wrong word,credential 8
+mutation sentence,These national institutions do not exist solely to credential experts .
+mutation sentence,These institutions often do not exist solely to credential experts .
+mutation sentence,These institutions certainly do not exist solely to credential experts .
+mutation sentence,These institutions do not only exist solely to credential experts .
+mutation sentence,These institutions do not actually exist solely to credential experts .
+mutation sentence,These institutions do not exist solely to credential experts worldwide .
+mutation sentence,These institutions do not exist solely to credential experts anymore .
+
+
+
+"pos from 名词 to 其他
+"
+original sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+wrong word,mama 15
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" la chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" ya chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" sa chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" mi chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" ta chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" ma chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" ni chisaya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya de mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya ya mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya la mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya sa mama "" or "" mother of all grains . "" [ 1 ]"
+mutation sentence,"The Incas treated the crop as sacred and referred to quinoa as "" chisaya mama "" or "" mother of all grains alive . "" [ 1 ]"
+
+
+
+"pos from 数字 to 形容
+"
+
+
+"pos from 数字 to 介词
+"
+
+
+"pos from 数字 to 副词
+"
+
+
+"pos from 数字 to 助词
+"
+
+
+"pos from 数字 to 并列连词
+"
+
+
+"pos from 数字 to 定冠
+"
+
+
+"pos from 数字 to 感叹
+"
+
+
+"pos from 数字 to 名词
+"
+original sentence,A three–day conference was held at UC Berkeley in celebration of his 80th birthday in 2009 . [ 2 ]
+wrong word,three–day 2
+mutation sentence,A three–day international conference was held at UC Berkeley in celebration of his 80th birthday in 2009 . [ 2 ]
+mutation sentence,A three–day memorial conference was held at UC Berkeley in celebration of his 80th birthday in 2009 . [ 2 ]
+mutation sentence,A three–day special conference was held at UC Berkeley in celebration of his 80th birthday in 2009 . [ 2 ]
+mutation sentence,A three–day scientific conference was held at UC Berkeley in celebration of his 80th birthday in 2009 . [ 2 ]
+
+original sentence,"Remember that there is a nine-hour difference between Sochi and New York , and a 12-hour difference between Sochi and the US West Coast ."
+wrong word,nine-hour 6
+mutation sentence,"Remember that there is about a nine-hour difference between Sochi and New York , and a 12-hour difference between Sochi and the US West Coast ."
+wrong word,12-hour 16
+mutation sentence,"Remember that there is about a nine-hour difference between Sochi and New York , and a 12-hour difference between Sochi and the US West Coast ."
+
+original sentence,South Korea had recently started to broadcast propaganda from loudspeakers after an 11-year lull .
+wrong word,11-year 13
+mutation sentence,South Korea had recently started to broadcast propaganda from loudspeakers after an 11-year political lull .
+mutation sentence,South Korea had recently started to broadcast propaganda from loudspeakers after an 11-year military lull .
+mutation sentence,South Korea had recently started to broadcast propaganda from loudspeakers after an 11-year diplomatic lull .
+
+original sentence,"If you do n't finish the task in the allotted time , then you move on to the next one ."
+wrong word,one 20
+mutation sentence,"If you do n't finish the task in about the allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in exactly the allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in approximately the allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the minimum allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the total allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the first allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the specified allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the maximum allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the time allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the currently allotted time , then you move on to the next one ."
+mutation sentence,"If you do n't finish the task in the next allotted time , then you move on to the next one ."
+
+
+
+"pos from 数字 to 数字
+"
+
+
+"pos from 数字 to 功能
+"
+
+
+"pos from 数字 to 代词
+"
+
+
+"pos from 数字 to 特指名词
+"
+original sentence,It ’s Jenna McMasters in 5C .
+wrong word,5C 6
+mutation sentence,It ’s really Jenna McMasters in 5C .
+
+
+
+"pos from 数字 to 标点
+"
+
+
+"pos from 数字 to 从句连词
+"
+
+
+"pos from 数字 to 符号
+"
+
+
+"pos from 数字 to 动词
+"
+
+
+"pos from 数字 to 其他
+"
+
+
+"pos from 功能 to 形容
+"
+
+
+"pos from 功能 to 介词
+"
+original sentence,Olive oil to taste ( Optional )
+wrong word,to 3
+mutation sentence,Olive oil to bitter taste ( Optional )
+
+
+
+"pos from 功能 to 副词
+"
+
+
+"pos from 功能 to 助词
+"
+
+
+"pos from 功能 to 并列连词
+"
+
+
+"pos from 功能 to 定冠
+"
+
+
+"pos from 功能 to 感叹
+"
+
+
+"pos from 功能 to 名词
+"
+
+
+"pos from 功能 to 数字
+"
+
+
+"pos from 功能 to 功能
+"
+
+
+"pos from 功能 to 代词
+"
+
+
+"pos from 功能 to 特指名词
+"
+
+
+"pos from 功能 to 标点
+"
+
+
+"pos from 功能 to 从句连词
+"
+
+
+"pos from 功能 to 符号
+"
+
+
+"pos from 功能 to 动词
+"
+
+
+"pos from 功能 to 其他
+"
+
+
+"pos from 代词 to 形容
+"
+original sentence,Use a funnel to make everything safe and easy .
+wrong word,everything 6
+mutation sentence,Use a funnel to make almost everything safe and easy .
+mutation sentence,Use a funnel to make nearly everything safe and easy .
+
+
+
+"pos from 代词 to 介词
+"
+
+
+"pos from 代词 to 副词
+"
+
+
+"pos from 代词 to 助词
+"
+
+
+"pos from 代词 to 并列连词
+"
+
+
+"pos from 代词 to 定冠
+"
+
+
+"pos from 代词 to 感叹
+"
+
+
+"pos from 代词 to 名词
+"
+
+
+"pos from 代词 to 数字
+"
+
+
+"pos from 代词 to 功能
+"
+
+
+"pos from 代词 to 代词
+"
+
+
+"pos from 代词 to 特指名词
+"
+
+
+"pos from 代词 to 标点
+"
+
+
+"pos from 代词 to 从句连词
+"
+
+
+"pos from 代词 to 符号
+"
+
+
+"pos from 代词 to 动词
+"
+
+
+"pos from 代词 to 其他
+"
+
+
+"pos from 特指名词 to 形容
+"
+original sentence,"In his My Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+wrong word,Linguistic 4
+mutation sentence,"In his My Complete Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+mutation sentence,"In his My First Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+mutation sentence,"In his My Own Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+mutation sentence,"In his My Great Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+mutation sentence,"In his My Short Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+mutation sentence,"In his My Early Linguistic Autobiography , he wrote of his ability to pick up a Chinese dialect quickly , without much effort ."
+
+original sentence,His first role was a minor role in the 1999 film A Little Inside .
+wrong word,Little 13
+mutation sentence,His first role was a minor role in the 1999 film A Very Little Inside .
+
+original sentence,Rick Santorum himself has acknowledged and discussed the existence and prevalence of the santorum neologism phenomenon ; he was quoted by The Canadian Press on his assessment of Google 's response ;
+wrong word,Canadian 23
+mutation sentence,Rick Santorum himself has acknowledged and discussed the existence and prevalence of the santorum neologism phenomenon ; he was quoted by The French Canadian Press on his assessment of Google 's response ;
+
+original sentence,Memon also said she believed the social movement in reaction to Mohamed helped improve Muslim / non-Muslim .
+wrong word,non-Muslim 17
+mutation sentence,Memon also said she believed the social movement in reaction to Mohamed helped improve Muslim women / non-Muslim .
+mutation sentence,Memon also said she believed the social movement in reaction to Mohamed helped improve Muslim / even non-Muslim .
+
+
+
+"pos from 特指名词 to 介词
+"
+
+
+"pos from 特指名词 to 副词
+"
+
+
+"pos from 特指名词 to 助词
+"
+
+
+"pos from 特指名词 to 并列连词
+"
+
+
+"pos from 特指名词 to 定冠
+"
+
+
+"pos from 特指名词 to 感叹
+"
+
+
+"pos from 特指名词 to 名词
+"
+
+
+"pos from 特指名词 to 数字
+"
+original sentence,"He currently stars in Sky One 's fantasy-romance series , A Discovery of Witches , as Professor Matthew Clairmont and is filming Matthew Vaughn 's Kingsman prequel , The King 's Man ."
+wrong word,One 6
+mutation sentence,"He currently stars in Sky One 's fantasy-romance series , A Discovery of Witches , as Professor Matthew Clairmont and is filming Matthew Vaughn 's Kingsman prequel , The King 's Own Man ."
+mutation sentence,"He currently stars in Sky One 's fantasy-romance series , A Discovery of Witches , as Professor Matthew Clairmont and is filming Matthew Vaughn 's Kingsman prequel , The King 's Second Man ."
+
+
+
+"pos from 特指名词 to 功能
+"
+
+
+"pos from 特指名词 to 代词
+"
+
+
+"pos from 特指名词 to 特指名词
+"
+
+
+"pos from 特指名词 to 标点
+"
+
+
+"pos from 特指名词 to 从句连词
+"
+
+
+"pos from 特指名词 to 符号
+"
+
+
+"pos from 特指名词 to 动词
+"
+
+
+"pos from 特指名词 to 其他
+"
+original sentence,"We translated "" phrase-bounded enjambment "" from "" encabalgamiento sirremático "" ."
+wrong word,sirremático 10
+mutation sentence,"We translated "" linguistic phrase-bounded enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" universal phrase-bounded enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" verbal phrase-bounded enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" phrase-bounded linguistic enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" phrase-bounded structural enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" phrase-bounded universal enjambment "" from "" encabalgamiento sirremático "" ."
+mutation sentence,"We translated "" phrase-bounded spatial enjambment "" from "" encabalgamiento sirremático "" ."
+
+original sentence,The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage 's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality ;
+wrong word,santorum 7
+mutation sentence,The beverage was inspired by the ad santorum neologism coined in advice columnist Dan Savage 's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality ;
+
+
+
+"pos from 标点 to 形容
+"
+
+
+"pos from 标点 to 介词
+"
+
+
+"pos from 标点 to 副词
+"
+
+
+"pos from 标点 to 助词
+"
+
+
+"pos from 标点 to 并列连词
+"
+
+
+"pos from 标点 to 定冠
+"
+
+
+"pos from 标点 to 感叹
+"
+
+
+"pos from 标点 to 名词
+"
+
+
+"pos from 标点 to 数字
+"
+
+
+"pos from 标点 to 功能
+"
+
+
+"pos from 标点 to 代词
+"
+
+
+"pos from 标点 to 特指名词
+"
+
+
+"pos from 标点 to 标点
+"
+
+
+"pos from 标点 to 从句连词
+"
+
+
+"pos from 标点 to 符号
+"
+
+
+"pos from 标点 to 动词
+"
+
+
+"pos from 标点 to 其他
+"
+
+
+"pos from 从句连词 to 形容
+"
+
+
+"pos from 从句连词 to 介词
+"
+
+
+"pos from 从句连词 to 副词
+"
+original sentence,"Moments later , his craft was taxied to the catapult and before long he 'd found himself out in space and into the thick of battle ."
+wrong word,out 18
+mutation sentence,"Moments later , his craft was taxied to the catapult and before too long he 'd found himself out in space and into the thick of battle ."
+
+original sentence,"For the last year SNY has broadcast footage of me with my poems , so quite a few fans known about the "" Mets Poet ' ."
+wrong word,so 15
+mutation sentence,"For the last year SNY has broadcast footage of me with my poems , so already quite a few fans known about the "" Mets Poet ' ."
+
+original sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at sea ."
+wrong word,out 25
+mutation sentence,"The US State Department said John Kerry , the Secretary of State , contacted Thailand 's foreign minister over temporary housing for the Rohingya out at open sea ."
+
+original sentence,"If you ca n't buy ballet shoes , that it is okay ."
+wrong word,that 9
+mutation sentence,"If you ca n't buy ballet shoes , that is it is okay ."
+
+
+
+"pos from 从句连词 to 助词
+"
+
+
+"pos from 从句连词 to 并列连词
+"
+original sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being nothing but a flat , arid dust bowl ."
+wrong word,but 13
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being essentially nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being basically nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being virtually nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being largely nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being mostly nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being almost nothing but a flat , arid dust bowl ."
+mutation sentence,"As a result , Tulsa breaks the Oklahoma stereotype of being literally nothing but a flat , arid dust bowl ."
+
+
+
+"pos from 从句连词 to 定冠
+"
+
+
+"pos from 从句连词 to 感叹
+"
+
+
+"pos from 从句连词 to 名词
+"
+
+
+"pos from 从句连词 to 数字
+"
+
+
+"pos from 从句连词 to 功能
+"
+
+
+"pos from 从句连词 to 代词
+"
+
+
+"pos from 从句连词 to 特指名词
+"
+
+
+"pos from 从句连词 to 标点
+"
+
+
+"pos from 从句连词 to 从句连词
+"
+
+
+"pos from 从句连词 to 符号
+"
+
+
+"pos from 从句连词 to 动词
+"
+
+
+"pos from 从句连词 to 其他
+"
+
+
+"pos from 符号 to 形容
+"
+
+
+"pos from 符号 to 介词
+"
+
+
+"pos from 符号 to 副词
+"
+
+
+"pos from 符号 to 助词
+"
+
+
+"pos from 符号 to 并列连词
+"
+
+
+"pos from 符号 to 定冠
+"
+
+
+"pos from 符号 to 感叹
+"
+
+
+"pos from 符号 to 名词
+"
+
+
+"pos from 符号 to 数字
+"
+
+
+"pos from 符号 to 功能
+"
+
+
+"pos from 符号 to 代词
+"
+
+
+"pos from 符号 to 特指名词
+"
+
+
+"pos from 符号 to 标点
+"
+
+
+"pos from 符号 to 从句连词
+"
+
+
+"pos from 符号 to 符号
+"
+
+
+"pos from 符号 to 动词
+"
+
+
+"pos from 符号 to 其他
+"
+
+
+"pos from 动词 to 形容
+"
+original sentence,He is best known for playing the role of Sam Winchester in the TV series Supernatural .
+wrong word,known 4
+mutation sentence,He is best known today for playing the role of Sam Winchester in the TV series Supernatural .
+mutation sentence,He is best known now for playing the role of Sam Winchester in the TV series Supernatural .
+mutation sentence,He is best known nationally for playing the role of Sam Winchester in the TV series Supernatural .
+
+original sentence,"Spiritually and culturally important to Moriori , it holds the last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+wrong word,known 12
+mutation sentence,"Spiritually and culturally important to Moriori , it also holds the last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds also the last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds there the last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the very last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the single last known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last large known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last major known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last remaining known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last significant known concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known intact concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known major concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known remaining concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known permanent concentration of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known concentration here of momori-rakau , or tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known concentration of momori-rakau , or sacred tree carvings done by the ancestors of today 's Moriori ."
+mutation sentence,"Spiritually and culturally important to Moriori , it holds the last known concentration of momori-rakau , or ceremonial tree carvings done by the ancestors of today 's Moriori ."
+
+
+
+"pos from 动词 to 介词
+"
+
+
+"pos from 动词 to 副词
+"
+
+
+"pos from 动词 to 助词
+"
+
+
+"pos from 动词 to 并列连词
+"
+
+
+"pos from 动词 to 定冠
+"
+
+
+"pos from 动词 to 感叹
+"
+
+
+"pos from 动词 to 名词
+"
+original sentence,Part 2 of 2 : Flirting Don'ts
+wrong word,Don'ts 7
+mutation sentence,Part 2 of 2 : 2 Flirting Don'ts
+mutation sentence,Part 2 of 2 : 1 Flirting Don'ts
+mutation sentence,Part 2 of 2 : 3 Flirting Don'ts
+mutation sentence,Part 2 of 2 : 4 Flirting Don'ts
+mutation sentence,Part 2 of 2 : 10 Flirting Don'ts
+mutation sentence,Part 2 of 2 : 0 Flirting Don'ts
+
+original sentence,"Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+wrong word,snitch 14
+mutation sentence,"Other modern methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other similar methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other common methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other traditional methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other current methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other such methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , today such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , even such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , now such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the current method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the new method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the modern method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the freestyle method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method officially adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method first adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method formally adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method widely adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method originally adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted nationwide in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted officially in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted only in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted worldwide in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted first in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted widely in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted internationally in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted back in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in late 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 today , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 nationwide , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a red sock , hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , possibly hanging out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging down out of the running shorts of the snitch runner ."
+mutation sentence,"Other methods , such as the method adopted in 2005 , makes the snitch a tennis ball in a sock , hanging out of the running shorts of the former snitch runner ."
+
+original sentence,Olive oil to taste ( Optional )
+wrong word,taste 4
+mutation sentence,Olive oil to bitter taste ( Optional )
+
+
+
+"pos from 动词 to 数字
+"
+
+
+"pos from 动词 to 功能
+"
+
+
+"pos from 动词 to 代词
+"
+
+
+"pos from 动词 to 特指名词
+"
+
+
+"pos from 动词 to 标点
+"
+
+
+"pos from 动词 to 从句连词
+"
+
+
+"pos from 动词 to 符号
+"
+
+
+"pos from 动词 to 动词
+"
+
+
+"pos from 动词 to 其他
+"
+
+
+"pos from 其他 to 形容
+"
+
+
+"pos from 其他 to 介词
+"
+
+
+"pos from 其他 to 副词
+"
+original sentence,"Second , the stylistic effects that enjambment permits are also an object of current research ( Martínez Fernández , 2010 ) ."
+wrong word,Second 1
+mutation sentence,"Second , the stylistic effects that such enjambment permits are also an object of current research ( Martínez Fernández , 2010 ) ."
+mutation sentence,"Second , the stylistic effects that visual enjambment permits are also an object of current research ( Martínez Fernández , 2010 ) ."
+
+
+
+"pos from 其他 to 助词
+"
+
+
+"pos from 其他 to 并列连词
+"
+
+
+"pos from 其他 to 定冠
+"
+
+
+"pos from 其他 to 感叹
+"
+
+
+"pos from 其他 to 名词
+"
+
+
+"pos from 其他 to 数字
+"
+
+
+"pos from 其他 to 功能
+"
+
+
+"pos from 其他 to 代词
+"
+
+
+"pos from 其他 to 特指名词
+"
+original sentence,"The intervention consisted in the use of the Escola do Cérebro , using tablets in the classroom , daily for a period of five weeks ."
+wrong word,do 10
+mutation sentence,"The intervention consisted in the use of the Portuguese Escola do Cérebro , using tablets in the classroom , daily for a period of five weeks ."
+mutation sentence,"The intervention consisted in the use of the Brazilian Escola do Cérebro , using tablets in the classroom , daily for a period of five weeks ."
+mutation sentence,"The intervention consisted in the use of the Escola Experimental do Cérebro , using tablets in the classroom , daily for a period of five weeks ."
+mutation sentence,"The intervention consisted in the use of the Escola Municipal do Cérebro , using tablets in the classroom , daily for a period of five weeks ."
+
+original sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+wrong word,Gawker.com 22
+mutation sentence,"Though only YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though official YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though officially YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube reportedly is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the international Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , various other sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other religious sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other similar sites such as Gawker.com have stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have since stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have publicly stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have already stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have officially stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have openly stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have repeatedly stated that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated publicly that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated however that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated explicitly that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated though that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated repeatedly that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated firmly that they will keep hosting the video ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video indefinitely ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video regardless ."
+mutation sentence,"Though YouTube is complying with the Church of Scientology 's requests to take down the video , other sites such as Gawker.com have stated that they will keep hosting the video anyway ."
+
+
+
+"pos from 其他 to 标点
+"
+
+
+"pos from 其他 to 从句连词
+"
+
+
+"pos from 其他 to 符号
+"
+
+
+"pos from 其他 to 动词
+"
+
+
+"pos from 其他 to 其他
+"

@@ -15,6 +15,21 @@ def mut_pos_compare_appendid_res(sen1, sen2, temp_id):#sen2 is the add mask sen
   return res
 
 
+def mut_pos_compare_appendid_count(sen1, sen2, temp_id):#sen2 is the add mask sen
+  res = 0
+  for i in range(len(sen1.words)):
+    # filter out the too close words
+    # if i == temp_id-1 or i == temp_id-2:
+    #   continue
+    if i < temp_id - 1:
+      if sen1.words[i].upos != sen2.words[i].upos:
+        res += 1
+    else:
+      if sen1.words[i].upos != sen2.words[i+1].upos:
+        res += 1
+  return res
+
+
 def mut_pos_compare_appendid(sen1, sen2, temp_id):#sen2 is the add mask sen
   for i in range(len(sen1.words)):
     # filter out the too close words
@@ -102,6 +117,19 @@ def mut_pos_compare_withoutid_res(sen1, sen2, temp_id):
   for i in range(sen_length):
     if sen1.words[i].upos != sen2.words[i].upos and sen1.words[i].id != temp_id:
       res.append((sen1.words[i].text, sen1.words[i].upos, sen2.words[i].upos))
+  return res
+
+
+def del_mut_pos_compare_count(sen1, sen2, delpart_id):#sen2 is the deled sen
+  res = 0
+  sen_length = len(sen1.words)
+  for i in range(sen_length):
+    if i <= delpart_id[0]-2:
+      if sen1.words[i].upos != sen2.words[i].upos:
+        res += 1
+    if i >= delpart_id[1]:
+      if sen1.words[i].upos != sen2.words[i-(delpart_id[1]-delpart_id[0]+1)].upos:
+        res += 1
   return res
 
 

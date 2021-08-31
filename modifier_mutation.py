@@ -1,6 +1,7 @@
 from PTF_Sen import *
 from PTF_Err import *
 import conllu
+import os
 import io
 import time
 import stanza
@@ -22,7 +23,7 @@ create_error_map(error_map_tag_100)
 create_error_map(error_map_tag_001)
 create_error_map(error_map_tag_010)
 
-if __name__ == '__main__':
+def mm():
   #load corpus
   corpus = io.open(CORPUS_PATH, "r", encoding="utf-8")
   #load nlp tools
@@ -40,16 +41,20 @@ if __name__ == '__main__':
 
   # statistic infos
   all_test_sen_num = 0
-  c_n_same_sen_num = 0
+  ori_sen_cn_num = 0
   filtered_mut_num = 0
-  #c-corpus - n-nlp - m-mutation -
+  c_n_same_sen_num = 0
+  all_mut_sen_wrong_num = 0
+  #token level error num: c-corpus - n-nlp - m-mutation -
+  all_mut_token_num = 0
+  all_mut_token_wrong_num = 0
   cnm_100_num = 0
   cnm_000_num = 0
   cnm_001_num = 0
   cnm_010_num = 0
 
   progress_counter = Counter('Processing: ')
-
+  start_time = time.time()
   # for every sentence in corpus
   for sen in conllu.parse_incr(corpus):
     sen_conllu = PTF_Sen(sen, type='conllu', build_tree=False)
@@ -80,11 +85,18 @@ if __name__ == '__main__':
         muts.append((sen_mut, sen_del['del']))
     
     ori_sen_doc = sen_conllu.to_doc()
+    if simple_compare_pos(sen_conllu, sen_nlp):
+      ori_sen_cn_num += 1
     # for every filtered mutation sentence
     for mut in muts:
       filtered_mut_num += 1
       mut_sen_doc = mut[0].to_doc()
+      all_mut_token_num += len(sen_conllu.words)
       if MUTATION_WAY == 'ADD':
+        wt = mut_pos_compare_appendid_count(sen_conllu, mut[0], mut[1]) # count the token tagging error in mutants
+        if wt != 0:
+          all_mut_sen_wrong_num += 1
+          all_mut_token_wrong_num += wt
         if simple_compare_pos(sen_conllu, sen_nlp):
           c_n_same_sen_num += 1
           res = mut_pos_compare_appendid_res(sen_nlp, mut[0], mut[1])
@@ -102,6 +114,10 @@ if __name__ == '__main__':
               cnm_000_num += accumulate_error_by_res(error_map_tag_000, res, ori_sen_doc, mut_sen_doc)
 
       elif MUTATION_WAY =='DEL':
+        wt = del_mut_pos_compare_count(sen_conllu, mut[0], mut[1]) # count the token tagging error in mutants
+        if wt != 0:
+          all_mut_sen_wrong_num += 1
+          all_mut_token_wrong_num += wt
         if simple_compare_pos(sen_conllu, sen_nlp):
           c_n_same_sen_num += 1
           res = del_mut_pos_compare_res(sen_nlp, mut[0], mut[1])
@@ -118,14 +134,19 @@ if __name__ == '__main__':
             else:
               cnm_000_num += accumulate_error_by_res(error_map_tag_000, res, ori_sen_doc, mut_sen_doc)
   progress_counter.finish()
+  end_time = time.time()
 
-  info_row = [all_test_sen_num, c_n_same_sen_num, filtered_mut_num, cnm_100_num, cnm_000_num, cnm_001_num, cnm_010_num]
+  print('time used: ',end_time-start_time)
+  info_row = [end_time-start_time, all_test_sen_num, ori_sen_cn_num, filtered_mut_num, c_n_same_sen_num, all_mut_token_num, all_mut_token_wrong_num, all_mut_sen_wrong_num, cnm_100_num, cnm_000_num, cnm_001_num, cnm_010_num]
   #test end, now output
-  csv_filename = time.strftime("results/%Y%m%d-%H%M%S-100-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
+  if not os.path.exists(RESULT_FILE_PATH):
+    os.mkdir(RESULT_FILE_PATH)
+
+  csv_filename = time.strftime(RESULT_FILE_PATH + "%Y%m%d-%H%M%S-100-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
   map_to_csv(csv_filename, error_map_tag_100, info_row)
-  # csv_filename = time.strftime("results/%Y%m%d-%H%M%S-000-" + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
-  # map_to_csv(csv_filename, error_map_tag_000, info_row)
-  # csv_filename = time.strftime("results/%Y%m%d-%H%M%S-001-" + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
-  # map_to_csv(csv_filename, error_map_tag_001, info_row)
-  # csv_filename = time.strftime("results/%Y%m%d-%H%M%S-010-" + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
-  # map_to_csv(csv_filename, error_map_tag_010, info_row)
+  csv_filename = time.strftime(RESULT_FILE_PATH + "%Y%m%d-%H%M%S-000-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
+  map_to_csv(csv_filename, error_map_tag_000, info_row)
+  csv_filename = time.strftime(RESULT_FILE_PATH + "%Y%m%d-%H%M%S-001-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
+  map_to_csv(csv_filename, error_map_tag_001, info_row)
+  csv_filename = time.strftime(RESULT_FILE_PATH + "%Y%m%d-%H%M%S-010-" + NLP_TOOL + '-' + CORPUS_PATH.split('/')[-1].split('.')[0] + '-' + MUTATION_WAY,time.localtime())+'.csv'
+  map_to_csv(csv_filename, error_map_tag_010, info_row)

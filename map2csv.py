@@ -4,7 +4,7 @@ from global_variables import *
 def map_to_csv(csv_filename, error_map, info_row):
   with open(csv_filename, 'w', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(['all_test_sen_num', 'c_n_same_sen_num', 'filtered_mut_num', 'cnm_100_num', 'cnm_000_num', 'cnm_001_num', 'cnm_010_num'])
+    csv_writer.writerow(['time used', 'all_test_sen_num', 'ori_sen_cn_num', 'filtered_mut_num', 'c_n_same_sen_num', 'all_mut_token_num', 'all_mut_token_wrong_num', 'all_mut_sen_wrong_num', 'cnm_100_num', 'cnm_000_num', 'cnm_001_num', 'cnm_010_num'])
     csv_writer.writerow(info_row)
 
     # csv by class
