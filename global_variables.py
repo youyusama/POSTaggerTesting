@@ -31,6 +31,25 @@ UPOS_TO_CH = {
 'VERB': '动词',
 'X': '其他',
 }
+UPOS_TO_EN = {
+'ADJ': 'adjective',
+'ADP': 'adposition',
+'ADV': 'adverb',
+'AUX': 'auxiliary',
+'CCONJ': 'coordinating conjunction',
+'DET': 'determiner',
+'INTJ': 'interjection',
+'NOUN': 'noun',
+'NUM': 'numeral',
+'PART': 'particle',
+'PRON': 'pronoun',
+'PROPN': 'proper noun',
+'PUNCT': 'punctuation',
+'SCONJ': 'subordinating conjunction',
+'SYM': 'symbol',
+'VERB': 'verb',
+'X': 'other',
+}
 XPOS_TO_UPOS = {
   '#'	:	'SYM',
   '$'	:	'SYM',

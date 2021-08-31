@@ -1,0 +1,1261 @@
+time used,#all seed sentences,#orignial sentences can be tagged correctly,#filtered mutants,#original sentences of mutants can be tagged correctly,#tokens in mutants,#tokens are tagged incorrectly in mutants,#mutants are tagged incorrectly,# (corpus tag)same as(nlp tag on orignial sentence)differen with(nlp tag on mutant),# (corpus tag)(nlp tag on orignial sentence)(nlp tag on mutant) all different,#(corpus tag)same as(nlp tag on mutant)different with(nlp tag on orignial sentence),# (corpus tag)differen with(nlp tag on orignial sentence)same as(nlp tag on mutant)
+181.0601897239685,993,509,3807,1784,92737,3223,1849,31,68,18,1863
+
+
+"POS tagged wrongly from adjective to adjective
+"
+
+
+"POS tagged wrongly from adjective to adposition
+"
+
+
+"POS tagged wrongly from adjective to adverb
+"
+original sentence,Just over 70 % of the plants grown from Earth seeds were alive after 17 days - just slightly more than the plants grown from space seeds - just over 66 % .
+wrong word,more 20
+mutation sentence,Just over 70 % of the plants grown from Earth seeds were alive after 17 days - just slightly more grown from space seeds - just over 66 % .
+
+original sentence,Last year was an incredible year and I ’m ready for us to come back even better in 2017 .
+wrong word,better 17
+mutation sentence,Last year was an year and I ’m ready for us to come back even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come even better in 2017 .
+mutation sentence,Last year was an incredible year and I ’m ready for us to come back better in 2017 .
+
+original sentence,"Specifically , a male secondary school enrollment 10 % above the average reduced the chance of a conflict by about 3 % , while a growth rate 1 % higher than the study average resulted in a decline in the chance of a civil war of about 1 % ."
+wrong word,higher 30
+mutation sentence,"Specifically , a male secondary school enrollment 10 % above the average reduced the chance of a conflict by about 3 % , while a growth rate 1 % higher resulted in a decline in the chance of a civil war of about 1 % ."
+
+
+
+"POS tagged wrongly from adjective to auxiliary
+"
+
+
+"POS tagged wrongly from adjective to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adjective to determiner
+"
+
+
+"POS tagged wrongly from adjective to interjection
+"
+
+
+"POS tagged wrongly from adjective to noun
+"
+original sentence,A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+wrong word,plastic 11
+mutation sentence,A major report in January said oceans would contain more plastic by 2050 unless the world took radical action to stop rubbish leaking into the seas .
+
+
+
+"POS tagged wrongly from adjective to numeral
+"
+
+
+"POS tagged wrongly from adjective to particle
+"
+
+
+"POS tagged wrongly from adjective to pronoun
+"
+
+
+"POS tagged wrongly from adjective to proper noun
+"
+original sentence,"The French Digital Council , which advises on bills in line with questions of digital technology , could also scrutinise it ."
+wrong word,French 2
+mutation sentence,"The French Council , which advises on bills in line with questions of digital technology , could also scrutinise it ."
+
+
+
+"POS tagged wrongly from adjective to punctuation
+"
+
+
+"POS tagged wrongly from adjective to subordinating conjunction
+"
+
+
+"POS tagged wrongly from adjective to symbol
+"
+
+
+"POS tagged wrongly from adjective to verb
+"
+
+
+"POS tagged wrongly from adjective to other
+"
+
+
+"POS tagged wrongly from adposition to adjective
+"
+original sentence,"“ Superheroes are outside of human experience and so is this , so I treated it like a drama , ” Zimmer says ."
+wrong word,outside 4
+mutation sentence,"“ Superheroes are outside of experience and so is this , so I treated it like a drama , ” Zimmer says ."
+
+
+
+"POS tagged wrongly from adposition to adposition
+"
+
+
+"POS tagged wrongly from adposition to adverb
+"
+original sentence,"Gaining recognition as an expert in the field , she took those skills back to the Radium Institute along with a small disc of polonium ."
+wrong word,along 19
+mutation sentence,"Gaining recognition as an expert in the field , she took those skills back along with a small disc of polonium ."
+
+original sentence,"In 1976 , the racecourse was no longer used ; in 1990 , a fire destroyed what remained of the wooden grandstands , which were later demolished along with the stables ."
+wrong word,along 28
+mutation sentence,"In 1976 , the racecourse was no longer used ; in 1990 , a fire destroyed what remained of the wooden grandstands , which were later demolished along ."
+
+
+
+"POS tagged wrongly from adposition to auxiliary
+"
+
+
+"POS tagged wrongly from adposition to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adposition to determiner
+"
+
+
+"POS tagged wrongly from adposition to interjection
+"
+
+
+"POS tagged wrongly from adposition to noun
+"
+
+
+"POS tagged wrongly from adposition to numeral
+"
+
+
+"POS tagged wrongly from adposition to particle
+"
+
+
+"POS tagged wrongly from adposition to pronoun
+"
+
+
+"POS tagged wrongly from adposition to proper noun
+"
+
+
+"POS tagged wrongly from adposition to punctuation
+"
+
+
+"POS tagged wrongly from adposition to subordinating conjunction
+"
+
+
+"POS tagged wrongly from adposition to symbol
+"
+
+
+"POS tagged wrongly from adposition to verb
+"
+
+
+"POS tagged wrongly from adposition to other
+"
+
+
+"POS tagged wrongly from adverb to adjective
+"
+original sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+wrong word,hard 22
+mutation sentence,"From the director 's point of view , the film is a balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point , the film is a precarious balancing act , between cheery family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between family hijinks and hard - hitting social drama ."
+mutation sentence,"From the director 's point of view , the film is a precarious balancing act , between cheery family hijinks and hard - hitting drama ."
+
+
+
+"POS tagged wrongly from adverb to adposition
+"
+
+
+"POS tagged wrongly from adverb to adverb
+"
+
+
+"POS tagged wrongly from adverb to auxiliary
+"
+
+
+"POS tagged wrongly from adverb to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adverb to determiner
+"
+
+
+"POS tagged wrongly from adverb to interjection
+"
+
+
+"POS tagged wrongly from adverb to noun
+"
+
+
+"POS tagged wrongly from adverb to numeral
+"
+
+
+"POS tagged wrongly from adverb to particle
+"
+
+
+"POS tagged wrongly from adverb to pronoun
+"
+
+
+"POS tagged wrongly from adverb to proper noun
+"
+
+
+"POS tagged wrongly from adverb to punctuation
+"
+
+
+"POS tagged wrongly from adverb to subordinating conjunction
+"
+
+
+"POS tagged wrongly from adverb to symbol
+"
+
+
+"POS tagged wrongly from adverb to verb
+"
+
+
+"POS tagged wrongly from adverb to other
+"
+
+
+"POS tagged wrongly from auxiliary to adjective
+"
+
+
+"POS tagged wrongly from auxiliary to adposition
+"
+
+
+"POS tagged wrongly from auxiliary to adverb
+"
+
+
+"POS tagged wrongly from auxiliary to auxiliary
+"
+
+
+"POS tagged wrongly from auxiliary to coordinating conjunction
+"
+
+
+"POS tagged wrongly from auxiliary to determiner
+"
+
+
+"POS tagged wrongly from auxiliary to interjection
+"
+
+
+"POS tagged wrongly from auxiliary to noun
+"
+
+
+"POS tagged wrongly from auxiliary to numeral
+"
+
+
+"POS tagged wrongly from auxiliary to particle
+"
+
+
+"POS tagged wrongly from auxiliary to pronoun
+"
+
+
+"POS tagged wrongly from auxiliary to proper noun
+"
+
+
+"POS tagged wrongly from auxiliary to punctuation
+"
+
+
+"POS tagged wrongly from auxiliary to subordinating conjunction
+"
+
+
+"POS tagged wrongly from auxiliary to symbol
+"
+
+
+"POS tagged wrongly from auxiliary to verb
+"
+original sentence,They ’re usually artists who want to do a bunch of stuff .
+wrong word,’re 2
+mutation sentence,They ’re artists who want to do a bunch of stuff .
+
+
+
+"POS tagged wrongly from auxiliary to other
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adjective
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adposition
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adverb
+"
+
+
+"POS tagged wrongly from coordinating conjunction to auxiliary
+"
+
+
+"POS tagged wrongly from coordinating conjunction to coordinating conjunction
+"
+
+
+"POS tagged wrongly from coordinating conjunction to determiner
+"
+original sentence,"Among humans both males and females are ardent singers , and making music is mostly a communal activity ."
+wrong word,both 3
+mutation sentence,"both males and females are ardent singers , and making music is mostly a communal activity ."
+
+
+
+"POS tagged wrongly from coordinating conjunction to interjection
+"
+
+
+"POS tagged wrongly from coordinating conjunction to noun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to numeral
+"
+
+
+"POS tagged wrongly from coordinating conjunction to particle
+"
+
+
+"POS tagged wrongly from coordinating conjunction to pronoun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to proper noun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to punctuation
+"
+
+
+"POS tagged wrongly from coordinating conjunction to subordinating conjunction
+"
+
+
+"POS tagged wrongly from coordinating conjunction to symbol
+"
+
+
+"POS tagged wrongly from coordinating conjunction to verb
+"
+
+
+"POS tagged wrongly from coordinating conjunction to other
+"
+
+
+"POS tagged wrongly from determiner to adjective
+"
+
+
+"POS tagged wrongly from determiner to adposition
+"
+
+
+"POS tagged wrongly from determiner to adverb
+"
+original sentence,"The law delineates a number of conditions whose fulfillment could bring the agreement back into effect : the USA would have to withdraw all of its troops from countries who joined NATO after 2000 , rescind all of the sanctions against Russia as well as reimburse the costs that have been incurred as a result of the sanctions ."
+wrong word,all 37
+mutation sentence,"The law delineates a number of conditions whose fulfillment could bring the agreement back into effect : the USA would have to withdraw all of its troops from countries who joined NATO after 2000 , rescind all as well as reimburse the costs that have been incurred as a result of the sanctions ."
+
+
+
+"POS tagged wrongly from determiner to auxiliary
+"
+
+
+"POS tagged wrongly from determiner to coordinating conjunction
+"
+original sentence,"Two of the most notable Mediterranean civilisations in classical antiquity were the Greek city states and the Phoenicians , both of which extensively colonised the coastlines of the Mediterranean ."
+wrong word,both 20
+mutation sentence,"Two of the most notable Mediterranean civilisations in classical antiquity were the Greek city states and the Phoenicians , both extensively colonised the coastlines of the Mediterranean ."
+
+
+
+"POS tagged wrongly from determiner to determiner
+"
+
+
+"POS tagged wrongly from determiner to interjection
+"
+
+
+"POS tagged wrongly from determiner to noun
+"
+
+
+"POS tagged wrongly from determiner to numeral
+"
+
+
+"POS tagged wrongly from determiner to particle
+"
+
+
+"POS tagged wrongly from determiner to pronoun
+"
+
+
+"POS tagged wrongly from determiner to proper noun
+"
+
+
+"POS tagged wrongly from determiner to punctuation
+"
+
+
+"POS tagged wrongly from determiner to subordinating conjunction
+"
+
+
+"POS tagged wrongly from determiner to symbol
+"
+
+
+"POS tagged wrongly from determiner to verb
+"
+
+
+"POS tagged wrongly from determiner to other
+"
+
+
+"POS tagged wrongly from interjection to adjective
+"
+
+
+"POS tagged wrongly from interjection to adposition
+"
+
+
+"POS tagged wrongly from interjection to adverb
+"
+
+
+"POS tagged wrongly from interjection to auxiliary
+"
+
+
+"POS tagged wrongly from interjection to coordinating conjunction
+"
+
+
+"POS tagged wrongly from interjection to determiner
+"
+
+
+"POS tagged wrongly from interjection to interjection
+"
+
+
+"POS tagged wrongly from interjection to noun
+"
+
+
+"POS tagged wrongly from interjection to numeral
+"
+
+
+"POS tagged wrongly from interjection to particle
+"
+
+
+"POS tagged wrongly from interjection to pronoun
+"
+
+
+"POS tagged wrongly from interjection to proper noun
+"
+
+
+"POS tagged wrongly from interjection to punctuation
+"
+
+
+"POS tagged wrongly from interjection to subordinating conjunction
+"
+
+
+"POS tagged wrongly from interjection to symbol
+"
+
+
+"POS tagged wrongly from interjection to verb
+"
+
+
+"POS tagged wrongly from interjection to other
+"
+
+
+"POS tagged wrongly from noun to adjective
+"
+original sentence,"Higher male secondary school enrollment , per capita income and economic growth rate all had significant effects on reducing the chance of civil war ."
+wrong word,capita 8
+mutation sentence,"male secondary school enrollment , per capita income and economic growth rate all had significant effects on reducing the chance of civil war ."
+mutation sentence,"Higher secondary school enrollment , per capita income and economic growth rate all had significant effects on reducing the chance of civil war ."
+mutation sentence,"Higher male school enrollment , per capita income and economic growth rate all had significant effects on reducing the chance of civil war ."
+
+original sentence,It has three parallel chapels at the apse and many lateral chapels between the buttresses .
+wrong word,apse 8
+mutation sentence,It has three parallel chapels at the apse and lateral chapels between the buttresses .
+
+
+
+"POS tagged wrongly from noun to adposition
+"
+
+
+"POS tagged wrongly from noun to adverb
+"
+
+
+"POS tagged wrongly from noun to auxiliary
+"
+
+
+"POS tagged wrongly from noun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from noun to determiner
+"
+
+
+"POS tagged wrongly from noun to interjection
+"
+
+
+"POS tagged wrongly from noun to noun
+"
+
+
+"POS tagged wrongly from noun to numeral
+"
+
+
+"POS tagged wrongly from noun to particle
+"
+
+
+"POS tagged wrongly from noun to pronoun
+"
+
+
+"POS tagged wrongly from noun to proper noun
+"
+
+
+"POS tagged wrongly from noun to punctuation
+"
+
+
+"POS tagged wrongly from noun to subordinating conjunction
+"
+
+
+"POS tagged wrongly from noun to symbol
+"
+
+
+"POS tagged wrongly from noun to verb
+"
+original sentence,And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope .
+wrong word,hope 22
+mutation sentence,And they must be greeted with an open spirit and clear mind because they form the generation of beauty and hope .
+
+
+
+"POS tagged wrongly from noun to other
+"
+
+
+"POS tagged wrongly from numeral to adjective
+"
+
+
+"POS tagged wrongly from numeral to adposition
+"
+
+
+"POS tagged wrongly from numeral to adverb
+"
+
+
+"POS tagged wrongly from numeral to auxiliary
+"
+
+
+"POS tagged wrongly from numeral to coordinating conjunction
+"
+
+
+"POS tagged wrongly from numeral to determiner
+"
+
+
+"POS tagged wrongly from numeral to interjection
+"
+
+
+"POS tagged wrongly from numeral to noun
+"
+
+
+"POS tagged wrongly from numeral to numeral
+"
+
+
+"POS tagged wrongly from numeral to particle
+"
+
+
+"POS tagged wrongly from numeral to pronoun
+"
+
+
+"POS tagged wrongly from numeral to proper noun
+"
+
+
+"POS tagged wrongly from numeral to punctuation
+"
+
+
+"POS tagged wrongly from numeral to subordinating conjunction
+"
+
+
+"POS tagged wrongly from numeral to symbol
+"
+
+
+"POS tagged wrongly from numeral to verb
+"
+
+
+"POS tagged wrongly from numeral to other
+"
+
+
+"POS tagged wrongly from particle to adjective
+"
+
+
+"POS tagged wrongly from particle to adposition
+"
+original sentence,The purpose of these CRTC hearings is to field responses from industry stakeholders and the public .
+wrong word,to 8
+mutation sentence,The purpose of these CRTC hearings is to field responses .
+
+
+
+"POS tagged wrongly from particle to adverb
+"
+
+
+"POS tagged wrongly from particle to auxiliary
+"
+
+
+"POS tagged wrongly from particle to coordinating conjunction
+"
+
+
+"POS tagged wrongly from particle to determiner
+"
+
+
+"POS tagged wrongly from particle to interjection
+"
+
+
+"POS tagged wrongly from particle to noun
+"
+
+
+"POS tagged wrongly from particle to numeral
+"
+
+
+"POS tagged wrongly from particle to particle
+"
+
+
+"POS tagged wrongly from particle to pronoun
+"
+
+
+"POS tagged wrongly from particle to proper noun
+"
+
+
+"POS tagged wrongly from particle to punctuation
+"
+
+
+"POS tagged wrongly from particle to subordinating conjunction
+"
+
+
+"POS tagged wrongly from particle to symbol
+"
+
+
+"POS tagged wrongly from particle to verb
+"
+
+
+"POS tagged wrongly from particle to other
+"
+
+
+"POS tagged wrongly from pronoun to adjective
+"
+
+
+"POS tagged wrongly from pronoun to adposition
+"
+
+
+"POS tagged wrongly from pronoun to adverb
+"
+
+
+"POS tagged wrongly from pronoun to auxiliary
+"
+
+
+"POS tagged wrongly from pronoun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from pronoun to determiner
+"
+
+
+"POS tagged wrongly from pronoun to interjection
+"
+
+
+"POS tagged wrongly from pronoun to noun
+"
+
+
+"POS tagged wrongly from pronoun to numeral
+"
+
+
+"POS tagged wrongly from pronoun to particle
+"
+
+
+"POS tagged wrongly from pronoun to pronoun
+"
+
+
+"POS tagged wrongly from pronoun to proper noun
+"
+
+
+"POS tagged wrongly from pronoun to punctuation
+"
+
+
+"POS tagged wrongly from pronoun to subordinating conjunction
+"
+original sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period .
+wrong word,that 10
+mutation sentence,The area controlled by the Bogd Khaan was approximately that during the Qing period .
+
+
+
+"POS tagged wrongly from pronoun to symbol
+"
+
+
+"POS tagged wrongly from pronoun to verb
+"
+
+
+"POS tagged wrongly from pronoun to other
+"
+
+
+"POS tagged wrongly from proper noun to adjective
+"
+original sentence,"There are also languages derived from Finnish , having evolved separately , known as Meänkieli in Sweden and Kven in Norway ."
+wrong word,Finnish 7
+mutation sentence,"There are also languages derived from Finnish , having evolved separately , known as Meänkieli ."
+
+original sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period .
+wrong word,Outer 14
+mutation sentence,The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia .
+
+
+
+"POS tagged wrongly from proper noun to adposition
+"
+
+
+"POS tagged wrongly from proper noun to adverb
+"
+
+
+"POS tagged wrongly from proper noun to auxiliary
+"
+
+
+"POS tagged wrongly from proper noun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from proper noun to determiner
+"
+
+
+"POS tagged wrongly from proper noun to interjection
+"
+
+
+"POS tagged wrongly from proper noun to noun
+"
+
+
+"POS tagged wrongly from proper noun to numeral
+"
+
+
+"POS tagged wrongly from proper noun to particle
+"
+
+
+"POS tagged wrongly from proper noun to pronoun
+"
+
+
+"POS tagged wrongly from proper noun to proper noun
+"
+
+
+"POS tagged wrongly from proper noun to punctuation
+"
+
+
+"POS tagged wrongly from proper noun to subordinating conjunction
+"
+
+
+"POS tagged wrongly from proper noun to symbol
+"
+
+
+"POS tagged wrongly from proper noun to verb
+"
+
+
+"POS tagged wrongly from proper noun to other
+"
+
+
+"POS tagged wrongly from punctuation to adjective
+"
+
+
+"POS tagged wrongly from punctuation to adposition
+"
+
+
+"POS tagged wrongly from punctuation to adverb
+"
+
+
+"POS tagged wrongly from punctuation to auxiliary
+"
+
+
+"POS tagged wrongly from punctuation to coordinating conjunction
+"
+
+
+"POS tagged wrongly from punctuation to determiner
+"
+
+
+"POS tagged wrongly from punctuation to interjection
+"
+
+
+"POS tagged wrongly from punctuation to noun
+"
+
+
+"POS tagged wrongly from punctuation to numeral
+"
+
+
+"POS tagged wrongly from punctuation to particle
+"
+
+
+"POS tagged wrongly from punctuation to pronoun
+"
+
+
+"POS tagged wrongly from punctuation to proper noun
+"
+
+
+"POS tagged wrongly from punctuation to punctuation
+"
+
+
+"POS tagged wrongly from punctuation to subordinating conjunction
+"
+
+
+"POS tagged wrongly from punctuation to symbol
+"
+
+
+"POS tagged wrongly from punctuation to verb
+"
+
+
+"POS tagged wrongly from punctuation to other
+"
+
+
+"POS tagged wrongly from subordinating conjunction to adjective
+"
+
+
+"POS tagged wrongly from subordinating conjunction to adposition
+"
+original sentence,The patterns presented by the data from the Petén region and Uaxactun allowed for these sites to fit within the cultural development of the Maya lowlands .
+wrong word,for 14
+mutation sentence,The patterns presented by the data allowed for these sites to fit within the cultural development of the Maya lowlands .
+
+
+
+"POS tagged wrongly from subordinating conjunction to adverb
+"
+
+
+"POS tagged wrongly from subordinating conjunction to auxiliary
+"
+
+
+"POS tagged wrongly from subordinating conjunction to coordinating conjunction
+"
+
+
+"POS tagged wrongly from subordinating conjunction to determiner
+"
+
+
+"POS tagged wrongly from subordinating conjunction to interjection
+"
+
+
+"POS tagged wrongly from subordinating conjunction to noun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to numeral
+"
+
+
+"POS tagged wrongly from subordinating conjunction to particle
+"
+
+
+"POS tagged wrongly from subordinating conjunction to pronoun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to proper noun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to punctuation
+"
+
+
+"POS tagged wrongly from subordinating conjunction to subordinating conjunction
+"
+
+
+"POS tagged wrongly from subordinating conjunction to symbol
+"
+
+
+"POS tagged wrongly from subordinating conjunction to verb
+"
+
+
+"POS tagged wrongly from subordinating conjunction to other
+"
+
+
+"POS tagged wrongly from symbol to adjective
+"
+
+
+"POS tagged wrongly from symbol to adposition
+"
+
+
+"POS tagged wrongly from symbol to adverb
+"
+
+
+"POS tagged wrongly from symbol to auxiliary
+"
+
+
+"POS tagged wrongly from symbol to coordinating conjunction
+"
+
+
+"POS tagged wrongly from symbol to determiner
+"
+
+
+"POS tagged wrongly from symbol to interjection
+"
+
+
+"POS tagged wrongly from symbol to noun
+"
+
+
+"POS tagged wrongly from symbol to numeral
+"
+
+
+"POS tagged wrongly from symbol to particle
+"
+
+
+"POS tagged wrongly from symbol to pronoun
+"
+
+
+"POS tagged wrongly from symbol to proper noun
+"
+
+
+"POS tagged wrongly from symbol to punctuation
+"
+
+
+"POS tagged wrongly from symbol to subordinating conjunction
+"
+
+
+"POS tagged wrongly from symbol to symbol
+"
+
+
+"POS tagged wrongly from symbol to verb
+"
+
+
+"POS tagged wrongly from symbol to other
+"
+
+
+"POS tagged wrongly from verb to adjective
+"
+
+
+"POS tagged wrongly from verb to adposition
+"
+
+
+"POS tagged wrongly from verb to adverb
+"
+
+
+"POS tagged wrongly from verb to auxiliary
+"
+original sentence,The purpose of these CRTC hearings is to field responses from industry stakeholders and the public .
+wrong word,is 7
+mutation sentence,The purpose of these CRTC hearings is to field responses .
+
+original sentence,That is because each and every miracle and each specialized district occupies an entire field .
+wrong word,is 2
+mutation sentence,That is because each and every miracle and each district occupies an entire field .
+
+
+
+"POS tagged wrongly from verb to coordinating conjunction
+"
+
+
+"POS tagged wrongly from verb to determiner
+"
+
+
+"POS tagged wrongly from verb to interjection
+"
+
+
+"POS tagged wrongly from verb to noun
+"
+original sentence,The purpose of these CRTC hearings is to field responses from industry stakeholders and the public .
+wrong word,field 9
+mutation sentence,The purpose of these CRTC hearings is to field responses .
+
+
+
+"POS tagged wrongly from verb to numeral
+"
+
+
+"POS tagged wrongly from verb to particle
+"
+
+
+"POS tagged wrongly from verb to pronoun
+"
+
+
+"POS tagged wrongly from verb to proper noun
+"
+
+
+"POS tagged wrongly from verb to punctuation
+"
+
+
+"POS tagged wrongly from verb to subordinating conjunction
+"
+
+
+"POS tagged wrongly from verb to symbol
+"
+
+
+"POS tagged wrongly from verb to verb
+"
+
+
+"POS tagged wrongly from verb to other
+"
+
+
+"POS tagged wrongly from other to adjective
+"
+
+
+"POS tagged wrongly from other to adposition
+"
+
+
+"POS tagged wrongly from other to adverb
+"
+
+
+"POS tagged wrongly from other to auxiliary
+"
+
+
+"POS tagged wrongly from other to coordinating conjunction
+"
+
+
+"POS tagged wrongly from other to determiner
+"
+
+
+"POS tagged wrongly from other to interjection
+"
+
+
+"POS tagged wrongly from other to noun
+"
+
+
+"POS tagged wrongly from other to numeral
+"
+
+
+"POS tagged wrongly from other to particle
+"
+
+
+"POS tagged wrongly from other to pronoun
+"
+
+
+"POS tagged wrongly from other to proper noun
+"
+
+
+"POS tagged wrongly from other to punctuation
+"
+
+
+"POS tagged wrongly from other to subordinating conjunction
+"
+
+
+"POS tagged wrongly from other to symbol
+"
+
+
+"POS tagged wrongly from other to verb
+"
+
+
+"POS tagged wrongly from other to other
+"

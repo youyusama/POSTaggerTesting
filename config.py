@@ -25,6 +25,8 @@ SPACY_MODEL_NAME = 'en_core_web_trf'
 # result file path
 RESULT_FILE_PATH = 'results/'
 
+RESULT_LANGUAGE = 'en'
+
 def set_configs(args):
   global CORPUS_PATH
   global MUTATION_WAY
@@ -32,9 +34,11 @@ def set_configs(args):
   global NLP_TOOL
   global STANZA_MODEL_PATH
   global SPACY_MODEL_NAME
+  global RESULT_LANGUAGE
   CORPUS_PATH = args.corpus
   MUTATION_WAY = args.mutation
   UNMASK_NUM = args.bertnum
   NLP_TOOL = args.tagger
   STANZA_MODEL_PATH = args.modelpathofstanza
   SPACY_MODEL_NAME = args.modelnameofspaCy
+  RESULT_LANGUAGE = args.language

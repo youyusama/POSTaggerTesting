@@ -19,6 +19,13 @@ The installation guidelines:
 - transformers: Transformers will detect the model used at runtime and install the model automatically.
 
 ## Usage
+Run postman with default configuration:
+```
+postman.py
+```
+With the default configuration, `stanza` will be used as the POS tagging tool, and the mutation method of deletion `DEL` will be used to test on the pud corpus `.\en_pud-ud-test.conllu`. The result of the test will be saved in folder `.\result\`.
+
+See more configuration:
 ```
 postman.py -h
 ```

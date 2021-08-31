@@ -14,6 +14,7 @@ parser.add_argument('-sp', '--modelpathofstanza', default='nlp-models/stanzamode
   of the stanza nlp model file, used when NLP_TOOL is stanza information of the stanza installation and the download of model can be get from https://stanfordnlp.github.io/stanza/usage.html')
 parser.add_argument('-am', '--modelnameofspaCy', default='en_core_web_trf', help='the name of the \
   spaCy nlp model, used when NLP_TOOL is spaCy, information of the spaCy installation and the download of model can be get from https://spacy.io/usage')
+parser.add_argument('-l', '--language', choices=['ch', 'en'], default='en', help='the language of the result')
 
 args = parser.parse_args()
 

@@ -1,0 +1,1404 @@
+time used,#all seed sentences,#orignial sentences can be tagged correctly,#filtered mutants,#original sentences of mutants can be tagged correctly,#tokens in mutants,#tokens are tagged incorrectly in mutants,#mutants are tagged incorrectly,# (corpus tag)same as(nlp tag on orignial sentence)differen with(nlp tag on mutant),# (corpus tag)(nlp tag on orignial sentence)(nlp tag on mutant) all different,#(corpus tag)same as(nlp tag on mutant)different with(nlp tag on orignial sentence),# (corpus tag)differen with(nlp tag on orignial sentence)same as(nlp tag on mutant)
+181.0601897239685,993,509,3807,1784,92737,3223,1849,31,68,18,1863
+
+
+"POS tagged wrongly from adjective to adjective
+"
+
+
+"POS tagged wrongly from adjective to adposition
+"
+
+
+"POS tagged wrongly from adjective to adverb
+"
+original sentence,"Much of the debate , from the Democratic side this year , has been about white male identity ."
+wrong word,Much 1
+mutation sentence,"Much , from the Democratic side this year , has been about white male identity ."
+
+original sentence,Was their divine right to the mantle as the world ’s best no longer warranted ?
+wrong word,best 12
+mutation sentence,Was their divine right to the mantle as the world ’s best longer warranted ?
+
+original sentence,"Enough of those , in a highly contested area , will lead to chaos election day ."
+wrong word,Enough 1
+mutation sentence,"Enough , in a highly contested area , will lead to chaos election day ."
+
+original sentence,"Bananas and plantains , which were first domesticated in Southeast Asia , most likely Papua New Guinea , were re-domesticated in Africa possibly as early as 5,000 years ago ."
+wrong word,likely 14
+mutation sentence,"Bananas and plantains , which were first domesticated in Southeast Asia , likely Papua New Guinea , were re-domesticated in Africa possibly as early as 5,000 years ago ."
+
+original sentence,"More and more tech companies are calling the shots more than ever before on Wall Street , even more than in Silicon Valley ."
+wrong word,more 10
+mutation sentence,"More and more tech companies are calling the shots more before on Wall Street , even more than in Silicon Valley ."
+mutation sentence,"More and more tech companies are calling the shots more than ever before , even more than in Silicon Valley ."
+
+original sentence,"However , they did not expand until ships big enough to cross seas were built ."
+wrong word,enough 10
+mutation sentence,"However , they did not expand until ships enough to cross seas were built ."
+
+
+
+"POS tagged wrongly from adjective to auxiliary
+"
+
+
+"POS tagged wrongly from adjective to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adjective to determiner
+"
+
+
+"POS tagged wrongly from adjective to interjection
+"
+
+
+"POS tagged wrongly from adjective to noun
+"
+original sentence,News of the company ’s deceit - which had run for years - wiped tens of billions of euros from VW 's value and cost chief executive Martin Winterkorn his job .
+wrong word,chief 26
+mutation sentence,News of the company ’s deceit - which had run for years - wiped tens of billions of euros from VW 's value and cost chief Martin Winterkorn his job .
+
+original sentence,"The president of the Community of Madrid , Cristina Cifuentes , represents the most conservative , while leaders of the party , such as the Sectorial Under - Secretary , Javier Maroto , represent the most progressive ."
+wrong word,progressive 37
+mutation sentence,"The president of the Community of Madrid , Cristina Cifuentes , represents the most conservative , while leaders of the party , such as the Sectorial Under - Secretary , Javier Maroto , represent the progressive ."
+
+original sentence,"In April 2012 , the Turkish Minister President Erdogan announced his government 's plans to free Bosphorus by building the Istanbul Canal parallel to it ."
+wrong word,parallel 23
+mutation sentence,"In April 2012 , the Turkish Minister President Erdogan announced his government 's plans to free Bosphorus by building the Istanbul Canal parallel ."
+
+original sentence,One of his last means of placing pressure on Hungary was the threat of imposing general and free elections .
+wrong word,general 16
+mutation sentence,One of his last means of placing pressure on Hungary was the threat of imposing general and elections .
+
+
+
+"POS tagged wrongly from adjective to numeral
+"
+
+
+"POS tagged wrongly from adjective to particle
+"
+
+
+"POS tagged wrongly from adjective to pronoun
+"
+
+
+"POS tagged wrongly from adjective to proper noun
+"
+original sentence,"By comparison , it cost $ 103.7 million to build the NoMa infill Metro station , which opened in 2004 ."
+wrong word,infill 13
+mutation sentence,"it cost $ 103.7 million to build the NoMa infill Metro station , which opened in 2004 ."
+
+original sentence,"Consonant gradation is a feature in both Finnish and northern Sami dialects , but it is not present in south Sami , which is considered to have a different language history ."
+wrong word,south 20
+mutation sentence,"Consonant gradation is a feature in both Finnish and northern Sami dialects , but it is present in south Sami , which is considered to have a different language history ."
+
+original sentence,"The latter also spread Islam to the coastal belt , but most Bantu never had contact with Islam and remained African Traditional Religion adherents ."
+wrong word,African 21
+mutation sentence,"The latter also spread Islam to the coastal belt , but most Bantu never had contact with Islam and remained African Religion adherents ."
+
+original sentence,"Chinese New Year and other feasts observed by Thai Chinese vary with respect to both , as these are calculated according to the Chinese calendar ."
+wrong word,Thai 9
+mutation sentence,"Chinese New Year and other feasts observed by Thai vary with respect to both , as these are calculated according to the Chinese calendar ."
+
+original sentence,The islands are located at the Indo - Australian Fault ; the Fault arose due to the collision of the Indian and Australian plates .
+wrong word,Australian 9
+mutation sentence,The islands are located at the - Australian Fault ; the Fault arose due to the collision of the Indian and Australian plates .
+
+
+
+"POS tagged wrongly from adjective to punctuation
+"
+
+
+"POS tagged wrongly from adjective to subordinating conjunction
+"
+
+
+"POS tagged wrongly from adjective to symbol
+"
+
+
+"POS tagged wrongly from adjective to verb
+"
+original sentence,"However , they were intercepted and had to do battle in Freeman , close to the Hudson River ."
+wrong word,close 14
+mutation sentence,"However , they were intercepted and had to do battle in Freeman , close ."
+
+
+
+"POS tagged wrongly from adjective to other
+"
+
+
+"POS tagged wrongly from adposition to adjective
+"
+original sentence,"The Egyptian pharaoh thus found himself in northern Amurru , well past Kadesh , in Tunip , where no Egyptian soldier had been seen since the time of Thutmose III almost 120 years earlier ."
+wrong word,past 12
+mutation sentence,"The Egyptian pharaoh thus found himself in northern Amurru , past Kadesh , in Tunip , where no Egyptian soldier had been seen since the time of Thutmose III almost 120 years earlier ."
+
+
+
+"POS tagged wrongly from adposition to adposition
+"
+
+
+"POS tagged wrongly from adposition to adverb
+"
+
+
+"POS tagged wrongly from adposition to auxiliary
+"
+
+
+"POS tagged wrongly from adposition to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adposition to determiner
+"
+
+
+"POS tagged wrongly from adposition to interjection
+"
+
+
+"POS tagged wrongly from adposition to noun
+"
+original sentence,"Wilkes was re-elected and expelled twice more , before the House of Commons resolved that his candidature was invalid and declared the runner - up as the victor ."
+wrong word,up 25
+mutation sentence,"Wilkes was re-elected and expelled twice more , before the House of Commons resolved that his candidature was invalid and declared the runner - up ."
+
+original sentence,"This drawing up was the founding act of Roman law , the institutions of the Roman Republic and the mos maiorum ."
+wrong word,up 3
+mutation sentence,"This drawing up was the act of Roman law , the institutions of the Roman Republic and the mos maiorum ."
+mutation sentence,This drawing up was the founding act .
+mutation sentence,"This drawing up was the founding act of law , the institutions of the Roman Republic and the mos maiorum ."
+mutation sentence,"This drawing up was the founding act of Roman law , the institutions ."
+mutation sentence,"This drawing up was the founding act of Roman law , the institutions of the Republic and the mos maiorum ."
+
+
+
+"POS tagged wrongly from adposition to numeral
+"
+
+
+"POS tagged wrongly from adposition to particle
+"
+
+
+"POS tagged wrongly from adposition to pronoun
+"
+
+
+"POS tagged wrongly from adposition to proper noun
+"
+
+
+"POS tagged wrongly from adposition to punctuation
+"
+
+
+"POS tagged wrongly from adposition to subordinating conjunction
+"
+original sentence,"The Ontario Independent Police Review Director , Gerry McNeilly , set the terms for his review this week after "" alarming questions "" were raised about how officers interact with Indigenous peoples ."
+wrong word,after 19
+mutation sentence,"The Ontario Independent Police Review Director , Gerry McNeilly , set the terms for his review this week after "" questions "" were raised about how officers interact with Indigenous peoples ."
+
+original sentence,Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies .
+wrong word,by 22
+mutation sentence,Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by removing subsidies .
+
+
+
+"POS tagged wrongly from adposition to symbol
+"
+
+
+"POS tagged wrongly from adposition to verb
+"
+
+
+"POS tagged wrongly from adposition to other
+"
+
+
+"POS tagged wrongly from adverb to adjective
+"
+original sentence,"First , we must educate people on how to protect themselves better online ."
+wrong word,better 12
+mutation sentence,"First , we must educate people on how to protect themselves better ."
+
+original sentence,"The latter also spread Islam to the coastal belt , but most Bantu never had contact with Islam and remained African Traditional Religion adherents ."
+wrong word,most 12
+mutation sentence,"The latter also spread Islam to the coastal belt , but most Bantu had contact with Islam and remained African Traditional Religion adherents ."
+
+original sentence,"In 1928 , a 90 - hectare golf course was built in the north - eastern part of the park , next to the racetrack ."
+wrong word,next 22
+mutation sentence,"In 1928 , a 90 - hectare golf course was built in the north - eastern part of the park , next ."
+
+
+
+"POS tagged wrongly from adverb to adposition
+"
+original sentence,"At least 330,000 people , including 10,000 technicians , were involved ."
+wrong word,At 1
+mutation sentence,"At 330,000 people , including 10,000 technicians , were involved ."
+
+original sentence,"More and more tech companies are calling the shots more than ever before on Wall Street , even more than in Silicon Valley ."
+wrong word,before 13
+mutation sentence,"More and more tech companies are calling the shots more before on Wall Street , even more than in Silicon Valley ."
+
+original sentence,"Golden Gate Park , which is over four kilometers in length , offers a botanical garden , planetarium , Japanese garden and an aquarium ."
+wrong word,over 7
+mutation sentence,"Golden Gate Park , which is over four kilometers , offers a botanical garden , planetarium , Japanese garden and an aquarium ."
+
+original sentence,"From about the 8th century BC city states began to appear : small , self - governing territories with their own political systems ."
+wrong word,about 2
+mutation sentence,"From about the century BC city states began to appear : small , self - governing territories with their own political systems ."
+
+
+
+"POS tagged wrongly from adverb to adverb
+"
+
+
+"POS tagged wrongly from adverb to auxiliary
+"
+
+
+"POS tagged wrongly from adverb to coordinating conjunction
+"
+
+
+"POS tagged wrongly from adverb to determiner
+"
+
+
+"POS tagged wrongly from adverb to interjection
+"
+
+
+"POS tagged wrongly from adverb to noun
+"
+
+
+"POS tagged wrongly from adverb to numeral
+"
+
+
+"POS tagged wrongly from adverb to particle
+"
+
+
+"POS tagged wrongly from adverb to pronoun
+"
+
+
+"POS tagged wrongly from adverb to proper noun
+"
+
+
+"POS tagged wrongly from adverb to punctuation
+"
+
+
+"POS tagged wrongly from adverb to subordinating conjunction
+"
+
+
+"POS tagged wrongly from adverb to symbol
+"
+
+
+"POS tagged wrongly from adverb to verb
+"
+
+
+"POS tagged wrongly from adverb to other
+"
+
+
+"POS tagged wrongly from auxiliary to adjective
+"
+
+
+"POS tagged wrongly from auxiliary to adposition
+"
+
+
+"POS tagged wrongly from auxiliary to adverb
+"
+
+
+"POS tagged wrongly from auxiliary to auxiliary
+"
+
+
+"POS tagged wrongly from auxiliary to coordinating conjunction
+"
+
+
+"POS tagged wrongly from auxiliary to determiner
+"
+
+
+"POS tagged wrongly from auxiliary to interjection
+"
+
+
+"POS tagged wrongly from auxiliary to noun
+"
+
+
+"POS tagged wrongly from auxiliary to numeral
+"
+
+
+"POS tagged wrongly from auxiliary to particle
+"
+original sentence,"For anyone who wants to see the capital in all its glory , November 's a great time to go ."
+wrong word,'s 15
+mutation sentence,"For anyone who wants to see the capital in all its glory , November 's a time to go ."
+
+
+
+"POS tagged wrongly from auxiliary to pronoun
+"
+
+
+"POS tagged wrongly from auxiliary to proper noun
+"
+
+
+"POS tagged wrongly from auxiliary to punctuation
+"
+
+
+"POS tagged wrongly from auxiliary to subordinating conjunction
+"
+
+
+"POS tagged wrongly from auxiliary to symbol
+"
+
+
+"POS tagged wrongly from auxiliary to verb
+"
+original sentence,"“ While much of the digital transition is unprecedented in the United States , the peaceful transition of power is not , ” Obama special assistant Kori Schulman wrote in a blog post Monday ."
+wrong word,is 20
+mutation sentence,"“ While much of the digital transition is unprecedented in the United States , the peaceful transition of power is , ” Obama special assistant Kori Schulman wrote in a blog post Monday ."
+
+original sentence,""" In the cities where we 've launched or are under construction , our work will continue , "" Barratt said ."
+wrong word,are 10
+mutation sentence,""" In the cities where we 've launched or are , our work will continue , "" Barratt said ."
+
+
+
+"POS tagged wrongly from auxiliary to other
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adjective
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adposition
+"
+
+
+"POS tagged wrongly from coordinating conjunction to adverb
+"
+
+
+"POS tagged wrongly from coordinating conjunction to auxiliary
+"
+
+
+"POS tagged wrongly from coordinating conjunction to coordinating conjunction
+"
+
+
+"POS tagged wrongly from coordinating conjunction to determiner
+"
+
+
+"POS tagged wrongly from coordinating conjunction to interjection
+"
+
+
+"POS tagged wrongly from coordinating conjunction to noun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to numeral
+"
+
+
+"POS tagged wrongly from coordinating conjunction to particle
+"
+
+
+"POS tagged wrongly from coordinating conjunction to pronoun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to proper noun
+"
+
+
+"POS tagged wrongly from coordinating conjunction to punctuation
+"
+
+
+"POS tagged wrongly from coordinating conjunction to subordinating conjunction
+"
+
+
+"POS tagged wrongly from coordinating conjunction to symbol
+"
+
+
+"POS tagged wrongly from coordinating conjunction to verb
+"
+
+
+"POS tagged wrongly from coordinating conjunction to other
+"
+
+
+"POS tagged wrongly from determiner to adjective
+"
+
+
+"POS tagged wrongly from determiner to adposition
+"
+
+
+"POS tagged wrongly from determiner to adverb
+"
+
+
+"POS tagged wrongly from determiner to auxiliary
+"
+
+
+"POS tagged wrongly from determiner to coordinating conjunction
+"
+original sentence,"After the Compromise , Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally ."
+wrong word,both 16
+mutation sentence,"After the Compromise , Emperor and King Franz Joseph I. took great care to treat both equally ."
+
+
+
+"POS tagged wrongly from determiner to determiner
+"
+
+
+"POS tagged wrongly from determiner to interjection
+"
+
+
+"POS tagged wrongly from determiner to noun
+"
+
+
+"POS tagged wrongly from determiner to numeral
+"
+
+
+"POS tagged wrongly from determiner to particle
+"
+
+
+"POS tagged wrongly from determiner to pronoun
+"
+
+
+"POS tagged wrongly from determiner to proper noun
+"
+
+
+"POS tagged wrongly from determiner to punctuation
+"
+
+
+"POS tagged wrongly from determiner to subordinating conjunction
+"
+
+
+"POS tagged wrongly from determiner to symbol
+"
+
+
+"POS tagged wrongly from determiner to verb
+"
+
+
+"POS tagged wrongly from determiner to other
+"
+
+
+"POS tagged wrongly from interjection to adjective
+"
+
+
+"POS tagged wrongly from interjection to adposition
+"
+
+
+"POS tagged wrongly from interjection to adverb
+"
+
+
+"POS tagged wrongly from interjection to auxiliary
+"
+
+
+"POS tagged wrongly from interjection to coordinating conjunction
+"
+
+
+"POS tagged wrongly from interjection to determiner
+"
+
+
+"POS tagged wrongly from interjection to interjection
+"
+
+
+"POS tagged wrongly from interjection to noun
+"
+
+
+"POS tagged wrongly from interjection to numeral
+"
+
+
+"POS tagged wrongly from interjection to particle
+"
+
+
+"POS tagged wrongly from interjection to pronoun
+"
+
+
+"POS tagged wrongly from interjection to proper noun
+"
+
+
+"POS tagged wrongly from interjection to punctuation
+"
+
+
+"POS tagged wrongly from interjection to subordinating conjunction
+"
+
+
+"POS tagged wrongly from interjection to symbol
+"
+
+
+"POS tagged wrongly from interjection to verb
+"
+
+
+"POS tagged wrongly from interjection to other
+"
+
+
+"POS tagged wrongly from noun to adjective
+"
+original sentence,"The total for performance pay and bonus that year was $ 1.5 million , about the same level as for 2015 - 2016 ."
+wrong word,total 2
+mutation sentence,"The total pay and bonus that year was $ 1.5 million , about the same level as for 2015 - 2016 ."
+
+original sentence,"Really Really Love You was released in August and reach the top 50 ; "" Shaky Ground "" , the related single , appeared in September but Geyer was already in the US ."
+wrong word,single 22
+mutation sentence,"Really Really Love You was released in August and reach the top 50 ; "" Shaky Ground "" , the single , appeared in September but Geyer was already in the US ."
+
+original sentence,This affair can be seen as the starting point for his career as a radical revolutionary .
+wrong word,revolutionary 16
+mutation sentence,This affair can be seen as the starting point for his career as a revolutionary .
+
+
+
+"POS tagged wrongly from noun to adposition
+"
+
+
+"POS tagged wrongly from noun to adverb
+"
+original sentence,"Cultic remains discovered at the site were a row of ten large standing stones , known as massebot , oriented north - south , the tallest of which was 3 meters high , with an altar - type structure in the middle , and a large , square , stone basin ."
+wrong word,south 23
+mutation sentence,"Cultic remains discovered at the site were a row of ten large standing stones , known as massebot , north - south , the tallest of which was 3 meters high , with an altar - type structure in the middle , and a large , square , stone basin ."
+
+
+
+"POS tagged wrongly from noun to auxiliary
+"
+
+
+"POS tagged wrongly from noun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from noun to determiner
+"
+
+
+"POS tagged wrongly from noun to interjection
+"
+
+
+"POS tagged wrongly from noun to noun
+"
+
+
+"POS tagged wrongly from noun to numeral
+"
+
+
+"POS tagged wrongly from noun to particle
+"
+
+
+"POS tagged wrongly from noun to pronoun
+"
+
+
+"POS tagged wrongly from noun to proper noun
+"
+
+
+"POS tagged wrongly from noun to punctuation
+"
+
+
+"POS tagged wrongly from noun to subordinating conjunction
+"
+
+
+"POS tagged wrongly from noun to symbol
+"
+
+
+"POS tagged wrongly from noun to verb
+"
+original sentence,"The federal government proactively reports on aggregate performance pay and bonus levels for each department , but the latest web posting is for 2013 - 2014 — or two years out of date ."
+wrong word,pay 9
+mutation sentence,"The federal government reports on aggregate performance pay and bonus levels for each department , but the latest web posting is for 2013 - 2014 — or two years out of date ."
+
+original sentence,"“ I visit the degree shows at Northampton University to spot new talent , ” he says ."
+wrong word,shows 6
+mutation sentence,"“ I visit the degree shows to spot new talent , ” he says ."
+
+original sentence,"Like the majority of sites in southern Europe , the finding dates back to the early 5th century BC ."
+wrong word,dates 12
+mutation sentence,the finding dates back to the early 5th century BC .
+
+
+
+"POS tagged wrongly from noun to other
+"
+
+
+"POS tagged wrongly from numeral to adjective
+"
+
+
+"POS tagged wrongly from numeral to adposition
+"
+
+
+"POS tagged wrongly from numeral to adverb
+"
+
+
+"POS tagged wrongly from numeral to auxiliary
+"
+
+
+"POS tagged wrongly from numeral to coordinating conjunction
+"
+
+
+"POS tagged wrongly from numeral to determiner
+"
+
+
+"POS tagged wrongly from numeral to interjection
+"
+
+
+"POS tagged wrongly from numeral to noun
+"
+
+
+"POS tagged wrongly from numeral to numeral
+"
+
+
+"POS tagged wrongly from numeral to particle
+"
+
+
+"POS tagged wrongly from numeral to pronoun
+"
+original sentence,"One of their many grieving Facebook posts has a line which would have delighted Chris : “ More African than you , I have not known . ”"
+wrong word,One 1
+mutation sentence,"One has a line which would have delighted Chris : “ More African than you , I have not known . ”"
+
+original sentence,The Canadian investigator of the plane crash Larry Vance told SPIEGEL that he is convinced that one of the pilots had intended to land the machine on the ocean surface - so that it would sink .
+wrong word,one 17
+mutation sentence,The Canadian investigator of the plane crash Larry Vance told SPIEGEL that he is convinced that one had intended to land the machine on the ocean surface - so that it would sink .
+
+original sentence,One of the examples of research applied under safety measures has also produced a humanoid robot to compete with Valentino Rossi .
+wrong word,One 1
+mutation sentence,One has also produced a humanoid robot to compete with Valentino Rossi .
+
+original sentence,One of his last means of placing pressure on Hungary was the threat of imposing general and free elections .
+wrong word,One 1
+mutation sentence,One was the threat of imposing general and free elections .
+
+
+
+"POS tagged wrongly from numeral to proper noun
+"
+
+
+"POS tagged wrongly from numeral to punctuation
+"
+
+
+"POS tagged wrongly from numeral to subordinating conjunction
+"
+
+
+"POS tagged wrongly from numeral to symbol
+"
+
+
+"POS tagged wrongly from numeral to verb
+"
+
+
+"POS tagged wrongly from numeral to other
+"
+
+
+"POS tagged wrongly from particle to adjective
+"
+
+
+"POS tagged wrongly from particle to adposition
+"
+
+
+"POS tagged wrongly from particle to adverb
+"
+
+
+"POS tagged wrongly from particle to auxiliary
+"
+
+
+"POS tagged wrongly from particle to coordinating conjunction
+"
+
+
+"POS tagged wrongly from particle to determiner
+"
+
+
+"POS tagged wrongly from particle to interjection
+"
+
+
+"POS tagged wrongly from particle to noun
+"
+
+
+"POS tagged wrongly from particle to numeral
+"
+
+
+"POS tagged wrongly from particle to particle
+"
+
+
+"POS tagged wrongly from particle to pronoun
+"
+
+
+"POS tagged wrongly from particle to proper noun
+"
+
+
+"POS tagged wrongly from particle to punctuation
+"
+
+
+"POS tagged wrongly from particle to subordinating conjunction
+"
+
+
+"POS tagged wrongly from particle to symbol
+"
+
+
+"POS tagged wrongly from particle to verb
+"
+
+
+"POS tagged wrongly from particle to other
+"
+
+
+"POS tagged wrongly from pronoun to adjective
+"
+
+
+"POS tagged wrongly from pronoun to adposition
+"
+
+
+"POS tagged wrongly from pronoun to adverb
+"
+
+
+"POS tagged wrongly from pronoun to auxiliary
+"
+
+
+"POS tagged wrongly from pronoun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from pronoun to determiner
+"
+
+
+"POS tagged wrongly from pronoun to interjection
+"
+
+
+"POS tagged wrongly from pronoun to noun
+"
+
+
+"POS tagged wrongly from pronoun to numeral
+"
+
+
+"POS tagged wrongly from pronoun to particle
+"
+
+
+"POS tagged wrongly from pronoun to pronoun
+"
+
+
+"POS tagged wrongly from pronoun to proper noun
+"
+
+
+"POS tagged wrongly from pronoun to punctuation
+"
+
+
+"POS tagged wrongly from pronoun to subordinating conjunction
+"
+
+
+"POS tagged wrongly from pronoun to symbol
+"
+
+
+"POS tagged wrongly from pronoun to verb
+"
+
+
+"POS tagged wrongly from pronoun to other
+"
+
+
+"POS tagged wrongly from proper noun to adjective
+"
+
+
+"POS tagged wrongly from proper noun to adposition
+"
+
+
+"POS tagged wrongly from proper noun to adverb
+"
+original sentence,"By 2009 , total sales of The Power of Now and A New Earth in North America had been estimated at three million and five million copies respectively ."
+wrong word,Now 10
+mutation sentence,total sales of The Power of Now and A New Earth in North America had been estimated at three million and five million copies respectively .
+mutation sentence,"By 2009 , total sales of The Power of Now and A New Earth had been estimated at three million and five million copies respectively ."
+
+
+
+"POS tagged wrongly from proper noun to auxiliary
+"
+
+
+"POS tagged wrongly from proper noun to coordinating conjunction
+"
+
+
+"POS tagged wrongly from proper noun to determiner
+"
+
+
+"POS tagged wrongly from proper noun to interjection
+"
+
+
+"POS tagged wrongly from proper noun to noun
+"
+
+
+"POS tagged wrongly from proper noun to numeral
+"
+
+
+"POS tagged wrongly from proper noun to particle
+"
+
+
+"POS tagged wrongly from proper noun to pronoun
+"
+
+
+"POS tagged wrongly from proper noun to proper noun
+"
+
+
+"POS tagged wrongly from proper noun to punctuation
+"
+
+
+"POS tagged wrongly from proper noun to subordinating conjunction
+"
+
+
+"POS tagged wrongly from proper noun to symbol
+"
+
+
+"POS tagged wrongly from proper noun to verb
+"
+original sentence,"The radar system for which Alvarez is best known and which has played a major role in aviation , most particularly in the post war Berlin airlift , was Ground Controlled Approach ( GCA ) ."
+wrong word,Controlled 31
+mutation sentence,"The radar system for which Alvarez is best known and which has played a major role , most particularly in the post war Berlin airlift , was Ground Controlled Approach ( GCA ) ."
+
+
+
+"POS tagged wrongly from proper noun to other
+"
+
+
+"POS tagged wrongly from punctuation to adjective
+"
+
+
+"POS tagged wrongly from punctuation to adposition
+"
+
+
+"POS tagged wrongly from punctuation to adverb
+"
+
+
+"POS tagged wrongly from punctuation to auxiliary
+"
+
+
+"POS tagged wrongly from punctuation to coordinating conjunction
+"
+
+
+"POS tagged wrongly from punctuation to determiner
+"
+
+
+"POS tagged wrongly from punctuation to interjection
+"
+
+
+"POS tagged wrongly from punctuation to noun
+"
+
+
+"POS tagged wrongly from punctuation to numeral
+"
+
+
+"POS tagged wrongly from punctuation to particle
+"
+
+
+"POS tagged wrongly from punctuation to pronoun
+"
+
+
+"POS tagged wrongly from punctuation to proper noun
+"
+
+
+"POS tagged wrongly from punctuation to punctuation
+"
+
+
+"POS tagged wrongly from punctuation to subordinating conjunction
+"
+
+
+"POS tagged wrongly from punctuation to symbol
+"
+
+
+"POS tagged wrongly from punctuation to verb
+"
+
+
+"POS tagged wrongly from punctuation to other
+"
+
+
+"POS tagged wrongly from subordinating conjunction to adjective
+"
+
+
+"POS tagged wrongly from subordinating conjunction to adposition
+"
+original sentence,"But , as the criticism of Clinton as First Lady became more caustic , Karel became more empathetic ."
+wrong word,as 3
+mutation sentence,"But , as the criticism as First Lady became more caustic , Karel became more empathetic ."
+mutation sentence,"But , as the criticism of Clinton as Lady became more caustic , Karel became more empathetic ."
+wrong word,as 8
+mutation sentence,"But , as the criticism of Clinton as First Lady became caustic , Karel became more empathetic ."
+
+
+
+"POS tagged wrongly from subordinating conjunction to adverb
+"
+
+
+"POS tagged wrongly from subordinating conjunction to auxiliary
+"
+
+
+"POS tagged wrongly from subordinating conjunction to coordinating conjunction
+"
+
+
+"POS tagged wrongly from subordinating conjunction to determiner
+"
+original sentence,"Of course , I do understand that modern - day Germany must be separated from the Nazi regime ."
+wrong word,that 7
+mutation sentence,"Of course , I do understand that - day Germany must be separated from the Nazi regime ."
+
+original sentence,"The study interpreted these three factors as proxies for earnings forgone by rebellion , and therefore that lower forgone earnings encourage rebellion ."
+wrong word,that 17
+mutation sentence,"The study interpreted these three factors as proxies for earnings forgone by rebellion , and that lower forgone earnings encourage rebellion ."
+
+
+
+"POS tagged wrongly from subordinating conjunction to interjection
+"
+
+
+"POS tagged wrongly from subordinating conjunction to noun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to numeral
+"
+
+
+"POS tagged wrongly from subordinating conjunction to particle
+"
+
+
+"POS tagged wrongly from subordinating conjunction to pronoun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to proper noun
+"
+
+
+"POS tagged wrongly from subordinating conjunction to punctuation
+"
+
+
+"POS tagged wrongly from subordinating conjunction to subordinating conjunction
+"
+
+
+"POS tagged wrongly from subordinating conjunction to symbol
+"
+
+
+"POS tagged wrongly from subordinating conjunction to verb
+"
+
+
+"POS tagged wrongly from subordinating conjunction to other
+"
+
+
+"POS tagged wrongly from symbol to adjective
+"
+
+
+"POS tagged wrongly from symbol to adposition
+"
+
+
+"POS tagged wrongly from symbol to adverb
+"
+
+
+"POS tagged wrongly from symbol to auxiliary
+"
+
+
+"POS tagged wrongly from symbol to coordinating conjunction
+"
+
+
+"POS tagged wrongly from symbol to determiner
+"
+
+
+"POS tagged wrongly from symbol to interjection
+"
+
+
+"POS tagged wrongly from symbol to noun
+"
+
+
+"POS tagged wrongly from symbol to numeral
+"
+
+
+"POS tagged wrongly from symbol to particle
+"
+
+
+"POS tagged wrongly from symbol to pronoun
+"
+
+
+"POS tagged wrongly from symbol to proper noun
+"
+
+
+"POS tagged wrongly from symbol to punctuation
+"
+
+
+"POS tagged wrongly from symbol to subordinating conjunction
+"
+
+
+"POS tagged wrongly from symbol to symbol
+"
+
+
+"POS tagged wrongly from symbol to verb
+"
+
+
+"POS tagged wrongly from symbol to other
+"
+
+
+"POS tagged wrongly from verb to adjective
+"
+original sentence,"And with China set to become the world 's biggest aviation market in the next decade , the show is an opportunity for Beijing to demonstrate its ambitions in civil aviation as well as defence ."
+wrong word,set 4
+mutation sentence,"And set to become the world 's biggest aviation market in the next decade , the show is an opportunity for Beijing to demonstrate its ambitions in civil aviation as well as defence ."
+
+
+
+"POS tagged wrongly from verb to adposition
+"
+original sentence,"Rafferty recorded a new version of his Humblebums song "" Her Father Did n't Like Me Anyway "" on the album Over My Head ( 1994 ) ."
+wrong word,Like 15
+mutation sentence,"Rafferty recorded a new version of his Humblebums song "" Her Father Did Like Me Anyway "" on the album Over My Head ( 1994 ) ."
+
+
+
+"POS tagged wrongly from verb to adverb
+"
+
+
+"POS tagged wrongly from verb to auxiliary
+"
+original sentence,A Donald Trump victory would immediately make the world more worrying and unsettled than it already is .
+wrong word,is 17
+mutation sentence,A Donald Trump victory would immediately make the world more worrying and unsettled than it is .
+
+original sentence,You end up listening more acutely for the next noise and getting more irritated when it comes .
+wrong word,getting 12
+mutation sentence,You end up listening more acutely for the next noise and getting irritated when it comes .
+
+original sentence,"Whatever the rules were , the fights often resulted in the death of one of the stallions ."
+wrong word,were 4
+mutation sentence,"Whatever the rules were , the fights often resulted in the death ."
+
+
+
+"POS tagged wrongly from verb to coordinating conjunction
+"
+
+
+"POS tagged wrongly from verb to determiner
+"
+
+
+"POS tagged wrongly from verb to interjection
+"
+
+
+"POS tagged wrongly from verb to noun
+"
+original sentence,"According to the city 's police department , a fight broke out after "" a large group of people ... who identified themselves as district authorities "" arrived on set on Tuesday ."
+wrong word,set 30
+mutation sentence,"According to the city 's police department , a fight broke out after "" a large group ... who identified themselves as district authorities "" arrived on set on Tuesday ."
+mutation sentence,"According to the city 's police department , a fight broke out after "" a large group of people ... who identified themselves "" arrived on set on Tuesday ."
+
+original sentence,"The federal government proactively reports on aggregate performance pay and bonus levels for each department , but the latest web posting is for 2013 - 2014 — or two years out of date ."
+wrong word,reports 5
+mutation sentence,"The federal government reports on aggregate performance pay and bonus levels for each department , but the latest web posting is for 2013 - 2014 — or two years out of date ."
+
+original sentence,"The total for performance pay and bonus that year was $ 1.5 million , about the same level as for 2015 - 2016 ."
+wrong word,pay 5
+mutation sentence,"The total pay and bonus that year was $ 1.5 million , about the same level as for 2015 - 2016 ."
+
+original sentence,"No longer a throwback to the Seventies , flock – or coating a surface is material – is flying again ."
+wrong word,flock 9
+mutation sentence,"No longer a throwback to the Seventies , flock – or coating a surface is material – is flying ."
+
+original sentence,"A Swedish study has shown that animals seldom , if at all , land after the 2 month breeding period ."
+wrong word,land 14
+mutation sentence,"A Swedish study has shown that animals seldom , , land after the 2 month breeding period ."
+
+
+
+"POS tagged wrongly from verb to numeral
+"
+
+
+"POS tagged wrongly from verb to particle
+"
+
+
+"POS tagged wrongly from verb to pronoun
+"
+
+
+"POS tagged wrongly from verb to proper noun
+"
+original sentence,"After its progress had stalled in the Billboard 200 at No. 96 , Thought 'Ya Knew climbed to No. 31 in the UK , but the album charted for only two weeks in the UK ."
+wrong word,Thought 14
+mutation sentence,"After its progress had stalled in the Billboard 200 , Thought 'Ya Knew climbed to No. 31 in the UK , but the album charted for only two weeks in the UK ."
+
+
+
+"POS tagged wrongly from verb to punctuation
+"
+
+
+"POS tagged wrongly from verb to subordinating conjunction
+"
+
+
+"POS tagged wrongly from verb to symbol
+"
+
+
+"POS tagged wrongly from verb to verb
+"
+
+
+"POS tagged wrongly from verb to other
+"
+
+
+"POS tagged wrongly from other to adjective
+"
+
+
+"POS tagged wrongly from other to adposition
+"
+
+
+"POS tagged wrongly from other to adverb
+"
+
+
+"POS tagged wrongly from other to auxiliary
+"
+
+
+"POS tagged wrongly from other to coordinating conjunction
+"
+
+
+"POS tagged wrongly from other to determiner
+"
+
+
+"POS tagged wrongly from other to interjection
+"
+
+
+"POS tagged wrongly from other to noun
+"
+
+
+"POS tagged wrongly from other to numeral
+"
+
+
+"POS tagged wrongly from other to particle
+"
+
+
+"POS tagged wrongly from other to pronoun
+"
+
+
+"POS tagged wrongly from other to proper noun
+"
+
+
+"POS tagged wrongly from other to punctuation
+"
+
+
+"POS tagged wrongly from other to subordinating conjunction
+"
+
+
+"POS tagged wrongly from other to symbol
+"
+
+
+"POS tagged wrongly from other to verb
+"
+
+
+"POS tagged wrongly from other to other
+"
