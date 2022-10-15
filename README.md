@@ -36,6 +36,7 @@ postman.py -h
 
 ## Scripts info
 ```
+augmentation.py       # script for creating augmented corpus
 bert_sen_gen.py       # unmask module
 compare_utilities.py  # the POS,dependency compare functions for mutant
 config.py
@@ -49,6 +50,7 @@ PTF_Err.py            # error class
 PTF_Sen.py            # sentence class
 test_spaCy.py
 test_stanza.py
+testing_eva.py        # script for comparing testing methods
 tool_accuracy_test.py # tool accuracy testing script
 unmask_file_reader.py # iteration reader for unmask file
 ```
