@@ -5,9 +5,16 @@ from transformers import pipeline, set_seed
 from PTF_Err import PTF_Err
 from spacy.tokens import Doc
 from config import *
+import random
+import math
 
-set_seed(301)
-unmasker = pipeline('fill-mask', model='bert-large-cased', top_k = UNMASK_NUM)
+random.seed(301)
+
+def pcmp(x):
+  return x[0]
+
+
+unmasker = pipeline('fill-mask', model='xlm-roberta-base', top_k = UNMASK_NUM)
 # generator = pipeline('text-generation', model='gpt2-large')
 
 # to adapte the conllu struct to stanza-like words
@@ -18,6 +25,10 @@ class WordStanza:
     self.head = word_inf[2]
     self.deprel = word_inf[3]
     self.id = word_inf[4]
+    if len(word_inf)>5:
+      self.xpos = word_inf[5]
+    if len(word_inf)>6:
+      self.lemma = word_inf[6]
 
 
 # wish it's the final vision of the Class for sentence
@@ -40,7 +51,7 @@ class PTF_Sen():
     if type == 'stanza':
       self.words = temp.sentences[0].words
     elif type == 'conllu':
-      self.words = [WordStanza((word['form'], word['upos'], word['head'], word['deprel'], word['id'])) for word in temp if isinstance(word['id'], int)]
+      self.words = [WordStanza((word['form'], word['upos'], word['head'], word['deprel'], word['id'], word['xpos'], word['lemma'])) for word in temp if isinstance(word['id'], int)]
     elif type == 'spaCy':
       self.words = [WordStanza((word.text, word.pos_, word.head.i + 1, word.dep_, word.i + 1)) if word.head.i != word.i else WordStanza((word.text, word.pos_, 0, word.dep_, word.i + 1)) for word in temp]
 
@@ -138,11 +149,25 @@ class PTF_Sen():
     return list_unmask_info
 
 
+  # bert replace word for unmask file
+  def mutation_bert_replace_word(self):
+    list_unmask_info = []
+    for i in range(len(self.words)):
+      #add mask
+      mask_id = i + 1
+      masked_sen = ' '.join([word.text if word.id != i+1 else '[MASK]' for word in self.words])
+      #gen
+      unmasked_sens = unmasker(masked_sen)
+      for unmasked_sen in unmasked_sens:
+        list_unmask_info.append((' '.join([word.text if word.id != i+1 else unmasked_sen['token_str'] for word in self.words]), mask_id, unmasked_sen['token_str'], unmasked_sen['score']))
+    return list_unmask_info
+
+
   def unmask_mut_filter(self, unmasks):
     list_sens_id = []
     for unmask in unmasks:
       if unmask['score'] >= 0.01 and self.__is_wanted_word(unmask['word'], unmask['id']):
-        list_sens_id.append((unmask['sen'], unmask['id']))
+        list_sens_id.append((unmask['sen'], [unmask['id']]))
     return list_sens_id
         
 
@@ -159,6 +184,64 @@ class PTF_Sen():
       for unmasked_sen in unmasked_sens:
         list_sens_id.append((' '.join([word.text if word.id != i+1 else word.text + ' ' + unmasked_sen['token_str'] for word in self.words]), mask_id))
     return list_sens_id
+
+
+  # filter unwanted gen words
+  def __is_wanted_word_n(self, gen_word, mask_id, words):
+    if len(gen_word) < 4:
+      return False
+    if gen_word in self.__UNWANTED_WORDS:
+      return False
+    for punct in self.__UNWANTED_PUNCT:
+      if punct in gen_word:
+        return False
+    # no repeat
+    if mask_id-2>=0 and gen_word == words[mask_id-2]:
+      return False
+    return True
+
+
+  # bert insert n word
+  def mutation_unmask_n_word(self):
+    rflag = 0
+    if MUTATION_TIMES != -1:
+      # rflag = math.pow(math.pow(0.1/MUTATION_TIMES, MUTATION_TIMES), 1/MUTATION_TIMES)
+      rflag = 0.3
+    to_unmasked_list_sens_id = []
+    to_unmasked_list_sens_id.append(([word.text for word in self.words], []))
+    list_sens_id = []
+    for t in range(MUTATION_TIMES):
+      for sen_id in to_unmasked_list_sens_id:
+        for i in range(len(sen_id[0])-1):
+          if random.random() >= rflag:
+            continue
+          #add mask
+          mask_id = i + 2
+          masked_sen = [word for word in sen_id[0]]
+          masked_sen.insert(i+1 , '<mask>')
+          masked_sen = ' '.join(masked_sen)
+          #gen
+          unmasked_sens = unmasker(masked_sen)
+          for unmasked_sen in unmasked_sens:
+            if unmasked_sen['score'] >= 0.01 and self.__is_wanted_word_n(unmasked_sen['token_str'], mask_id, sen_id[0]):
+              temp_sen_id = ([word for word in sen_id[0]], [maskid for maskid in sen_id[1]])
+              temp_sen_id[0].insert(i+1, unmasked_sen['token_str'])
+              for j in range(len(temp_sen_id[1])):
+                if temp_sen_id[1][j] >= mask_id:
+                  temp_sen_id[1][j] += 1
+              # for maskid in temp_sen_id[1]:
+              #   if maskid >= mask_id:
+              #     maskid += 1
+              temp_sen_id[1].append(mask_id)
+              list_sens_id.append(temp_sen_id)
+      to_unmasked_list_sens_id = list_sens_id
+      list_sens_id = []
+      rflag *= 0.3
+    for sen_id in to_unmasked_list_sens_id:
+      list_sens_id.append((' '.join(sen_id[0]), sen_id[1]))
+    # print(len(list_sens_id))
+    return list_sens_id
+
 
 
   # bert insert word deprel persent
@@ -189,7 +272,7 @@ class PTF_Sen():
       if punct in gen_word:
         return False
     # no repeat
-    if gen_word == self.words[mask_id-2].text or gen_word == self.words[mask_id-1].text:
+    if mask_id-2>=0 and gen_word == self.words[mask_id-2].text:
       return False
     return True
 
@@ -326,6 +409,62 @@ class PTF_Sen():
         sen[i] = ''
       sen_del = {'sen':' '.join([word for word in sen if word != '']), 'del': del_part}
       list_sen_del.append(sen_del)
+    return list_sen_del
+
+
+  # del the redundant part n
+  def mutation_del_n_part(self):
+    list_sen_del = []
+    del_parts = []
+    #find parts can be del
+    q = Queue(maxsize=0)
+    q.put(self.tree)
+    while not q.empty():
+      t = q.get()
+      if 'children' in t:
+        for st in t['children']:
+          q.put(st)
+          if self.__is_part_can_be_del(t, st):
+            del_parts.append(self.__get_subtree_id_range(t))
+      else:
+        if self.__is_word_can_be_del(t):
+          del_parts.append(self.__get_subtree_id_range(t))
+    #clean mutation parts
+
+    del_parts.sort(key = lambda x:(x[0],x[1]))
+    len_del = len(del_parts)
+    i = 0
+    while i < len_del-1:
+      if del_parts[i][1] >= del_parts[i+1][0]:
+        del del_parts[i]
+        i -= 1
+        len_del -= 1
+      i += 1
+
+    #del mutation n part
+    if len(del_parts) < MUTATION_TIMES:
+      return []
+    else:
+      for com_del_parts in combinations(del_parts, MUTATION_TIMES):
+        # VERB-ADP
+        fflag = False
+        for del_part in com_del_parts:
+          if self.words[del_part[0]-2].upos == 'VERB' and self.words[del_part[0]-1].upos == 'ADP':
+            fflag = True
+            break
+        if fflag:
+          continue
+
+        sen = [word.text for word in self.words]
+        for del_part in com_del_parts:
+          for j in range(del_part[0]-1, del_part[1]):
+            sen[j] = ''
+        if sen[0] == ',':
+          del(sen[0])
+
+        sen_del = {'sen':' '.join([word for word in sen if word != '']), 'del': com_del_parts}
+        list_sen_del.append(sen_del)
+    # print(list_sen_del)
     return list_sen_del
 
 

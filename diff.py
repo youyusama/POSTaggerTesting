@@ -40,11 +40,11 @@ class WhitespaceTokenizer:
 
 if __name__ == '__main__':
   #load corpus
-  corpus = io.open('mutant_corpus/mutant_corpus.conllu', "r", encoding="utf-8")
+  corpus = io.open('/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu', "r", encoding="utf-8")
   #load nlp tools
-  nlp_stanza = stanza.Pipeline('en', STANZA_MODEL_PATH, processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True, pos_model_path='nlp-models/stanzamodel/stanza_model/en/pos/en_ewt_all_mut_tagger.pt')
-  # nlp_spaCy = spacy.load(SPACY_MODEL_NAME, exclude=['lemmatizer', 'ner'])
-  # nlp_spaCy.tokenizer = WhitespaceTokenizer(nlp_spaCy.vocab)
+  nlp_stanza = stanza.Pipeline('en', STANZA_MODEL_PATH, processors='tokenize,mwt,pos,lemma,depparse', tokenize_pretokenized=True)
+  nlp_spaCy = spacy.load(SPACY_MODEL_NAME, exclude=['lemmatizer', 'ner'])
+  nlp_spaCy.tokenizer = WhitespaceTokenizer(nlp_spaCy.vocab)
 
   sen_num = 0
   mut_sen_num = 0
@@ -53,6 +53,9 @@ if __name__ == '__main__':
   spaCy_token = 0
   stanza_sen_num = 0
   spaCy_sen_num = 0
+  diff_sen_num = 0
+  diff_token_num = 0
+  both_wrong_num = 0
 
   for sen in conllu.parse_incr(corpus):
     
@@ -60,22 +63,24 @@ if __name__ == '__main__':
     if len(sen_conllu.words)<=5:
       continue
 
-    sen_num += 1
     sen_stanza = PTF_Sen(nlp_stanza(sen_conllu.to_doc()), type='stanza', build_tree=False)
-    # sen_spaCy = PTF_Sen(nlp_spaCy(sen_conllu.to_doc()), type='spaCy', build_tree=False)
-
-    if simple_compare_pos(sen_conllu, sen_stanza):
-      stanza_sen_num += 1
-    # if simple_compare_pos(sen_conllu, sen_spaCy):
-    #   spaCy_token += len(sen_conllu.words)
-    #   spaCy_sen_num += 1
-    
+    sen_spaCy = PTF_Sen(nlp_spaCy(sen_conllu.to_doc()), type='spaCy', build_tree=False)
 
     sen_length = len(sen_conllu.words)
     token_num += sen_length
     for i in range(sen_length):
-      if sen_conllu.words[i].upos == sen_stanza.words[i].upos:
-        stanza_token += 1
+      if sen_stanza.words[i].upos != sen_spaCy.words[i].upos:
+        diff_token_num += 1
+        if sen_stanza.words[i].upos != sen_conllu.words[i].upos and sen_spaCy.words[i].upos != sen_conllu.words[i].upos:
+          both_wrong_num += 1
+      elif sen_stanza.words[i].upos != sen_conllu.words[i].upos:
+          both_wrong_num += 1
+    
+
+    # sen_length = len(sen_conllu.words)
+    # for i in range(sen_length):
+    #   if sen_conllu.words[i].upos != sen_spaCy.words[i].upos:
+    #     error_map_sen[sen_conllu.words[i].upos][sen_spaCy.words[i].upos] += 1
 
 
   # #sen map
@@ -126,6 +131,9 @@ if __name__ == '__main__':
   print(spaCy_token)
   print(stanza_sen_num)
   print(spaCy_sen_num)
+  print(diff_sen_num)
+  print(diff_token_num)
+  print(both_wrong_num)
 
   # 490576
   # 13942003

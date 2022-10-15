@@ -5,3 +5,8 @@
 /gen_data/
 resultsx/
 statistics/
+acl_results/
+results/
+testing_methods_eva/
+*.conllu
+*.sh

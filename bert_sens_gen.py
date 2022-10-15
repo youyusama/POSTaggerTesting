@@ -7,7 +7,7 @@ from config import *
 from progress.counter import Counter
 
 def bert_gen_or_read(corpus):
-  gen_filename = 'gen_data/bert-' + corpus.split('/')[-1].split('.')[0] + str(UNMASK_NUM) +'.txt'
+  gen_filename = 'gen_data/bert-' + str(MUTATION_WAY) + '-' + corpus.split('/')[-1].split('.')[0] + str(UNMASK_NUM) +'.txt'
   if os.path.exists(gen_filename):
     return gen_filename
   else:
@@ -18,7 +18,10 @@ def bert_gen_or_read(corpus):
     for sen in conllu.parse_incr(corpus):
       unmask_counter.next()
       sen_conllu = PTF_Sen(sen, type='conllu', build_tree=False)
-      list_info = sen_conllu.mutation_bert_insert_word_just_gen()
+      if MUTATION_WAY == 'ADD':
+        list_info = sen_conllu.mutation_bert_insert_word_just_gen()
+      elif MUTATION_WAY == 'REP':
+        list_info = sen_conllu.mutation_bert_replace_word()
       for sen_info in list_info:
         for info in sen_info:
           outputfile.write(str(info) + '\n')
@@ -27,4 +30,4 @@ def bert_gen_or_read(corpus):
   
 
 if __name__ == '__main__':
-  bert_gen_or_read('/mnt/hd0/POStaggingFuzzing/corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu')
+  bert_gen_or_read('corpus/ud-treebanks-v2.7/UD_English-GUM/en_gum-ud-train.conllu')

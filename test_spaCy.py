@@ -23,7 +23,7 @@ class WhitespaceTokenizer:
 
 nlp = spacy.load('en_core_web_trf', exclude=['lemmatizer', 'ner'], )
 
-sen = 'Hold the entire chicken down on a flat surface .'
+sen = 'I just do n’t know … A spider ? ”'
 nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
 doc = nlp(sen)
 

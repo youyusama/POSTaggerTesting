@@ -13,7 +13,7 @@ def map_to_csv(csv_filename, error_map, info_row):
     '#original sentences of mutants can be tagged correctly', '#tokens in mutants', '#tokens are tagged incorrectly in mutants', 
     '#mutants are tagged incorrectly', '# (corpus tag)same as(nlp tag on orignial sentence)differen with(nlp tag on mutant)', 
     '# (corpus tag)(nlp tag on orignial sentence)(nlp tag on mutant) all different', '#(corpus tag)same as(nlp tag on mutant)different with(nlp tag on orignial sentence)', 
-    '# (corpus tag)differen with(nlp tag on orignial sentence)same as(nlp tag on mutant)'])
+    '# (corpus tag)differen with(nlp tag on orignial sentence)same as(nlp tag on mutant)', 'mutation token num 100', 'mutation token wrong num 100', '100 mutation num'])
     csv_writer.writerow(info_row)
 
     # csv by class

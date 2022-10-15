@@ -27,9 +27,23 @@ def reader_skip_sen(reader, sen):# sen is PTF_sen for there are (do don't n't) 3
   return
 
 
+def reader_skip_sen_replace(reader, sen):# sen is PTF_sen for there are (do don't n't) 3 len in conllu but its 2 len
+  for i in range(len(sen.words)):
+    for j in range(UNMASK_NUM):
+      next(reader)
+  return
+
+
 def reader_mut(reader, sen):
   unmasks = []
   for i in range(len(sen.words)-1):
+    for j in range(UNMASK_NUM):
+      unmasks.append(next(reader))
+  return unmasks
+
+def reader_mut_replace(reader, sen):
+  unmasks = []
+  for i in range(len(sen.words)):
     for j in range(UNMASK_NUM):
       unmasks.append(next(reader))
   return unmasks
